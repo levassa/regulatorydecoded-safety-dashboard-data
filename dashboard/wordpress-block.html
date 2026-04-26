@@ -1,0 +1,338 @@
+<!--
+  Product Safety Dashboard — WordPress Custom HTML Block
+  regulatorydecoded.com
+
+  Paste this entire block into a WordPress "Custom HTML" block on your page.
+  No plugins required. Chart.js and the dashboard JS are loaded from CDN.
+
+  GitHub repo: levassa/regulatorydecoded-safety-dashboard-data
+-->
+
+<style>
+/* ============================================================
+   Safety Dashboard — Self-contained CSS
+   ============================================================ */
+
+#safety-dashboard {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  font-size: 15px;
+  color: #1a1a2e;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 8px;
+}
+
+/* --- Loading / error --- */
+#sd-loading {
+  text-align: center;
+  padding: 40px;
+  color: #555;
+  font-size: 1.1em;
+}
+#sd-error {
+  display: none;
+  background: #fff0f0;
+  border: 1px solid #e63946;
+  color: #b00020;
+  padding: 14px 18px;
+  border-radius: 6px;
+  margin-bottom: 20px;
+}
+
+/* --- Section titles --- */
+.sd-section-title {
+  font-size: 0.8em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #888;
+  margin: 28px 0 12px;
+  padding-bottom: 6px;
+  border-bottom: 2px solid #eee;
+}
+
+/* --- KPI row --- */
+#sd-kpi-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 12px;
+  margin-bottom: 28px;
+}
+.sd-kpi-card {
+  background: #fff;
+  border-radius: 8px;
+  padding: 16px 14px 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+  text-align: center;
+}
+.sd-kpi-value {
+  font-size: 1.9em;
+  font-weight: 700;
+  line-height: 1.1;
+  margin-bottom: 4px;
+}
+.sd-kpi-label {
+  font-size: 0.75em;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #777;
+}
+
+/* --- Generic chart box --- */
+.sd-chart-box {
+  background: #fff;
+  border-radius: 8px;
+  padding: 18px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+}
+.sd-chart-title {
+  font-size: 0.85em;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #555;
+  margin: 0 0 14px;
+}
+.sd-chart-box canvas {
+  max-height: 300px;
+}
+.sd-chart-box--tall canvas {
+  max-height: 380px;
+}
+
+/* --- Chart grid layouts --- */
+.sd-row-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+.sd-row-3 {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+.sd-row-full {
+  margin-bottom: 16px;
+}
+
+@media (max-width: 900px) {
+  .sd-row-3 { grid-template-columns: 1fr 1fr; }
+}
+@media (max-width: 600px) {
+  .sd-row-2,
+  .sd-row-3 { grid-template-columns: 1fr; }
+}
+
+/* --- Filter chips --- */
+.sd-filters { margin-bottom: 20px; }
+.sd-filters-label {
+  font-size: 0.75em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #999;
+  margin-bottom: 6px;
+}
+#sd-region-filters,
+#sd-category-filters,
+#sd-severity-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 10px;
+}
+.sd-chip {
+  border: 1px solid #ccc;
+  background: #f7f7f7;
+  color: #333;
+  border-radius: 20px;
+  padding: 4px 13px;
+  font-size: 0.8em;
+  cursor: pointer;
+  transition: background 0.15s, border-color 0.15s, color 0.15s;
+}
+.sd-chip:hover {
+  border-color: #003399;
+  color: #003399;
+}
+.sd-chip--active {
+  background: var(--chip-active, #003399);
+  border-color: var(--chip-active, #003399);
+  color: #fff;
+}
+
+/* --- Table --- */
+.sd-table-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+#sd-table-count {
+  font-size: 0.82em;
+  color: #777;
+}
+#sd-export-btn {
+  background: #003399;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 7px 16px;
+  font-size: 0.82em;
+  cursor: pointer;
+  font-weight: 600;
+  transition: background 0.15s;
+}
+#sd-export-btn:hover { background: #002277; }
+
+.sd-table-wrap {
+  overflow-x: auto;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+}
+#sd-alerts-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.84em;
+}
+#sd-alerts-table thead { background: #f0f4ff; }
+#sd-alerts-table th {
+  text-align: left;
+  padding: 10px 12px;
+  font-size: 0.75em;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #555;
+  white-space: nowrap;
+  user-select: none;
+}
+#sd-alerts-table th[data-sort] { cursor: pointer; }
+#sd-alerts-table th[data-sort]:after { content: " ↕"; opacity: 0.4; }
+#sd-alerts-table td {
+  padding: 8px 12px;
+  border-top: 1px solid #eee;
+  vertical-align: top;
+  max-width: 220px;
+}
+#sd-alerts-table tbody tr:hover { background: #f8faff; }
+
+.sd-badge {
+  display: inline-block;
+  color: #fff;
+  border-radius: 4px;
+  padding: 2px 7px;
+  font-size: 0.76em;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+/* --- Footer --- */
+.sd-footer-note {
+  margin-top: 18px;
+  font-size: 0.74em;
+  color: #aaa;
+  text-align: center;
+}
+</style>
+
+<!-- ============================================================
+     Dashboard root
+     ============================================================ -->
+<div id="safety-dashboard">
+
+  <div id="sd-error"></div>
+  <div id="sd-loading">Loading safety data…</div>
+
+  <!-- KPI cards -->
+  <div id="sd-kpi-row"></div>
+
+  <!-- Row 1: Monthly alerts by source (full width) -->
+  <div class="sd-row-full">
+    <div class="sd-chart-box sd-chart-box--tall">
+      <p class="sd-chart-title">Monthly Alerts by Source</p>
+      <canvas id="sd-trend-chart"></canvas>
+    </div>
+  </div>
+
+  <!-- Row 2: Severity over time + Hazard type breakdown -->
+  <div class="sd-row-2">
+    <div class="sd-chart-box sd-chart-box--tall">
+      <p class="sd-chart-title">Severity Trend Over Time</p>
+      <canvas id="sd-severity-trend-chart"></canvas>
+    </div>
+    <div class="sd-chart-box sd-chart-box--tall">
+      <p class="sd-chart-title">Root Cause — Hazard Type</p>
+      <canvas id="sd-hazard-chart"></canvas>
+    </div>
+  </div>
+
+  <!-- Row 3: Category + Injury type + Severity breakdown -->
+  <div class="sd-row-3">
+    <div class="sd-chart-box sd-chart-box--tall">
+      <p class="sd-chart-title">Top Product Categories</p>
+      <canvas id="sd-category-chart"></canvas>
+    </div>
+    <div class="sd-chart-box">
+      <p class="sd-chart-title">Injury Type</p>
+      <canvas id="sd-injury-chart"></canvas>
+    </div>
+    <div class="sd-chart-box">
+      <p class="sd-chart-title">Severity Breakdown</p>
+      <canvas id="sd-severity-chart"></canvas>
+    </div>
+  </div>
+
+  <!-- Filters -->
+  <p class="sd-section-title">Filter Alerts</p>
+  <div class="sd-filters">
+    <div class="sd-filters-label">Region</div>
+    <div id="sd-region-filters"></div>
+    <div class="sd-filters-label">Product Category</div>
+    <div id="sd-category-filters"></div>
+    <div class="sd-filters-label">Severity</div>
+    <div id="sd-severity-filters"></div>
+  </div>
+
+  <!-- Alerts table -->
+  <div class="sd-table-header">
+    <span id="sd-table-count"></span>
+    <button id="sd-export-btn">⬇ Export CSV</button>
+  </div>
+
+  <div class="sd-table-wrap">
+    <table id="sd-alerts-table">
+      <thead>
+        <tr>
+          <th data-sort="date">Date</th>
+          <th data-sort="source">Source</th>
+          <th data-sort="product_desc">Product</th>
+          <th data-sort="product_category">Category</th>
+          <th data-sort="hazard_type">Root Cause</th>
+          <th data-sort="injury_type">Injury Type</th>
+          <th data-sort="severity">Severity</th>
+          <th data-sort="notifying_country">Country</th>
+        </tr>
+      </thead>
+      <tbody id="sd-table-body"></tbody>
+    </table>
+  </div>
+
+  <p class="sd-footer-note">
+    Data sourced from EU Safety Gate, CPSC (USA), Health Canada, RappelConso (France),
+    FDA openFDA, NHTSA, OPSS (UK) and ACCC (Australia) open government databases.
+    Updated automatically every day. &nbsp;·&nbsp;
+    <a href="https://regulatorydecoded.com" target="_blank">regulatorydecoded.com</a>
+  </p>
+
+</div>
+
+<!-- Chart.js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+
+<!-- Dashboard logic (served from your GitHub repo via jsDelivr CDN) -->
+<script src="https://cdn.jsdelivr.net/gh/levassa/regulatorydecoded-safety-dashboard-data@main/dashboard/dashboard.js"></script>
