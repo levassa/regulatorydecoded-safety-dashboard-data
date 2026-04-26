@@ -1,7 +1,7 @@
 """
 Product Safety Dashboard — Data Collection & Normalisation Pipeline
 
-Fetches product recall / safety-alert data from eight public sources,
+Fetches product recall / safety-alert data from seven public sources,
 normalises everything into a shared schema, and writes pre-aggregated
 JSON files + a SQLite database to /data/ and /db/.
 
@@ -50,20 +50,21 @@ Shared schema
   reference          source-specific alert identifier
 """
 
-import csv
 import hashlib
 import io
 import json
 import logging
 import os
+import re
 import sqlite3
 import sys
-import zipfile
 import xml.etree.ElementTree as ET
 from datetime import datetime, date
+from urllib.parse import urljoin
 
 import pandas as pd
 import requests
+from bs4 import BeautifulSoup
 
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -148,7 +149,7 @@ SOURCE_CONFIG = {
         type        = "ods",
         base_url    = "https://data.economie.gouv.fr/api/explore/v2.1/catalog/datasets",
         dataset     = "rappelconso-v2-gtin-espaces",     # ← V2 slug (V1: rappelconso0)
-        order_by    = "date_de_publication desc",
+        order_by    = "",                                    # V2 field name unknown — use default sort
         page_size   = 100,
         max_records = 3000,
         region      = "France",
@@ -179,18 +180,7 @@ SOURCE_CONFIG = {
         region      = "USA",
     ),
 
-    # ── 6. NHTSA Vehicle Recalls (flat-file ZIP) ──────────────────────────────
-    # Pipe-delimited flat file. NHTSA occasionally renames the ZIP.
-    # Current file: FLAT_RCL_POST_2010.zip (was FLAT_RCL.zip — 404 after rename)
-    "NHTSA": dict(
-        type        = "custom",
-        url         = "https://static.nhtsa.gov/odi/ffdd/rcl/FLAT_RCL_POST_2010.zip",
-        filename    = "FLAT_RCL.txt",    # file inside the ZIP
-        min_year    = 2020,
-        region      = "USA",
-    ),
-
-    # ── 7. OPSS UK (GOV.UK search API) ───────────────────────────────────────
+    # ── 6. OPSS UK (GOV.UK search API) ───────────────────────────────────────
     # Uses the GOV.UK general search API filtered to product safety alerts.
     # Hard-capped at 1000 records (GOV.UK limit).
     "OPSS": dict(
@@ -208,6 +198,29 @@ SOURCE_CONFIG = {
         type   = "custom",
         url    = "https://www.productsafety.gov.au/rss/recalls.xml",  # ← .xml required
         region = "Australia",
+    ),
+
+    # ── 9. Product Safety New Zealand (HTML scraper) ─────────────────────────
+    # No public API or RSS feed. Site is a paginated HTML listing (~1,500 records).
+    # Scraper uses BeautifulSoup with multiple CSS-selector fallbacks because the
+    # Silverstripe-based CMS markup can vary between page templates.
+    #
+    # Pagination: the site uses ?start=<offset> query param (offset-based).
+    # page_size must match what the server returns per page (default appears to be 10).
+    # If the site changes its pagination scheme, update start_param / page_size here.
+    #
+    # detail_fetch: set True to follow each recall's URL and extract the full
+    # hazard/description text. Adds ~N HTTP calls (one per record) — keep False
+    # for routine runs to stay within GitHub Actions time limits.
+    "NZ Product Safety": dict(
+        type        = "custom",
+        base_url    = "https://www.productsafety.govt.nz",
+        recalls_path= "/recalls",
+        start_param = "start",        # query-string param name for offset pagination
+        page_size   = 10,             # records per page served by the site
+        max_records = 2000,           # hard cap — well above the ~1,500 in the DB
+        detail_fetch= False,          # set True to fetch each recall's detail page
+        region      = "New Zealand",
     ),
 }
 
@@ -696,11 +709,9 @@ def fetch_ods_paginated(cfg: dict) -> pd.DataFrame:
     records = []
     offset  = 0
     while offset < cfg["max_records"]:
-        params = {
-            "limit":    cfg["page_size"],
-            "offset":   offset,
-            "order_by": cfg["order_by"],
-        }
+        params = {"limit": cfg["page_size"], "offset": offset}
+        if cfg.get("order_by"):
+            params["order_by"] = cfg["order_by"]
         try:
             payload = get_json(url, params)
         except Exception as exc:
@@ -982,7 +993,9 @@ def normalise_rappelconso(df: pd.DataFrame) -> pd.DataFrame:
 
 def _fetch_fda_endpoint(url: str, label: str) -> list:
     cfg    = SOURCE_CONFIG["FDA"]
-    search = f"report_date:[{cfg['date_start']}+TO+{cfg['date_end']}]"
+    # Use spaces around TO — requests encodes spaces as +, which is correct for openFDA.
+    # Using literal + signs causes double-encoding (%2B) which triggers 500 errors.
+    search = f"report_date:[{cfg['date_start']} TO {cfg['date_end']}]"
     records, skip = [], 0
     while skip < cfg["max_records"]:
         try:
@@ -1046,94 +1059,7 @@ def normalise_fda(df: pd.DataFrame) -> pd.DataFrame:
     return out
 
 
-# ── 6. NHTSA (flat-file ZIP) ─────────────────────────────────────────────────
-
-def fetch_nhtsa() -> pd.DataFrame:
-    """
-    Downloads and parses NHTSA's pipe-delimited recall flat file.
-    Key columns: CAMPNO, MAKETXT, MODELTXT, YEARTXT, DESC_DEFECT,
-                 CONEQUENCE_DEFECT, CORRECTIVE_ACTION, BGMAN (begin date)
-    """
-    cfg = SOURCE_CONFIG["NHTSA"]
-    log.info("Downloading NHTSA recall flat file...")
-    try:
-        response = requests.get(cfg["url"], headers=_HEADERS, timeout=120, stream=True)
-        response.raise_for_status()
-        zip_bytes = io.BytesIO(response.content)
-    except Exception as exc:
-        log.warning("NHTSA ZIP download failed: %s", exc)
-        return pd.DataFrame()
-
-    try:
-        with zipfile.ZipFile(zip_bytes) as zf:
-            names  = zf.namelist()
-            target = cfg["filename"] if cfg["filename"] in names else names[0]
-            with zf.open(target) as fh:
-                content = fh.read().decode("latin-1", errors="replace")
-    except Exception as exc:
-        log.warning("NHTSA ZIP extraction failed: %s", exc)
-        return pd.DataFrame()
-
-    reader  = csv.DictReader(io.StringIO(content), delimiter="|")
-    records = []
-    min_yr  = str(cfg["min_year"])
-    for row in reader:
-        campno = row.get("CAMPNO", "")
-        bgman  = row.get("BGMAN", "").strip()
-        if bgman and len(bgman) == 8 and bgman.isdigit():
-            if bgman[:4] < min_yr:
-                continue
-        else:
-            try:
-                if int("20" + campno[:2]) < cfg["min_year"]:
-                    continue
-            except (ValueError, IndexError):
-                pass
-        records.append(dict(row))
-
-    log.info("NHTSA: %d records after year >= %d filter.", len(records), cfg["min_year"])
-    return pd.DataFrame(records)
-
-
-def normalise_nhtsa(df: pd.DataFrame) -> pd.DataFrame:
-    if df.empty:
-        return pd.DataFrame()
-    rows = []
-    for _, r in df.iterrows():
-        ref         = str(r.get("CAMPNO", "")).strip()
-        make        = str(r.get("MAKETXT", "")).strip().title()
-        model       = str(r.get("MODELTXT", "")).strip().title()
-        year        = str(r.get("YEARTXT", "")).strip()
-        defect      = str(r.get("DESC_DEFECT", "")).strip()
-        consequence = str(r.get("CONEQUENCE_DEFECT", "")).strip()
-        full_text   = f"{defect} {consequence}"
-
-        rows.append({
-            "id":                make_id("NHTSA", ref),
-            "source":            "NHTSA",
-            "date":              safe_date(str(r.get("BGMAN", "")).strip()),
-            "region":            SOURCE_CONFIG["NHTSA"]["region"],
-            "notifying_country": "United States",
-            "country_of_origin": str(r.get("MFGNAME", "")).strip(),
-            "product_category":  "Motor Vehicles",
-            "product_desc":      f"{year} {make} {model}".strip(),
-            "risk_type":         normalise_risk(full_text),
-            "hazard_type":       normalise_hazard_type(defect),
-            "injury_type":       normalise_injury_type(consequence),
-            "injury_description": consequence[:500],
-            "severity":          extract_severity(full_text),
-            "injury_flag":       any(kw in full_text.lower()
-                                     for kw in ["injur", "death", "fatal", "crash"]),
-            "injury_count":      0,
-            "corrective_action": str(r.get("CORRECTIVE_ACTION", "")).strip(),
-            "reference":         ref,
-        })
-    out = pd.DataFrame(rows)
-    log.info("NHTSA: %d normalised.", len(out))
-    return out
-
-
-# ── 7. OPSS UK ───────────────────────────────────────────────────────────────
+# ── 6. OPSS UK ───────────────────────────────────────────────────────────────
 
 def fetch_opss() -> pd.DataFrame:
     cfg = SOURCE_CONFIG["OPSS"]
@@ -1555,6 +1481,229 @@ def write_sql_dump(df: pd.DataFrame) -> None:
     log.info("Written: %s (%d records)", path, len(out))
 
 
+# ── 9. NZ Product Safety ─────────────────────────────────────────────────────
+# Scrapes the paginated HTML listing at productsafety.govt.nz/recalls.
+# The site has no API or RSS. HTML structure as of 2025:
+#
+#   <ul class="recall-listing"> (or similar container)
+#     <li class="recall-item">
+#       <a href="/recalls/some-slug">Product Name</a>
+#       <span class="date">12 Jan 2025</span>
+#       <span class="category">Electrical</span>
+#       <p class="description">Hazard / risk text …</p>
+#     </li>
+#   </ul>
+#
+# The selectors below cascade through multiple fallback patterns so the
+# scraper degrades gracefully if Silverstripe templates change.
+# Run with detail_fetch=True in SOURCE_CONFIG to pull full hazard text from
+# each individual recall page (slow but richer data).
+
+def _nz_get_html(url: str, params: dict = None) -> BeautifulSoup:
+    """Fetch a page from productsafety.govt.nz and return a BeautifulSoup tree."""
+    r = requests.get(url, params=params, headers=_HEADERS, timeout=REQUEST_TIMEOUT)
+    r.raise_for_status()
+    return BeautifulSoup(r.text, "html.parser")
+
+
+def _nz_extract_recall_cards(soup: BeautifulSoup) -> list:
+    """
+    Return a list of raw dicts from one page of the recalls listing.
+    Tries several CSS selector patterns for resilience against CMS template changes.
+    """
+    cards = []
+
+    # ── Strategy A: explicit recall-item list elements ───────────────────────
+    items = (
+        soup.select("li.recall-item")
+        or soup.select("li.recall")
+        or soup.select("article.recall")
+        or soup.select(".recall-listing li")
+        or soup.select(".recalls-list li")
+        or soup.select(".listing-item")
+    )
+
+    if items:
+        for item in items:
+            link_tag = item.find("a", href=True)
+            href     = link_tag["href"] if link_tag else ""
+            title    = link_tag.get_text(strip=True) if link_tag else ""
+
+            date_tag = (
+                item.find(class_=re.compile(r"date|published|recalled", re.I))
+                or item.find("time")
+            )
+            date_str = date_tag.get_text(strip=True) if date_tag else ""
+            if not date_str and date_tag:
+                date_str = date_tag.get("datetime", "")
+
+            cat_tag  = item.find(class_=re.compile(r"categ|type|product.?type", re.I))
+            category = cat_tag.get_text(strip=True) if cat_tag else ""
+
+            desc_tag = item.find("p") or item.find(class_=re.compile(r"desc|summary|hazard|risk", re.I))
+            desc     = desc_tag.get_text(strip=True) if desc_tag else ""
+
+            if title or href:
+                cards.append({"title": title, "href": href, "date": date_str,
+                               "category": category, "description": desc})
+        return cards
+
+    # ── Strategy B: generic <a> links with date siblings ────────────────────
+    # Fallback when the page renders as a flat link list (some Silverstripe themes).
+    main = (
+        soup.find(id=re.compile(r"main|content|recalls", re.I))
+        or soup.find(class_=re.compile(r"main|content|recalls", re.I))
+        or soup.body
+    )
+    if main:
+        for a in main.find_all("a", href=re.compile(r"/recalls/", re.I)):
+            title    = a.get_text(strip=True)
+            href     = a["href"]
+            parent   = a.parent
+            date_str = ""
+            time_tag = parent.find("time") if parent else None
+            if time_tag:
+                date_str = time_tag.get("datetime", time_tag.get_text(strip=True))
+            if title:
+                cards.append({"title": title, "href": href, "date": date_str,
+                               "category": "", "description": ""})
+    return cards
+
+
+def _nz_fetch_detail(base_url: str, href: str) -> dict:
+    """
+    Fetch an individual recall detail page and extract hazard/description text.
+    Returns a dict with keys: description, category, date.
+    Falls back to empty strings on any error.
+    """
+    try:
+        url  = urljoin(base_url, href)
+        soup = _nz_get_html(url)
+        # Description / hazard text — look for the main body region
+        body = (
+            soup.find(class_=re.compile(r"field-body|entry-content|recall-detail|content-body", re.I))
+            or soup.find(id=re.compile(r"content|main", re.I))
+        )
+        desc = body.get_text(separator=" ", strip=True)[:1000] if body else ""
+
+        # Category from breadcrumb or metadata
+        cat_tag = (
+            soup.find(class_=re.compile(r"categ|product.?type|breadcrumb", re.I))
+            or soup.find("meta", {"name": re.compile(r"categ", re.I)})
+        )
+        category = cat_tag.get_text(strip=True) if cat_tag and hasattr(cat_tag, "get_text") else ""
+
+        # Date from <time> or meta
+        time_tag = soup.find("time")
+        date_str = time_tag.get("datetime", time_tag.get_text(strip=True)) if time_tag else ""
+
+        return {"description": desc, "category": category, "date": date_str}
+    except Exception as exc:
+        log.debug("NZ detail fetch failed for %s: %s", href, exc)
+        return {"description": "", "category": "", "date": ""}
+
+
+def fetch_nz_recalls() -> pd.DataFrame:
+    """
+    Paginate through productsafety.govt.nz/recalls and collect raw recall records.
+    Each page is fetched with ?start=<offset>. Stops when no new cards are found
+    or when max_records is reached.
+    """
+    cfg      = SOURCE_CONFIG["NZ Product Safety"]
+    base_url = cfg["base_url"]
+    url      = base_url + cfg["recalls_path"]
+    records  = []
+    offset   = 0
+    seen_hrefs = set()
+
+    log.info("Fetching NZ Product Safety recall data (HTML scraper)...")
+
+    while offset < cfg["max_records"]:
+        params = {cfg["start_param"]: offset} if offset > 0 else {}
+        try:
+            soup  = _nz_get_html(url, params)
+            cards = _nz_extract_recall_cards(soup)
+        except Exception as exc:
+            log.warning("NZ Product Safety error at offset %d: %s", offset, exc)
+            break
+
+        if not cards:
+            log.info("NZ Product Safety: no cards at offset %d — pagination complete.", offset)
+            break
+
+        new = 0
+        for card in cards:
+            href = card.get("href", "")
+            if href and href in seen_hrefs:
+                continue
+            if href:
+                seen_hrefs.add(href)
+
+            # Optional: enrich with full detail page
+            if cfg["detail_fetch"] and href:
+                detail = _nz_fetch_detail(base_url, href)
+                card["description"] = card.get("description") or detail["description"]
+                card["category"]    = card.get("category")    or detail["category"]
+                card["date"]        = card.get("date")         or detail["date"]
+
+            records.append(card)
+            new += 1
+
+        log.info("  NZ Product Safety: offset=%d, %d new cards (total: %d)", offset, new, len(records))
+
+        if new == 0:
+            break   # Duplicate page — site has returned everything
+
+        offset += cfg["page_size"]
+
+    log.info("NZ Product Safety: %d raw records.", len(records))
+    return pd.DataFrame(records)
+
+
+def normalise_nz_recalls(df: pd.DataFrame) -> pd.DataFrame:
+    if df.empty:
+        return pd.DataFrame()
+
+    cfg  = SOURCE_CONFIG["NZ Product Safety"]
+    rows = []
+
+    for _, r in df.iterrows():
+        href  = str(r.get("href", "")).strip()
+        # Slug from URL path — e.g. /recalls/1234-product-name → "1234-product-name"
+        ref   = href.rstrip("/").split("/")[-1] if href else str(r.get("title", ""))[:80]
+        if not ref:
+            ref = str(r.get("title", ""))[:80]
+
+        title    = str(r.get("title", "")).strip()
+        category = str(r.get("category", "")).strip()
+        desc     = str(r.get("description", "")).strip()
+        full_text = f"{title} {category} {desc}"
+
+        rows.append({
+            "id":                make_id("NZ Product Safety", ref),
+            "source":            "NZ Product Safety",
+            "date":              safe_date(r.get("date", "")),
+            "region":            cfg["region"],
+            "notifying_country": "New Zealand",
+            "country_of_origin": "",
+            "product_category":  normalise_category(category or title),
+            "product_desc":      title,
+            "risk_type":         normalise_risk(desc),
+            "hazard_type":       normalise_hazard_type(full_text),
+            "injury_type":       normalise_injury_type(full_text),
+            "injury_description": desc[:500],
+            "severity":          extract_severity(full_text),
+            "injury_flag":       False,
+            "injury_count":      0,
+            "corrective_action": "",
+            "reference":         ref,
+        })
+
+    out = pd.DataFrame(rows)
+    log.info("NZ Product Safety: %d normalised.", len(out))
+    return out
+
+
 # ══════════════════════════════════════════════════════════════════════════════
 # SECTION 10 — SOURCE REGISTRY + MAIN
 # ══════════════════════════════════════════════════════════════════════════════
@@ -1562,14 +1711,14 @@ def write_sql_dump(df: pd.DataFrame) -> None:
 # add an entry to SOURCE_CONFIG, then append a tuple here.
 
 SOURCES = [
-    ("EU Safety Gate", fetch_safety_gate,   normalise_safety_gate),
-    ("CPSC",           fetch_cpsc,           normalise_cpsc),
-    ("Health Canada",  fetch_health_canada,  normalise_health_canada),
-    ("RappelConso",    fetch_rappelconso,    normalise_rappelconso),
-    ("FDA",            fetch_fda,            normalise_fda),
-    ("NHTSA",          fetch_nhtsa,          normalise_nhtsa),
-    ("OPSS",           fetch_opss,           normalise_opss),
-    ("ACCC",           fetch_accc,           normalise_accc),
+    ("EU Safety Gate",     fetch_safety_gate,   normalise_safety_gate),
+    ("CPSC",               fetch_cpsc,           normalise_cpsc),
+    ("Health Canada",      fetch_health_canada,  normalise_health_canada),
+    ("RappelConso",        fetch_rappelconso,    normalise_rappelconso),
+    ("FDA",                fetch_fda,            normalise_fda),
+    ("OPSS",               fetch_opss,           normalise_opss),
+    ("ACCC",               fetch_accc,           normalise_accc),
+    ("NZ Product Safety",  fetch_nz_recalls,     normalise_nz_recalls),
 ]
 
 
