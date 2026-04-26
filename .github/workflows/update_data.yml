@@ -26,11 +26,12 @@ jobs:
 
       - name: Run data pipeline
         run: python pipeline/collect_and_normalise.py
-
+        
       - name: Commit and push updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
           git add data/
           git diff --cached --quiet || git commit -m "chore: update safety dashboard data [$(date -u '+%Y-%m-%d %H:%M UTC')]"
           git push
