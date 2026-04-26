@@ -681,7 +681,7 @@ def normalise_safety_gate(df: pd.DataFrame) -> pd.DataFrame:
         rows.append({
             "id":                make_id("EU Safety Gate", ref),
             "source":            "EU Safety Gate",
-            "date":              safe_date(r.get("date", r.get("publication_date", ""))),
+            "date":              safe_date(r.get("alert_date", r.get("date", r.get("publication_date", "")))),
             "region":            "EU / EEA",
             "notifying_country": str(r.get("notifying_country", "")).strip(),
             "country_of_origin": str(r.get("country_of_origin", "")).strip(),
