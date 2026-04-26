@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Product Safety Dashboard
 
 Automated pipeline that collects product recall and safety alert data from three public
@@ -179,4 +178,3 @@ in `collect_and_normalise.py` — extend them when new raw values appear in the 
 =======
 # regulatorydecoded-safety-dashboard-data
 database for regulatorydecoded product safety metrics
->>>>>>> 29575f5d3057f5eca668cc0a1d70b777acd753f8
