@@ -1,10 +1,464 @@
 [
   {
     "product_category": "Other",
-    "total": 1001,
+    "total": 3019,
     "by_source": {
+      "ACCC": 0,
+      "CPSC": 2018,
+      "EU Safety Gate": 0,
       "Health Canada": 1,
       "OPSS": 1000
+    }
+  },
+  {
+    "product_category": "Cosmetics & Personal Care",
+    "total": 1684,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 1684,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Toys & Childcare",
+    "total": 946,
+    "by_source": {
+      "ACCC": 1,
+      "CPSC": 0,
+      "EU Safety Gate": 945,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Electrical & Electronics",
+    "total": 760,
+    "by_source": {
+      "ACCC": 10,
+      "CPSC": 0,
+      "EU Safety Gate": 750,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Motor Vehicles",
+    "total": 504,
+    "by_source": {
+      "ACCC": 3,
+      "CPSC": 0,
+      "EU Safety Gate": 501,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Tools & Machinery",
+    "total": 267,
+    "by_source": {
+      "ACCC": 3,
+      "CPSC": 0,
+      "EU Safety Gate": 264,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Chemicals",
+    "total": 226,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 226,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Clothing & Textiles",
+    "total": 155,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 155,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Sports & Leisure",
+    "total": 125,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 125,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Jewellery",
+    "total": 123,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 123,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Pyrotechnic Articles",
+    "total": 52,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 52,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Kitchen/Cooking Accessories",
+    "total": 42,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 42,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Decorative Articles",
+    "total": 35,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 35,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Furniture & Home",
+    "total": 24,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 24,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Gadgets",
+    "total": 16,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 16,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Construction Products",
+    "total": 12,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 12,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Stationery",
+    "total": 10,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 10,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Lighters",
+    "total": 8,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 8,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Other - Telescopic Ladder",
+    "total": 7,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 7,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Other - Car Floor Mats",
+    "total": 4,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 4,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Other - Telescopic Ladders",
+    "total": 2,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 2,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Kitchenware And Containers",
+    "total": 2,
+    "by_source": {
+      "ACCC": 2,
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Measuring Instruments",
+    "total": 2,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 2,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Asbestos (Cancer Causing Substance)",
+    "total": 1,
+    "by_source": {
+      "ACCC": 1,
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Car Parts And Accessories",
+    "total": 1,
+    "by_source": {
+      "ACCC": 1,
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Blinds, Curtains And Window Fittings",
+    "total": 1,
+    "by_source": {
+      "ACCC": 1,
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Diving",
+    "total": 1,
+    "by_source": {
+      "ACCC": 1,
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Child Safety Gates And Locks",
+    "total": 1,
+    "by_source": {
+      "ACCC": 1,
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Other - Luggage",
+    "total": 1,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 1,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Other - Books",
+    "total": 1,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 1,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Motorcycle Parts And Accessories",
+    "total": 1,
+    "by_source": {
+      "ACCC": 1,
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Other - Hammam Column",
+    "total": 1,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 1,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Other - Car Floor Mat",
+    "total": 1,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 1,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Other - Luggage Strap",
+    "total": 1,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 1,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Other - Stepladder",
+    "total": 1,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 1,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Other - Step Ladder",
+    "total": 1,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 1,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Other - Steering Wheel Cover",
+    "total": 1,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 1,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Other - Protective Formwork That Can Be Retrofitted To The Mains Socket.",
+    "total": 1,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 1,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Other - Pet Led Collar",
+    "total": 1,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 1,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Other - Personal Accessories",
+    "total": 1,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 1,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Other - Package",
+    "total": 1,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 1,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "product_category": "Recreational Crafts",
+    "total": 1,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 1,
+      "Health Canada": 0,
+      "OPSS": 0
     }
   }
 ]

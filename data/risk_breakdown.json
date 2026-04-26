@@ -1,1397 +1,3137 @@
 [
   {
+    "risk_type": "Other",
+    "count": 5003,
+    "percentage": 62.2
+  },
+  {
     "risk_type": "Fire",
-    "count": 312,
-    "percentage": 31.2
+    "count": 857,
+    "percentage": 10.7
+  },
+  {
+    "risk_type": "Injury",
+    "count": 534,
+    "percentage": 6.6
   },
   {
     "risk_type": "Choking",
-    "count": 163,
-    "percentage": 16.3
+    "count": 313,
+    "percentage": 3.9
   },
   {
     "risk_type": "Chemical",
-    "count": 103,
-    "percentage": 10.3
+    "count": 173,
+    "percentage": 2.2
   },
   {
     "risk_type": "Electric Shock",
-    "count": 99,
-    "percentage": 9.9
+    "count": 143,
+    "percentage": 1.8
+  },
+  {
+    "risk_type": "Falls",
+    "count": 128,
+    "percentage": 1.6
   },
   {
     "risk_type": "Burns",
-    "count": 25,
-    "percentage": 2.5
+    "count": 121,
+    "percentage": 1.5
   },
   {
     "risk_type": "Drowning",
-    "count": 19,
-    "percentage": 1.9
+    "count": 41,
+    "percentage": 0.5
+  },
+  {
+    "risk_type": "Low Risk",
+    "count": 20,
+    "percentage": 0.2
+  },
+  {
+    "risk_type": "The Product Contains The Substance Methyl Salicylate Which Must Be In Child Resistant Packaging As Required By The Poison Prevention Packaging Act (Pppa). The Packaging Of The Product Is Not Child Resistant, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
+    "count": 18,
+    "percentage": 0.2
+  },
+  {
+    "risk_type": "Environmental",
+    "count": 10,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "The Recalled Drain Covers Do Not Conform To The Entrapment Protection Standards Of The Virginia Graeme Baker Pool And Spa Safety Act (Vgba), Posing An Entrapment Hazard To Swimmers And Bathers.",
+    "count": 10,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "The Products Contain The Substance Methyl Salicylate Which Must Be In Child Resistant Packaging As Required By The Poison Prevention Packaging Act (Pppa). The Packaging Of The Products Is Not Child Resistant, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
+    "count": 6,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "The Products Contain The Substance Methyl Salicylate Which Must Be In Child Resistant Packaging As Required By The Poison Prevention Packaging Act (Pppa). The Packaging Of The Products Are Not Child Resistant, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
+    "count": 6,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "The Recalled Dressers Are Unstable If They Are Not Anchored To The Wall, Posing Tip-Over And Entrapment Hazards That Can Result In Risks Of Serious Injuries Or Death To Children. The Dressers Violate The Mandatory Standard As Required By The Sturdy Act.",
+    "count": 6,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Infant Fatalities Have Been Reported With Other Manufacturers' Inclined Sleep Products, After The Infants Rolled From Their Back To Their Stomach Or Side, Or Under Other Circumstances.",
+    "count": 5,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "When Attached To An Adult'S Bed, Users Can Become Entrapped Within The Bed Rail Or Between The Rail And The Side Of The Mattress. This Poses A Serious Entrapment Hazard And Risk Of Death By Asphyxiation.",
+    "count": 4,
+    "percentage": 0.0
   },
   {
     "risk_type": "Contamination",
     "count": 4,
-    "percentage": 0.4
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For 4.4M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
-    "count": 2,
-    "percentage": 0.2
+    "risk_type": "When The Recalled Bed Rails Are Attached To An Adult'S Bed, Users Can Become Entrapped Within The Bed Rail Or Between The Bed Rail And The Side Of The Mattress. This Poses A Serious Entrapment Hazard And Risk Of Death By Asphyxiation.",
+    "count": 4,
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For 5M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Recalled Dressers Are Unstable If They Are Not Anchored To The Wall, Posing Serious Tip-Over And Entrapment Hazards That Can Result In Injuries Or Death To Children. The Dressers Violate The Mandatory Standard As Required By The Sturdy Act.",
+    "count": 3,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Weight Plates Can Dislodge From The Handle During Use, Posing An Impact Hazard.",
     "count": 2,
-    "percentage": 0.2
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Vehicle Can Move When On An Incline And \"Park\" Is Displayed On The Digital Dash. This Can Allow The Vehicle To Roll Away, Posing A Crash Hazard.",
+    "count": 2,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Recalled Dressers Are Unstable If They Are Not Anchored To The Wall, Posing Serious Tip-Over And Entrapment Hazards That Can Result In Injuries Or Death To Children. The Dressers Violate The Performance Requirements Of The Sturdy Act Because They Can Tip Over With Fewer Than 60 Pounds Applied Horizontally, And The Dressers Also Fail To Meet The Labeling Requirements Of The Sturdy Act.",
+    "count": 2,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Paint On The Recalled Electric Bikes Contains Levels Of Lead That Exceed The Federal Lead Paint Ban, Posing A Lead Poisoning Hazard. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Issues.",
+    "count": 2,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Plastic Zip Tie Used With The Recalled Furniture Tip Kits Can Become Brittle Or Break, Which Can Allow A Clothing Storage Unit That Is Anchored To The Wall To Detach During A Furniture Tip-Over Event, Posing A Tip-Over And Entrapment Hazard That Can Result In Death Or Serious Injuries To Children.",
+    "count": 2,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Tow Handle Can Pinch Consumers' Fingertips Against The Cooler, Posing Fingertip Amputation And Crushing Hazards.",
+    "count": 2,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Recalled Dressers Are Unstable If They Are Not Anchored To The Wall, Posing Serious Tip-Over And Entrapment Hazards That Can Result In Injuries Or Death To Children. The Dressers Violate The Federal Standard As Required By The Sturdy Act.",
+    "count": 2,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Recalled Dressers Are Unstable If They Are Not Anchored To The Wall, Posing Serious Tip-Over And Entrapment Hazards That Can Result In Injuries Or Death To Children. The Dressers Do Not Comply With The Performance Requirements Of The Sturdy Act.",
+    "count": 2,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Recalled Dressers Are Unstable If They Are Not Anchored To The Wall, Posing Tip-Over And Entrapment Hazards That Can Result In Serious Injuries Or Death To Children. The Dressers Violate The Mandatory Standard As Required By The Sturdy Act.",
+    "count": 2,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Recalled Dressers Are Unstable If They Are Not Anchored To The Wall, Posing Tip-Over And Entrapment Hazards That Can Result In Serious Injuries Or Death To Children. The Dressers Violate The Mandatory Standard Required By The Sturdy Act.",
+    "count": 2,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Product Contains The Substance Methyl Salicylate, Which Must Be In Child Resistant Packaging As Required By The Poison Prevention Packaging Act (Pppa). The Packaging Of The Product Is Not Child Resistant, Posing A Poisoning Risk If The Contents Are Swallowed By Young Children.",
+    "count": 2,
+    "percentage": 0.0
   },
   {
     "risk_type": "Product Safety Report For Jbbfcan 5.8M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
     "count": 2,
-    "percentage": 0.2
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Recalled Faucets Were Tested And Found To Contain Lead That Can Leach Into Water At Levels That Can Be Particularly Harmful To Infants And Young Children. The Faucets Were Also Found To Leach Other Contaminants. Lead Ingestion Can Cause Harmful Neurological Effects On Infants And Young Children, Including Attention-Related Behavioral Problems, Decreased Cognitive Performance And Lower Iq.",
+    "count": 2,
+    "percentage": 0.0
   },
   {
     "risk_type": "Product Safety Report For Minidream Tummy Time Pillow Presenting A Serious Entrapment Risk.",
     "count": 2,
-    "percentage": 0.2
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Everun Ert 1500 Rough Terrain Telehandler Presenting A Serious Risk Of Injuries.",
+    "risk_type": "A Young Child Can Become Entrapped By Unzipping And Entering The Blanket, Posing A Risk Of Death By Asphyxiation.",
+    "count": 2,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For 5M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "count": 2,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Young Children Can Become Entrapped In The Space Between The Exterior Landing (Hoistway) Door And The Interior Elevator Car Door Or Gate If There Is A Hazardous Gap, And Suffer Serious Injuries Or Death When The Elevator Is Called To Another Floor.",
+    "count": 2,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Recalled Magnetic Chess Games Violate The Mandatory Standard For Toys Because They Contain Loose Magnets Posing An Ingestion Hazard To Children. When High-Powered Magnets Are Swallowed, The Ingested Magnets Can Attract Each Other, Or Other Metal Objects, And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting, And/Or Blockage Of The Intestines, Blood Poisoning And Death.",
+    "count": 2,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Recalled Chests Are Unstable And Can Tip Over If Not Anchored To The Wall, Posing Serious Tip-Over And Entrapment Hazards That Can Result In Death Or Injuries To Children.",
+    "count": 2,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "An Unlocked Handle Can Pinch Consumers' Fingers Against The Generator Frame When The Generator Is Moved, Posing Finger Amputation And Crushing Hazards.",
+    "count": 2,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Cpsc Testing Determined The Magnetic Ball Sets Do Not Comply With The Requirements Of The Mandatory Federal Toy Regulation Because They Contain One Or More Magnets That Fit Within Cpsc'S Small Parts Cylinder And The Magnets Are Stronger Than Permitted. When High-Powered Magnets Are Swallowed, The Ingested Magnets Can Attract Each Other, Or Another Metal Object, And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting And/Or Blockage Of The Intestines, Infection, Blood Poisoning And Death.",
+    "count": 2,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "When Two Or More High-Powered Magnets Are Swallowed, Either Intentionally By Younger Children Or Accidentally By Older Children, The Ingested Magnets Can Attract To Each Other, Or To Another Metal Object, And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting And/Or Blockage Of The Intestines, Infection, Blood Poisoning And Death.",
+    "count": 2,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Rear Brake Line Can Become Punctured Causing The Brakes To Fail, Posing A Collision And Crash Hazard.",
+    "count": 2,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Young Children Can Become Entrapped In The Space Between The Exterior Landing (Hoistway) Door And The Interior Elevator Car Door Or Gate If There Is A Hazardous Gap And Suffer Serious Injuries Or Death When The Elevator Is Called To Another Floor.",
+    "count": 2,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Recalled Chests Are Unstable If They Are Not Anchored To The Wall, Posing Tip-Over And Entrapment Hazards That Can Result In Death Or Serious Injuries To Children. The Chests Do Not Comply With The Performance Requirements Of The Voluntary Industry Standard Astm F2057-19.",
+    "count": 2,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Infants Can Suffocate If They Roll Or Move On The Crib Bumper In A Position That Obstructs Breathing. Padded Crib Bumpers Are Banned Under Federal Law.",
+    "count": 2,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Recalled Dressers Are Unstable If They Are Not Anchored To The Wall, Posing Tip-Over And Entrapment Hazards That Can Result In A Risk Of Serious Injuries Or Death To Children. The Dressers Violate The Mandatory Standard As Required By The Sturdy Act.",
+    "count": 2,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Packaging Is Not Child Resistant As Required By The Poison Prevention Packaging Act. The Pain Relieving Cream Contains Lidocaine, Posing A Risk Of Poisoning To Young Children If They Put It On Their Skin Or Ingest It.",
+    "count": 2,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For 4.4M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "count": 2,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Necklaces Have High Levels Of Cadmium. Cadmium Is Toxic If Ingested By Children And Can Cause Adverse Health Effects.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Metal Zipper Slider, Zipper 0-Ring, D-Ring, Rivet And Stud Of The Children'S Handbags Contain Levels Of Lead That Exceed The Federal Lead Content Ban. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Issues.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Pin'S Face And Shaft Contain Levels Of Lead That Exceed The Federal Lead Content Ban. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Issues.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Plastic Characters On The Recalled Sippy Cup Contain Levels Of Lead That Exceed The Federal Lead Content Ban And Contain Levels Of A Regulated Phthalate That Exceed The Prohibition Of Specific Phthalates. Lead And Banned Phthalates Are Toxic If Ingested By Young Children And Can Cause Adverse Health Issues.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Plastic Housing Surrounding The Ac Power Adapter Supplied With Some Rest 1St Generation Sound Machines Can Come Off When Removing The Adapter From The Power Outlet, Leaving The Power Prongs Exposed And Posing A Shock Hazard To Consumers.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Metal Rollers On The Bottom Of The Flying Dinosaur Figures Contain Levels Of Lead That Exceed The Federal Lead Content Ban. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Issues.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Pin On The U-Joint Of The Steering Knuckle Was Not Swagged Correctly, Which Can Allow The Pin To Come Out Of The U-Joint And Cause The Rider To Lose Steering Control, Posing A Crash Hazard.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Pet Vet Playset Violates The Mandatory Standard For Toys Because The Button Cell Batteries In The Nail Grinder And Otoscope Can Be Easily Accessed By Children.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Pens In The Recalled Children'S Handwriting Kits Contain Levels Of Lead In The Nib That Exceed The Federal Lead Content Ban. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Issues.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Nose Piercings And Body Bars Have Elevated Levels Of Nickel, Posing A Risk Of Skin Irritation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Parking Brake Catch Bracket Can Wear Out And Cause The Parking Brake To Fail, Posing A Crash Hazard.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Operator'S Guide Maintenance Schedule Section Contains Incorrect Information Regarding Proper Maintenance Intervals For The Clutch Which Can Lead To Clutch Failure, Including Fragments To Be Ejected From The Vehicle If Not Serviced, Posing A Risk Of Serious Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Painted Long Hoe And Rake Of The Recalled Garden Set Contain Levels Of Lead That Exceed The Federal Lead Paint Ban, Posing A Lead Poisoning Hazard To Children. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Issues.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Over-The-Counter Drug Products Contain Regulated Substances Which Must Be In Child Resistant Packaging As Required By The Poison Prevention Packaging Act (Pppa). The Packaging Of The Products Is Not Child Resistant, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Painted Hair Clips Contain Levels Of Lead That Exceed The Federal Lead Paint Ban, Posing A Lead Poisoning Hazard To Children. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Issues.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Paint Used On The Chair'S Metal Frame Contains Levels Of Lead That Exceed The Federal Lead Paint Standard. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Effects.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Paint Or Surface Coating On The Red Mallet, Blue Mallet, Red Hoop, And Winning Post Contain Levels Of Lead That Exceed The Federal Lead Paint Ban, Posing A Lead Poisoning Hazard. In Addition, The Coating On The Red And Blue Mallets Contains Levels Of Regulated Phthalates That Exceed The Prohibition Of Specific Phthalates. Lead And Phthalates Are Toxic If Ingested By Young Children And Can Cause Adverse Health Issues.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Over-The-Counter Products Contain Regulated Substances Which Must Be In Child Resistant Packaging When Being Used In The Household As Required By The Poison Prevention Packaging Act (Pppa). The Packaging Of The Products Is Not Child Resistant, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Paint On The Recalled Scooters Contains Levels Of Lead That Exceed The Federal Lead Paint Ban, Posing A Lead Poisoning Hazard. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Issues.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Paint On The Children'S Metal Doll Pins Contains Levels Of Lead That Exceed The Federal Lead Paint Ban, Posing A Lead Poisoning Hazard. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Effects.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Packaging Is Not Child Resistant As Required By The Poison Prevention Packaging Act. The Tattoo Numbing Cream Contains Lidocaine, Posing A Risk Of Poisoning To Young Children If They Ingest It.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Metal Base Of The Ring Contains Levels Of Lead That Exceed The Federal Lead Content Ban. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Issues.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Recalled Bassinets Violate The Safe Sleep For Babies Act Because They Were Marketed For Infant Sleep And Have An Incline Angle Greater Than 10 Degrees. Infant Fatalities Have Occurred In Inclined Sleeper Products After The Infants Rolled From Their Back To Their Stomach Or Side While Unrestrained, Or Under Other Circumstances. The Bassinets Also Violate The Infant Sleep Products Regulation Because They Do Not Have A Stand.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Recalled Baby Tummy Time Gallery Art Card Pockets Have Clear Plastic Coverings That Contain Levels Of A Phthalate That Exceeds The Federal Phthalates Ban. Phthalates Are Toxic If Ingested By Young Children And Can Cause Adverse Health Effects.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Recalled Baby Gates Violate The Federal Safety Regulations For Expansion Gates And Expandable Enclosures. For The Versions With A Pet Door, A Child'S Torso Can Fit Through The Secondary Opening And, For The Other Versions That Are Adjustable, A Child'S Torso Can Fit Through The Opening Between The Gate Slat And Side Wall. These Violations Pose An Entrapment Hazard To Children.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Recalled 6-In-1 Pounding Game Violates The Mandatory Federal Regulation For Magnets Because It Contains A Magnet That Can Become Loose, Posing An Ingestion Hazard To Children. When High-Powered Magnets Are Swallowed, The Ingested Magnets Can Attract Each Other, Or Another Metal Object, And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting And/Or Blockage Of The Intestines, Infection, Blood Poisoning And Death.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Recalled 5Mm Magnetic Ball Sets Violate The Mandatory Federal Toy Magnet Regulation Because They Contain One Or More Magnets That Fit Within Cpsc'S Small Parts Cylinder, And The Magnets Are Stronger Than Permitted. When High-Powered Magnets Are Swallowed, The Ingested Magnets Can Attract Each Other, Or Another Metal Object, And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting And/Or Blockage Of The Intestines, Infection, Blood Poisoning And Death.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Recalled 5Mm Magnetic Ball Sets Do Not Comply With The Requirements Of The Mandatory Federal Magnet Regulation Because The Sets Contain One Or More Magnets That Fit Within Cpsc'S Small Parts Cylinder, And The Magnets Are Stronger Than Permitted. When High-Powered Magnets Are Swallowed, The Ingested Magnets Can Attract Each Other, Or Another Metal Object, And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting And/Or Blockage Of The Intestines, Infection, Blood Poisoning, And Death.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Recalled 3 Mm Magnetic Ball Sets Violate The Mandatory Standard For Toys Because The Magnet Sets Contain Loose Magnets Posing An Ingestion Hazard To Children. When High-Powered Magnets Are Swallowed, The Ingested Magnets Can Attract Each Other, Or Other Metal Objects, And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting, And/Or Blockage Of The Intestines, Blood Poisoning And Death.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Ethan The Fox Teether Presenting A Serious Asphyxiation Risk.",
+    "risk_type": "The Rear Fender Can Come Loose And Can Contact The Rear Wheel And Stop The Bike Unexpectedly, Causing The Rider To Lose Control Of The Bike, Posing A Crash Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Enjoy & Love Kids Trampoline Presenting A High Risk Of Injuries.",
+    "risk_type": "The Rear Brake Line Can Become Punctured Causing The Rear Brakes To Fail, Posing A Collision And Crash Hazard To The Rider.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For E-Bike Conversion Kit Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Rear Brake Hose Can Kink And Break When Turning The Handlebars, Causing The Rider To Lose Control Of The Bike, Posing A Crash Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Durhand Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Rear Brake Can Fail, Posing A Crash Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Domestar Vase Fillers Presenting A High Risk Of Asphyxiation.",
+    "risk_type": "The Quickdrive Fastener Can Loosen While Operating, Leading To Brake Failure, Posing A Crash Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Deluxus Water Beads 50000Pcs Presenting A High Risk Of Asphyxiation.",
+    "risk_type": "The Purple Scent Stamper Pen Has Elevated Levels Of Benzyl Alcohol, Posing A Risk Of Skin Irritation.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Dbodb Baby Walker Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Puffer Jackets Have A Drawstring Located Inside The Lining Of The Bottom Area Of The Garment. The Drawstring Can Become Entangled Or Caught On Playground Slides, Handrails, School Bus Doors Or Other Moving Objects, Posing An Entanglement Hazard To Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Crayon Inflatable Presenting A Serious Risk Of Asphyxiation.",
+    "risk_type": "The Products Are Prescription Medications That Were Labeled And Distributed By Dr. Reddy'S For Institutional Use Only. The Prescription Medications Were Distributed By Third Party Wholesalers To Retail Pharmacies And Could Have Been Dispensed To Consumers. The Packaging Of The Products Is Not Child Resistant And Can Pose A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Comforder Water Beads Presenting A Serious Risk Of Asphyxiation.",
+    "risk_type": "The Products Contain The Substance Methyl Salicylate, Which Must Be In Child Resistant Packaging As Required By The Poison Prevention Packaging Act (Pppa). The Packaging Of The Products Is Not Child Resistant, Posing A Risk Of Poisoning If The Contents Are Applied To The Skin Or Swallowed By Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Climbing Safety Belt Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Products Contain The Substance Methyl Salicylate Which Must Be In Child Resistant Packaging As Required By The Poison Prevention Packaging Act. The Packaging Of The Products Is Not Child Resistant, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Climbing Rope Hw0169-610-Simo-2240 Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Products Contain The Substance Methyl Salicylate Which Must Be In Child Resistant Packaging As Required By The Poison Prevention Packaging Act (Pppa). The Packaging Of The Product Is Not Child Resistant, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Capybara Advent Calendar 2025 Presenting A Serious Risk Of Cuts And Injuries.",
+    "risk_type": "The Products Contain The Substance Lidocaine Which Must Be In Child Resistant Packaging As Required By The Poison Prevention Packaging Act (Pppa). The Packaging Of The Products Is Not Child Resistant, Posing A Risk Of Poisoning If The Contents Are Swallowed Or Placed On The Skin Of Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Crystal Mud Sponge Water Beads Presenting A Serious Risk Of Injuries And Asphyxiation.",
+    "risk_type": "The Products Are Dietary Supplements Containing Iron Which Must Be In Child-Resistant Packaging As Required By The Poison Prevention Packaging Act (Pppa). The Packaging Of The Products Is Not Child-Resistant, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Iscooter Electric Scooter Ix6 Presenting A High Risk Of Injuries.",
+    "risk_type": "The Product'S Locking Tab Can Detach From The Rest Of The Unit During Use, Causing Hands And Fingers To Slide Into The Blades.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Inflatable Hammer Toys Presenting A Serious Risk Of Asphyxiation.",
+    "risk_type": "The Product Is A Dietary Supplement Containing Iron, Which Must Be In Child Resistant Packaging, As Required By The Poison Prevention Packaging Act (Pppa). The Packaging Of The Product Is Not Child Resistant, Posing A Poisoning Risk If The Contents Are Swallowed By Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Ihoverboard H8Pro Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Product Is A Dietary Supplement Containing Iron Which Must Be In Child Resistant Packaging As Required By The Poison Prevention Packaging Act (Pppa). The Packaging Of The Product Is Not Child Resistant, Posing A Poisoning Risk If The Contents Are Swallowed By Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Igloo 90-Quart Flip & Tow Coolers Presenting A Risk Of Injuries.",
+    "risk_type": "The Product Contains The Substance Methyl Salicylate Which Must Be In Child Resistant Packaging As Required By The Poison Prevention Packaging Act (Pppa). The Packaging Of The Products Is Not Child Resistant, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Ice Crusher Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Product Contains The Substance Lidocaine Which Must Be In Child Resistant Packaging As Required By The Poison Prevention Packaging Act (Pppa). The Packaging Of The Product Is Not Child Resistant, Posing A Risk Of Poisoning To Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Hydrogel Water Beads Presenting A Serious Risk Of Asphyxiation.",
+    "risk_type": "The Product Contains Lidocaine Which Must Be In Child Resistant Packaging As Required By The Poison Prevention Packaging Act (Pppa). The Packaging Is Not Child Resistant, Posing A Risk Of Poisoning To Young Children If They Ingest The Anesthetic Cream.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Hinsinc Brushless Angle Grinder Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Primary Gear For The Crank Shaft Can Fail, Posing A Crash Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Girls Creator Magical Water Beads Soothing Spa Presenting A Serious Health Risk.",
+    "risk_type": "The Prescription Drug Packaging Is Not Child Resistant As Required By The Poison Prevention Packaging Act (Pppa), Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Hbtower 2.6M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Power Interface Can Fail During A Significant Power Surge (E.G., Lightning Strike), Posing A Shock Hazard To Consumers If They Touch The Led Tape Lights.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Hb Tower 5 Step Ladder With Handrails Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Plastic Lid'S Closure Can Degrade After Repeated Openings, Causing The Lid'S Child-Resistance To Diminish, Posing A Risk Of Poisoning, If The Contents Are Swallowed By Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Hb Tower 5 Step Ladder Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Products Contains The Substance Methyl Salicylate Which Must Be In Child Resistant Packaging As Required By The Poison Prevention Packaging Act (Pppa). The Packaging Of The Products Is Not Child Resistant, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Green Lawn Trimmer Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Bottom Hole On The Cable Support Posts Is Over Four Inches From The Bottom Of The Base Plate, Posing An Entrapment Hazard To Consumers.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Girls Creator Nail Art Studio Presenting An Asphyxiation Risk.",
+    "risk_type": "The Brake Hose Can Detach From The Brake Lever, Posing A Crash Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Bugaboo Giraffe Highchair Presenting A Risk Of Injuries.",
+    "risk_type": "The Brakes On The Snow Bike Can Fail After The Conversion Kit Has Been Installed, Posing A Crash Hazard To The User.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Giant Momentum Vida E+ Bicycle Presenting A Risk Of Injuries.",
+    "risk_type": "The Brass Water Tap Of The Play Kitchen Contains Levels Of Lead That Exceed The Federal Lead Content Ban. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Issues.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Gel Water Beads Presenting A Serious Risk Of Asphyxiation.",
+    "risk_type": "The Brown Handle Strings Contain Levels Of Phthalates That Exceed The Federal Phthalate Ban. Phthalates Are Toxic If Ingested By Young Children And Can Cause Adverse Health Effects.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Heybike Ec Compact City E-Bike Presenting A High Risk Of Injuries.",
+    "risk_type": "The Brown Paint On The Exterior Of The Recalled Christmas Tree Ornaments Did Not Fully Dry Before Packaging, Causing Mold To Grow On The Exterior Surface Of The Ornament, Posing Risk Of Respiratory Issues To Consumers Due To Mold Exposure.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For 3.8M Telescopic Ladder (Kiko 5301-9) Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Brown Trim Of The Shaving Kit Bags Contains Levels Of A Regulated Phthalate That Exceed The Prohibition Of Specific Phthalates. Banned Phthalates Are Toxic If Ingested By Young Children And Can Cause Adverse Health Issues.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For 3.8M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Buttons On The Lab Coat Worn By The Doctor Duck Contain Levels Of Lead That Exceed The Federal Lead Content Standard. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Issues.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For 3000Pcs Water Gel Beads Presenting A High Risk Of Asphyxiation.",
+    "risk_type": "The Jewelry Can Contain Excess Levels Of Cadmium, Which Can Be Toxic If Ingested By Young Children And May Cause Adverse Health Effects Through Long-Term Skin Exposure.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For 4-Step Step Ladder Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Children'S Costumes Contain A Prohibited Phthalate, Which Violates The Federal Phthalates Ban. Phthalates Are Toxic If Ingested By Young Children And Can Cause Adverse Health Effects.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For 60 Giant Jumbo Water Beads Presenting A Risk Of Injuries And Asphyxiation.",
+    "risk_type": "The Clamp Bolt On The Brake Lever Can Come Loose, Posing A Crash Hazard To The Rider. A Rider Uses The Brake Lever To Activate The Braking System To Slow Or Stop The Bicycle.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For 60,000 Water Gel Beads Presenting A Risk Of Asphyxiation.",
+    "risk_type": "The Clasp On The Beaded Bracelet Contains Levels Of Lead That Exceed The Federal Lead Content Ban. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Effects.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For 6M And 3.2M Telescopic Ladders Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Clasp On The Braided Black Bracelet Sold As Part Of The Gift Set Contains High Levels Of Lead And Cadmium. Lead And Cadmium Are Toxic And Can Cause Adverse Health Effects In Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For 8-Inch Cordless Chainsaw Presenting A High Risk Of Injuries.",
+    "risk_type": "The Clutch Cable Can Break On The Recalled Mx5400Dtc Utility Tractors, Resulting In Reduced Braking Power, Posing A Crash Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For 8Ft Trampoline Presenting A High Risk Of Injuries.",
+    "risk_type": "The Co2 Cartridge Can Be Unintentionally Ejected With Force From The Handle, Posing An Impact Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For A Ciat Vectios Roof Top Air Handling Unit.",
+    "risk_type": "The Coaster Brakes Can Fail To Engage, Resulting In The Rider Losing Control, Posing A Crash Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For A Dinosaur Scooter Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Control Panel'S Secondary Entrapment Protection System Can Fail Causing The Garage Door To Close Even With An Obstruction Present, Posing An Entrapment Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For A Sigma Group Modulbox Mb Sv – All Models Presenting A Health Risk.",
+    "risk_type": "The Cord Lock On The Recalled Water Ballons' Storage Bags Contain A Regulated Phthalate, Which Violate The Federal Phthalate Ban. Phthalates Are Toxic If Ingested By Young Children And Can Cause Adverse Health Effects.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For A Supatool 4 Step Aluminium Step Ladder Presenting A High Risk Of Injuries.",
+    "risk_type": "The Cabinets Can Detach From The Wall, Posing An Impact Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For A Tummy Time Multistage Water Mat That Presents A Serious Risk Of Asphyxiation.",
+    "risk_type": "The Accelerator Pedal Spring Can Fail To Return To Idle When A Consumer Stops Pressing The Accelerator Pedal, Posing A Crash Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For A4R Water Beads Presenting A High Risk Of Asphyxiation.",
+    "risk_type": "The After-Market Play Yard Mattresses May Not Adequately Fit Certain Play Yards, Which Is In Violation Of The Mandatory Standard For Crib Mattresses, Posing A Deadly Entrapment Hazard. Babies Have Suffocated In Gaps Between An Undersized Mattress, Or Extra Padding, And Side Walls Of A Product, Especially When The Infant'S Face Becomes Trapped Against The Side And The Mattress, Preventing The Infant From Breathing.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Bees Jewellery Hand Chain, Bangle And Earrings",
+    "risk_type": "The Aftermarket Play Yard Mattresses Violate The Mandatory Standard For Crib Mattresses As The Mattresses Exceed Thickness Requirements And May Not Adequately Fit Certain Play Yards, Posing A Deadly Entrapment Hazard.  Babies Can Suffocate In Gaps Between An Undersized Mattress, Or Extra Padding, And Side Walls Of A Product, Especially When The Infant'S Face Becomes Trapped Against The Side And The Mattress, Preventing The Infant From Breathing.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Acrohome 2.9M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Alarms Can Fail To Alert Consumers To The Presence Of A Hazardous Level Of Carbon Monoxide, Posing A Risk Of Carbon Monoxide Poisoning Or Death. Carbon Monoxide (Co) Is An Odorless, Colorless, Poisonous Gas.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Ainolway Rainbow Water Beads Presenting An Asphyxiation And Health Risk.",
+    "risk_type": "The Antifreeze Products Contain The Substance Ethylene Glycol Which Must Be In Child Resistant Packaging As Required By The Poison Prevention Packaging Act. The Products' Caps Were Not Rotated Enough During Manufacturing To Engage The Child Resistant Mechanism, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For An Injection Blow Mould Machine Presenting An Entrapment Risk.",
+    "risk_type": "The Atv'S Speedometer Can Display Half Of The Vehicle'S True Speed, Which Can Result In Loss Of Control, Posing A Crash Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For At Performance Stroller Presenting An Asyphxiation Risk.",
+    "risk_type": "The Auger Can Fail To Disengage When The Control Lever Is Released, Posing An Amputation Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Audio-Technica Wireless Headphones Ath-Cks50Tw2 Presenting A Risk Of Firmware Vulnerabilities.",
+    "risk_type": "The Baby Walkers Fail To Meet The Federal Safety Standard. Specifically, They Can Fit Through A Standard Doorway And Are Not Designed To Stop At The Edge Of A Step As Required By The Federal Safety Standard And They Have Leg Openings That Allow The Child To Slip Down Until The Child'S Head Can Become Entrapped At The Neck. Babies Using These Walkers Can Be Seriously Injured Or Killed.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Automatic Electric Gel Ball Blaster Presenting A Risk Of Asphyxiation.",
+    "risk_type": "The Bottles Containing The Prescription Drug Can Leak Due To A Fit Issue Between The Press-In Bottle Adapter And Bottleneck. If The Bottle Is Leaking, There Is A Risk Of Drug Exposure By Contact With Skin Or Eyes. Prescription Drugs Must Be In Child Resistant Packaging That Prevents Children From Gaining Access To The Contents As Required By The Poison Prevention Packaging Act (Pppa).",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Baby Camping Chair Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Ball Joint Connected To The Front Suspension Arm Can Loosen And Separate From The Front Suspension Arm, Resulting In The Driver Losing Wheel Support Of The Utility Vehicle, Posing A Crash Hazard To Consumers.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Baby Playpen Presenting A Serious Risk Of Asphyxiation.",
+    "risk_type": "The Base Coat Paint Used On Pieces Within The Furniture Collection Contains Levels Of Lead That Exceed The Federal Lead Paint Standard. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Effects.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Baby Stroller Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Benadryl Contains Diphenhydramine, Which Must Be In Child-Resistant Packaging As Required By The Poison Prevention Packaging Act. The Packaging Of The Products Is Not Child-Resistant, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Baby Walker Ky-088 Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Bicycle'S Front Fork Can Crack, Posing A Crash Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Baby Winter Sleeping Bag Presenting A Serious Of Asphyxiation.",
+    "risk_type": "The Blades Inside The Leaf Blower Can Break Off And Discharge From The Unit, Posing A Projectile Hazard To The User Or Bystanders.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Bellababy Baby Bassinet And Bedside Sleeper Presenting A High Risk Of Injuries.",
+    "risk_type": "The Blocked Vent Temperature Switch (Bvts) Can Malfunction, Which Can Cause The Release Of Gases, Including Carbon Monoxide (Co), Into Consumers' Homes, Posing A Risk Of Carbon Monoxide Poisoning.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Bentley Continental Supersport Toy Car Presenting A Serious Health Risk.",
+    "risk_type": "The Boiler Door Can Fail To Seal Properly Due To Incorrect Screws, Allowing Carbon Monoxide (Co) Gases To Escape, Posing A Carbon Monoxide Poisoning Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Bianchi Impulso Rc Bicycle Handlebars Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Boiler'S Flue Grommet Can Deteriorate And Dislodge During Use And Allow The Boiler To Emit Carbon Monoxide, Posing A Risk Of Carbon Monoxide Poisoning.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Black Three-Step Folding Ladder Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Boots' Sole Contain Levels Of Lead That Exceed The Federal Lead Content Ban. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Issues.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Acrohome 2.6M Telescopic Ladder With Hooks Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Back-Up Battery Can Fail To Fully Charge Resulting In The Receiver Not Working As Intended And Failing To Flash To Alert Hearing-Impaired Persons To An Emergency.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Sanding Machine Presenting A High Risk Of Injuries.",
+    "risk_type": "The Improperly Routed Brake Line Can Contact The Front Wheels During Vehicle Operation Resulting In Brake Line Damage And Brake Loss, Posing A Crash Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Simpa Baby High Chair  Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Inclined Sleeper Is A Banned Hazardous Product Under The Safe Sleep For Babies Act Since The Product Was Marketed For Infant Sleep And Has An Incline Angle Greater Than 10 Degrees. Infant Fatalities Have Occurred In Inclined Sleepers After The Infants Rolled From Their Back To Their Stomach Or Side While Unrestrained, Or Under Other Circumstances.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Simplon Bicycles Fitted With Swissstop Centerlock Adapter Sets Presenting A Risk Of Injuries.",
+    "risk_type": "The Infant Walkers Fail To Meet The Federal Safety Standard. They Can Fit Through A Standard Doorway And Are Not Designed To Stop At The Edge Of A Step As Required By The Federal Safety Standard. The Walkers Also Have Leg Openings That Allow The Child To Slip Down Until The Child'S Head Can Become Entrapped At The Neck. Babies Using These Walkers Can Be Seriously Injured Or Killed.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Soctone Multi-Purpose Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Inner Layer Of The Recalled Sandals Contains Levels Of Lead That Exceed The Federal Lead Content Ban. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Issues.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Vevor Manual Gear Chain Hoist Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Internal Part In The Valve Can Malfunction While In Use, Causing Loss Of Inflation And Thermal Protection, Posing A Risk Of Hypothermia To The Consumer.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Vevor Permanent Magnetic Lifter Presenting A High Risk Of Injuries.",
+    "risk_type": "The Recalled Bed Rails Violate Federal Regulations For Adult Portable Bed Rails, Posing A Serious Entrapment Hazard And Risk Of Death By Asphyxiation. When The Bed Rails Are Attached To A Bed, Users Can Become Entrapped Within The Bed Rail Or Between The Bed Rail And The Side Of The Mattress.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Vevor Transmission Jack Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Leather Insock In The Shoes Has Elevated Levels Of Chromium Vi, Posing A Risk Of Skin Irritation.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Vidaxl Outdoor Playset Presenting A Risk Of Entrapment.",
+    "risk_type": "The Locking Mechanism Can Fail Allowing Access To The Contents Inside The Chest, Posing A Risk Of Poisoning.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Water Beads Set Presenting A High Risk Of Asphyxiation.",
+    "risk_type": "The Crayons In The Coloring Set Have High Levels Of Strontium And Aluminum, And This May Present A Risk If Ingested, Posing A Poisoning Hazard If Ingested By Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Water Gel Filler Beads For Vases Presenting A Serious Risk Of Injuries And Asphyxiation.",
+    "risk_type": "The Magnet Ball Toys Violate The Mandatory Standard For Toys Because They Are High-Powered Magnets, Posing An Ingestion Hazard To Children. When High-Powered Magnets Are Swallowed, They Can Attract Each Other, Or Other Metal Objects, And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting, And/Or Blockage Of The Intestines, Blood Poisoning And Death.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Wejoy Water Beads Presenting A Serious Risk Of Injuries And Asphyxiation.",
+    "risk_type": "The Magnet Ball Toys Violate The Mandatory Standard For Toys Because They Are Loose High-Powered Magnets, Posing An Ingestion Hazard To Children. When High-Powered Magnets Are Swallowed, They Can Attract Each Other, Or Other Metal Objects, And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting, And/Or Blockage Of The Intestines, Blood Poisoning And Death.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For White And Green Stroller Presenting An Asphyxiation Risk.",
+    "risk_type": "The Magnetic Ball Sets Do Not Comply With The Requirements Of The Mandatory Federal Toy Regulation Because They Contain One Or More Magnets That Fit Within Cpsc'S Small Parts Cylinder And The Magnets Are Stronger Than Permitted. When High-Powered Magnets Are Swallowed, The Ingested Magnets Can Attract To Each Other Or To Another Metal Object And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting And/Or Blockage Of The Intestines, Infection, Blood Poisoning And Death.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Wilverz Black Roller Skates Presenting A High Risk Of Injuries.",
+    "risk_type": "The Magnetic Beads Violate The Requirements Of The Mandatory Federal Magnet Regulation Because They Contain One Or More Magnets That Fit Within Cpsc'S Small Parts Cylinder, And The Magnets Are Stronger Than Permitted. When High-Powered Magnets Are Swallowed, The Ingested Magnets Can Attract Each Other Or Another Metal Object And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting And/Or Blockage Of The Intestines, Infection, Blood Poisoning And Death.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Wituse Water Beads Presenting A Serious Asphyxiation.",
+    "risk_type": "The Magnetic Stick Figure Toy Sets Violate The Mandatory Standard For Toys Because They Contain Loose Magnets, Posing An Ingestion Hazard To Children. When High-Powered Magnets Are Swallowed, The Ingested Magnets Can Attract Each Other, Or Other Metal Objects, And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting, And/Or Blockage Of The Intestines, Blood Poisoning And Death.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Yasinkidz Baby Swim Float Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Magnetic Stick Figures Violate The Mandatory Standard For Toys Because They Contain Loose Magnets Posing An Ingestion Hazard To Children. When High-Powered Magnets Are Swallowed, The Ingested Magnets Can Attract Each Other, Or Other Metal Objects And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting, And/Or Blockage Of The Intestines, Blood Poisoning And Death.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Kaak Dough Driem Line Presenting A High Risk Of Entrapment.",
+    "risk_type": "The Magnets On The Inside Cover Can Detach, Posing An Ingestion Hazard To Children. When High-Powered Magnets Are Swallowed, The Ingested Magnets Can Attract Each Other, Or Other Metal Objects, And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting And/Or Blockage Of The Intestines, Infection, Blood Poisoning And Death.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Ann Summers Remote Rotating Dildo Presenting A Risk Of Injuries.",
+    "risk_type": "The Markings On The Outside Of The Bottles Contain Levels Of Lead That Exceeds The Federal Lead Content Ban. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Issues.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Amazon Basics Camping Folding Pocket Knife Presenting A Risk Of Injuries.",
+    "risk_type": "The Mattresses Could Have Been Exposed To Water During The Manufacturing Process Allowing Mold To Develop And Posing A Health Risk To Individuals With Compromised Immune Systems, Damaged Lungs Or An Allergy To Mold.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Aico Ei3014 Heat Detector Which Does Not Meet The Requirements Of The Relevant Regulations.",
+    "risk_type": "The Lockset Can Fail To Open, Posing An Entrapment Hazard And Inability To Vacate A Location In An Emergency.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Addo Play Limited Paw Patrol Sand Art Pictures Kit Presenting A Risk To Health.",
+    "risk_type": "The Crystals On The Hairclip Contain Levels Of Lead That Exceed The Federal Lead Content Ban. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Issues.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Addo Play Limited Paw Patrol Bumper Craft Collection Presenting A Risk To Health.",
+    "risk_type": "The Cyberquad Fails To Comply With The Federal Mandatory Safety Standard Requirements For Youth Atvs, Including Mechanical Suspension And Maximum Tire Pressure. Additionally, The Cyberquad Lacks A Cpsc-Approved Atv Action Plan, Which Is Required To Manufacture, Import, Sell, Or Distribute Atvs.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Addo Play Limited Out To Impress Sand Art Creations Presenting A Risk To Health.",
+    "risk_type": "The Decorative Sticker On The Water Tank Of The Water Blaster Toys Contain Levels Of Lead In The Ink That Exceed The Federal Lead Content Ban. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Effects.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Addo Play Limited Out To Impress Creative Candles Kit Presenting A Risk To Health.",
+    "risk_type": "The Drive Chain Can Break, Posing A Crash Hazard And/Or Property Damage.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Yi Tong Baby Walker Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Electronic Power Steering (Eps) Can Malfunction And Cause The Rider To Lose Control Of The Vehicle, Posing A Crash Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Abaseen Folding Sun Lounger Presenting A Serious Risk Of Injuries And Entrapment.",
+    "risk_type": "The Electronic Start/Stop Button On The Pressure Washer Can Malfunction And Self-Start, Posing A Risk Of Carbon Monoxide Poisoning If The Unit Is In A Confined Space.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For 10000Pcs Multi-Colour Water Absorbent Beads Presenting A Serious Risk Of Asphyxiation.",
+    "risk_type": "The Elevator Cab Can Rise Unexpectedly To The Top Of The Elevator Shaft And Abruptly Stop, Posing An Impact Hazard To Any Occupants In The Elevator Cab.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For  Next X25 Gingerbread Serveboard Presenting A Risk Of Injuries.",
+    "risk_type": "The Engine Control Module (Ecm) Lower Mount Support Could Have Broken In Production And Left A Loose Part Inside The Engine Compartment, Allowing It To Enter The Throttle Body Area And Lead To A Stuck Throttle. This Poses A Crash Hazard And Risk Of Serious Injuries Or Death.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Other",
+    "risk_type": "The Essential Oil Bottles Contain Methyl Salicylate, Which Must Be In Child-Resistant Packaging, As Required By The Poison Prevention Packaging Act (Pppa). The Bottles Are Not Child-Resistant, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Opss Has Issued A Product Safety Alert For Baby Self-Feeding Pillows And Prop Feeders Presenting A Risk Of Serious Harm Or Death.  Consumers, Local Authority Trading Standards And Businesses Are Asked To Take Specific Action To Cease Use Or Remove Them From The Market.",
+    "risk_type": "The Hose End Nozzle Clip Can Dislodge And Allow The Cleaning Solution To Spray On Users, Posing A Risk Of Skin And Eye Irritation And Other Injuries.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Stainless Steel 4.4M And 5M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Essential Oil Contains Methyl Salicylate, Which Must Be In Child-Resistant Packaging, As Required By The Poison Prevention Packaging Act (Pppa). The Packaging For The Products Is Not Child Resistant, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Zoeller Lifting Systems Presenting A High Risk Of Injuries.",
+    "risk_type": "The Essential Oil Contains Methyl Salicylate, Which Must Be In Child-Resistant Packaging, As Required By The Poison Prevention Packaging Act (Pppa). The Packaging For The Products Is Not Child-Resistant, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Zhong Jie Ming Toys Dinosaur Helmet Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Fishing Game Does Not Comply With The Requirements Of The Mandatory Federal Toy Regulation Because It Contains One Or More Magnets That Fit Within Cpsc'S Small Parts Cylinder And The Magnets Are Stronger Than Permitted. When High-Powered Magnets Are Swallowed, The Ingested Magnets Can Attract To Each Other, Or Another Metal Object, And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting And/Or Blockage Of The Intestines, Infection, Blood Poisoning And Death.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Acer Electric Scooter Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Fishing Rods Contain Levels Of Lead That Exceed The Federal Lead Content Ban. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Issues.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Minidream Organic 5-In-1 Baby Activity Gym Presenting A Serious Entrapment Risk.",
+    "risk_type": "The Front Bell Crank In The Brake Linkage Can Fail Causing The Tractor To Lose Braking, Resulting In A Crash Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Mercury Marine Fourstroke Outboard Motor Due To Stud Corrosion If Used In Saltwater.",
+    "risk_type": "The Front Brake Caliper Can Crack, Reducing The Braking System'S Effectiveness, Posing A Crash Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Mercury Marine 450R And 500R Outboard Motors Presenting A Risk Of Injuries.",
+    "risk_type": "The Gates Violate The Federal Safety Regulations For Expansion Gates And Expandable Enclosures. A Child'S Torso Can Fit Through The Opening Between The Gate Slat And Side Wall, Posing An Entrapment Hazard To Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Meat Grinder Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Gear Shift Assembly Can Detach From The Crankcase, Resulting In Unintentional Gear Shifting, Posing A Crash Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Mama Cheetah Wearable Blankets Presenting A High Risk Of Injuries.",
+    "risk_type": "The Green Glow Stick Bracelet Within The 12-Pack Container Can Leak, Posing A Skin Irritation Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Mama Cheetah Baby Swaddle Wrap Presenting A Risk Of Entrapment And Injuries.",
+    "risk_type": "The Essential Oil Bottles Contain Methyl Salicylate, Which Must Be In Child-Resistant Packaging, As Required By The Poison Prevention Packaging Act (Pppa). The Bottles For The Products Are Not Child Resistant, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Magiclub Water Beads Presenting A High Risk Of Asphyxiation.",
+    "risk_type": "The Riding Mower'S Steering Arm Dampers Can Be Installed Incorrectly, Which Can Result In An Unexpected Bouncing Motion And Loss Of Operator Control, Posing A Crash Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Rosary Pea Seeds Presenting A Health Risk.",
+    "risk_type": "The Riding Mowers Can Fail To Come To A Complete Stop And Continue To Move At A Speed Of About One Mile Per Hour When The Clutch/Brake Pedal Is Fully Depressed, Posing A Low Speed Crash Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Letterbox Lab Explore Box 9 And Investigate Box 9 Presenting A Serious Risk To Health.",
+    "risk_type": "The Rim Strip On The Tires Can Be Misaligned, Causing The Tube To Pop And Damage The Tire. Additionally, The Tires With A Ribbed Sidewall Can Unexpectedly Go Flat, Risking Serious Injuries From Loss Of Control And/Or Crash.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Laycol Baby Pool Float Sold Via Amazon Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Rings Contain Levels Of Lead That Exceed The Federal Lead Content Ban And Levels Of Cadmium That Are Prohibited In Children'S Products By The Federal Hazardous Substances Act. Lead And Cadmium Are Toxic If Ingested By Young Children And Can Cause Adverse Health Effects.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Lapierre Aircode Drs And Lapierre Xelius Bicycles Presenting A Risk Of Injuries.",
+    "risk_type": "The Safetussin Over-The-Counter Cold Medicine Contains Acetaminophen, Which Must Be In Child-Resistant Packaging As Required By The Poison Prevention Packaging Act. The Packaging Of The Products Is Not Child-Resistant As A Tablet Can Be Pushed Through The Foil, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Kidwill Multifunction Wooden Frame Abacus Toy Presenting A Serious Risk Of Asphyxiation.",
+    "risk_type": "The Scented Highlighters, Which Resemble Cups With Straws, Contain Phthalates; A Violation Of The Federal Phthalates Ban. Phthalates Are Toxic If Ingested By Young Children And Can Cause Adverse Health Effects.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For 3.2M Telescopic Ladder (Kiko 5031-8) Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Shock Absorber Rod Assembly Can Unthread And Detach, Causing Suspension Collapse, Posing Crash And Tip-Over Hazards To The Rider.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Joyin Play & Pack On The Go Key Fob And Cell Phone Toy Presenting A Serious Risk Of Damage To Hearing.",
+    "risk_type": "The Snowmobile'S Speedometer Can Display Half Of Vehicle'S True Speed, And May Result In Loss Of Control, Posing A Crash Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Joycat Baby Float Sold Via Amazon Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Recalled Children'S Chess Games Violate The Mandatory Standard For Toys Because They Contain Loose Magnets Posing An Ingestion Hazard To Children. When High-Powered Magnets Are Swallowed, They Can Attract Each Other, Or Other Metal Objects, And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting, And/Or Blockage Of The Intestines, Blood Poisoning And Death.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Jovant Pneumatic Push Out Nail Gun Sold Via Amazon Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Space Between The Second Rung Of The Bed'S Ladder And The Lower Bunk Frame Is Wider Than 3.5 Inches, Posing An Entrapment Hazard To Children, When The Mattress Is Removed.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Maak Colourful Water Beads Presenting A Serious Risk Of Injuries And Asphyxiation.",
+    "risk_type": "The Spacing Between Some Of The Crib'S Slats Is Wider Than Allowed Under The Federal Safety Standard, Posing An Entrapment Hazard To Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Rimek Single Rotary Tablet Press Machine - Unik-Pc 20 Stn Manual Control-Gf/Ff Presenting A Risk Of Injuries.",
+    "risk_type": "The Stainless-Steel Cups Contain Levels Of Lead That Exceed The Federal Lead Content Ban. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Effects.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Red Lawn Mower Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Steering Caps, Which Are Used To Hold The Handlebar In Place, Can Crack And Cause The Handlebars To Become Unstable, Posing A Crash Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Red Gasoline Chainsaw Presenting A High Risk Of Injuries.",
+    "risk_type": "The Steering Knuckle Can Detach From The Lower Arm, Resulting In A Loss Of Control Of The Vehicle, Posing A Crash Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Red Crystal Pearls Presenting A High Risk Of Asphyxiation.",
+    "risk_type": "The Steering Wheel Can Separate And Result In A Loss Of Control, Posing A Crash Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Rainbow Mix Jelly Water Gel Beads Presenting A Risk Of Aphyxiation.",
+    "risk_type": "The Surface Paint On The Tan Side Panels Of The Desks And Storage Units Contains Levels Of Lead That Exceed The Federal Lead Paint Ban, Posing A Lead Poisoning Hazard. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Effects.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Polyplas Water Beads 50000Pcs Presenting A Serious Risk Of Asphyxiation.",
+    "risk_type": "The Swing Violates The Safe Sleep For Babies Act Because The Product Was Marketed For Infant Sleep And Has An Incline Angle Greater Than 10 Degrees. Infant Fatalities Have Occurred In Inclined Sleepers, After The Infants Rolled From Their Back To Their Stomach Or Side While Unrestrained, Or Under Other Circumstances. The Swing Also Violates The Safety Standard For Infant Swings.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Playworld Systems Unity Teeter Tunnel Presenting A Risk Of Injuries.",
+    "risk_type": "The Space Between The Rotating Platform And The Stationary Outer Rim Can Leave A Gap That Narrows Too Much, Posing A Crushing Hazard To Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Minidream Safari Activity Gym Presenting A Serious Entrapment Risk.",
+    "risk_type": "The Recalled Over-The-Counter Products Contain The Regulated Substances Aspirin And Ibuprofen Which Must Be In Child Resistant Packaging As Required By The Poison Prevention Packaging Act (Pppa). The Packaging Of The Products Is Not Child Resistant, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Petzl Gym, Pandion And Panji Climbing Harnesses Presenting A Risk Of Injuries.",
+    "risk_type": "The Recalled Plastic Tip Restraint Kits (Also Referred To As Furniture Straps) Can Break Or Degrade, Posing Tip-Over And Entrapment Hazards That Can Result In Serious Injuries Or Death To Children Or Elderly Consumers Interacting With Furniture That Is Secured To The Wall With The Defective Plastic Tip Restraints.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Pei Feng Toys Factory Building Blocks Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Recalled Plastic Tip Restraint Kits (Also Referred To As Furniture Straps) Can Break Or Degrade, Posing Tip-Over And Entrapment Hazards That Can Result In Serious Injuries Or Death To Children Or Elderly Consumers Interacting With Furniture That Is Secured To The Wall With The Defective Plastic Tip Restraints. This Is A Hidden Defect Because Consumers Who Purchase And Install This Product May Be Under A False Sense Of Security That Their Furniture Is Safe From A Tip-Over Incident.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Pearson Hydraulic Shearing Machine Presenting A High Risk Of Entrapment And Injuries.",
+    "risk_type": "The Recalled Pounding Toys Violate The Mandatory Standard For Toys Because They Contain High-Powered Magnets, Which Can Detach, Posing An Ingestion Hazard To Children. When High-Powered Magnets Are Swallowed, The Ingested Magnets Can Attract Each Other, Or Other Metal Objects, And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting And/Or Blockage Of The Intestines, Blood Poisoning, And Death.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Parner Baby Swim Float And Seat Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Recalled Prescription Drugs And Products That Contain Lidocaine Must Be In Child Resistant Packaging As Required By The Poison Prevention Packaging Act (Pppa). The Packaging Of The Products Is Not Child Resistant, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Nineaccy Telescopic Ladders Presenting An Injuries Risk.",
+    "risk_type": "The Recalled Prescription Drugs Must Be In Child Resistant Packaging As Required By The Poison Prevention Packaging Act (Pppa). The Packaging Of The Products Is Not Child Resistant, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Multi-Functional Blender Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Recalled Products Contain Diphenhydramine Hydrochloride And Acetaminophen Which Must Be In Child Resistant Packaging As Required By The Poison Prevention Packaging Act (Pppa). The Packaging Of The Products Is Not Child Resistant, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Mr. Pen Water Beads Presenting A High Risk Of Asphyxiation.",
+    "risk_type": "The Recalled Products Contain Low-Viscosity Hydrocarbons Which Must Be In Child Resistant Packaging As Required By The Poison Prevention Packaging Act (Pppa). The Packaging Of The Products Is Not Child Resistant, Posing A Risk Of Poisoning. In Addition, The Label On The Products Violates The Federal Hazardous Substances Act (Fhsa) By Omitting The Mandatory Information On The Packaging.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Mitchum 48-Hour 100Ml Roll-On Antiperspirant And Deodorant Presenting A Health Risk.",
+    "risk_type": "The Rhinestones Embedded In The Recalled Tiaras Contain Levels Of Lead That Exceed The Federal Lead Content Ban. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Effects.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Pink And White Child'S Sports Bicycle Presenting A High Risk Of Injuries.",
+    "risk_type": "The Recalled Rollers Tile Toy Violates The Mandatory Federal Regulation For Toy Magnets Because It Contains A Magnet That Can Become Loose, Posing An Ingestion Hazard To Children. When High-Powered Magnets Are Swallowed, The Ingested Magnets Can Attract Each Other, Or Other Metal Objects, And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting, And/Or Blockage Of The Intestines, Infection, Blood Poisoning, And Death.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Hobbycraft Giant Box Of Craft Presenting A Health Risk.",
+    "risk_type": "The Recalled Stainless-Steel Bottles And Cups Bottom Base Can Break Off, Exposing A Solder Dot That Contains Lead, Posing A Lead Poisoning Hazard To The Child. Lead Is Toxic If Ingested By Young Children, And Can Cause Adverse Health Effects.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Hobbycraft Easter Bumper Craft Kit Presenting A Health Risk.",
+    "risk_type": "The Recalled Toys Violate The Mandatory Standard For Toys Because They Contain High-Powered Magnets Which Can Loosen And Detach, Posing An Ingestion Hazard To Children. When High-Powered Magnets Are Swallowed, The Ingested Magnets Can Attract Each Other, Or Other Metal Objects, And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting And/Or Blockage Of The Intestines, Blood Poisoning And Death.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Hgl Stretchy Sand Pig Toy Presenting A Risk To Health.",
+    "risk_type": "The Recalled Transceivers Can Unexpectedly Enter Search Mode Due To Interference From Other Beacons. If This Occurs, The Device Could Fail To Transmit The Position Of Survivors Of An Avalanche, Resulting In Delayed Search And Rescue Operations, Which Could Result In Severe Bodily Harm Or Death If The Skier Is Buried Under Snow.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Hgl Stretchy Sand Monster Truck/Car Toys Presenting A Risk To Health.",
+    "risk_type": "The Recalled Transceivers May Not Switch From Send Mode Into Search Mode. If This Were To Occur, The Device Would Not Be Able To Locate A Skier In An Avalanche, Which Could Result In Severe Bodily Harm Or Death If The Skier Is Buried Under Snow.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Hero Launching Robot Arm Toy Presenting A High Risk Of Asphyxiation And Injuries.",
+    "risk_type": "The Recalled Unassembled Deluxe Pit Kit Slot Cars Violate The Mandatory Federal Regulation For Magnets Because The Magnets Used To Power The Car Are Loose Prior To Assembly, Posing An Ingestion Hazard To Children. Assembled Models Do Not Pose This Risk And Are Therefore Not Subject To This Recall. When High-Powered Magnets Are Swallowed, The Ingested Magnets Can Attract Each Other, Or Another Metal Object, And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting And/Or Blockage Of The Intestines, Infection, Blood Poisoning And Death.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Hello Sunday Mineral Eye Cream Spf50 Presenting A Risk To Health.",
+    "risk_type": "The Reclining Plate That Holds The Child Bicycle Seat In Place Can Detach, Making The Child Seat Unstable And Can Cause The Rider Of The Bicycle To Lose Control, Posing A Crash Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Head Sport Gmbh Head Yellow Ski Boots Presenting A Risk Of Injuries.",
+    "risk_type": "The Red Tape On The Bowling Pin Sipper Cups Contains Levels Of Lead That Exceed The Federal Lead Content Ban. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Issues.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For 1800Pcs Jumbo Water Gel Beads Presenting A Serious Asphyxiation And Injuries.",
+    "risk_type": "The Recalled Residential Boilers Can Be Missing The Flue Inspection Cover Plate, Posing A Risk Of Exposure To Combustion Flue Gasses And A Carbon Monoxide Poisoning Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Halfords Essentials Nyala R129 Car Seat Presenting A Risk Of Injuries.",
+    "risk_type": "The Vehicle'S Internal Motor Wiring Can Become Damaged Over Time. Under Certain Conditions, This Issue Can Cause The Vehicle To Move Unintentionally. This Movement Poses A Crash Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Habitat Seed Pod Bowl Filler Presenting A Health Risk.",
+    "risk_type": "The Weld Between The Brake Pedal Pivot Bracket And The Eps Mounting Bracket Can Separate, Which Can Result In A Loss Of Brake Function, Posing A Crash Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Get Set Play Jumbo Balloon Pumper Presenting A Risk Of Injuries.",
+    "risk_type": "The Wires In The Power Station'S Ac Outlet Receptacles Are Reversed When The Product Is In Emergency Power Supply (\"Eps\") Mode, Posing A Shock Hazard To Consumers Operating The Power Station.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For George Baby 3-Pack Rompers With Zip Presenting A Risk Of Injuries.",
+    "risk_type": "The Wooden Parts Used To Reinforce And Create A Decorative Gable Design On The Wooden Roof Pose An Entrapment Hazard To Children. Children Can Become Trapped In The Gap Between The Lower Part Of The Roof Structure And The Bottom Of The Gable Decoration.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For George 'Stitch And Angel' Two Piece Children'S Clothing Set Presenting A Risk Of Injuries.",
+    "risk_type": "The Work Boots Can Be Missing The Metatarsal Guard, Posing An Impact Hazard To The User'S Feet.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Galt Nature Craft Kit Presenting A Risk To Health.",
+    "risk_type": "The Yellow-Painted Metal Zipper Contains Levels Of Lead That Exceed The Federal Lead Paint Ban, Posing A Lead Poisoning Hazard; The Orange Plastic Phone Cord Contains Levels Of Lead That Exceed The Federal Lead Content Ban; And The Horn'S Blue Plastic Bulb Contains A Regulated Phthalate That Exceed The Prohibition Of Specific Phthalates. Phthalates And Lead Are Toxic If Ingested By Young Children And Can Cause Adverse Health Issues.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For First Baby Days Bath Time Bath Book.",
+    "risk_type": "These Products Contain The Substance Methyl Salicylate, Which Must Be In Child Resistant Packaging, As Required By The Poison Prevention Packaging Act (Pppa). The Packaging Of The Products Is Not Child Resistant, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Endless Pools Retractable Pool Cover Presenting A Risk Of Entrapment.",
+    "risk_type": "Water Can Get Into The Battery Causing A Short Circuit, Posing A Crash Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Handlebar Stem On Mirider 24 Bicycles Presenting A Risk Of Injuries.",
+    "risk_type": "The Teeth Of The Recalled Ascenders Can Fail To Engage, Making It Difficult Or Impossible For The User To Ascend.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Ktl Squishy Stretchy Capybara Toy Presenting A Risk To Health.",
+    "risk_type": "When Adjusting The Backrest While Seated, The Adjustable Backrest Can Unexpectedly Descend With Force, Posing Finger Crushing And Amputation Hazards.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Ktl Squeezy Splatter Pig Toy Presenting A Risk To Health.",
+    "risk_type": "When Attached To A Crib, A Protruding Knob On The Activity Desks Can Become Entangled With Clothing On A Child, Posing An Entanglement Hazard. The Opening In The Handle On The Desks Can Also Pose A Jaw Entrapment Hazard To Children Under 18 Months.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Ktl Sensory Science Kit Presenting A Risk To Health.",
+    "risk_type": "When The Bedrail Is Attached, Users Can Become Entrapped Within The Bed Rail Or Between The Bed Rail And The Side Of The Mattress. This Poses A Serious Entrapment Hazard And Risk Of Death By Asphyxiation.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Ktl Kreative Kids! Jumbo Craft Box Presenting A Risk To Health.",
+    "risk_type": "When The Recalled Bed Rails Are Attached To A Bed, Users Can Become Entrapped Within The Bed Rail Or Between The Bed Rail And The Side Of The Mattress. This Poses A Serious Entrapment Hazard And Risk Of Death By Asphyxiation.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Ktl Decorative Glass Bottle Of Sand Presenting A Risk To Health.",
+    "risk_type": "When The Recalled Dog Eyelid Wipes Are Opened And In Use, Bacteria And Fungi, Which Are Organisms Found Widely In The Environment, Soil, And Water, Can Be Introduced And Grow In The Container, Posing A Risk Of Serious Infection To People With Weakened Immune Systems. Individuals With Wounds May Also Be At Higher Risk Of Infection. People With Healthy Immune Systems Are Not Typically Affected.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Ktl 3Pcs Test Tube Science Kit Presenting A Risk To Health.",
+    "risk_type": "When Two Or More High-Powered Magnets Are Swallowed, Either Accidentally Or Intentionally, The Ingested Magnets Can Attract To Each Other, Or To Another Metal Object, And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting And/Or Blockage Of The Intestines, Infection, Blood Poisoning, And Death.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Ktl 2Pc Balloon Dog Toy Presenting A Risk To Health.",
+    "risk_type": "Young Children Can Become Entrapped In The Space Between The Exterior Landing (Hoistway) Door And The Interior Elevator Car Door Or Gate Due To A Hazardous Gap, And Suffer Serious Injuries Or Death When The Elevator Is Called To Another Floor.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Hobbycraft Sand And Pom Pom Art Kit Presenting A Health Risk.",
+    "risk_type": "Young Children Can Become Entrapped In The Space Between The Exterior Landing (Hoistway) Door And The Interior Elevator Car Door Or Gate If There Is A Hazardous Gap Between The Doors And Suffer Serious Injuries Or Death When The Elevator Is Called To Another Floor.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Kids Create Sand Art Kit Presenting A Risk To Health.",
+    "risk_type": "Weight Plates Can Dislodge From The Dumbbell Handle During Use, Posing An Impact Hazard To Consumers.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Kawasaki Jetski Ultra 310 Series Presenting A Risk Of Injuries.",
+    "risk_type": "The Textile Ink Painted On The Recalled Clothing Sets Contains Levels Of Lead That Exceed Either The Federal Lead Paint Ban Or The Federal Lead Content Ban, Posing A Lead Poisoning Hazard. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Issues.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Joolz Hub Pram Presenting A High Risk Of Injuries.",
+    "risk_type": "The Throttle Cable Can Freeze At Low Ambient Temperatures, Resulting In A Stuck Throttle Which Can Cause The Brakes To Fail To Stop The Vehicle, Posing A Crash Hazard. Additionally, On Certain Model Year 2022 Intimidator Gc1K Vehicles, The Onboard Software Does Not Prevent Consumers From Exceeding 15 Mph When The Seatbelt Is Disengaged, Posing A Crash Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Joie Serina Elephant Duo Swivel Baby Swing Presenting A Risk Of Injuries.",
+    "risk_type": "The Throttle Can Fail To Return To The Idle Position After The Engine Stalls And Is Restarted In Gear Without Switching The Key To The Off Position Due To A Software Problem, Causing The Vehicle To Accelerate Suddenly, Posing A Crash Hazard To The User.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For J&J Conversions F1 Low Approach Slide Bed Recovery Vehicle Presenting A High Risk Of Injuries.",
+    "risk_type": "The Throttle Gas Pedal Can Fail To Return Quickly To The Idle Position Which Can Create A Crash Hazard If The Vehicle Does Not Slow Down As Quickly As Expected By The Driver When The Gas Pedal Is Released. The Throttle Gas Pedal Can Fail To Return Quickly To The Idle Position Which Can Create A Crash Hazard If The Vehicle Does Not Slow Down As Quickly As Expected By The Driver When The Gas Pedal Is Released.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Hti Toys Stretcherz Toys Presenting A Risk To Health.",
+    "risk_type": "The Throttle Lever On The Recalled Atvs Can Fail To Return To The Idle Position When A Driver Releases It, And The Vehicle Could Then Unexpectedly Continue To Accelerate, Posing A Crash Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Honeywell Miller H500-Series Harnesses With Leg Buckles Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Throttle Lever Stop Can Fail Due To Damage During Shipping, Posing A Crash Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Home Bargains Happy Easter Plush Toys Presenting A Serious Risk Of Asphyxiation.",
+    "risk_type": "The Throttle Pedal Can Return To The Idle Position More Slowly Than Anticipated Once The Pedal Is Released Or Stick In The Depressed Position, Posing A Crash Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Ktl 2.2Kg Squishy Hot Colour Gorilla Toy Presenting A Risk To Health.",
+    "risk_type": "The Throttle Release Switch (Trs) Can Fail To Disengage When The Throttle Lever Is Released And If A Stuck Throttle Condition Occurs When The Trs Fails To Disengage, It Can Lead To Loss Of Vehicle Control, Posing A Crash Hazard. Additionally, On Certain Model Year 2022 Matryx Rmk Snowmobiles, The Throttle Cable Can Be Kinked During Installation, Which Can Lead To Damage Of The Throttle Cable During Operation And Impairment Of The Throttle Function, Posing A Crash Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Terex Gb Limited Premiertrak Mobile Jaw Crusher Presenting A High Risk Of Injuries.",
+    "risk_type": "The Usb Module In The Recliner Arm Can Overheat And Spark, Posing An Overheating Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Terex Gb Limited Finlay J-1170+ Mobile Jaw Crusher Presenting A High Risk Of Injuries.",
+    "risk_type": "The Tip-Over Restraint Straps Can Fail When Used On Certain Sauder Clothing Storage Units (Dressers And 4-Drawer Chests) To Prevent Tip-Over Incidents, Posing Tip-Over And Entrapment Hazards That Can Result In Death Or Serious Injuries To Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Teemza 6.2M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Toggle Switch Can Separate From The Transceiver, And Prevent The Transceiver From Switching To Search Mode, Making It Difficult To Locate A Skier In An Avalanche, Which Can Result In Severe Bodily Harm Or Death If A Skier Is Buried Under Snow.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Teemza 4.9M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Tool Belt, Hammer And Suspenders (Model H3044) Contain Excessive Levels Of Lead, Violating The Federal Lead Content Standard. In Addition, The Toy Goggles And Hardhats Do Not Meet Toy Safety Requirements.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Teemza 3.8M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Toy Airplane Inside The Egg Contains Levels Of Lead That Exceed The Federal Lead Content Ban. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Issues.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Teemza 3.2M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Toys' Yellow Poles Contain Levels Of Lead That Exceed The Federal Lead Content Ban. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Issues.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Tarmak Nba Basketball Hoop Presenting A Risk Of Injuries.",
+    "risk_type": "The Transceiver Can Switch Modes Unexpectedly When Not Locked Or Installed In The Harness. When This Occurs, It Will Prevent The Transceiver From Transmitting A Signal And Can Make It Difficult To Locate A Skier In An Avalanche, Which Can Result In Severe Bodily Harm Or Death.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Emba Cast Iron Cookware Presenting A Health Risk.",
+    "risk_type": "The Tv Can Become Unstable While On The Assembled Stand, Posing Serious Tip-Over And Entrapment Hazards That Can Result In Injuries Or Death To Children And Others.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Step Ladder Presenting A High Risk Of Injuries.",
+    "risk_type": "The Universal Joint Can Fail And Pierce And Sever The Brake Line, Posing A Crash Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Star Blue Light Up Tri-Scooter Presenting A High Risk Of Injuries.",
+    "risk_type": "The Throttle Speed Control Stop Can Break And Become Stuck, Posing A Crash Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Stainless Steel Telescopic Ladder 3.8M Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Recalled Children'S Flashcard Toy Sets Contain Levels Of Lead That Exceed The Federal Lead Content Ban And Levels Of Phthalates That Exceed The Federal Phthalates Ban. Lead And Phthalates Are Toxic If Ingested By Young Children And Can Cause Adverse Health Issues. In Addition, The Flashcards Also Violate The Mandatory Standard For Toys Because They Fail To Comply With The Short Circuit Protection Requirement For Battery-Operated Toys.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Ashton Global / Spectra 45Nb Stone Melanger Presenting A Serious Risk Of Injuries And Entrapment.",
+    "risk_type": "The Recalled Children’S Fingerpainting Kits Contain The Hazardous Substances Methanol And Ethylene Glycol And Are Intended For Children Under 12 Years Of Age, Which Violate The Federal Hazardous Substances Act. The Products Also Contain A Regulated Phthalate, Which Violate The Federal Phthalate Ban; Phthalates Are Toxic If Ingested By Young Children And Can Cause Adverse Health Effects.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "A Product Safety Report For Belecoo Stroller With Car Seat Presenting An Asphyxiation Risk.",
+    "risk_type": "The Recalled Cleaning Product Violates The Federal Hazardous Substances Act Because It Is Deceptively Labeled As \"Safe And Non-Toxic\" And Lacks The Required Cautionary Statements For Petroleum Distillates, Posing A Risk Of Poisoning To Consumers.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Zudrez Roller Skates Sold Via Amazon Presenting A High Risk Of Injuries.",
+    "risk_type": "The Recalled Dietary Supplements Contain Iron Which Must Be In Child-Resistant Packaging As Required By The Poison Prevention Packaging Act (Pppa). The Packaging Of The Products Is Not Child-Resistant, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Environmental",
+    "risk_type": "The Recalled Dietary Supplements Contain Iron, Which Must Be In Child-Resistant Packaging, As Required By The Poison Prevention Packaging Act (Pppa). The Packaging Is Not Child-Resistant, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Variodyn One Voice Alarm System Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Recalled Dietary Supplements Contain Iron, Which Must Be In Child-Resistant Packaging, As Required By The Poison Prevention Packaging Act (Pppa). The Packaging Of The Products Is Not Child-Resistant, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Swimbobo Space Rocket Pool Float Presenting A Risk Of Serious Injuries.",
+    "risk_type": "The Recalled Dietary Supplements Contain Iron, Which Must Be In Child-Resistant Packaging, As Required By The Poison Prevention Packaging Act. The Iron-Containing Dietary Supplement Packages Violate The Federal Standard For Child-Resistant Packaging Because The Bottles And Blister Packs Are Not Child-Resistant, Posing A Risk Of Deadly Poisoning, If The Contents Are Swallowed By Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Electra E-Bikes Presenting A Risk Of Injuries.",
+    "risk_type": "The Recalled Drain Covers Do Not Conform To The Entrapment Protection Regulations Of The Virginia Graeme Baker Pool And Spa Safety Act (Vgba), Posing An Entrapment Hazard To Swimmers And Bathers.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Dt Swiss Erc/Crc/Hec/Arc Bicycle Wheels Presenting A Risk Of Injuries.",
+    "risk_type": "The Recalled Over-The-Counter Products Contain The Regulated Substance Acetaminophen Which Must Be In Child Resistant Packaging As Required By The Poison Prevention Packaging Act (Pppa). The Packaging Of The Products Is Not Child Resistant, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Croydex Kentmere, Harrop, Simpson And Belham Mirrors Presenting A Low Risk Of Injuries.",
+    "risk_type": "The Recalled Dressers And Cabinets Are Unstable And Can Tip Over If Not Anchored To The Wall, Posing Serious Tip-Over And Entrapment Hazards That Can Result In Death Or Injuries To Children. The Chests Do Not Comply With The Performance Requirements Of The U.S. Voluntary Industry Standard (Astm F2057-19).",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Croydex Devoke Mirror And Croydex Rydal Mirror Presenting A Low Risk Of Injuries.",
+    "risk_type": "The Recalled Dressers Are Unstable If Not Anchored To The Wall, Posing Tip-Over And Entrapment Hazards That May Result In Death Or Serious Injuries To Children. The Dressers Do Not Comply With The Performance Requirements Of The U.S. Voluntary Industry Standard (Astm 2057-17).",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Cowboy E Bike Model C4 St (Edition Mr) Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Recalled Dressers Are Unstable If Not Anchored To The Wall, Posing Tip-Over And Entrapment Hazards That May Result In Death Or Serious Injuries To Children. The Dressers Do Not Comply With The Performance Requirements Of The U.S. Voluntary Industry Standard (Astm 2057-19).",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Colour Forge Basing Sand Presenting A Health Risk.",
+    "risk_type": "The Recalled Dressers Are Unstable If The Mirror Is Not Installed, Posing Serious Tip-Over And Entrapment Hazards That Can Result In Death Or Injuries To Children. The Dressers Do Not Comply With One Of The Performance Requirements Of The U.S. Voluntary Industry Standard (Astm 2057-17). The Tip-Over Restraint Kits Do Not Comply With The Performance Requirements Of The U.S. Voluntary Industry Standard (F3096-14).",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Children'S Non Toxic Water Beads Presenting A High Risk Of Asphyxiation.",
+    "risk_type": "The Recalled Dressers Are Unstable If They Are Not Anchored To A Wall, Posing Serious Tip-Over And Entrapment Hazards That Can Result In Injuries Or Death To Children. The Dressers Violate The Mandatory Standard As Required By The Sturdy Act.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Character Mugs Presenting A Health Risk.",
+    "risk_type": "The Recalled Dressers Are Unstable If They Are Not Anchored To The Wall, Posing A Serious Tip-Over And Entrapment Hazards That Can Result In Injuries Or Death To Children. The Dressers Violate The Mandatory Standard As Required By The Sturdy Act.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Topway Steel 3-Step Home Ladder Presenting A High Risk Of Injuries.",
+    "risk_type": "The Recalled Dressers Are Unstable If They Are Not Anchored To The Wall, Posing Serious Tip-Over And Entrapment Hazard That Can Result In Injuries Or Death To Children. The Dressers Violate The Mandatory Standard As Required By The Sturdy Act.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Brown Safety Trainers Sold Via Tiktok Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Recalled Dressers Are Unstable If They Are Not Anchored To The Wall, Posing Serious Tip-Over And Entrapment Hazards That Can Result In Death Or Injuries To Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Borderline Editions Kluster (Classic) Game Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Recalled Drawer Chests Are Unstable If They Are Not Anchored To The Wall, Posing Serious Tip-Over And Entrapment Hazards That May Result In Death Or Injuries To Children. The Chests Do Not Comply With The Performance Requirements Of The U.S. Voluntary Industry Standard (Astm F2057-19).",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Bondi Sands Zinc Mineral Sunscreen Spf50+ Body Lotion And Face Lotion Presenting A Health Risk.",
+    "risk_type": "The Recalled Bed Rails Violate The Mandatory Standard For Adult Portable Bed Rails Because When The Bed Rails Are Attached To A Bed, Users Can Become Entrapped Within The Bed Rail Or Between The Bed Rail And The Side Of The Mattress, Posing A Serious Entrapment Hazard And Risk Of Death By Asphyxiation.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Black Diamond Vision Harness Presenting A High Risk Of Injuries.",
+    "risk_type": "The Recalled Board Games Violate The Mandatory Standard For Toys Because The Magnetic Game Pieces Contain Loose High-Powered Magnets, Posing An Ingestion Hazard To Children. When High-Powered Magnets Are Swallowed, The Ingested Magnets Can Attract Each Other, Or Other Metal Objects, And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting, And/Or Blockage Of The Intestines, Blood Poisoning And Death.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Black Diamond Recon Lt Avalanche Transceiver Presenting A Risk Of Injuries.",
+    "risk_type": "The Recalled Bonded Crank Parts Can Separate And Break, Posing A Crash Hazard To Consumers.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Balmonds Gentle Face Wash Presenting A Health Risk.",
+    "risk_type": "The Recalled Bookcase Is Unstable If It Is Not Anchored To The Wall, Posing Tip-Over And Entrapment Hazards That Can Result In Death Or Serious Injuries To Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For V8 E-Bike Presenting A High Risk Of Injuries.",
+    "risk_type": "The Recalled Bookcases Are Unstable And Can Tip Over If Not Anchored To The Wall, Posing Tip-Over And Entrapment Hazards That Can Result In Death Or Injuries To Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Tp Toys Foldaway Swing Seat Presenting A Risk Of Injuries.",
+    "risk_type": "The Recalled Bottles Contain Turpentine, Which Must Be In Child-Resistant Packaging, As Required By The Poison Prevention Packaging Act. The Turpentine Bottles Violate The Mandatory Standard For Child-Resistant Packaging, Posing A Deadly Poisoning Hazard To Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Byblos Blu Happy Hour Eau De Toilette.",
+    "risk_type": "The Recalled Cabinets Are Unstable If Not Anchored To The Wall, Posing Tip-Over And Entrapment Hazards That Can Result In Death Or Serious Injuries To Children. The Cabinets Do Not Comply With The Performance Requirements Of The U.S. Voluntary Industry Standard (Astm F2057-19).",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Turkish Household (Uk) Limited Small Foldable Stools Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Recalled Chest Is Unstable If It Is Not Anchored To The Wall, Posing Serious Tip-Over And Entrapment Hazards That Can Result In Death Or Injuries To Children. The Chest Does Not Comply With The Performance Requirements Of The U.S. Voluntary Industry Standard (Astm 2057-17).",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Trublue Iq And Trublue Speed Climbing Auto Belays",
+    "risk_type": "The Recalled Children'S Craft Buttons Contain Levels Of Lead That Exceed The Federal Lead Content Ban. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Effects.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Thekiddospace Magnetic Reusable Water Balloons Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Recalled Chest Is Unstable If It Is Not Anchored To The Wall, Posing Tip-Over And Entrapment Hazards That May Result In Death Or Serious Injuries To Children. The Chests Do Not Comply With The Performance Requirements Of The U.S. Voluntary Industry Standard (Astm 2057-19).",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Texet Bright Start Fluorescent Coloured Craft Sand Pack Of 6 Presenting A Risk To Health.",
+    "risk_type": "The Recalled Chests And Dressers Are Unstable If They Are Not Anchored To The Wall, Posing Serious Tip-Over And Entrapment Hazards That Can Result In Death Or Injuries To Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Texet Bright Start Coloured Crafting Sand Pack Of 20 Presenting A Risk To Health.",
+    "risk_type": "The Recalled Chests Are Unstable If They Are Not Anchored To The Wall, Posing Serious Tip-Over And Entrapment Hazards That Can Result In Death Or Injuries To Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Stromer St3, St5 And St7 Bicycles Fitted With Wren Front Suspension Forks Presenting A Risk Of Injuries.",
+    "risk_type": "The Recalled Chests Are Unstable If They Are Not Anchored To The Wall, Posing Tip-Over And Entrapment Hazards That Can Result In Death Or Serious Injuries To Children. The Chests Do Not Comply With The Performance Requirements Of The Voluntary Industry Standard Astm F2057-14.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Stokke® Yoyo 3 Pram Presenting A Risk Of Injuries.",
+    "risk_type": "The Recalled Chests Are Unstable If They Are Not Anchored To The Wall, Posing Tip-Over And Entrapment Hazards That Can Result In Death Or Serious Injuries To Consumers.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Ktl Stretchy Dog Toys Presenting A Risk To Health.",
+    "risk_type": "The Recalled Chests, Cabinets And Dressers Are Unstable And Can Tip Over If Not Anchored To The Wall, Posing Serious Tip-Over And Entrapment Hazards That Can Result In Death Or Injuries To Children. The Chests Do Not Comply With The Performance Requirements Of The U.S. Voluntary Industry Standard (Astm F2057-19).",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Stihl Br 800 Backpack Blower Presenting A Risk Of Injuries.",
+    "risk_type": "The Recalled Children'S Bamboo Plates Have Elevated Levels Of Lead And Formaldehyde. Both Lead And Formaldehyde Are Toxic If Ingested By Children And Can Cause Adverse Health Effects.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Squishy Sausage Dogs And Squishy Pugs Presenting A Risk To Health.",
+    "risk_type": "Tests Conducted By The Centers For Disease Control And Prevention (Cdc) Determined That A Bottle Of The Room Spray Contained The Rare And Dangerous Bacteria Burkholderia Pseudomallei Which Causes Melioidosis, A Condition That Is Difficult To Diagnose And Can Be Fatal.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Spooktacular Creations Brown Zombie Costume Presenting A Risk Of Injuries.",
+    "risk_type": "The Recalled Chest Is Unstable If It Is Not Anchored To The Wall, Posing Tip-Over And Entrapment Hazards That May Result In Death Or Serious Injuries To Children. Additionally, Kullen 3-Drawer Chests Imported After August 12, 2019 Do Not Comply With The Performance Requirements Of The Updated Version Of The U.S. Consensus Standard (Astm 2057-19).",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Specialized E-Bike Chain Guards Presenting A Risk Of Injuries.",
+    "risk_type": "The Recalled Magnet Spinner Sets Violate The Mandatory Standard For Toys Because The Sets Contain Loose Magnets, Posing An Ingestion Hazard To Children. When High-Powered Magnets Are Swallowed, They Can Attract Each Other, Or Other Metal Objects, And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting, And/Or Blockage Of The Intestines, Blood Poisoning And Death.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Soft Bulalaet Gun Presenting A High Risk Of Injuries And Asphyxiation.",
+    "risk_type": "The Recalled Magnetic Building Cubes Contain Magnets That Can Become Loose If The Seams Separate, Posing An Ingestion Hazard To Children. When High-Powered Magnets Are Swallowed, The Ingested Magnets Can Attract Each Other, Or Other Metal Objects, And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting, And/Or Blockage Of The Intestines, Blood Poisoning And Death.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Site Hallissey Dark Brown Dealer Boot Presenting A Risk Of Injuries.",
+    "risk_type": "The Recalled Magnetic Building Sticks Set Violates The Mandatory Federal Regulation For Magnet Toys Posing An Ingestion Hazard. When High-Powered Magnets Are Swallowed, The Ingested Magnets Can Attract Each Other, Or Another Metal Object, And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting And/Or Blockage Of The Intestines, Infection, Blood Poisoning And Death.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Simond Probe Ski Touring Pole Presenting A Risk Of Entrapment.",
+    "risk_type": "The Recalled Magnetic Chess Games, Which Include 20 Magnet Pieces, Violate The Mandatory Federal Toy Magnet Regulation Because The Set Contains One Or More Magnets That Fit Within Cpsc'S Small Parts Cylinder, And The Magnets Are Stronger Than Permitted. When High-Powered Magnets Are Swallowed, The Ingested Magnets Can Attract Each Other, Or Another Metal Object, And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting And/Or Blockage Of The Intestines, Infection, Blood Poisoning And Death.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Seven Smyths Toys Dig Products Containing Sand, Presenting A Risk To Health.",
+    "risk_type": "The Recalled Magnetic Drinkware Charms Violate The Mandatory Standard For Magnets Because They Contain Loose Magnets Posing An Ingestion Hazard To Children. When High-Powered Magnets Are Swallowed, The Ingested Magnets Can Attract Each Other, Or Other Metal Objects, And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting, And/Or Blockage Of The Intestines, Blood Poisoning And Death.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Stihl Rma 235.0 Cordless Lawnmower Presenting A Risk Of Injuries.",
+    "risk_type": "The Recalled Magnetic Fidget Pill Toy Violates The Mandatory Federal Regulation For Magnets, Posing An Ingestion Hazard To Children. When High-Powered Magnets Are Swallowed, The Ingested Magnets Can Attract Each Other, Or Another Metal Object, And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting And/Or Blockage Of The Intestines, Infection, Blood Poisoning And Death.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For 2.5M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Recalled Magnetic Floating Stackers Toys Violate The Mandatory Standard For Toy Magnets Because They Contain Magnets That Can Loosen And Detach From The Toy, Posing An Ingestion Hazard To Children. When High-Powered Magnets Are Swallowed, The Ingested Magnets Can Attract Each Other, Or Other Metal Objects, And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting, And/Or Blockage Of The Intestines, Blood Poisoning And Death.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Vevor Jack With Airbag Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Recalled Magnetic Multifunctional Puzzle Crab Toy Set Violates The Mandatory Federal Regulation For Magnet Toys, Posing An Ingestion Hazard. When High-Powered Magnets Are Swallowed, The Ingested Magnets Can Attract Each Other, Or Another Metal Object, And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting And/Or Blockage Of The Intestines, Infection, Blood Poisoning And Death.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For 10G Water Ball Beads Presenting A Serious Risk Of Asphyxiation.",
+    "risk_type": "The Recalled Dressers Are Unstable If They Are Not Anchored To The Wall, Posing Serious Tip-Over And Entrapment Hazards That Can Result In Injuries Or Death To Children. The Dressers Fail To Meet The Mandatory Standard, As Required By The Sturdy Act.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For 10Ft Trampoline, 10Fthc14 Presenting A High Risk Of Injuries.",
+    "risk_type": "The Recalled Make It Mini Sets Contain Resins That, When Liquid, Can Cause Skin, Eye, And Respiratory Irritation Or Sensitization When Inhaled, Touched, Or Ingested By Children Or Adults. The Resins Contain Acrylates (Hydroxyethylmethacrylate \"Hema\" And Isobornyl Acrylate \"Iboa\") In Amounts Prohibited In Children'S Products By The Federal Hazardous Substances Act. After The Resins Cure, They No Longer Present This Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For 10,000Pcs Coloured Water Gel Beads Presenting A High Risk Of Asphyxiation.",
+    "risk_type": "The Recalled Mouthwash Contains Ethanol In A Concentration Which Must Be In Child-Resistant Packaging, As Required By The Poison Prevention Packaging Act (Pppa). The Packaging Of The Products Is Not Child-Resistant, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall Of Xiangtai Safety Belt Sold Via Tiktok Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Recalled Mower Decks Cannot Be Secured In The Upright Or Tilted Position By The Locking Pins During Maintenance Or Service, Posing A Crush Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall Of Various Matalan Bikini Tops Presenting A Risk Of Injuries.",
+    "risk_type": "The Recalled Multivitamins Contain Iron, Which Must Be In Child-Resistant Packaging, As Required By The Poison Prevention Packaging Act. The Recalled Packaging Of The Iron-Containing Multivitamins Violates The Federal Standard For Child-Resistant Packaging Because The Bottle Caps Are Not Child-Resistant, Posing A Risk Of Deadly Poisoning, If The Contents Are Swallowed By Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Ultra Violette Lean Screen Spf50+ Sunscreen Presenting A Serious Health Risk.",
+    "risk_type": "The Recalled Noise-Reducing Earmuffs Can Develop Cracks In The Colored Portion Of The Plastic Cups, Posing A Risk Of Overexposure To Loud Noise And Sound.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Yamaha Motor Golf Buggy Presenting A Risk Of Injuries.",
+    "risk_type": "The Recalled Over-The-Counter Product Contains The Regulated Substance Acetaminophen Which Must Be In Child Resistant Packaging As Required By The Poison Prevention Packaging Act (Pppa). The Packaging Of The Product Is Not Child Resistant, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Yamaha Drive 2 Ac And Drive 2 Ac Li Golf Cars Presenting A Risk Of Injuries.",
+    "risk_type": "The Recalled Over-The-Counter Product Contains The Regulated Substance Acetaminophen Which Must Be In Child Resistant Packaging As Required By The Poison Prevention Packaging Act (Pppa). The Packaging Of The Products Is Not Child Resistant, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Wooden Qiyi Sand Activity Toy Presenting A Risk To Health.",
+    "risk_type": "The Recalled Over-The-Counter Products Contain Regulated Substances (Aspirin, Acetaminophen, Or Ibuprofen) Which Must Be In Child Resistant Packaging When Being Used In The Household As Required By The Poison Prevention Packaging Act (Pppa). The Packaging Of The Products Is Not Child Resistant, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Wave Builder Hair Products Presenting A Risk Of Non-Compliance.",
+    "risk_type": "The Recalled Magnetic Stick Figure Toy Sets Violate The Mandatory Standard For Toys Because The Sets Contain Loose Magnets, Posing An Ingestion Hazard To Children. When High-Powered Magnets Are Swallowed, They Can Attract Each Other, Or Other Metal Objects, And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting, And/Or Blockage Of The Intestines, Blood Poisoning And Death.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Waterproof Front Seat Cover Set Presenting A Risk Of Injuries.",
+    "risk_type": "The Recalled Dressers Are Unstable If They Are Not Anchored To The Wall, Posing Serious Tip-Over And Entrapment Hazards That Can Result In Injuries Or Death To Children. The Dressers Violate Performance And Labeling Requirements Of The Sturdy Act.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Volvo Penta Evc 2 Presenting A High Risk Of Injuries.",
+    "risk_type": "The Recalled Dressers Are Unstable If They Are Not Anchored To The Wall, Posing Serious Tip-Over And Entrapment Hazards That Can Result In Injuries Or Death To Children. The Dressers Violate Performance Requirements Of The Sturdy Act.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Villeroy & Boch Kiddy Bears Children'S Glass Collection Presenting A Risk Of Injuries.",
+    "risk_type": "The Recalled Dressers Are Unstable If They Are Not Anchored To The Wall, Posing Serious Tip-Over And Entrapment Hazards That Can Result In Injuries Or Death To Children. The Dressers Violate The Mandatory Standard Required By The Sturdy Act.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Urban Balcony Deckchair Presenting A Risk Of Entrapment.",
+    "risk_type": "The Recalled Dressers Are Unstable If They Are Not Anchored To The Wall, Posing Tip-Over And Entrapment Hazards That Can Result In Risks Of Serious Injuries Or Death To Children. The Dressers Violate The Mandatory Safety Standard As Required By The Sturdy Act.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall Of Matalan Bunny Tumbler With Straw Presenting A Risk Of Injuries.",
+    "risk_type": "The Recalled Dressers Are Unstable If They Are Not Anchored To The Wall, Posing Tip-Over And Entrapment Hazards That Can Result In Risks Of Serious Injuries Or Death To Children. The Dressers Violate The Mandatory Standard As Required By The?Sturdy Act.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Moustache E-Bikes Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Recalled Dressers Are Unstable If They Are Not Anchored To The Wall, Posing Tip-Over And Entrapment Hazards That Can Result In Risks Of Serious Injuries Or Death To Children. The Dressers Violate The Mandatory Standard Required By The Sturdy Act.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Moonboon Organic Baby Hammock Mounting Kit Presenting A Risk Of Injuries.",
+    "risk_type": "The Recalled Dressers Are Unstable If They Are Not Anchored To The Wall, Posing Tip-Over And Entrapment Hazards That Can Result In Serious Injuries Or Death To Children. The Dressers Fail To Meet The Mandatory Standard Required By The Sturdy Act.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Mercury Marine Gen 2 Dts And Avator Controls. \r\n\r\nProducts Fitted To Boats With The Specified Hin Numbers Present A Risk Of Non-Compliance Due To An Operating Fault.",
+    "risk_type": "The Recalled Dressers Are Unstable If They Are Not Properly Anchored To The Wall, Posing Serious Tip-Over And Entrapment Hazards That Can Result In Injuries Or Death To Children. The Dressers Violate The Performance Requirements Of The Sturdy Act.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Matalan Dungarees, Rompers And Sweater Sets Presenting A Risk Of Injuries.",
+    "risk_type": "The Recalled Magnet Games Violate The Mandatory Standard For Toys Because They Contain Loose High-Powered Magnets That Fit Within Cpsc'S Small Parts Cylinder, Posing An Ingestion Hazard To Children. When High-Powered Magnets Are Swallowed, The Ingested Magnets Can Attract Each Other, Or Other Metal Objects, And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting, And/Or Blockage Of The Intestines, Blood Poisoning And Death.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Mammut Via Ferrata Sets Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Recalled Faucets Were Tested And Found To Contain Lead That Can Leach Into Water At Levels That Can Be Particularly Harmful To Infants And Young Children. Lead Ingestion Can Cause Harmful Neurological Effects On Infants And Young Children, Including Attention-Related Behavioral Problems, Decreased Cognitive Performance And Lower Iq.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Mammut Skywalker Pro And Skywalker Pro Turn Via Ferrata Sets Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Recalled Foam Pattern Rollers Are Intended For Children And Contain Levels Of Lead That Exceed The Federal Lead Content Ban In The Rollers' Handles. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Effects.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Makita Cordless Grease Gun Presenting A Risk Of Injuries.",
+    "risk_type": "The Recalled Fog Liquid Can Expire Sooner Than The Expiration Date Listed On The Product. This Can Pose A Risk Of Respiratory Or Other Infections In Individuals With Compromised Immune Systems, Damaged Lungs Or An Allergy To Mold.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Scrunchems Stretchies Sleepy Dino Toy Presenting A Risk To Health.",
+    "risk_type": "The Recalled Guitar String Lubricant Contains A Contaminant, Posing A Risk Of Skin Irritation.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For M.Asam Vitamin C Glow Ampullens Presenting A Risk Of Injuries.",
+    "risk_type": "The Recalled Headlight Sealant Contains Low-Viscosity Hydrocarbons Which Must Be In Child Resistant Packaging As Required By The Poison Prevention Packaging Act (Pppa). The Packaging For The Products Does Not Meet Federal Child Resistant Packaging Requirements, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Lxinshu Half Body Climbing Harnesses Presenting A Serious Risk Of Injuries.",
+    "risk_type": "The Recalled Hoses Can Burst, Posing An Impact Hazard And A Risk Of Temporarily Impaired Hearing.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Lezyne Pressure Over Drive + Digital Pressure Over Drive Bicycle Floor Pump Presenting A Risk Of Injuries.",
+    "risk_type": "The Recalled Jewelry Sets Contain Levels Of Lead That Exceed The Federal Lead Content Ban And Levels Of Cadmium That Are Prohibited In Children'S Products By The Federal Hazardous Substances Act. Lead And Cadmium Are Toxic If Ingested By Young Children And Can Cause Adverse Health Effects.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Lexmoto Tr125-Gp2-E55 Front Brake Disc And Calliper Presenting A Risk Of Injuries.",
+    "risk_type": "The Recalled Jewelry-Making Kits Contain A Resin That, When Liquid, Can Cause Skin, Eye And Respiratory Irritation Or Sensitization When Inhaled, Touched Or Ingested. The Resin Contains An Acrylate (Hydroxyethylmethacrylate \"Hema\") In Amounts Prohibited In Children'S Products By The Federal Hazardous Substances Act. Already Created Jewelry Should Be Inspected To Confirm It Is Fully Cured. If There Is Liquid Or Any Liquid Residue Present, The Jewelry Should Not Be Worn And Should Be Stored Away From Children. Once Cured, The Resin No Longer Presents The Hazard.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Large Water Beads Presenting A High Risk Of Asphyxiation.",
+    "risk_type": "The Recalled Dressers Are Unstable, If They Are Not Anchored To The Wall, Posing Serious Tip-Over And Entrapment Hazards, That Can Result In Injuries Or Death To Children. The Dressers Violate The Mandatory Standard As Required By The Sturdy Act.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Product Recall For Kubota Rtv Utility Vehicle Bolts And Nut Presenting A Risk Of Injuries.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Ktl Stretchy Poop Toy Presenting A Risk To Health.",
+    "risk_type": "Product Recall For Large Water Beads Presenting A High Risk Of Asphyxiation.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Ktl Stretchy Monster Toys Presenting A Risk To Health.",
+    "risk_type": "Product Recall For Lexmoto Tr125-Gp2-E55 Front Brake Disc And Calliper Presenting A Risk Of Injuries.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Lezyne Pressure Over Drive + Digital Pressure Over Drive Bicycle Floor Pump Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Lxinshu Half Body Climbing Harnesses Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For M.Asam Vitamin C Glow Ampullens Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
   },
   {
     "risk_type": "Product Recall For Magnetic Effect Chess Intelligence Strategy Game Sold Via Tiktok Presenting A Serious Risk Of Injuries.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Sand Art Activity Kit Presenting A Risk To Health.",
+    "risk_type": "Product Recall For Makita Cordless Grease Gun Presenting A Risk Of Injuries.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Rockahula Kids Tiny Blossom Bunny Ears Headband Presenting A Risk Of Cuts.",
+    "risk_type": "Product Safety Report For Zhong Jie Ming Toys Dinosaur Helmet Presenting A Serious Risk Of Injuries.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Rcr Pro Ultegra & Rcr Pro Dura Ace Bikes Presenting A Risk Of Injuries.",
+    "risk_type": "Product Recall For Mammut Via Ferrata Sets Presenting A Serious Risk Of Injuries.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Quechua Sh500L Mountain Snowshoe Presenting An Injuries Risk.",
+    "risk_type": "Product Recall For Matalan Dungarees, Rompers And Sweater Sets Presenting A Risk Of Injuries.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Q'Straint Wheelchair Securement Retractors Presenting A Risk Of Injuries.",
+    "risk_type": "Product Recall For Mercury Marine Gen 2 Dts And Avator Controls. \r\n\r\nProducts Fitted To Boats With The Specified Hin Numbers Present A Risk Of Non-Compliance Due To An Operating Fault.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Pnw Loam Pedals Gen 2 Presenting A Serious Risk Of Injuries.",
+    "risk_type": "Product Recall For Moonboon Organic Baby Hammock Mounting Kit Presenting A Risk Of Injuries.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Pieps Pro Ips And Pieps Set Pro Ips Avalanche Transceiver Presenting A Risk Of Entrapment.",
+    "risk_type": "Product Recall For Moustache E-Bikes Presenting A Serious Risk Of Injuries.",
     "count": 1,
-    "percentage": 0.1
-  },
-  {
-    "risk_type": "Product Recall For Petzl Swan Easyfit Climbing Harnesses Resenting A Serious Risk Of Injuries.",
-    "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Product Recall For Multi-Colour Ultra-Fine Quartz Sand Presenting A Risk To Health.",
     "count": 1,
-    "percentage": 0.1
-  },
-  {
-    "risk_type": "Product Recall For Oxo Good Grips Pasta Scoop Strainer Presenting A Serious Health Risk.",
-    "count": 1,
-    "percentage": 0.1
-  },
-  {
-    "risk_type": "Product Recall For Outigo Kf12 Chainsaw Presenting A Serious Risk Of Injuries.",
-    "count": 1,
-    "percentage": 0.1
-  },
-  {
-    "risk_type": "Product Recall For Orchard Toys See And Sound Giant Flashcards Presenting A Health Risk.",
-    "count": 1,
-    "percentage": 0.1
-  },
-  {
-    "risk_type": "Product Recall For Orbea Avant Bicycles Presenting A Risk Of Injuries.",
-    "count": 1,
-    "percentage": 0.1
-  },
-  {
-    "risk_type": "Product Recall For Orb Funkee Sand Toys Presenting A Risk To Health.",
-    "count": 1,
-    "percentage": 0.1
-  },
-  {
-    "risk_type": "Product Recall For Next X25 Gingerbread Nibble Bowl Presenting A Risk Of Injuries.",
-    "count": 1,
-    "percentage": 0.1
-  },
-  {
-    "risk_type": "Product Recall For Next Core 5Lt Flush Ceiling Light Presenting A Risk Of Injuries.",
-    "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Product Recall For My Living World Worm Kit Presenting A Health Risk.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Next Core 5Lt Flush Ceiling Light Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Mammut Skywalker Pro And Skywalker Pro Turn Via Ferrata Sets Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Home Bargains Happy Easter Plush Toys Presenting A Serious Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Honeywell Miller H500-Series Harnesses With Leg Buckles Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Hti Toys Stretcherz Toys Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For J&J Conversions F1 Low Approach Slide Bed Recovery Vehicle Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Joie Serina Elephant Duo Swivel Baby Swing Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Joolz Hub Pram Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Kawasaki Jetski Ultra 310 Series Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Kids Create Sand Art Kit Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Ktl Stretchy Poop Toy Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Ktl 2Pc Balloon Dog Toy Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Ktl 3Pcs Test Tube Science Kit Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Ktl Decorative Glass Bottle Of Sand Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Ktl Kreative Kids! Jumbo Craft Box Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Ktl Sensory Science Kit Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Ktl Squeezy Splatter Pig Toy Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Ktl Squishy Stretchy Capybara Toy Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Ktl Stretchy Dog Toys Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Ktl Stretchy Monster Toys Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Ktl 2.2Kg Squishy Hot Colour Gorilla Toy Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Specialized E-Bike Chain Guards Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Spooktacular Creations Brown Zombie Costume Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Squishy Sausage Dogs And Squishy Pugs Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Stihl Br 800 Backpack Blower Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Stihl Rma 235.0 Cordless Lawnmower Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Stokke® Yoyo 3 Pram Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Stromer St3, St5 And St7 Bicycles Fitted With Wren Front Suspension Forks Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Texet Bright Start Coloured Crafting Sand Pack Of 20 Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Next X25 Gingerbread Nibble Bowl Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Thekiddospace Magnetic Reusable Water Balloons Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Trublue Iq And Trublue Speed Climbing Auto Belays",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Turkish Household (Uk) Limited Small Foldable Stools Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Ultra Violette Lean Screen Spf50+ Sunscreen Presenting A Serious Health Risk.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Urban Balcony Deckchair Presenting A Risk Of Entrapment.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Villeroy & Boch Kiddy Bears Children'S Glass Collection Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Volvo Penta Evc 2 Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Waterproof Front Seat Cover Set Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Wave Builder Hair Products Presenting A Risk Of Non-Compliance.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Texet Bright Start Fluorescent Coloured Craft Sand Pack Of 6 Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Orb Funkee Sand Toys Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Orbea Avant Bicycles Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Orchard Toys See And Sound Giant Flashcards Presenting A Health Risk.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Outigo Kf12 Chainsaw Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Oxo Good Grips Pasta Scoop Strainer Presenting A Serious Health Risk.",
+    "count": 1,
+    "percentage": 0.0
   },
   {
     "risk_type": "Product Recall For Petzl Newton Climbing Harnesses Presenting A Serious Risk Of Injuries.",
     "count": 1,
-    "percentage": 0.1
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Petzl Swan Easyfit Climbing Harnesses Resenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Pieps Pro Ips And Pieps Set Pro Ips Avalanche Transceiver Presenting A Risk Of Entrapment.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Soft Bulalaet Gun Presenting A High Risk Of Injuries And Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Q'Straint Wheelchair Securement Retractors Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Quechua Sh500L Mountain Snowshoe Presenting An Injuries Risk.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Rcr Pro Ultegra & Rcr Pro Dura Ace Bikes Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Rockahula Kids Tiny Blossom Bunny Ears Headband Presenting A Risk Of Cuts.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Sand Art Activity Kit Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Scrunchems Stretchies Sleepy Dino Toy Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Seven Smyths Toys Dig Products Containing Sand, Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Simond Probe Ski Touring Pole Presenting A Risk Of Entrapment.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Site Hallissey Dark Brown Dealer Boot Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Pnw Loam Pedals Gen 2 Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Infants Can Suffocate If They Roll Or Move On The Crib Bumper In A Position That Obstructs Breathing. Padded Crib Bumpers Are Banned Under The Safe Sleep For Babies Act Of 2021.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Infants Can Suffocate If They Roll, Move, Or Are Placed On The Lounger In A Position That Obstructs Breathing, Or Roll Off The Lounger Onto An External Surface, Such As An Adult Pillow Or Soft Bedding That Obstructs Breathing.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Lawn Darts Are Banned In The U.S. Due To Serious Risks Of Skull Punctures And Other Serious Injuries, Particularly To Children.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Liquid Nicotine Must Be In Special Packaging As Required By The Child Nicotine Poisoning Prevention Act (Cnppa). The Packaging Of The Products Is Not Child-Resistant, Posing A Risk Of Poisoning If The Contents Are Swallowed Or Touched By Young Children. Liquid Nicotine Is Toxic If Ingested Or Absorbed Through The Skin Or Eyes.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Moisture Trapped Inside The Bath Foam Set Container Can Cause Pressure To Build Up, Allowing Pieces To Be Forcefully Ejected When Opened, Posing An Impact Hazard.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Multiple Components Of The Children'S Bicycles Contain Levels Of Lead That Exceed The Federal Lead Content Ban, Posing A Lead Poisoning Hazard To Children. In Addition, The Black Paint On The Bicycle Pumps Contains Lead That Exceeds The Federal Lead Paint Ban. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Issues.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Opss Has Issued A Product Safety Alert For Baby Self-Feeding Pillows And Prop Feeders Presenting A Risk Of Serious Harm Or Death.  Consumers, Local Authority Trading Standards And Businesses Are Asked To Take Specific Action To Cease Use Or Remove Them From The Market.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Paint On The Canopy'S Frame Contains Levels Of Lead That Exceed The Federal Lead Paint Ban And Tricycle Components Contain Levels Of Lead That Exceed The Federal Lead Content Ban. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Issues.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Hobbycraft Sand And Pom Pom Art Kit Presenting A Health Risk.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Paint On The Zipper Pull Contains Levels Of Lead That Exceed The Maximums Allowed. Excessive Levels Of Lead Can Be Toxic Or Cause Other Health Problems To Young Children If The Paint Is Ingested.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Paint On The Zippers And Zipper Pulls Contains Levels Of Lead That Exceed The Federal Lead Paint Ban. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Effects.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Pooled Water In The Air Conditioners Can Fail To Drain Quickly Enough, Which Can Lead To Mold Growth. Mold Exposure Poses Risks Of Respiratory Issues Or Other Infections To Some Consumers.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For  Next X25 Gingerbread Serveboard Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For 10000Pcs Multi-Colour Water Absorbent Beads Presenting A Serious Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Abaseen Folding Sun Lounger Presenting A Serious Risk Of Injuries And Entrapment.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Acer Electric Scooter Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Addo Play Limited Out To Impress Creative Candles Kit Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Addo Play Limited Out To Impress Sand Art Creations Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Paint On The Wood Wagons, The Plastic Handles, And The Red Plastic Cover Contain Levels Of Lead That Exceed The Maximums Allowed. Excessive Levels Of Lead Can Be Toxic Or Cause Other Health Problems To Young Children If The Paint Is Ingested.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "A Component Inside The Furnace Was Improperly Assembled, Causing The Furnace To Produce High Levels Of Carbon Monoxide (Co) Under Certain Operating Conditions, Which Poses A Risk Of Co Poisoning To The Consumer.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "A Defect In The Wheel Can Compromise The Wheel'S Structural Integrity, Posing A Crash Hazard.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "A Power Interruption In The Heat Pump Can Result In The Product Providing Heat When The Power Resumes, Despite The Thermostat Being In Cooling Mode, Posing A Risk Of Excessive Heat Exposure To Consumers.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "A Product Safety Report For Belecoo Stroller With Car Seat Presenting An Asphyxiation Risk.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "A Rear Wheel Can Separate From The Vehicle And Cause A Loss Of Control, Posing A Crash Hazard To Consumers.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "After Alerting Consumers To The Presence Of Natural Gas Or Carbon Monoxide, The Recalled Alarm Can Go Into Sleep Mode When The Alert Lasts Less Than Four Minutes. During This Time, The Alarms Can Fail To Detect And Alert Consumers To A New Incidence Of Natural Gas Or Carbon Monoxide, Posing A Risk Of Carbon Monoxide Poisoning.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "All The Dress-Up Playsets And The Slime Eggs Contain Levels Of Certain Phthalates That Exceed The Federal Phthalate Standard. In Addition, The Litti City Teacher Purse Dress-Up Playset, The Litti Pritti Handbag Playset, And The Slime Eggs Contain Levels Of Lead That Exceed The Federal Lead Content Ban. Lead And Phthalates Are Toxic If Ingested By Young Children And Can Cause Adverse Health Effects.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "An Improperly Manufactured Clutch Component Can Cause The Engine Braking Feature To Fail, Resulting In Unexpected Vehicle Motion, Posing A Crash Hazard.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Infant Fatalities Have Occurred In The Rocking Sleepers, After The Infants Rolled From Their Back To Their Stomach Or Side While Unrestrained, Or Under Other Circumstances.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Components Of The Recalled Butterfly Net Sets And The Action Figure Playsets Contain Levels Of Certain Phthalates And Lead That Exceed The Federal Phthalate And Lead Content Standards. Phthalates And Lead Are Toxic If Ingested By Young Children And Can Cause Adverse Health Issues.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Components Of The Recalled Promotional Ducks Contain Levels Of Certain Phthalates That Exceed The Federal Phthalate Content Standard. A Component Of The Promotional Fishing Duck Also Contains A Level Of Lead That Exceeds The Federal Lead Content Standard. Phthalates And Lead Are Toxic If Ingested By Young Children And Can Cause Adverse Health Issues.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Components Of The Steering Shaft/Steering System Could Have Been Improperly Assembled Which Can Lead To Loss Of Control, Posing Crash And Collision Hazards.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Flue Gas Can Escape From The Gas Boilers If The Vent Adapter Is Not Securely Reattached To The Boiler After Maintenance Or Repair, Posing A Carbon Monoxide Poisoning Hazard To Consumers.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "If The Acceleration Pedal On The Battery-Operated Ride-On Toy Becomes Clogged With Debris, It Can Stick After The User'S Foot Is Removed From The Pedal, Posing A Crash Hazard.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "If The Oven Liner Is Not Cut Or Configured For The Exact Specifications Of The Oven And It Is Placed Over Any Vents Or Other Openings In The Oven, Carbon Monoxide Can Build Up, Posing A Risk Of Carbon Monoxide Poisoning To Consumers.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Infant Fatalities Have Been Reported With Other Manufacturers' Inclined Sleep Products, After Infants Rolled From Their Back To Their Stomach Or Side While Unrestrained, Or Under Other Circumstances.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Infant Fatalities Have Been Reported With Other Manufacturers' Inclined Sleep Products, After Infants Rolled From Their Back To Their Stomach Or Side, Or Under Other Circumstances.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Infant Fatalities Have Occurred In The Rock 'N Play Sleepers, After The Infants Rolled From Their Back To Their Stomach Or Side While Unrestrained, Or Under Other Circumstances.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Children Can Become Entrapped In The Space Between The Exterior Landing (Hoistway) Door And The Interior Elevator Car Door Or Gate, And Suffer Serious Injuries Or Death When The Elevator Is Called To Another Floor.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Electra E-Bikes Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Emba Cast Iron Cookware Presenting A Health Risk.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Endless Pools Retractable Pool Cover Presenting A Risk Of Entrapment.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For First Baby Days Bath Time Bath Book.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Galt Nature Craft Kit Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For George 'Stitch And Angel' Two Piece Children'S Clothing Set Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For George Baby 3-Pack Rompers With Zip Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Get Set Play Jumbo Balloon Pumper Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Addo Play Limited Paw Patrol Bumper Craft Collection Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Halfords Essentials Nyala R129 Car Seat Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Handlebar Stem On Mirider 24 Bicycles Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Head Sport Gmbh Head Yellow Ski Boots Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Hello Sunday Mineral Eye Cream Spf50 Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Hero Launching Robot Arm Toy Presenting A High Risk Of Asphyxiation And Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Hgl Stretchy Sand Monster Truck/Car Toys Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Hgl Stretchy Sand Pig Toy Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Hobbycraft Easter Bumper Craft Kit Presenting A Health Risk.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Hobbycraft Giant Box Of Craft Presenting A Health Risk.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Habitat Seed Pod Bowl Filler Presenting A Health Risk.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Addo Play Limited Paw Patrol Sand Art Pictures Kit Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Aico Ei3014 Heat Detector Which Does Not Meet The Requirements Of The Relevant Regulations.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Amazon Basics Camping Folding Pocket Knife Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Ann Summers Remote Rotating Dildo Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Ashton Global / Spectra 45Nb Stone Melanger Presenting A Serious Risk Of Injuries And Entrapment.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Balmonds Gentle Face Wash Presenting A Health Risk.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Black Diamond Recon Lt Avalanche Transceiver Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Black Diamond Vision Harness Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Dt Swiss Erc/Crc/Hec/Arc Bicycle Wheels Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Borderline Editions Kluster (Classic) Game Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Brown Safety Trainers Sold Via Tiktok Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Byblos Blu Happy Hour Eau De Toilette.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Character Mugs Presenting A Health Risk.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Children'S Non Toxic Water Beads Presenting A High Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Colour Forge Basing Sand Presenting A Health Risk.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Cowboy E Bike Model C4 St (Edition Mr) Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Croydex Devoke Mirror And Croydex Rydal Mirror Presenting A Low Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Croydex Kentmere, Harrop, Simpson And Belham Mirrors Presenting A Low Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Bondi Sands Zinc Mineral Sunscreen Spf50+ Body Lotion And Face Lotion Presenting A Health Risk.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Parner Baby Swim Float And Seat Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Pearson Hydraulic Shearing Machine Presenting A High Risk Of Entrapment And Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Pei Feng Toys Factory Building Blocks Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Petzl Gym, Pandion And Panji Climbing Harnesses Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Pink And White Child'S Sports Bicycle Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Playworld Systems Unity Teeter Tunnel Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Polyplas Water Beads 50000Pcs Presenting A Serious Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Rainbow Mix Jelly Water Gel Beads Presenting A Risk Of Aphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Wooden Qiyi Sand Activity Toy Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Red Gasoline Chainsaw Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Red Lawn Mower Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Rimek Single Rotary Tablet Press Machine - Unik-Pc 20 Stn Manual Control-Gf/Ff Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Rosary Pea Seeds Presenting A Health Risk.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Sanding Machine Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Simpa Baby High Chair  Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Simplon Bicycles Fitted With Swissstop Centerlock Adapter Sets Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Soctone Multi-Purpose Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Stainless Steel 4.4M And 5M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Red Crystal Pearls Presenting A High Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Joyin Play & Pack On The Go Key Fob And Cell Phone Toy Presenting A Serious Risk Of Damage To Hearing.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Kaak Dough Driem Line Presenting A High Risk Of Entrapment.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Kidwill Multifunction Wooden Frame Abacus Toy Presenting A Serious Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Lapierre Aircode Drs And Lapierre Xelius Bicycles Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Laycol Baby Pool Float Sold Via Amazon Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Letterbox Lab Explore Box 9 And Investigate Box 9 Presenting A Serious Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Maak Colourful Water Beads Presenting A Serious Risk Of Injuries And Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Magiclub Water Beads Presenting A High Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Nineaccy Telescopic Ladders Presenting An Injuries Risk.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Mama Cheetah Wearable Blankets Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Meat Grinder Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Mercury Marine 450R And 500R Outboard Motors Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Mercury Marine Fourstroke Outboard Motor Due To Stud Corrosion If Used In Saltwater.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Minidream Organic 5-In-1 Baby Activity Gym Presenting A Serious Entrapment Risk.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Minidream Safari Activity Gym Presenting A Serious Entrapment Risk.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Mitchum 48-Hour 100Ml Roll-On Antiperspirant And Deodorant Presenting A Health Risk.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Mr. Pen Water Beads Presenting A High Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Multi-Functional Blender Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Mama Cheetah Baby Swaddle Wrap Presenting A Risk Of Entrapment And Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Water Beads Set Presenting A High Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Water Gel Filler Beads For Vases Presenting A Serious Risk Of Injuries And Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Wejoy Water Beads Presenting A Serious Risk Of Injuries And Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For White And Green Stroller Presenting An Asphyxiation Risk.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Wilverz Black Roller Skates Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Wituse Water Beads Presenting A Serious Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Yasinkidz Baby Swim Float Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Yi Tong Baby Walker Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Stainless Steel Telescopic Ladder 3.8M Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Zudrez Roller Skates Sold Via Amazon Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Small Metal Wire Bristles Can Detach From The Brushes And Stick To The Grill Or Food, Posing An Ingestion Hazard And Risk Of Serious Internal Injuries That Could Require Surgery.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Some Of The Bottles Containing The Over-The-Counter Drug Can Have A Hole In The Bottom. If There Is A Hole, Children Could Access And Swallow The Contents, Posing A Risk Of Poisoning. These Products Contain The Substances Aspirin And Acetaminophen Which Must Be In Child Resistant Packaging As Required By The Poison Prevention Packaging Act (Pppa).",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Some Pto Drivelines Were Assembled Without A Specified Safety Sign. The Safety Sign Explains The Associated Hazards And That An Operator Or Bystander Can Become Entangled If There Is Contact With The Driveline.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Surface Paint On The Brown Bell Found In \"Day 10\" Of The Advent Calendar Contains Levels Of Lead That Exceed The Federal Lead Paint Ban, Posing A Risk Of Lead Poisoning. Excessive Levels Of Lead Can Be Toxic Or Cause Other Health Problems To Young Children If The Paint Is Ingested.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Surface Paint On The Desks And Chairs Contains Levels Of Lead That Exceed The Federal Lead Paint Ban, Posing A Lead Poisoning Hazard. The Desks And Chairs Also Fail To Comply With The Federal Lead Content Ban. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Effects.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Surface Paint On The Furniture Contain Levels Of Lead That Exceed The Federal Lead Paint Ban, Posing A Risk Of Lead Poisoning. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Effects.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Surface Paint On The Miniature Skateboard And Scooter Toys In The Ramp Sets Contain Levels Of Lead That Exceed The Federal Lead Paint Ban, Posing A Risk Of Lead Poisoning. The Miniature Scooter Toy Also Fails To Comply With The Federal Lead Content Ban. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Effects.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Surface Paint On The Wooden Toys Contains Levels Of Lead That Exceed The Federal Lead Paint Ban. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Effects.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Zoeller Lifting Systems Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Star Blue Light Up Tri-Scooter Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Step Ladder Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Swimbobo Space Rocket Pool Float Presenting A Risk Of Serious Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Tarmak Nba Basketball Hoop Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Teemza 3.2M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Teemza 3.8M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Teemza 4.9M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Teemza 6.2M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Vidaxl Outdoor Playset Presenting A Risk Of Entrapment.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Terex Gb Limited Premiertrak Mobile Jaw Crusher Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Topway Steel 3-Step Home Ladder Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Tp Toys Foldaway Swing Seat Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For V8 E-Bike Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Variodyn One Voice Alarm System Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Vevor Jack With Airbag Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Vevor Manual Gear Chain Hoist Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Vevor Permanent Magnetic Lifter Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Vevor Transmission Jack Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Terex Gb Limited Finlay J-1170+ Mobile Jaw Crusher Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For 8Ft Trampoline Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For A Ciat Vectios Roof Top Air Handling Unit.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For A Dinosaur Scooter Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For A Sigma Group Modulbox Mb Sv – All Models Presenting A Health Risk.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For A Supatool 4 Step Aluminium Step Ladder Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For A Tummy Time Multistage Water Mat That Presents A Serious Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For A4R Water Beads Presenting A High Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Acrohome 2.6M Telescopic Ladder With Hooks Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Joycat Baby Float Sold Via Amazon Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Ainolway Rainbow Water Beads Presenting An Asphyxiation And Health Risk.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For An Injection Blow Mould Machine Presenting An Entrapment Risk.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For At Performance Stroller Presenting An Asyphxiation Risk.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Audio-Technica Wireless Headphones Ath-Cks50Tw2 Presenting A Risk Of Firmware Vulnerabilities.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Automatic Electric Gel Ball Blaster Presenting A Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Baby Camping Chair Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Baby Playpen Presenting A Serious Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Baby Stroller Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Baby Walker Ky-088 Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Acrohome 2.9M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Yamaha Drive 2 Ac And Drive 2 Ac Li Golf Cars Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Yamaha Motor Golf Buggy Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall Of Matalan Bunny Tumbler With Straw Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall Of Various Matalan Bikini Tops Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall Of Xiangtai Safety Belt Sold Via Tiktok Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For 10,000Pcs Coloured Water Gel Beads Presenting A High Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For 10Ft Trampoline, 10Fthc14 Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For 10G Water Ball Beads Presenting A Serious Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For 8-Inch Cordless Chainsaw Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For 2.5M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For 3.2M Telescopic Ladder (Kiko 5031-8) Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For 3.8M Telescopic Ladder (Kiko 5301-9) Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For 3.8M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For 3000Pcs Water Gel Beads Presenting A High Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For 4-Step Step Ladder Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For 60 Giant Jumbo Water Beads Presenting A Risk Of Injuries And Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For 60,000 Water Gel Beads Presenting A Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For 6M And 3.2M Telescopic Ladders Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For 1800Pcs Jumbo Water Gel Beads Presenting A Serious Asphyxiation And Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Everun Ert 1500 Rough Terrain Telehandler Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Gel Water Beads Presenting A Serious Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Giant Momentum Vida E+ Bicycle Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Girls Creator Magical Water Beads Soothing Spa Presenting A Serious Health Risk.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Girls Creator Nail Art Studio Presenting An Asphyxiation Risk.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Green Lawn Trimmer Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Hb Tower 5 Step Ladder Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Hb Tower 5 Step Ladder With Handrails Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Baby Winter Sleeping Bag Presenting A Serious Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Heybike Ec Compact City E-Bike Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Hinsinc Brushless Angle Grinder Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Hydrogel Water Beads Presenting A Serious Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Ice Crusher Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Igloo 90-Quart Flip & Tow Coolers Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Ihoverboard H8Pro Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Inflatable Hammer Toys Presenting A Serious Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Iscooter Electric Scooter Ix6 Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Jovant Pneumatic Push Out Nail Gun Sold Via Amazon Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Hbtower 2.6M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Bees Jewellery Hand Chain, Bangle And Earrings",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Bellababy Baby Bassinet And Bedside Sleeper Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Bentley Continental Supersport Toy Car Presenting A Serious Health Risk.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Bianchi Impulso Rc Bicycle Handlebars Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Black Three-Step Folding Ladder Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Bugaboo Giraffe Highchair Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Capybara Advent Calendar 2025 Presenting A Serious Risk Of Cuts And Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Climbing Rope Hw0169-610-Simo-2240 Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Ethan The Fox Teether Presenting A Serious Asphyxiation Risk.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Comforder Water Beads Presenting A Serious Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Crayon Inflatable Presenting A Serious Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Crystal Mud Sponge Water Beads Presenting A Serious Risk Of Injuries And Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Dbodb Baby Walker Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Deluxus Water Beads 50000Pcs Presenting A High Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Domestar Vase Fillers Presenting A High Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Durhand Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For E-Bike Conversion Kit Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Enjoy & Love Kids Trampoline Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Climbing Safety Belt Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
   }
 ]

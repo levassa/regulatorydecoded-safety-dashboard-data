@@ -1,80 +1,165 @@
 [
   {
     "injury_type": "Not Specified",
-    "total": 601,
+    "total": 5933,
     "by_source": {
+      "ACCC": 8,
+      "CPSC": 324,
+      "EU Safety Gate": 5000,
       "Health Canada": 1,
       "OPSS": 600
     }
   },
   {
     "injury_type": "Choking / Suffocation",
-    "total": 212,
+    "total": 420,
     "by_source": {
+      "ACCC": 1,
+      "CPSC": 207,
+      "EU Safety Gate": 0,
       "Health Canada": 0,
       "OPSS": 212
     }
   },
   {
-    "injury_type": "Electric Shock",
-    "total": 120,
-    "by_source": {
-      "Health Canada": 0,
-      "OPSS": 120
-    }
-  },
-  {
     "injury_type": "Burns",
-    "total": 22,
+    "total": 371,
     "by_source": {
+      "ACCC": 3,
+      "CPSC": 346,
+      "EU Safety Gate": 0,
       "Health Canada": 0,
       "OPSS": 22
     }
   },
   {
-    "injury_type": "Entrapment",
-    "total": 19,
+    "injury_type": "Poisoning / Ingestion",
+    "total": 279,
     "by_source": {
+      "ACCC": 0,
+      "CPSC": 279,
+      "EU Safety Gate": 0,
       "Health Canada": 0,
-      "OPSS": 19
+      "OPSS": 0
     }
   },
   {
-    "injury_type": "Drowning",
-    "total": 17,
+    "injury_type": "Electric Shock",
+    "total": 179,
     "by_source": {
+      "ACCC": 2,
+      "CPSC": 57,
+      "EU Safety Gate": 0,
       "Health Canada": 0,
-      "OPSS": 17
+      "OPSS": 120
     }
   },
   {
     "injury_type": "Laceration / Cut",
-    "total": 4,
+    "total": 176,
     "by_source": {
+      "ACCC": 1,
+      "CPSC": 171,
+      "EU Safety Gate": 0,
       "Health Canada": 0,
       "OPSS": 4
     }
   },
   {
-    "injury_type": "Eye Injury",
-    "total": 3,
+    "injury_type": "Entrapment",
+    "total": 168,
     "by_source": {
+      "ACCC": 1,
+      "CPSC": 148,
+      "EU Safety Gate": 0,
+      "Health Canada": 0,
+      "OPSS": 19
+    }
+  },
+  {
+    "injury_type": "Fall Injury",
+    "total": 155,
+    "by_source": {
+      "ACCC": 2,
+      "CPSC": 153,
+      "EU Safety Gate": 0,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "injury_type": "Skin Irritation",
+    "total": 135,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 135,
+      "EU Safety Gate": 0,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "injury_type": "Fracture / Blunt Trauma",
+    "total": 129,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 129,
+      "EU Safety Gate": 0,
+      "Health Canada": 0,
+      "OPSS": 0
+    }
+  },
+  {
+    "injury_type": "Drowning",
+    "total": 46,
+    "by_source": {
+      "ACCC": 1,
+      "CPSC": 28,
+      "EU Safety Gate": 0,
+      "Health Canada": 0,
+      "OPSS": 17
+    }
+  },
+  {
+    "injury_type": "Respiratory",
+    "total": 39,
+    "by_source": {
+      "ACCC": 6,
+      "CPSC": 31,
+      "EU Safety Gate": 0,
+      "Health Canada": 0,
+      "OPSS": 2
+    }
+  },
+  {
+    "injury_type": "Eye Injury",
+    "total": 12,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 9,
+      "EU Safety Gate": 0,
       "Health Canada": 0,
       "OPSS": 3
     }
   },
   {
-    "injury_type": "Respiratory",
-    "total": 2,
+    "injury_type": "Allergic Reaction",
+    "total": 1,
     "by_source": {
+      "ACCC": 0,
+      "CPSC": 1,
+      "EU Safety Gate": 0,
       "Health Canada": 0,
-      "OPSS": 2
+      "OPSS": 0
     }
   },
   {
     "injury_type": "Radiation Exposure",
     "total": 1,
     "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 0,
       "Health Canada": 0,
       "OPSS": 1
     }

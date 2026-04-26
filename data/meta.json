@@ -1,16 +1,20 @@
 {
-  "last_updated": "2026-04-26T17:53:00Z",
-  "total_records": 1001,
+  "last_updated": "2026-04-26T18:14:32Z",
+  "total_records": 8044,
   "by_source": {
+    "ACCC": 25,
+    "CPSC": 2018,
+    "EU Safety Gate": 5000,
     "Health Canada": 1,
     "OPSS": 1000
   },
-  "injury_reports": 0,
+  "injury_reports": 2016,
   "total_injuries": 0,
   "by_severity": {
-    "Fatal": 5,
-    "Minor": 790,
-    "Not Reported": 204,
-    "Serious": 2
+    "Fatal": 495,
+    "Minor": 1666,
+    "Moderate": 612,
+    "Not Reported": 5206,
+    "Serious": 65
   }
 }
