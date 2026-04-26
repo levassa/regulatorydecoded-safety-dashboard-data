@@ -1,5 +1,18 @@
 [
   {
+    "region": "Canada",
+    "total": 1,
+    "by_category": {
+      "Other": 1
+    },
+    "by_severity": {
+      "Fatal": 0,
+      "Minor": 0,
+      "Not Reported": 1,
+      "Serious": 0
+    }
+  },
+  {
     "region": "United Kingdom",
     "total": 1000,
     "by_category": {

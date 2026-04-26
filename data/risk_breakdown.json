@@ -35,11 +35,6 @@
     "percentage": 0.4
   },
   {
-    "risk_type": "Product Safety Report For Minidream Tummy Time Pillow Presenting A Serious Entrapment Risk.",
-    "count": 2,
-    "percentage": 0.2
-  },
-  {
     "risk_type": "Product Safety Report For 4.4M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
     "count": 2,
     "percentage": 0.2
@@ -53,6 +48,16 @@
     "risk_type": "Product Safety Report For Jbbfcan 5.8M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
     "count": 2,
     "percentage": 0.2
+  },
+  {
+    "risk_type": "Product Safety Report For Minidream Tummy Time Pillow Presenting A Serious Entrapment Risk.",
+    "count": 2,
+    "percentage": 0.2
+  },
+  {
+    "risk_type": "Product Safety Report For Everun Ert 1500 Rough Terrain Telehandler Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
   },
   {
     "risk_type": "Product Safety Report For Ethan The Fox Teether Presenting A Serious Asphyxiation Risk.",
@@ -85,12 +90,7 @@
     "percentage": 0.1
   },
   {
-    "risk_type": "Product Safety Report For Everun Ert 1500 Rough Terrain Telehandler Presenting A Serious Risk Of Injuries.",
-    "count": 1,
-    "percentage": 0.1
-  },
-  {
-    "risk_type": "Product Safety Report For Crystal Mud Sponge Water Beads Presenting A Serious Risk Of Injuries And Asphyxiation.",
+    "risk_type": "Product Safety Report For Dbodb Baby Walker Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.1
   },
@@ -120,7 +120,7 @@
     "percentage": 0.1
   },
   {
-    "risk_type": "Product Safety Report For Dbodb Baby Walker Presenting A Serious Risk Of Injuries.",
+    "risk_type": "Product Safety Report For Crystal Mud Sponge Water Beads Presenting A Serious Risk Of Injuries And Asphyxiation.",
     "count": 1,
     "percentage": 0.1
   },
@@ -370,11 +370,6 @@
     "percentage": 0.1
   },
   {
-    "risk_type": "Product Safety Report For Rosary Pea Seeds Presenting A Health Risk.",
-    "count": 1,
-    "percentage": 0.1
-  },
-  {
     "risk_type": "Product Safety Report For Sanding Machine Presenting A High Risk Of Injuries.",
     "count": 1,
     "percentage": 0.1
@@ -445,6 +440,11 @@
     "percentage": 0.1
   },
   {
+    "risk_type": "Product Safety Report For Yasinkidz Baby Swim Float Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
     "risk_type": "Product Safety Report For Kaak Dough Driem Line Presenting A High Risk Of Entrapment.",
     "count": 1,
     "percentage": 0.1
@@ -485,7 +485,7 @@
     "percentage": 0.1
   },
   {
-    "risk_type": "Product Safety Report For Yasinkidz Baby Swim Float Presenting A Serious Risk Of Injuries.",
+    "risk_type": "Product Safety Report For Yi Tong Baby Walker Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.1
   },
@@ -505,12 +505,17 @@
     "percentage": 0.1
   },
   {
+    "risk_type": "Other",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
     "risk_type": "Opss Has Issued A Product Safety Alert For Baby Self-Feeding Pillows And Prop Feeders Presenting A Risk Of Serious Harm Or Death.  Consumers, Local Authority Trading Standards And Businesses Are Asked To Take Specific Action To Cease Use Or Remove Them From The Market.",
     "count": 1,
     "percentage": 0.1
   },
   {
-    "risk_type": "Environmental",
+    "risk_type": "Product Safety Report For Stainless Steel 4.4M And 5M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.1
   },
@@ -525,77 +530,17 @@
     "percentage": 0.1
   },
   {
-    "risk_type": "Product Safety Report For Yi Tong Baby Walker Presenting A Serious Risk Of Injuries.",
-    "count": 1,
-    "percentage": 0.1
-  },
-  {
     "risk_type": "Product Recall For Acer Electric Scooter Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.1
   },
   {
-    "risk_type": "Product Safety Report For Jovant Pneumatic Push Out Nail Gun Sold Via Amazon Presenting A Serious Risk Of Injuries.",
+    "risk_type": "Product Safety Report For Minidream Organic 5-In-1 Baby Activity Gym Presenting A Serious Entrapment Risk.",
     "count": 1,
     "percentage": 0.1
   },
   {
-    "risk_type": "Product Safety Report For Joycat Baby Float Sold Via Amazon Presenting A Serious Risk Of Injuries.",
-    "count": 1,
-    "percentage": 0.1
-  },
-  {
-    "risk_type": "Product Safety Report For Joyin Play & Pack On The Go Key Fob And Cell Phone Toy Presenting A Serious Risk Of Damage To Hearing.",
-    "count": 1,
-    "percentage": 0.1
-  },
-  {
-    "risk_type": "Product Safety Report For 3.2M Telescopic Ladder (Kiko 5031-8) Presenting A Serious Risk Of Injuries.",
-    "count": 1,
-    "percentage": 0.1
-  },
-  {
-    "risk_type": "Product Safety Report For Kidwill Multifunction Wooden Frame Abacus Toy Presenting A Serious Risk Of Asphyxiation.",
-    "count": 1,
-    "percentage": 0.1
-  },
-  {
-    "risk_type": "Product Safety Report For Lapierre Aircode Drs And Lapierre Xelius Bicycles Presenting A Risk Of Injuries.",
-    "count": 1,
-    "percentage": 0.1
-  },
-  {
-    "risk_type": "Product Safety Report For Laycol Baby Pool Float Sold Via Amazon Presenting A Serious Risk Of Injuries.",
-    "count": 1,
-    "percentage": 0.1
-  },
-  {
-    "risk_type": "Product Safety Report For Letterbox Lab Explore Box 9 And Investigate Box 9 Presenting A Serious Risk To Health.",
-    "count": 1,
-    "percentage": 0.1
-  },
-  {
-    "risk_type": "Product Safety Report For Maak Colourful Water Beads Presenting A Serious Risk Of Injuries And Asphyxiation.",
-    "count": 1,
-    "percentage": 0.1
-  },
-  {
-    "risk_type": "Product Safety Report For Magiclub Water Beads Presenting A High Risk Of Asphyxiation.",
-    "count": 1,
-    "percentage": 0.1
-  },
-  {
-    "risk_type": "Product Safety Report For Mama Cheetah Baby Swaddle Wrap Presenting A Risk Of Entrapment And Injuries.",
-    "count": 1,
-    "percentage": 0.1
-  },
-  {
-    "risk_type": "Product Safety Report For Mama Cheetah Wearable Blankets Presenting A High Risk Of Injuries.",
-    "count": 1,
-    "percentage": 0.1
-  },
-  {
-    "risk_type": "Product Safety Report For Meat Grinder Presenting A Serious Risk Of Injuries.",
+    "risk_type": "Product Safety Report For Mercury Marine Fourstroke Outboard Motor Due To Stud Corrosion If Used In Saltwater.",
     "count": 1,
     "percentage": 0.1
   },
@@ -605,7 +550,72 @@
     "percentage": 0.1
   },
   {
-    "risk_type": "Product Safety Report For Mercury Marine Fourstroke Outboard Motor Due To Stud Corrosion If Used In Saltwater.",
+    "risk_type": "Product Safety Report For Meat Grinder Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Mama Cheetah Wearable Blankets Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Mama Cheetah Baby Swaddle Wrap Presenting A Risk Of Entrapment And Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Magiclub Water Beads Presenting A High Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Rosary Pea Seeds Presenting A Health Risk.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Letterbox Lab Explore Box 9 And Investigate Box 9 Presenting A Serious Risk To Health.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Laycol Baby Pool Float Sold Via Amazon Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Lapierre Aircode Drs And Lapierre Xelius Bicycles Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Kidwill Multifunction Wooden Frame Abacus Toy Presenting A Serious Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For 3.2M Telescopic Ladder (Kiko 5031-8) Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Joyin Play & Pack On The Go Key Fob And Cell Phone Toy Presenting A Serious Risk Of Damage To Hearing.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Joycat Baby Float Sold Via Amazon Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Jovant Pneumatic Push Out Nail Gun Sold Via Amazon Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Maak Colourful Water Beads Presenting A Serious Risk Of Injuries And Asphyxiation.",
     "count": 1,
     "percentage": 0.1
   },
@@ -645,12 +655,12 @@
     "percentage": 0.1
   },
   {
-    "risk_type": "Product Safety Report For Pink And White Child'S Sports Bicycle Presenting A High Risk Of Injuries.",
+    "risk_type": "Product Safety Report For Minidream Safari Activity Gym Presenting A Serious Entrapment Risk.",
     "count": 1,
     "percentage": 0.1
   },
   {
-    "risk_type": "Product Safety Report For Minidream Organic 5-In-1 Baby Activity Gym Presenting A Serious Entrapment Risk.",
+    "risk_type": "Product Safety Report For Petzl Gym, Pandion And Panji Climbing Harnesses Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.1
   },
@@ -690,12 +700,7 @@
     "percentage": 0.1
   },
   {
-    "risk_type": "Product Safety Report For Minidream Safari Activity Gym Presenting A Serious Entrapment Risk.",
-    "count": 1,
-    "percentage": 0.1
-  },
-  {
-    "risk_type": "Product Safety Report For Petzl Gym, Pandion And Panji Climbing Harnesses Presenting A Risk Of Injuries.",
+    "risk_type": "Product Safety Report For Pink And White Child'S Sports Bicycle Presenting A High Risk Of Injuries.",
     "count": 1,
     "percentage": 0.1
   },
@@ -925,7 +930,7 @@
     "percentage": 0.1
   },
   {
-    "risk_type": "Product Safety Report For Stainless Steel 4.4M And 5M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "risk_type": "Product Recall For Ashton Global / Spectra 45Nb Stone Melanger Presenting A Serious Risk Of Injuries And Entrapment.",
     "count": 1,
     "percentage": 0.1
   },
@@ -940,12 +945,12 @@
     "percentage": 0.1
   },
   {
-    "risk_type": "Product Safety Report For Variodyn One Voice Alarm System Presenting A Serious Risk Of Injuries.",
+    "risk_type": "Environmental",
     "count": 1,
     "percentage": 0.1
   },
   {
-    "risk_type": "Product Safety Report For Vevor Jack With Airbag Presenting A Serious Risk Of Injuries.",
+    "risk_type": "Product Safety Report For Variodyn One Voice Alarm System Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.1
   },
@@ -1135,7 +1140,7 @@
     "percentage": 0.1
   },
   {
-    "risk_type": "Product Recall For Ashton Global / Spectra 45Nb Stone Melanger Presenting A Serious Risk Of Injuries And Entrapment.",
+    "risk_type": "Product Safety Report For Vevor Jack With Airbag Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.1
   },

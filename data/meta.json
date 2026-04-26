@@ -1,7 +1,8 @@
 {
-  "last_updated": "2026-04-26T12:09:47Z",
-  "total_records": 1000,
+  "last_updated": "2026-04-26T12:30:48Z",
+  "total_records": 1001,
   "by_source": {
+    "Health Canada": 1,
     "OPSS": 1000
   },
   "injury_reports": 0,
@@ -9,7 +10,7 @@
   "by_severity": {
     "Fatal": 5,
     "Minor": 790,
-    "Not Reported": 203,
+    "Not Reported": 204,
     "Serious": 2
   }
 }

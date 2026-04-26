@@ -3,13 +3,15 @@
     "hazard_type": "Flammability / Overheating",
     "total": 285,
     "by_source": {
+      "Health Canada": 0,
       "OPSS": 285
     }
   },
   {
     "hazard_type": "Other",
-    "total": 228,
+    "total": 229,
     "by_source": {
+      "Health Canada": 1,
       "OPSS": 228
     }
   },
@@ -17,6 +19,7 @@
     "hazard_type": "Small Parts / Choking Hazard",
     "total": 204,
     "by_source": {
+      "Health Canada": 0,
       "OPSS": 204
     }
   },
@@ -24,6 +27,7 @@
     "hazard_type": "Electrical Fault",
     "total": 120,
     "by_source": {
+      "Health Canada": 0,
       "OPSS": 120
     }
   },
@@ -31,6 +35,7 @@
     "hazard_type": "Chemical / Toxic Substance",
     "total": 103,
     "by_source": {
+      "Health Canada": 0,
       "OPSS": 103
     }
   },
@@ -38,6 +43,7 @@
     "hazard_type": "Drowning Risk",
     "total": 28,
     "by_source": {
+      "Health Canada": 0,
       "OPSS": 28
     }
   },
@@ -45,6 +51,7 @@
     "hazard_type": "Entrapment",
     "total": 20,
     "by_source": {
+      "Health Canada": 0,
       "OPSS": 20
     }
   },
@@ -52,6 +59,7 @@
     "hazard_type": "Microbiological Contamination",
     "total": 6,
     "by_source": {
+      "Health Canada": 0,
       "OPSS": 6
     }
   },
@@ -59,6 +67,7 @@
     "hazard_type": "Explosion",
     "total": 5,
     "by_source": {
+      "Health Canada": 0,
       "OPSS": 5
     }
   },
@@ -66,6 +75,7 @@
     "hazard_type": "Radiation",
     "total": 1,
     "by_source": {
+      "Health Canada": 0,
       "OPSS": 1
     }
   }

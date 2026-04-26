@@ -4,6 +4,7 @@
     "total": 5,
     "total_injuries": 0,
     "by_region": {
+      "Canada": 0,
       "United Kingdom": 5
     },
     "by_category": {
@@ -27,6 +28,7 @@
     "total": 2,
     "total_injuries": 0,
     "by_region": {
+      "Canada": 0,
       "United Kingdom": 2
     },
     "by_category": {
@@ -50,6 +52,7 @@
     "total": 790,
     "total_injuries": 0,
     "by_region": {
+      "Canada": 0,
       "United Kingdom": 790
     },
     "by_category": {
@@ -70,13 +73,14 @@
   },
   {
     "severity": "Not Reported",
-    "total": 203,
+    "total": 204,
     "total_injuries": 0,
     "by_region": {
+      "Canada": 1,
       "United Kingdom": 203
     },
     "by_category": {
-      "Other": 203
+      "Other": 204
     },
     "by_hazard_type": {
       "Chemical / Toxic Substance": 101,
@@ -86,7 +90,7 @@
       "Explosion": 0,
       "Flammability / Overheating": 11,
       "Microbiological Contamination": 6,
-      "Other": 59,
+      "Other": 60,
       "Radiation": 0,
       "Small Parts / Choking Hazard": 19
     }
