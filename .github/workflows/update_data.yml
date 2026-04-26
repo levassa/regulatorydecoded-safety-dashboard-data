@@ -9,9 +9,9 @@ name: Update Safety Dashboard Data
 #   3. Health Canada           — Open Government JSON feed
 #   4. RappelConso (France)    — OpenDataSoft REST API
 #   5. FDA openFDA             — device + food enforcement REST API
-#   6. NHTSA (US vehicles)     — flat-file ZIP download
-#   7. OPSS (UK)               — GOV.UK search API
-#   8. ACCC (Australia)        — RSS feed
+#   6. OPSS (UK)               — GOV.UK search API
+#   7. ACCC (Australia)        — RSS feed
+#   8. NZ Product Safety       — HTML scraper (BeautifulSoup)
 
 on:
   schedule:
@@ -27,19 +27,18 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4.2.2
+        uses: actions/checkout@v4
 
       - name: Set up Python 3.11
-        uses: actions/setup-python@v5.5.0
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests pandas openpyxl
+        run: pip install requests pandas openpyxl beautifulsoup4 lxml
 
       - name: Run data pipeline
         run: python pipeline/collect_and_normalise.py
-        
 
       - name: Commit and push updated data
         run: |
