@@ -1,5 +1,5 @@
 -- Safety Dashboard — Full Normalised Dataset
--- Generated : 2026-04-26T12:30:49Z
+-- Generated : 2026-04-26T17:53:00Z
 -- Records   : 1001
 -- Sources   : Health Canada, OPSS
 
