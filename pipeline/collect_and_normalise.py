@@ -65,6 +65,7 @@ import io
 import json
 import logging
 import os
+import sqlite3
 import sys
 import zipfile
 import xml.etree.ElementTree as ET
@@ -1457,6 +1458,159 @@ def build_injury_alerts(df: pd.DataFrame) -> list:
 
 
 # ---------------------------------------------------------------------------
+# SQL database writers
+# ---------------------------------------------------------------------------
+
+DB_DIR = os.path.join(os.path.dirname(__file__), "..", "db")
+
+_DB_COLUMNS = [
+    "id", "source", "date", "year", "month", "region",
+    "notifying_country", "country_of_origin", "product_category",
+    "product_desc", "risk_type", "hazard_type", "injury_type",
+    "injury_description", "severity", "injury_flag", "injury_count",
+    "corrective_action", "reference",
+]
+
+_DB_INDEXES = [
+    ("idx_date",             "date"),
+    ("idx_year",             "year"),
+    ("idx_region",           "region"),
+    ("idx_source",           "source"),
+    ("idx_product_category", "product_category"),
+    ("idx_hazard_type",      "hazard_type"),
+    ("idx_injury_type",      "injury_type"),
+    ("idx_severity",         "severity"),
+    ("idx_country_origin",   "country_of_origin"),
+    ("idx_injury_flag",      "injury_flag"),
+]
+
+
+def _prepare_db_df(df: pd.DataFrame) -> pd.DataFrame:
+    """Add year and month columns and coerce types for SQL output."""
+    out = df.copy().fillna("")
+    dt  = pd.to_datetime(out["date"], errors="coerce")
+    out["year"]  = dt.dt.year.fillna(0).astype(int)
+    out["month"] = dt.dt.to_period("M").astype(str).replace("NaT", "")
+    out["injury_flag"]  = out["injury_flag"].astype(int)
+    out["injury_count"] = out["injury_count"].astype(int)
+    return out
+
+
+def write_sqlite(df: pd.DataFrame) -> None:
+    """
+    Writes the full normalised dataset to a SQLite database.
+    Output: db/safety_dashboard.db
+    Indexes are created on all fields used for trend analysis.
+    """
+    os.makedirs(DB_DIR, exist_ok=True)
+    db_path = os.path.join(DB_DIR, "safety_dashboard.db")
+
+    conn = sqlite3.connect(db_path)
+    cur  = conn.cursor()
+
+    cur.execute("DROP TABLE IF EXISTS safety_incidents")
+    cur.execute("""
+        CREATE TABLE safety_incidents (
+            id                  TEXT PRIMARY KEY,
+            source              TEXT,
+            date                TEXT,
+            year                INTEGER,
+            month               TEXT,
+            region              TEXT,
+            notifying_country   TEXT,
+            country_of_origin   TEXT,
+            product_category    TEXT,
+            product_desc        TEXT,
+            risk_type           TEXT,
+            hazard_type         TEXT,
+            injury_type         TEXT,
+            injury_description  TEXT,
+            severity            TEXT,
+            injury_flag         INTEGER,
+            injury_count        INTEGER,
+            corrective_action   TEXT,
+            reference           TEXT
+        )
+    """)
+
+    out  = _prepare_db_df(df)
+    rows = out[_DB_COLUMNS].values.tolist()
+    cur.executemany(
+        f"INSERT OR REPLACE INTO safety_incidents VALUES ({','.join(['?'] * len(_DB_COLUMNS))})",
+        rows,
+    )
+
+    for name, col in _DB_INDEXES:
+        cur.execute(f"CREATE INDEX IF NOT EXISTS {name} ON safety_incidents ({col})")
+
+    conn.commit()
+    conn.close()
+    log.info("Written: %s (%d records)", db_path, len(out))
+
+
+def write_sql_dump(df: pd.DataFrame) -> None:
+    """
+    Writes a portable SQL dump with CREATE TABLE + INSERT statements.
+    Output: db/safety_dashboard.sql
+    Compatible with MySQL, PostgreSQL, and SQLite.
+    """
+    os.makedirs(DB_DIR, exist_ok=True)
+    sql_path = os.path.join(DB_DIR, "safety_dashboard.sql")
+
+    out = _prepare_db_df(df)
+
+    def esc(val):
+        return str(val).replace("'", "''")
+
+    lines = [
+        "-- Safety Dashboard — Full Normalised Dataset",
+        f"-- Generated : {datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ')}",
+        f"-- Records   : {len(out)}",
+        f"-- Sources   : {', '.join(sorted(out['source'].unique()))}",
+        "",
+        "DROP TABLE IF EXISTS safety_incidents;",
+        "",
+        "CREATE TABLE safety_incidents (",
+        "    id                  VARCHAR(40) PRIMARY KEY,",
+        "    source              VARCHAR(50),",
+        "    date                DATE,",
+        "    year                INTEGER,",
+        "    month               VARCHAR(7),",
+        "    region              VARCHAR(50),",
+        "    notifying_country   VARCHAR(100),",
+        "    country_of_origin   VARCHAR(100),",
+        "    product_category    VARCHAR(100),",
+        "    product_desc        TEXT,",
+        "    risk_type           VARCHAR(100),",
+        "    hazard_type         VARCHAR(100),",
+        "    injury_type         VARCHAR(100),",
+        "    injury_description  TEXT,",
+        "    severity            VARCHAR(20),",
+        "    injury_flag         SMALLINT,",
+        "    injury_count        INTEGER,",
+        "    corrective_action   TEXT,",
+        "    reference           VARCHAR(100)",
+        ");",
+        "",
+    ]
+
+    for name, col in _DB_INDEXES:
+        lines.append(f"CREATE INDEX {name} ON safety_incidents ({col});")
+    lines.append("")
+
+    for _, row in out[_DB_COLUMNS].iterrows():
+        vals = ", ".join(
+            str(row[c]) if isinstance(row[c], (int, float)) else f"'{esc(row[c])}'"
+            for c in _DB_COLUMNS
+        )
+        lines.append(f"INSERT INTO safety_incidents VALUES ({vals});")
+
+    with open(sql_path, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines))
+    log.info("Written: %s (%d records)", sql_path, len(out))
+
+
+# ---------------------------------------------------------------------------
 # Output writer
 # ---------------------------------------------------------------------------
 
@@ -1533,6 +1687,11 @@ def run() -> None:
     write_json("severity_trends_monthly.json", build_severity_trends_monthly(df))
     write_json("hazard_trends_monthly.json", build_hazard_trends_monthly(df))
     write_json("injury_alerts.json",         build_injury_alerts(df))
+    write_json("full_dataset.json",          df.fillna("").to_dict("records"))
+
+    # --- SQL database outputs ---
+    write_sqlite(df)
+    write_sql_dump(df)
 
     log.info("=== Safety Dashboard Pipeline — DONE ===")
 
