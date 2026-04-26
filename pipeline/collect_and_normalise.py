@@ -84,7 +84,7 @@ LOG_LEVEL = logging.INFO
 
 SAFETY_GATE_URL = (
     "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/"
-    "healthref-europe-rapex-en@public/records"
+    "healthref-europe-rapex-en/records"
 )
 SAFETY_GATE_PAGE_SIZE = 100
 SAFETY_GATE_MAX_RECORDS = 5000
