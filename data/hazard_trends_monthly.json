@@ -1,14 +1,14 @@
 [
   {
     "month": "2020-01",
-    "Chemical / Toxic Substance": 1,
+    "Chemical / Toxic Substance": 3,
     "Electrical Fault": 0,
     "Entrapment": 0,
     "Flammability / Overheating": 4,
-    "Instability / Fall Risk": 2,
-    "Other": 4,
-    "Sharp Edges / Points": 4,
-    "Small Parts / Choking Hazard": 0
+    "Mechanical Failure": 10,
+    "Other": 52,
+    "Sharp Edges / Points": 6,
+    "Small Parts / Choking Hazard": 1
   },
   {
     "month": "2020-02",
@@ -16,7 +16,7 @@
     "Electrical Fault": 1,
     "Entrapment": 2,
     "Flammability / Overheating": 4,
-    "Instability / Fall Risk": 2,
+    "Mechanical Failure": 1,
     "Other": 3,
     "Sharp Edges / Points": 3,
     "Small Parts / Choking Hazard": 2
@@ -27,7 +27,7 @@
     "Electrical Fault": 1,
     "Entrapment": 3,
     "Flammability / Overheating": 5,
-    "Instability / Fall Risk": 1,
+    "Mechanical Failure": 3,
     "Other": 6,
     "Sharp Edges / Points": 2,
     "Small Parts / Choking Hazard": 0
@@ -38,7 +38,7 @@
     "Electrical Fault": 3,
     "Entrapment": 1,
     "Flammability / Overheating": 5,
-    "Instability / Fall Risk": 2,
+    "Mechanical Failure": 0,
     "Other": 9,
     "Sharp Edges / Points": 1,
     "Small Parts / Choking Hazard": 1
@@ -49,7 +49,7 @@
     "Electrical Fault": 1,
     "Entrapment": 3,
     "Flammability / Overheating": 5,
-    "Instability / Fall Risk": 0,
+    "Mechanical Failure": 1,
     "Other": 8,
     "Sharp Edges / Points": 0,
     "Small Parts / Choking Hazard": 0
@@ -60,7 +60,7 @@
     "Electrical Fault": 0,
     "Entrapment": 1,
     "Flammability / Overheating": 4,
-    "Instability / Fall Risk": 3,
+    "Mechanical Failure": 0,
     "Other": 5,
     "Sharp Edges / Points": 0,
     "Small Parts / Choking Hazard": 3
@@ -71,7 +71,7 @@
     "Electrical Fault": 1,
     "Entrapment": 1,
     "Flammability / Overheating": 4,
-    "Instability / Fall Risk": 3,
+    "Mechanical Failure": 0,
     "Other": 14,
     "Sharp Edges / Points": 1,
     "Small Parts / Choking Hazard": 2
@@ -82,7 +82,7 @@
     "Electrical Fault": 2,
     "Entrapment": 1,
     "Flammability / Overheating": 1,
-    "Instability / Fall Risk": 1,
+    "Mechanical Failure": 2,
     "Other": 6,
     "Sharp Edges / Points": 2,
     "Small Parts / Choking Hazard": 0
@@ -93,7 +93,7 @@
     "Electrical Fault": 0,
     "Entrapment": 0,
     "Flammability / Overheating": 5,
-    "Instability / Fall Risk": 5,
+    "Mechanical Failure": 6,
     "Other": 6,
     "Sharp Edges / Points": 3,
     "Small Parts / Choking Hazard": 0
@@ -104,7 +104,7 @@
     "Electrical Fault": 0,
     "Entrapment": 0,
     "Flammability / Overheating": 3,
-    "Instability / Fall Risk": 2,
+    "Mechanical Failure": 3,
     "Other": 3,
     "Sharp Edges / Points": 5,
     "Small Parts / Choking Hazard": 0
@@ -115,7 +115,7 @@
     "Electrical Fault": 0,
     "Entrapment": 2,
     "Flammability / Overheating": 6,
-    "Instability / Fall Risk": 3,
+    "Mechanical Failure": 2,
     "Other": 4,
     "Sharp Edges / Points": 0,
     "Small Parts / Choking Hazard": 3
@@ -126,19 +126,19 @@
     "Electrical Fault": 1,
     "Entrapment": 1,
     "Flammability / Overheating": 10,
-    "Instability / Fall Risk": 1,
+    "Mechanical Failure": 5,
     "Other": 4,
     "Sharp Edges / Points": 5,
     "Small Parts / Choking Hazard": 1
   },
   {
     "month": "2021-01",
-    "Chemical / Toxic Substance": 0,
+    "Chemical / Toxic Substance": 5,
     "Electrical Fault": 0,
-    "Entrapment": 2,
-    "Flammability / Overheating": 2,
-    "Instability / Fall Risk": 1,
-    "Other": 2,
+    "Entrapment": 3,
+    "Flammability / Overheating": 3,
+    "Mechanical Failure": 2,
+    "Other": 51,
     "Sharp Edges / Points": 0,
     "Small Parts / Choking Hazard": 1
   },
@@ -148,7 +148,7 @@
     "Electrical Fault": 3,
     "Entrapment": 0,
     "Flammability / Overheating": 5,
-    "Instability / Fall Risk": 1,
+    "Mechanical Failure": 2,
     "Other": 7,
     "Sharp Edges / Points": 0,
     "Small Parts / Choking Hazard": 0
@@ -159,7 +159,7 @@
     "Electrical Fault": 1,
     "Entrapment": 0,
     "Flammability / Overheating": 7,
-    "Instability / Fall Risk": 3,
+    "Mechanical Failure": 3,
     "Other": 3,
     "Sharp Edges / Points": 1,
     "Small Parts / Choking Hazard": 0
@@ -170,7 +170,7 @@
     "Electrical Fault": 0,
     "Entrapment": 0,
     "Flammability / Overheating": 8,
-    "Instability / Fall Risk": 2,
+    "Mechanical Failure": 1,
     "Other": 6,
     "Sharp Edges / Points": 1,
     "Small Parts / Choking Hazard": 4
@@ -181,7 +181,7 @@
     "Electrical Fault": 1,
     "Entrapment": 0,
     "Flammability / Overheating": 4,
-    "Instability / Fall Risk": 3,
+    "Mechanical Failure": 6,
     "Other": 3,
     "Sharp Edges / Points": 2,
     "Small Parts / Choking Hazard": 3
@@ -192,7 +192,7 @@
     "Electrical Fault": 2,
     "Entrapment": 0,
     "Flammability / Overheating": 5,
-    "Instability / Fall Risk": 0,
+    "Mechanical Failure": 2,
     "Other": 1,
     "Sharp Edges / Points": 0,
     "Small Parts / Choking Hazard": 2
@@ -203,7 +203,7 @@
     "Electrical Fault": 1,
     "Entrapment": 4,
     "Flammability / Overheating": 9,
-    "Instability / Fall Risk": 0,
+    "Mechanical Failure": 0,
     "Other": 4,
     "Sharp Edges / Points": 1,
     "Small Parts / Choking Hazard": 2
@@ -214,7 +214,7 @@
     "Electrical Fault": 0,
     "Entrapment": 1,
     "Flammability / Overheating": 7,
-    "Instability / Fall Risk": 4,
+    "Mechanical Failure": 1,
     "Other": 3,
     "Sharp Edges / Points": 1,
     "Small Parts / Choking Hazard": 4
@@ -225,7 +225,7 @@
     "Electrical Fault": 0,
     "Entrapment": 0,
     "Flammability / Overheating": 2,
-    "Instability / Fall Risk": 2,
+    "Mechanical Failure": 2,
     "Other": 7,
     "Sharp Edges / Points": 2,
     "Small Parts / Choking Hazard": 0
@@ -236,7 +236,7 @@
     "Electrical Fault": 0,
     "Entrapment": 1,
     "Flammability / Overheating": 2,
-    "Instability / Fall Risk": 3,
+    "Mechanical Failure": 1,
     "Other": 1,
     "Sharp Edges / Points": 3,
     "Small Parts / Choking Hazard": 0
@@ -247,7 +247,7 @@
     "Electrical Fault": 2,
     "Entrapment": 1,
     "Flammability / Overheating": 3,
-    "Instability / Fall Risk": 0,
+    "Mechanical Failure": 1,
     "Other": 4,
     "Sharp Edges / Points": 0,
     "Small Parts / Choking Hazard": 2
@@ -258,19 +258,19 @@
     "Electrical Fault": 0,
     "Entrapment": 3,
     "Flammability / Overheating": 5,
-    "Instability / Fall Risk": 4,
+    "Mechanical Failure": 1,
     "Other": 1,
     "Sharp Edges / Points": 3,
     "Small Parts / Choking Hazard": 2
   },
   {
     "month": "2022-01",
-    "Chemical / Toxic Substance": 2,
+    "Chemical / Toxic Substance": 6,
     "Electrical Fault": 0,
     "Entrapment": 3,
-    "Flammability / Overheating": 6,
-    "Instability / Fall Risk": 2,
-    "Other": 2,
+    "Flammability / Overheating": 8,
+    "Mechanical Failure": 2,
+    "Other": 66,
     "Sharp Edges / Points": 2,
     "Small Parts / Choking Hazard": 1
   },
@@ -280,7 +280,7 @@
     "Electrical Fault": 1,
     "Entrapment": 2,
     "Flammability / Overheating": 11,
-    "Instability / Fall Risk": 2,
+    "Mechanical Failure": 3,
     "Other": 6,
     "Sharp Edges / Points": 1,
     "Small Parts / Choking Hazard": 4
@@ -291,7 +291,7 @@
     "Electrical Fault": 1,
     "Entrapment": 0,
     "Flammability / Overheating": 5,
-    "Instability / Fall Risk": 3,
+    "Mechanical Failure": 1,
     "Other": 7,
     "Sharp Edges / Points": 1,
     "Small Parts / Choking Hazard": 3
@@ -302,7 +302,7 @@
     "Electrical Fault": 1,
     "Entrapment": 0,
     "Flammability / Overheating": 4,
-    "Instability / Fall Risk": 2,
+    "Mechanical Failure": 7,
     "Other": 4,
     "Sharp Edges / Points": 1,
     "Small Parts / Choking Hazard": 3
@@ -313,7 +313,7 @@
     "Electrical Fault": 0,
     "Entrapment": 0,
     "Flammability / Overheating": 4,
-    "Instability / Fall Risk": 0,
+    "Mechanical Failure": 2,
     "Other": 2,
     "Sharp Edges / Points": 1,
     "Small Parts / Choking Hazard": 1
@@ -324,7 +324,7 @@
     "Electrical Fault": 1,
     "Entrapment": 0,
     "Flammability / Overheating": 12,
-    "Instability / Fall Risk": 2,
+    "Mechanical Failure": 2,
     "Other": 8,
     "Sharp Edges / Points": 3,
     "Small Parts / Choking Hazard": 4
@@ -335,7 +335,7 @@
     "Electrical Fault": 1,
     "Entrapment": 1,
     "Flammability / Overheating": 5,
-    "Instability / Fall Risk": 2,
+    "Mechanical Failure": 0,
     "Other": 4,
     "Sharp Edges / Points": 3,
     "Small Parts / Choking Hazard": 2
@@ -346,7 +346,7 @@
     "Electrical Fault": 1,
     "Entrapment": 2,
     "Flammability / Overheating": 0,
-    "Instability / Fall Risk": 2,
+    "Mechanical Failure": 0,
     "Other": 3,
     "Sharp Edges / Points": 3,
     "Small Parts / Choking Hazard": 2
@@ -357,7 +357,7 @@
     "Electrical Fault": 0,
     "Entrapment": 8,
     "Flammability / Overheating": 3,
-    "Instability / Fall Risk": 6,
+    "Mechanical Failure": 0,
     "Other": 4,
     "Sharp Edges / Points": 4,
     "Small Parts / Choking Hazard": 2
@@ -368,7 +368,7 @@
     "Electrical Fault": 1,
     "Entrapment": 0,
     "Flammability / Overheating": 10,
-    "Instability / Fall Risk": 3,
+    "Mechanical Failure": 1,
     "Other": 1,
     "Sharp Edges / Points": 0,
     "Small Parts / Choking Hazard": 2
@@ -379,7 +379,7 @@
     "Electrical Fault": 1,
     "Entrapment": 1,
     "Flammability / Overheating": 1,
-    "Instability / Fall Risk": 1,
+    "Mechanical Failure": 1,
     "Other": 1,
     "Sharp Edges / Points": 3,
     "Small Parts / Choking Hazard": 1
@@ -390,21 +390,21 @@
     "Electrical Fault": 1,
     "Entrapment": 1,
     "Flammability / Overheating": 9,
-    "Instability / Fall Risk": 3,
+    "Mechanical Failure": 2,
     "Other": 6,
     "Sharp Edges / Points": 3,
     "Small Parts / Choking Hazard": 3
   },
   {
     "month": "2023-01",
-    "Chemical / Toxic Substance": 0,
-    "Electrical Fault": 0,
+    "Chemical / Toxic Substance": 3,
+    "Electrical Fault": 2,
     "Entrapment": 0,
-    "Flammability / Overheating": 15,
-    "Instability / Fall Risk": 1,
-    "Other": 7,
+    "Flammability / Overheating": 16,
+    "Mechanical Failure": 7,
+    "Other": 52,
     "Sharp Edges / Points": 0,
-    "Small Parts / Choking Hazard": 0
+    "Small Parts / Choking Hazard": 1
   },
   {
     "month": "2023-02",
@@ -412,7 +412,7 @@
     "Electrical Fault": 0,
     "Entrapment": 3,
     "Flammability / Overheating": 10,
-    "Instability / Fall Risk": 3,
+    "Mechanical Failure": 2,
     "Other": 3,
     "Sharp Edges / Points": 2,
     "Small Parts / Choking Hazard": 3
@@ -423,7 +423,7 @@
     "Electrical Fault": 4,
     "Entrapment": 1,
     "Flammability / Overheating": 11,
-    "Instability / Fall Risk": 4,
+    "Mechanical Failure": 3,
     "Other": 7,
     "Sharp Edges / Points": 3,
     "Small Parts / Choking Hazard": 3
@@ -434,7 +434,7 @@
     "Electrical Fault": 1,
     "Entrapment": 3,
     "Flammability / Overheating": 9,
-    "Instability / Fall Risk": 1,
+    "Mechanical Failure": 2,
     "Other": 4,
     "Sharp Edges / Points": 0,
     "Small Parts / Choking Hazard": 3
@@ -445,7 +445,7 @@
     "Electrical Fault": 0,
     "Entrapment": 0,
     "Flammability / Overheating": 7,
-    "Instability / Fall Risk": 1,
+    "Mechanical Failure": 1,
     "Other": 6,
     "Sharp Edges / Points": 7,
     "Small Parts / Choking Hazard": 1
@@ -456,7 +456,7 @@
     "Electrical Fault": 1,
     "Entrapment": 0,
     "Flammability / Overheating": 8,
-    "Instability / Fall Risk": 3,
+    "Mechanical Failure": 5,
     "Other": 5,
     "Sharp Edges / Points": 4,
     "Small Parts / Choking Hazard": 0
@@ -467,7 +467,7 @@
     "Electrical Fault": 1,
     "Entrapment": 0,
     "Flammability / Overheating": 3,
-    "Instability / Fall Risk": 1,
+    "Mechanical Failure": 2,
     "Other": 3,
     "Sharp Edges / Points": 2,
     "Small Parts / Choking Hazard": 0
@@ -478,7 +478,7 @@
     "Electrical Fault": 2,
     "Entrapment": 0,
     "Flammability / Overheating": 8,
-    "Instability / Fall Risk": 1,
+    "Mechanical Failure": 3,
     "Other": 1,
     "Sharp Edges / Points": 5,
     "Small Parts / Choking Hazard": 3
@@ -489,7 +489,7 @@
     "Electrical Fault": 1,
     "Entrapment": 0,
     "Flammability / Overheating": 6,
-    "Instability / Fall Risk": 0,
+    "Mechanical Failure": 3,
     "Other": 6,
     "Sharp Edges / Points": 4,
     "Small Parts / Choking Hazard": 2
@@ -500,7 +500,7 @@
     "Electrical Fault": 0,
     "Entrapment": 0,
     "Flammability / Overheating": 4,
-    "Instability / Fall Risk": 0,
+    "Mechanical Failure": 1,
     "Other": 1,
     "Sharp Edges / Points": 3,
     "Small Parts / Choking Hazard": 5
@@ -511,7 +511,7 @@
     "Electrical Fault": 2,
     "Entrapment": 0,
     "Flammability / Overheating": 5,
-    "Instability / Fall Risk": 5,
+    "Mechanical Failure": 3,
     "Other": 8,
     "Sharp Edges / Points": 7,
     "Small Parts / Choking Hazard": 4
@@ -522,19 +522,19 @@
     "Electrical Fault": 1,
     "Entrapment": 1,
     "Flammability / Overheating": 11,
-    "Instability / Fall Risk": 3,
+    "Mechanical Failure": 4,
     "Other": 5,
     "Sharp Edges / Points": 0,
     "Small Parts / Choking Hazard": 8
   },
   {
     "month": "2024-01",
-    "Chemical / Toxic Substance": 2,
-    "Electrical Fault": 0,
+    "Chemical / Toxic Substance": 5,
+    "Electrical Fault": 5,
     "Entrapment": 2,
-    "Flammability / Overheating": 5,
-    "Instability / Fall Risk": 1,
-    "Other": 2,
+    "Flammability / Overheating": 14,
+    "Mechanical Failure": 8,
+    "Other": 36,
     "Sharp Edges / Points": 3,
     "Small Parts / Choking Hazard": 1
   },
@@ -544,7 +544,7 @@
     "Electrical Fault": 4,
     "Entrapment": 3,
     "Flammability / Overheating": 18,
-    "Instability / Fall Risk": 1,
+    "Mechanical Failure": 1,
     "Other": 7,
     "Sharp Edges / Points": 5,
     "Small Parts / Choking Hazard": 5
@@ -555,7 +555,7 @@
     "Electrical Fault": 1,
     "Entrapment": 0,
     "Flammability / Overheating": 6,
-    "Instability / Fall Risk": 2,
+    "Mechanical Failure": 2,
     "Other": 4,
     "Sharp Edges / Points": 1,
     "Small Parts / Choking Hazard": 8
@@ -566,7 +566,7 @@
     "Electrical Fault": 0,
     "Entrapment": 1,
     "Flammability / Overheating": 6,
-    "Instability / Fall Risk": 1,
+    "Mechanical Failure": 3,
     "Other": 9,
     "Sharp Edges / Points": 4,
     "Small Parts / Choking Hazard": 1
@@ -577,7 +577,7 @@
     "Electrical Fault": 0,
     "Entrapment": 3,
     "Flammability / Overheating": 8,
-    "Instability / Fall Risk": 1,
+    "Mechanical Failure": 0,
     "Other": 5,
     "Sharp Edges / Points": 3,
     "Small Parts / Choking Hazard": 2
@@ -588,7 +588,7 @@
     "Electrical Fault": 4,
     "Entrapment": 3,
     "Flammability / Overheating": 8,
-    "Instability / Fall Risk": 2,
+    "Mechanical Failure": 2,
     "Other": 4,
     "Sharp Edges / Points": 2,
     "Small Parts / Choking Hazard": 3
@@ -599,7 +599,7 @@
     "Electrical Fault": 2,
     "Entrapment": 2,
     "Flammability / Overheating": 9,
-    "Instability / Fall Risk": 4,
+    "Mechanical Failure": 3,
     "Other": 2,
     "Sharp Edges / Points": 1,
     "Small Parts / Choking Hazard": 1
@@ -610,7 +610,7 @@
     "Electrical Fault": 0,
     "Entrapment": 0,
     "Flammability / Overheating": 7,
-    "Instability / Fall Risk": 3,
+    "Mechanical Failure": 1,
     "Other": 2,
     "Sharp Edges / Points": 3,
     "Small Parts / Choking Hazard": 5
@@ -621,7 +621,7 @@
     "Electrical Fault": 1,
     "Entrapment": 4,
     "Flammability / Overheating": 4,
-    "Instability / Fall Risk": 2,
+    "Mechanical Failure": 2,
     "Other": 1,
     "Sharp Edges / Points": 0,
     "Small Parts / Choking Hazard": 0
@@ -632,7 +632,7 @@
     "Electrical Fault": 0,
     "Entrapment": 1,
     "Flammability / Overheating": 7,
-    "Instability / Fall Risk": 0,
+    "Mechanical Failure": 1,
     "Other": 4,
     "Sharp Edges / Points": 4,
     "Small Parts / Choking Hazard": 2
@@ -643,7 +643,7 @@
     "Electrical Fault": 0,
     "Entrapment": 2,
     "Flammability / Overheating": 6,
-    "Instability / Fall Risk": 1,
+    "Mechanical Failure": 3,
     "Other": 4,
     "Sharp Edges / Points": 0,
     "Small Parts / Choking Hazard": 2
@@ -654,19 +654,19 @@
     "Electrical Fault": 2,
     "Entrapment": 2,
     "Flammability / Overheating": 7,
-    "Instability / Fall Risk": 0,
+    "Mechanical Failure": 3,
     "Other": 5,
     "Sharp Edges / Points": 1,
     "Small Parts / Choking Hazard": 1
   },
   {
     "month": "2025-01",
-    "Chemical / Toxic Substance": 4,
-    "Electrical Fault": 3,
-    "Entrapment": 2,
-    "Flammability / Overheating": 5,
-    "Instability / Fall Risk": 3,
-    "Other": 6,
+    "Chemical / Toxic Substance": 7,
+    "Electrical Fault": 4,
+    "Entrapment": 3,
+    "Flammability / Overheating": 8,
+    "Mechanical Failure": 4,
+    "Other": 74,
     "Sharp Edges / Points": 1,
     "Small Parts / Choking Hazard": 3
   },
@@ -676,7 +676,7 @@
     "Electrical Fault": 8,
     "Entrapment": 4,
     "Flammability / Overheating": 20,
-    "Instability / Fall Risk": 3,
+    "Mechanical Failure": 5,
     "Other": 20,
     "Sharp Edges / Points": 3,
     "Small Parts / Choking Hazard": 11
@@ -687,7 +687,7 @@
     "Electrical Fault": 5,
     "Entrapment": 4,
     "Flammability / Overheating": 16,
-    "Instability / Fall Risk": 2,
+    "Mechanical Failure": 4,
     "Other": 339,
     "Sharp Edges / Points": 5,
     "Small Parts / Choking Hazard": 27
@@ -698,7 +698,7 @@
     "Electrical Fault": 13,
     "Entrapment": 5,
     "Flammability / Overheating": 16,
-    "Instability / Fall Risk": 4,
+    "Mechanical Failure": 0,
     "Other": 477,
     "Sharp Edges / Points": 2,
     "Small Parts / Choking Hazard": 26
@@ -709,7 +709,7 @@
     "Electrical Fault": 12,
     "Entrapment": 7,
     "Flammability / Overheating": 26,
-    "Instability / Fall Risk": 1,
+    "Mechanical Failure": 1,
     "Other": 450,
     "Sharp Edges / Points": 3,
     "Small Parts / Choking Hazard": 9
@@ -720,7 +720,7 @@
     "Electrical Fault": 8,
     "Entrapment": 8,
     "Flammability / Overheating": 22,
-    "Instability / Fall Risk": 7,
+    "Mechanical Failure": 2,
     "Other": 389,
     "Sharp Edges / Points": 2,
     "Small Parts / Choking Hazard": 16
@@ -731,7 +731,7 @@
     "Electrical Fault": 17,
     "Entrapment": 7,
     "Flammability / Overheating": 31,
-    "Instability / Fall Risk": 3,
+    "Mechanical Failure": 5,
     "Other": 409,
     "Sharp Edges / Points": 5,
     "Small Parts / Choking Hazard": 15
@@ -742,7 +742,7 @@
     "Electrical Fault": 10,
     "Entrapment": 3,
     "Flammability / Overheating": 34,
-    "Instability / Fall Risk": 2,
+    "Mechanical Failure": 1,
     "Other": 385,
     "Sharp Edges / Points": 2,
     "Small Parts / Choking Hazard": 14
@@ -753,7 +753,7 @@
     "Electrical Fault": 4,
     "Entrapment": 1,
     "Flammability / Overheating": 22,
-    "Instability / Fall Risk": 0,
+    "Mechanical Failure": 1,
     "Other": 287,
     "Sharp Edges / Points": 1,
     "Small Parts / Choking Hazard": 10
@@ -764,7 +764,7 @@
     "Electrical Fault": 11,
     "Entrapment": 16,
     "Flammability / Overheating": 48,
-    "Instability / Fall Risk": 1,
+    "Mechanical Failure": 3,
     "Other": 481,
     "Sharp Edges / Points": 2,
     "Small Parts / Choking Hazard": 16
@@ -775,7 +775,7 @@
     "Electrical Fault": 6,
     "Entrapment": 14,
     "Flammability / Overheating": 42,
-    "Instability / Fall Risk": 1,
+    "Mechanical Failure": 3,
     "Other": 373,
     "Sharp Edges / Points": 2,
     "Small Parts / Choking Hazard": 20
@@ -786,7 +786,7 @@
     "Electrical Fault": 16,
     "Entrapment": 10,
     "Flammability / Overheating": 21,
-    "Instability / Fall Risk": 4,
+    "Mechanical Failure": 1,
     "Other": 349,
     "Sharp Edges / Points": 6,
     "Small Parts / Choking Hazard": 32
@@ -797,7 +797,7 @@
     "Electrical Fault": 16,
     "Entrapment": 12,
     "Flammability / Overheating": 28,
-    "Instability / Fall Risk": 2,
+    "Mechanical Failure": 5,
     "Other": 280,
     "Sharp Edges / Points": 1,
     "Small Parts / Choking Hazard": 21
@@ -808,7 +808,7 @@
     "Electrical Fault": 4,
     "Entrapment": 10,
     "Flammability / Overheating": 23,
-    "Instability / Fall Risk": 3,
+    "Mechanical Failure": 3,
     "Other": 399,
     "Sharp Edges / Points": 4,
     "Small Parts / Choking Hazard": 23
@@ -819,7 +819,7 @@
     "Electrical Fault": 7,
     "Entrapment": 5,
     "Flammability / Overheating": 17,
-    "Instability / Fall Risk": 5,
+    "Mechanical Failure": 2,
     "Other": 318,
     "Sharp Edges / Points": 1,
     "Small Parts / Choking Hazard": 9
@@ -830,7 +830,7 @@
     "Electrical Fault": 12,
     "Entrapment": 10,
     "Flammability / Overheating": 29,
-    "Instability / Fall Risk": 2,
+    "Mechanical Failure": 5,
     "Other": 354,
     "Sharp Edges / Points": 2,
     "Small Parts / Choking Hazard": 22
