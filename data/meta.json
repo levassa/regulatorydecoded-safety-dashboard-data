@@ -1,0 +1,15 @@
+{
+  "last_updated": "2026-04-26T11:38:24Z",
+  "total_records": 1000,
+  "by_source": {
+    "OPSS": 1000
+  },
+  "injury_reports": 0,
+  "total_injuries": 0,
+  "by_severity": {
+    "Fatal": 5,
+    "Minor": 790,
+    "Not Reported": 203,
+    "Serious": 2
+  }
+}

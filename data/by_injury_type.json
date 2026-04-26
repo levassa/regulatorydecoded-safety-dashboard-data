@@ -1,0 +1,72 @@
+[
+  {
+    "injury_type": "Not Specified",
+    "total": 600,
+    "by_source": {
+      "OPSS": 600
+    }
+  },
+  {
+    "injury_type": "Choking / Suffocation",
+    "total": 212,
+    "by_source": {
+      "OPSS": 212
+    }
+  },
+  {
+    "injury_type": "Electric Shock",
+    "total": 120,
+    "by_source": {
+      "OPSS": 120
+    }
+  },
+  {
+    "injury_type": "Burns",
+    "total": 22,
+    "by_source": {
+      "OPSS": 22
+    }
+  },
+  {
+    "injury_type": "Entrapment",
+    "total": 19,
+    "by_source": {
+      "OPSS": 19
+    }
+  },
+  {
+    "injury_type": "Drowning",
+    "total": 17,
+    "by_source": {
+      "OPSS": 17
+    }
+  },
+  {
+    "injury_type": "Laceration / Cut",
+    "total": 4,
+    "by_source": {
+      "OPSS": 4
+    }
+  },
+  {
+    "injury_type": "Eye Injury",
+    "total": 3,
+    "by_source": {
+      "OPSS": 3
+    }
+  },
+  {
+    "injury_type": "Respiratory",
+    "total": 2,
+    "by_source": {
+      "OPSS": 2
+    }
+  },
+  {
+    "injury_type": "Radiation Exposure",
+    "total": 1,
+    "by_source": {
+      "OPSS": 1
+    }
+  }
+]

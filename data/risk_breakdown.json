@@ -1,0 +1,1392 @@
+[
+  {
+    "risk_type": "Fire",
+    "count": 312,
+    "percentage": 31.2
+  },
+  {
+    "risk_type": "Choking",
+    "count": 163,
+    "percentage": 16.3
+  },
+  {
+    "risk_type": "Chemical",
+    "count": 103,
+    "percentage": 10.3
+  },
+  {
+    "risk_type": "Electric Shock",
+    "count": 99,
+    "percentage": 9.9
+  },
+  {
+    "risk_type": "Burns",
+    "count": 25,
+    "percentage": 2.5
+  },
+  {
+    "risk_type": "Drowning",
+    "count": 19,
+    "percentage": 1.9
+  },
+  {
+    "risk_type": "Contamination",
+    "count": 4,
+    "percentage": 0.4
+  },
+  {
+    "risk_type": "Product Safety Report For Minidream Tummy Time Pillow Presenting A Serious Entrapment Risk.",
+    "count": 2,
+    "percentage": 0.2
+  },
+  {
+    "risk_type": "Product Safety Report For 4.4M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "count": 2,
+    "percentage": 0.2
+  },
+  {
+    "risk_type": "Product Safety Report For 5M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "count": 2,
+    "percentage": 0.2
+  },
+  {
+    "risk_type": "Product Safety Report For Jbbfcan 5.8M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "count": 2,
+    "percentage": 0.2
+  },
+  {
+    "risk_type": "Product Safety Report For Ethan The Fox Teether Presenting A Serious Asphyxiation Risk.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Enjoy & Love Kids Trampoline Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For E-Bike Conversion Kit Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Durhand Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Domestar Vase Fillers Presenting A High Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Deluxus Water Beads 50000Pcs Presenting A High Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Everun Ert 1500 Rough Terrain Telehandler Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Crystal Mud Sponge Water Beads Presenting A Serious Risk Of Injuries And Asphyxiation.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Crayon Inflatable Presenting A Serious Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Comforder Water Beads Presenting A Serious Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Climbing Safety Belt Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Climbing Rope Hw0169-610-Simo-2240 Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Capybara Advent Calendar 2025 Presenting A Serious Risk Of Cuts And Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Dbodb Baby Walker Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Iscooter Electric Scooter Ix6 Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Inflatable Hammer Toys Presenting A Serious Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Ihoverboard H8Pro Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Igloo 90-Quart Flip & Tow Coolers Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Ice Crusher Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Hydrogel Water Beads Presenting A Serious Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Hinsinc Brushless Angle Grinder Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Girls Creator Magical Water Beads Soothing Spa Presenting A Serious Health Risk.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Hbtower 2.6M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Hb Tower 5 Step Ladder With Handrails Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Hb Tower 5 Step Ladder Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Green Lawn Trimmer Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Girls Creator Nail Art Studio Presenting An Asphyxiation Risk.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Bugaboo Giraffe Highchair Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Giant Momentum Vida E+ Bicycle Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Gel Water Beads Presenting A Serious Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Heybike Ec Compact City E-Bike Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For 3.8M Telescopic Ladder (Kiko 5301-9) Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For 3.8M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For 3000Pcs Water Gel Beads Presenting A High Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For 4-Step Step Ladder Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For 60 Giant Jumbo Water Beads Presenting A Risk Of Injuries And Asphyxiation.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For 60,000 Water Gel Beads Presenting A Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For 6M And 3.2M Telescopic Ladders Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For 8-Inch Cordless Chainsaw Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For 8Ft Trampoline Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For A Ciat Vectios Roof Top Air Handling Unit.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For A Dinosaur Scooter Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For A Sigma Group Modulbox Mb Sv – All Models Presenting A Health Risk.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For A Supatool 4 Step Aluminium Step Ladder Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For A Tummy Time Multistage Water Mat That Presents A Serious Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For A4R Water Beads Presenting A High Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Bees Jewellery Hand Chain, Bangle And Earrings",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Acrohome 2.9M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Ainolway Rainbow Water Beads Presenting An Asphyxiation And Health Risk.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For An Injection Blow Mould Machine Presenting An Entrapment Risk.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For At Performance Stroller Presenting An Asyphxiation Risk.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Audio-Technica Wireless Headphones Ath-Cks50Tw2 Presenting A Risk Of Firmware Vulnerabilities.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Automatic Electric Gel Ball Blaster Presenting A Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Baby Camping Chair Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Baby Playpen Presenting A Serious Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Baby Stroller Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Baby Walker Ky-088 Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Baby Winter Sleeping Bag Presenting A Serious Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Bellababy Baby Bassinet And Bedside Sleeper Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Bentley Continental Supersport Toy Car Presenting A Serious Health Risk.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Bianchi Impulso Rc Bicycle Handlebars Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Black Three-Step Folding Ladder Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Acrohome 2.6M Telescopic Ladder With Hooks Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Rosary Pea Seeds Presenting A Health Risk.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Sanding Machine Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Simpa Baby High Chair  Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Simplon Bicycles Fitted With Swissstop Centerlock Adapter Sets Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Soctone Multi-Purpose Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Vevor Manual Gear Chain Hoist Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Vevor Permanent Magnetic Lifter Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Vevor Transmission Jack Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Vidaxl Outdoor Playset Presenting A Risk Of Entrapment.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Water Beads Set Presenting A High Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Water Gel Filler Beads For Vases Presenting A Serious Risk Of Injuries And Asphyxiation.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Wejoy Water Beads Presenting A Serious Risk Of Injuries And Asphyxiation.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For White And Green Stroller Presenting An Asphyxiation Risk.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Wilverz Black Roller Skates Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Wituse Water Beads Presenting A Serious Asphyxiation.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Kaak Dough Driem Line Presenting A High Risk Of Entrapment.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Ann Summers Remote Rotating Dildo Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Amazon Basics Camping Folding Pocket Knife Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Aico Ei3014 Heat Detector Which Does Not Meet The Requirements Of The Relevant Regulations.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Addo Play Limited Paw Patrol Sand Art Pictures Kit Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Addo Play Limited Paw Patrol Bumper Craft Collection Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Addo Play Limited Out To Impress Sand Art Creations Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Addo Play Limited Out To Impress Creative Candles Kit Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Yasinkidz Baby Swim Float Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Abaseen Folding Sun Lounger Presenting A Serious Risk Of Injuries And Entrapment.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For 10000Pcs Multi-Colour Water Absorbent Beads Presenting A Serious Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For  Next X25 Gingerbread Serveboard Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Opss Has Issued A Product Safety Alert For Baby Self-Feeding Pillows And Prop Feeders Presenting A Risk Of Serious Harm Or Death.  Consumers, Local Authority Trading Standards And Businesses Are Asked To Take Specific Action To Cease Use Or Remove Them From The Market.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Environmental",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Zoeller Lifting Systems Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Zhong Jie Ming Toys Dinosaur Helmet Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Yi Tong Baby Walker Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Acer Electric Scooter Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Jovant Pneumatic Push Out Nail Gun Sold Via Amazon Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Joycat Baby Float Sold Via Amazon Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Joyin Play & Pack On The Go Key Fob And Cell Phone Toy Presenting A Serious Risk Of Damage To Hearing.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For 3.2M Telescopic Ladder (Kiko 5031-8) Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Kidwill Multifunction Wooden Frame Abacus Toy Presenting A Serious Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Lapierre Aircode Drs And Lapierre Xelius Bicycles Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Laycol Baby Pool Float Sold Via Amazon Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Letterbox Lab Explore Box 9 And Investigate Box 9 Presenting A Serious Risk To Health.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Maak Colourful Water Beads Presenting A Serious Risk Of Injuries And Asphyxiation.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Magiclub Water Beads Presenting A High Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Mama Cheetah Baby Swaddle Wrap Presenting A Risk Of Entrapment And Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Mama Cheetah Wearable Blankets Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Meat Grinder Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Mercury Marine 450R And 500R Outboard Motors Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Mercury Marine Fourstroke Outboard Motor Due To Stud Corrosion If Used In Saltwater.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Rimek Single Rotary Tablet Press Machine - Unik-Pc 20 Stn Manual Control-Gf/Ff Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Red Lawn Mower Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Red Gasoline Chainsaw Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Red Crystal Pearls Presenting A High Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Rainbow Mix Jelly Water Gel Beads Presenting A Risk Of Aphyxiation.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Polyplas Water Beads 50000Pcs Presenting A Serious Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Playworld Systems Unity Teeter Tunnel Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Pink And White Child'S Sports Bicycle Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Minidream Organic 5-In-1 Baby Activity Gym Presenting A Serious Entrapment Risk.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Pei Feng Toys Factory Building Blocks Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Pearson Hydraulic Shearing Machine Presenting A High Risk Of Entrapment And Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Parner Baby Swim Float And Seat Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Nineaccy Telescopic Ladders Presenting An Injuries Risk.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Multi-Functional Blender Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Mr. Pen Water Beads Presenting A High Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Mitchum 48-Hour 100Ml Roll-On Antiperspirant And Deodorant Presenting A Health Risk.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Minidream Safari Activity Gym Presenting A Serious Entrapment Risk.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Petzl Gym, Pandion And Panji Climbing Harnesses Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Hobbycraft Giant Box Of Craft Presenting A Health Risk.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Hobbycraft Easter Bumper Craft Kit Presenting A Health Risk.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Hgl Stretchy Sand Pig Toy Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Hgl Stretchy Sand Monster Truck/Car Toys Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Hero Launching Robot Arm Toy Presenting A High Risk Of Asphyxiation And Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Hello Sunday Mineral Eye Cream Spf50 Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Head Sport Gmbh Head Yellow Ski Boots Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For 1800Pcs Jumbo Water Gel Beads Presenting A Serious Asphyxiation And Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Halfords Essentials Nyala R129 Car Seat Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Habitat Seed Pod Bowl Filler Presenting A Health Risk.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Get Set Play Jumbo Balloon Pumper Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For George Baby 3-Pack Rompers With Zip Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For George 'Stitch And Angel' Two Piece Children'S Clothing Set Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Galt Nature Craft Kit Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For First Baby Days Bath Time Bath Book.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Endless Pools Retractable Pool Cover Presenting A Risk Of Entrapment.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Handlebar Stem On Mirider 24 Bicycles Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Ktl Squishy Stretchy Capybara Toy Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Ktl Squeezy Splatter Pig Toy Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Ktl Sensory Science Kit Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Ktl Kreative Kids! Jumbo Craft Box Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Ktl Decorative Glass Bottle Of Sand Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Ktl 3Pcs Test Tube Science Kit Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Ktl 2Pc Balloon Dog Toy Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Hobbycraft Sand And Pom Pom Art Kit Presenting A Health Risk.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Kids Create Sand Art Kit Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Kawasaki Jetski Ultra 310 Series Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Joolz Hub Pram Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Joie Serina Elephant Duo Swivel Baby Swing Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For J&J Conversions F1 Low Approach Slide Bed Recovery Vehicle Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Hti Toys Stretcherz Toys Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Honeywell Miller H500-Series Harnesses With Leg Buckles Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Home Bargains Happy Easter Plush Toys Presenting A Serious Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Ktl 2.2Kg Squishy Hot Colour Gorilla Toy Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Terex Gb Limited Premiertrak Mobile Jaw Crusher Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Terex Gb Limited Finlay J-1170+ Mobile Jaw Crusher Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Teemza 6.2M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Teemza 4.9M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Teemza 3.8M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Teemza 3.2M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Tarmak Nba Basketball Hoop Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Emba Cast Iron Cookware Presenting A Health Risk.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Step Ladder Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Star Blue Light Up Tri-Scooter Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Stainless Steel Telescopic Ladder 3.8M Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Stainless Steel 4.4M And 5M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "A Product Safety Report For Belecoo Stroller With Car Seat Presenting An Asphyxiation Risk.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Zudrez Roller Skates Sold Via Amazon Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Variodyn One Voice Alarm System Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Vevor Jack With Airbag Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Swimbobo Space Rocket Pool Float Presenting A Risk Of Serious Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Electra E-Bikes Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Dt Swiss Erc/Crc/Hec/Arc Bicycle Wheels Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Croydex Kentmere, Harrop, Simpson And Belham Mirrors Presenting A Low Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Croydex Devoke Mirror And Croydex Rydal Mirror Presenting A Low Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Cowboy E Bike Model C4 St (Edition Mr) Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Colour Forge Basing Sand Presenting A Health Risk.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Children'S Non Toxic Water Beads Presenting A High Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Character Mugs Presenting A Health Risk.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Topway Steel 3-Step Home Ladder Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Brown Safety Trainers Sold Via Tiktok Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Borderline Editions Kluster (Classic) Game Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Bondi Sands Zinc Mineral Sunscreen Spf50+ Body Lotion And Face Lotion Presenting A Health Risk.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Black Diamond Vision Harness Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Black Diamond Recon Lt Avalanche Transceiver Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Balmonds Gentle Face Wash Presenting A Health Risk.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For V8 E-Bike Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For Tp Toys Foldaway Swing Seat Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Byblos Blu Happy Hour Eau De Toilette.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Turkish Household (Uk) Limited Small Foldable Stools Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Trublue Iq And Trublue Speed Climbing Auto Belays",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Thekiddospace Magnetic Reusable Water Balloons Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Texet Bright Start Fluorescent Coloured Craft Sand Pack Of 6 Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Texet Bright Start Coloured Crafting Sand Pack Of 20 Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Stromer St3, St5 And St7 Bicycles Fitted With Wren Front Suspension Forks Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Stokke® Yoyo 3 Pram Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Ktl Stretchy Dog Toys Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Stihl Br 800 Backpack Blower Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Squishy Sausage Dogs And Squishy Pugs Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Spooktacular Creations Brown Zombie Costume Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Specialized E-Bike Chain Guards Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Soft Bulalaet Gun Presenting A High Risk Of Injuries And Asphyxiation.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Site Hallissey Dark Brown Dealer Boot Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Simond Probe Ski Touring Pole Presenting A Risk Of Entrapment.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Seven Smyths Toys Dig Products Containing Sand, Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Stihl Rma 235.0 Cordless Lawnmower Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For 2.5M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Ashton Global / Spectra 45Nb Stone Melanger Presenting A Serious Risk Of Injuries And Entrapment.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For 10G Water Ball Beads Presenting A Serious Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For 10Ft Trampoline, 10Fthc14 Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Safety Report For 10,000Pcs Coloured Water Gel Beads Presenting A High Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall Of Xiangtai Safety Belt Sold Via Tiktok Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall Of Various Matalan Bikini Tops Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Ultra Violette Lean Screen Spf50+ Sunscreen Presenting A Serious Health Risk.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Yamaha Motor Golf Buggy Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Yamaha Drive 2 Ac And Drive 2 Ac Li Golf Cars Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Wooden Qiyi Sand Activity Toy Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Wave Builder Hair Products Presenting A Risk Of Non-Compliance.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Waterproof Front Seat Cover Set Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Volvo Penta Evc 2 Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Villeroy & Boch Kiddy Bears Children'S Glass Collection Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Urban Balcony Deckchair Presenting A Risk Of Entrapment.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall Of Matalan Bunny Tumbler With Straw Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Moustache E-Bikes Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Moonboon Organic Baby Hammock Mounting Kit Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Mercury Marine Gen 2 Dts And Avator Controls. \r\n\r\nProducts Fitted To Boats With The Specified Hin Numbers Present A Risk Of Non-Compliance Due To An Operating Fault.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Matalan Dungarees, Rompers And Sweater Sets Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Mammut Via Ferrata Sets Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Mammut Skywalker Pro And Skywalker Pro Turn Via Ferrata Sets Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Makita Cordless Grease Gun Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Scrunchems Stretchies Sleepy Dino Toy Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For M.Asam Vitamin C Glow Ampullens Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Lxinshu Half Body Climbing Harnesses Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Lezyne Pressure Over Drive + Digital Pressure Over Drive Bicycle Floor Pump Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Lexmoto Tr125-Gp2-E55 Front Brake Disc And Calliper Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Large Water Beads Presenting A High Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Kubota Rtv Utility Vehicle Bolts And Nut Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Ktl Stretchy Poop Toy Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Ktl Stretchy Monster Toys Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Magnetic Effect Chess Intelligence Strategy Game Sold Via Tiktok Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Sand Art Activity Kit Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Rockahula Kids Tiny Blossom Bunny Ears Headband Presenting A Risk Of Cuts.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Rcr Pro Ultegra & Rcr Pro Dura Ace Bikes Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Quechua Sh500L Mountain Snowshoe Presenting An Injuries Risk.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Q'Straint Wheelchair Securement Retractors Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Pnw Loam Pedals Gen 2 Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Pieps Pro Ips And Pieps Set Pro Ips Avalanche Transceiver Presenting A Risk Of Entrapment.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Petzl Swan Easyfit Climbing Harnesses Resenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Multi-Colour Ultra-Fine Quartz Sand Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Oxo Good Grips Pasta Scoop Strainer Presenting A Serious Health Risk.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Outigo Kf12 Chainsaw Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Orchard Toys See And Sound Giant Flashcards Presenting A Health Risk.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Orbea Avant Bicycles Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Orb Funkee Sand Toys Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Next X25 Gingerbread Nibble Bowl Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Next Core 5Lt Flush Ceiling Light Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For My Living World Worm Kit Presenting A Health Risk.",
+    "count": 1,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Product Recall For Petzl Newton Climbing Harnesses Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.1
+  }
+]

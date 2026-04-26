@@ -1,0 +1,178 @@
+[
+  {
+    "month": "2025-01",
+    "Chemical / Toxic Substance": 1,
+    "Drowning Risk": 0,
+    "Electrical Fault": 0,
+    "Entrapment": 0,
+    "Flammability / Overheating": 0,
+    "Microbiological Contamination": 0,
+    "Other": 1,
+    "Small Parts / Choking Hazard": 1
+  },
+  {
+    "month": "2025-02",
+    "Chemical / Toxic Substance": 19,
+    "Drowning Risk": 0,
+    "Electrical Fault": 5,
+    "Entrapment": 0,
+    "Flammability / Overheating": 7,
+    "Microbiological Contamination": 0,
+    "Other": 17,
+    "Small Parts / Choking Hazard": 5
+  },
+  {
+    "month": "2025-03",
+    "Chemical / Toxic Substance": 6,
+    "Drowning Risk": 2,
+    "Electrical Fault": 5,
+    "Entrapment": 0,
+    "Flammability / Overheating": 10,
+    "Microbiological Contamination": 1,
+    "Other": 14,
+    "Small Parts / Choking Hazard": 23
+  },
+  {
+    "month": "2025-04",
+    "Chemical / Toxic Substance": 1,
+    "Drowning Risk": 0,
+    "Electrical Fault": 10,
+    "Entrapment": 2,
+    "Flammability / Overheating": 9,
+    "Microbiological Contamination": 0,
+    "Other": 9,
+    "Small Parts / Choking Hazard": 18
+  },
+  {
+    "month": "2025-05",
+    "Chemical / Toxic Substance": 3,
+    "Drowning Risk": 0,
+    "Electrical Fault": 11,
+    "Entrapment": 0,
+    "Flammability / Overheating": 19,
+    "Microbiological Contamination": 0,
+    "Other": 11,
+    "Small Parts / Choking Hazard": 5
+  },
+  {
+    "month": "2025-06",
+    "Chemical / Toxic Substance": 7,
+    "Drowning Risk": 0,
+    "Electrical Fault": 6,
+    "Entrapment": 5,
+    "Flammability / Overheating": 16,
+    "Microbiological Contamination": 0,
+    "Other": 13,
+    "Small Parts / Choking Hazard": 12
+  },
+  {
+    "month": "2025-07",
+    "Chemical / Toxic Substance": 4,
+    "Drowning Risk": 1,
+    "Electrical Fault": 16,
+    "Entrapment": 1,
+    "Flammability / Overheating": 23,
+    "Microbiological Contamination": 0,
+    "Other": 16,
+    "Small Parts / Choking Hazard": 12
+  },
+  {
+    "month": "2025-08",
+    "Chemical / Toxic Substance": 8,
+    "Drowning Risk": 2,
+    "Electrical Fault": 8,
+    "Entrapment": 2,
+    "Flammability / Overheating": 28,
+    "Microbiological Contamination": 2,
+    "Other": 16,
+    "Small Parts / Choking Hazard": 12
+  },
+  {
+    "month": "2025-09",
+    "Chemical / Toxic Substance": 3,
+    "Drowning Risk": 1,
+    "Electrical Fault": 3,
+    "Entrapment": 0,
+    "Flammability / Overheating": 17,
+    "Microbiological Contamination": 0,
+    "Other": 5,
+    "Small Parts / Choking Hazard": 5
+  },
+  {
+    "month": "2025-10",
+    "Chemical / Toxic Substance": 8,
+    "Drowning Risk": 2,
+    "Electrical Fault": 10,
+    "Entrapment": 2,
+    "Flammability / Overheating": 31,
+    "Microbiological Contamination": 0,
+    "Other": 16,
+    "Small Parts / Choking Hazard": 14
+  },
+  {
+    "month": "2025-11",
+    "Chemical / Toxic Substance": 6,
+    "Drowning Risk": 7,
+    "Electrical Fault": 5,
+    "Entrapment": 1,
+    "Flammability / Overheating": 36,
+    "Microbiological Contamination": 1,
+    "Other": 14,
+    "Small Parts / Choking Hazard": 16
+  },
+  {
+    "month": "2025-12",
+    "Chemical / Toxic Substance": 18,
+    "Drowning Risk": 8,
+    "Electrical Fault": 15,
+    "Entrapment": 3,
+    "Flammability / Overheating": 19,
+    "Microbiological Contamination": 1,
+    "Other": 20,
+    "Small Parts / Choking Hazard": 30
+  },
+  {
+    "month": "2026-01",
+    "Chemical / Toxic Substance": 10,
+    "Drowning Risk": 1,
+    "Electrical Fault": 14,
+    "Entrapment": 2,
+    "Flammability / Overheating": 22,
+    "Microbiological Contamination": 0,
+    "Other": 5,
+    "Small Parts / Choking Hazard": 14
+  },
+  {
+    "month": "2026-02",
+    "Chemical / Toxic Substance": 3,
+    "Drowning Risk": 0,
+    "Electrical Fault": 2,
+    "Entrapment": 1,
+    "Flammability / Overheating": 15,
+    "Microbiological Contamination": 1,
+    "Other": 22,
+    "Small Parts / Choking Hazard": 16
+  },
+  {
+    "month": "2026-03",
+    "Chemical / Toxic Substance": 5,
+    "Drowning Risk": 3,
+    "Electrical Fault": 6,
+    "Entrapment": 0,
+    "Flammability / Overheating": 13,
+    "Microbiological Contamination": 0,
+    "Other": 31,
+    "Small Parts / Choking Hazard": 7
+  },
+  {
+    "month": "2026-04",
+    "Chemical / Toxic Substance": 1,
+    "Drowning Risk": 1,
+    "Electrical Fault": 4,
+    "Entrapment": 1,
+    "Flammability / Overheating": 20,
+    "Microbiological Contamination": 0,
+    "Other": 18,
+    "Small Parts / Choking Hazard": 14
+  }
+]

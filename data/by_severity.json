@@ -1,0 +1,94 @@
+[
+  {
+    "severity": "Fatal",
+    "total": 5,
+    "total_injuries": 0,
+    "by_region": {
+      "United Kingdom": 5
+    },
+    "by_category": {
+      "Other": 5
+    },
+    "by_hazard_type": {
+      "Chemical / Toxic Substance": 0,
+      "Drowning Risk": 0,
+      "Electrical Fault": 2,
+      "Entrapment": 0,
+      "Explosion": 0,
+      "Flammability / Overheating": 1,
+      "Microbiological Contamination": 0,
+      "Other": 1,
+      "Radiation": 0,
+      "Small Parts / Choking Hazard": 1
+    }
+  },
+  {
+    "severity": "Serious",
+    "total": 2,
+    "total_injuries": 0,
+    "by_region": {
+      "United Kingdom": 2
+    },
+    "by_category": {
+      "Other": 2
+    },
+    "by_hazard_type": {
+      "Chemical / Toxic Substance": 0,
+      "Drowning Risk": 0,
+      "Electrical Fault": 0,
+      "Entrapment": 0,
+      "Explosion": 0,
+      "Flammability / Overheating": 0,
+      "Microbiological Contamination": 0,
+      "Other": 2,
+      "Radiation": 0,
+      "Small Parts / Choking Hazard": 0
+    }
+  },
+  {
+    "severity": "Minor",
+    "total": 790,
+    "total_injuries": 0,
+    "by_region": {
+      "United Kingdom": 790
+    },
+    "by_category": {
+      "Other": 790
+    },
+    "by_hazard_type": {
+      "Chemical / Toxic Substance": 2,
+      "Drowning Risk": 26,
+      "Electrical Fault": 118,
+      "Entrapment": 15,
+      "Explosion": 5,
+      "Flammability / Overheating": 273,
+      "Microbiological Contamination": 0,
+      "Other": 166,
+      "Radiation": 1,
+      "Small Parts / Choking Hazard": 184
+    }
+  },
+  {
+    "severity": "Not Reported",
+    "total": 203,
+    "total_injuries": 0,
+    "by_region": {
+      "United Kingdom": 203
+    },
+    "by_category": {
+      "Other": 203
+    },
+    "by_hazard_type": {
+      "Chemical / Toxic Substance": 101,
+      "Drowning Risk": 2,
+      "Electrical Fault": 0,
+      "Entrapment": 5,
+      "Explosion": 0,
+      "Flammability / Overheating": 11,
+      "Microbiological Contamination": 6,
+      "Other": 59,
+      "Radiation": 0,
+      "Small Parts / Choking Hazard": 19
+    }
+  }
+]

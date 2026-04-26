@@ -1,0 +1,15 @@
+[
+  {
+    "region": "United Kingdom",
+    "total": 1000,
+    "by_category": {
+      "Other": 1000
+    },
+    "by_severity": {
+      "Fatal": 5,
+      "Minor": 790,
+      "Not Reported": 203,
+      "Serious": 2
+    }
+  }
+]
