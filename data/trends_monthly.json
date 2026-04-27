@@ -1,9 +1,2074 @@
 [
   {
+    "month": "1991-07",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 1,
+    "OPSS": 0
+  },
+  {
+    "month": "1994-01",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 1,
+    "OPSS": 0
+  },
+  {
+    "month": "1995-01",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 1,
+    "OPSS": 0
+  },
+  {
+    "month": "1995-02",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 1,
+    "OPSS": 0
+  },
+  {
+    "month": "1995-08",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 1,
+    "OPSS": 0
+  },
+  {
+    "month": "1995-11",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 1,
+    "OPSS": 0
+  },
+  {
+    "month": "1996-11",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 1,
+    "OPSS": 0
+  },
+  {
+    "month": "1997-03",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 1,
+    "OPSS": 0
+  },
+  {
+    "month": "1997-06",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 1,
+    "OPSS": 0
+  },
+  {
+    "month": "1997-07",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 2,
+    "OPSS": 0
+  },
+  {
+    "month": "1997-09",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 1,
+    "OPSS": 0
+  },
+  {
+    "month": "1998-06",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 1,
+    "OPSS": 0
+  },
+  {
+    "month": "1998-07",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 1,
+    "OPSS": 0
+  },
+  {
+    "month": "1998-08",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 1,
+    "OPSS": 0
+  },
+  {
+    "month": "1998-09",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 2,
+    "OPSS": 0
+  },
+  {
+    "month": "1998-10",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 2,
+    "OPSS": 0
+  },
+  {
+    "month": "1998-11",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 1,
+    "OPSS": 0
+  },
+  {
+    "month": "1998-12",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 9,
+    "OPSS": 0
+  },
+  {
+    "month": "1999-02",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 2,
+    "OPSS": 0
+  },
+  {
+    "month": "1999-03",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 2,
+    "OPSS": 0
+  },
+  {
+    "month": "1999-06",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 1,
+    "OPSS": 0
+  },
+  {
+    "month": "1999-07",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 1,
+    "OPSS": 0
+  },
+  {
+    "month": "1999-09",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 1,
+    "OPSS": 0
+  },
+  {
+    "month": "2000-03",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 1,
+    "OPSS": 0
+  },
+  {
+    "month": "2000-04",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 4,
+    "OPSS": 0
+  },
+  {
+    "month": "2000-05",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 2,
+    "OPSS": 0
+  },
+  {
+    "month": "2000-06",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 5,
+    "OPSS": 0
+  },
+  {
+    "month": "2000-07",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 3,
+    "OPSS": 0
+  },
+  {
+    "month": "2000-09",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 2,
+    "OPSS": 0
+  },
+  {
+    "month": "2000-10",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 2,
+    "OPSS": 0
+  },
+  {
+    "month": "2000-11",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 3,
+    "OPSS": 0
+  },
+  {
+    "month": "2000-12",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 1,
+    "OPSS": 0
+  },
+  {
+    "month": "2001-01",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 2,
+    "OPSS": 0
+  },
+  {
+    "month": "2001-02",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 4,
+    "OPSS": 0
+  },
+  {
+    "month": "2001-03",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 3,
+    "OPSS": 0
+  },
+  {
+    "month": "2001-05",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 8,
+    "OPSS": 0
+  },
+  {
+    "month": "2001-06",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 5,
+    "OPSS": 0
+  },
+  {
+    "month": "2001-07",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 5,
+    "OPSS": 0
+  },
+  {
+    "month": "2001-08",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 5,
+    "OPSS": 0
+  },
+  {
+    "month": "2001-09",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 3,
+    "OPSS": 0
+  },
+  {
+    "month": "2001-10",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 3,
+    "OPSS": 0
+  },
+  {
+    "month": "2001-11",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 3,
+    "OPSS": 0
+  },
+  {
+    "month": "2001-12",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 4,
+    "OPSS": 0
+  },
+  {
+    "month": "2002-01",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 4,
+    "OPSS": 0
+  },
+  {
+    "month": "2002-02",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 6,
+    "OPSS": 0
+  },
+  {
+    "month": "2002-03",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 4,
+    "OPSS": 0
+  },
+  {
+    "month": "2002-04",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 9,
+    "OPSS": 0
+  },
+  {
+    "month": "2002-05",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 6,
+    "OPSS": 0
+  },
+  {
+    "month": "2002-06",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 3,
+    "OPSS": 0
+  },
+  {
+    "month": "2002-07",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 9,
+    "OPSS": 0
+  },
+  {
+    "month": "2002-08",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 4,
+    "OPSS": 0
+  },
+  {
+    "month": "2002-10",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 7,
+    "OPSS": 0
+  },
+  {
+    "month": "2002-11",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 7,
+    "OPSS": 0
+  },
+  {
+    "month": "2002-12",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 6,
+    "OPSS": 0
+  },
+  {
+    "month": "2003-01",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 2,
+    "OPSS": 0
+  },
+  {
+    "month": "2003-02",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 2,
+    "OPSS": 0
+  },
+  {
+    "month": "2003-03",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 4,
+    "OPSS": 0
+  },
+  {
+    "month": "2003-04",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 8,
+    "OPSS": 0
+  },
+  {
+    "month": "2003-05",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 1,
+    "OPSS": 0
+  },
+  {
+    "month": "2003-06",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 2,
+    "OPSS": 0
+  },
+  {
+    "month": "2003-07",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 7,
+    "OPSS": 0
+  },
+  {
+    "month": "2003-08",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 8,
+    "OPSS": 0
+  },
+  {
+    "month": "2003-09",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 4,
+    "OPSS": 0
+  },
+  {
+    "month": "2003-10",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 3,
+    "OPSS": 0
+  },
+  {
+    "month": "2003-11",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 13,
+    "OPSS": 0
+  },
+  {
+    "month": "2003-12",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 3,
+    "OPSS": 0
+  },
+  {
+    "month": "2004-01",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 13,
+    "OPSS": 0
+  },
+  {
+    "month": "2004-02",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 8,
+    "OPSS": 0
+  },
+  {
+    "month": "2004-03",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 4,
+    "OPSS": 0
+  },
+  {
+    "month": "2004-04",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 8,
+    "OPSS": 0
+  },
+  {
+    "month": "2004-05",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 12,
+    "OPSS": 0
+  },
+  {
+    "month": "2004-06",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 25,
+    "OPSS": 0
+  },
+  {
+    "month": "2004-07",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 11,
+    "OPSS": 0
+  },
+  {
+    "month": "2004-08",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 2,
+    "OPSS": 0
+  },
+  {
+    "month": "2004-09",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 12,
+    "OPSS": 0
+  },
+  {
+    "month": "2004-10",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 14,
+    "OPSS": 0
+  },
+  {
+    "month": "2004-11",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 12,
+    "OPSS": 0
+  },
+  {
+    "month": "2004-12",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 17,
+    "OPSS": 0
+  },
+  {
+    "month": "2005-01",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 15,
+    "OPSS": 0
+  },
+  {
+    "month": "2005-02",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 11,
+    "OPSS": 0
+  },
+  {
+    "month": "2005-03",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 14,
+    "OPSS": 0
+  },
+  {
+    "month": "2005-04",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 16,
+    "OPSS": 0
+  },
+  {
+    "month": "2005-05",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 12,
+    "OPSS": 0
+  },
+  {
+    "month": "2005-06",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 11,
+    "OPSS": 0
+  },
+  {
+    "month": "2005-07",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 14,
+    "OPSS": 0
+  },
+  {
+    "month": "2005-08",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 16,
+    "OPSS": 0
+  },
+  {
+    "month": "2005-09",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 22,
+    "OPSS": 0
+  },
+  {
+    "month": "2005-10",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 10,
+    "OPSS": 0
+  },
+  {
+    "month": "2005-11",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 19,
+    "OPSS": 0
+  },
+  {
+    "month": "2005-12",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 25,
+    "OPSS": 0
+  },
+  {
+    "month": "2006-01",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 15,
+    "OPSS": 0
+  },
+  {
+    "month": "2006-02",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 15,
+    "OPSS": 0
+  },
+  {
+    "month": "2006-03",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 15,
+    "OPSS": 0
+  },
+  {
+    "month": "2006-04",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 11,
+    "OPSS": 0
+  },
+  {
+    "month": "2006-05",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 21,
+    "OPSS": 0
+  },
+  {
+    "month": "2006-06",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 19,
+    "OPSS": 0
+  },
+  {
+    "month": "2006-07",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 16,
+    "OPSS": 0
+  },
+  {
+    "month": "2006-08",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 27,
+    "OPSS": 0
+  },
+  {
+    "month": "2006-09",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 13,
+    "OPSS": 0
+  },
+  {
+    "month": "2006-10",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 15,
+    "OPSS": 0
+  },
+  {
+    "month": "2006-11",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 17,
+    "OPSS": 0
+  },
+  {
+    "month": "2006-12",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 12,
+    "OPSS": 0
+  },
+  {
+    "month": "2007-01",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 6,
+    "OPSS": 0
+  },
+  {
+    "month": "2007-02",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 12,
+    "OPSS": 0
+  },
+  {
+    "month": "2007-03",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 24,
+    "OPSS": 0
+  },
+  {
+    "month": "2007-04",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 15,
+    "OPSS": 0
+  },
+  {
+    "month": "2007-05",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 25,
+    "OPSS": 0
+  },
+  {
+    "month": "2007-06",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 20,
+    "OPSS": 0
+  },
+  {
+    "month": "2007-07",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 21,
+    "OPSS": 0
+  },
+  {
+    "month": "2007-08",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 29,
+    "OPSS": 0
+  },
+  {
+    "month": "2007-09",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 38,
+    "OPSS": 0
+  },
+  {
+    "month": "2007-10",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 27,
+    "OPSS": 0
+  },
+  {
+    "month": "2007-11",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 26,
+    "OPSS": 0
+  },
+  {
+    "month": "2007-12",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 29,
+    "OPSS": 0
+  },
+  {
+    "month": "2008-01",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 11,
+    "OPSS": 0
+  },
+  {
+    "month": "2008-02",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 20,
+    "OPSS": 0
+  },
+  {
+    "month": "2008-03",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 34,
+    "OPSS": 0
+  },
+  {
+    "month": "2008-04",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 19,
+    "OPSS": 0
+  },
+  {
+    "month": "2008-05",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 36,
+    "OPSS": 0
+  },
+  {
+    "month": "2008-06",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 36,
+    "OPSS": 0
+  },
+  {
+    "month": "2008-07",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 49,
+    "OPSS": 0
+  },
+  {
+    "month": "2008-08",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 58,
+    "OPSS": 0
+  },
+  {
+    "month": "2008-09",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 30,
+    "OPSS": 0
+  },
+  {
+    "month": "2008-10",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 43,
+    "OPSS": 0
+  },
+  {
+    "month": "2008-11",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 35,
+    "OPSS": 0
+  },
+  {
+    "month": "2008-12",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 53,
+    "OPSS": 0
+  },
+  {
+    "month": "2009-01",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 44,
+    "OPSS": 0
+  },
+  {
+    "month": "2009-02",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 59,
+    "OPSS": 0
+  },
+  {
+    "month": "2009-03",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 44,
+    "OPSS": 0
+  },
+  {
+    "month": "2009-04",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 28,
+    "OPSS": 0
+  },
+  {
+    "month": "2009-05",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 46,
+    "OPSS": 0
+  },
+  {
+    "month": "2009-06",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 50,
+    "OPSS": 0
+  },
+  {
+    "month": "2009-07",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 38,
+    "OPSS": 0
+  },
+  {
+    "month": "2009-08",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 38,
+    "OPSS": 0
+  },
+  {
+    "month": "2009-09",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 28,
+    "OPSS": 0
+  },
+  {
+    "month": "2009-10",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 45,
+    "OPSS": 0
+  },
+  {
+    "month": "2009-11",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 32,
+    "OPSS": 0
+  },
+  {
+    "month": "2009-12",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 59,
+    "OPSS": 0
+  },
+  {
+    "month": "2010-01",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 51,
+    "OPSS": 0
+  },
+  {
+    "month": "2010-02",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 45,
+    "OPSS": 0
+  },
+  {
+    "month": "2010-03",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 76,
+    "OPSS": 0
+  },
+  {
+    "month": "2010-04",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 37,
+    "OPSS": 0
+  },
+  {
+    "month": "2010-05",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 51,
+    "OPSS": 0
+  },
+  {
+    "month": "2010-06",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 51,
+    "OPSS": 0
+  },
+  {
+    "month": "2010-07",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 59,
+    "OPSS": 0
+  },
+  {
+    "month": "2010-08",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 46,
+    "OPSS": 0
+  },
+  {
+    "month": "2010-09",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 35,
+    "OPSS": 0
+  },
+  {
+    "month": "2010-10",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 42,
+    "OPSS": 0
+  },
+  {
+    "month": "2010-11",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 46,
+    "OPSS": 0
+  },
+  {
+    "month": "2010-12",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 44,
+    "OPSS": 0
+  },
+  {
+    "month": "2011-01",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 84,
+    "OPSS": 0
+  },
+  {
+    "month": "2011-02",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 267,
+    "OPSS": 0
+  },
+  {
+    "month": "2011-03",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 267,
+    "OPSS": 0
+  },
+  {
+    "month": "2011-04",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 108,
+    "OPSS": 0
+  },
+  {
+    "month": "2011-05",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 107,
+    "OPSS": 0
+  },
+  {
+    "month": "2011-06",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 133,
+    "OPSS": 0
+  },
+  {
+    "month": "2011-07",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 112,
+    "OPSS": 0
+  },
+  {
+    "month": "2011-08",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 110,
+    "OPSS": 0
+  },
+  {
+    "month": "2011-09",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 104,
+    "OPSS": 0
+  },
+  {
+    "month": "2011-10",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 115,
+    "OPSS": 0
+  },
+  {
+    "month": "2011-11",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 131,
+    "OPSS": 0
+  },
+  {
+    "month": "2011-12",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 108,
+    "OPSS": 0
+  },
+  {
+    "month": "2012-01",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 140,
+    "OPSS": 0
+  },
+  {
+    "month": "2012-02",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 97,
+    "OPSS": 0
+  },
+  {
+    "month": "2012-03",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 118,
+    "OPSS": 0
+  },
+  {
+    "month": "2012-04",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 117,
+    "OPSS": 0
+  },
+  {
+    "month": "2012-05",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 113,
+    "OPSS": 0
+  },
+  {
+    "month": "2012-06",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 116,
+    "OPSS": 0
+  },
+  {
+    "month": "2012-07",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 91,
+    "OPSS": 0
+  },
+  {
+    "month": "2012-08",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 134,
+    "OPSS": 0
+  },
+  {
+    "month": "2012-09",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 220,
+    "OPSS": 0
+  },
+  {
+    "month": "2012-10",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 168,
+    "OPSS": 0
+  },
+  {
+    "month": "2012-11",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 117,
+    "OPSS": 0
+  },
+  {
+    "month": "2012-12",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 170,
+    "OPSS": 0
+  },
+  {
+    "month": "2013-01",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 168,
+    "OPSS": 0
+  },
+  {
+    "month": "2013-02",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 146,
+    "OPSS": 0
+  },
+  {
+    "month": "2013-03",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 118,
+    "OPSS": 0
+  },
+  {
+    "month": "2013-04",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 161,
+    "OPSS": 0
+  },
+  {
+    "month": "2013-05",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 156,
+    "OPSS": 0
+  },
+  {
+    "month": "2013-06",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 167,
+    "OPSS": 0
+  },
+  {
+    "month": "2013-07",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 163,
+    "OPSS": 0
+  },
+  {
+    "month": "2013-08",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 158,
+    "OPSS": 0
+  },
+  {
+    "month": "2013-09",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 144,
+    "OPSS": 0
+  },
+  {
+    "month": "2013-10",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 234,
+    "OPSS": 0
+  },
+  {
+    "month": "2013-11",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 200,
+    "OPSS": 0
+  },
+  {
+    "month": "2013-12",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 142,
+    "OPSS": 0
+  },
+  {
+    "month": "2014-01",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 214,
+    "OPSS": 0
+  },
+  {
+    "month": "2014-02",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 194,
+    "OPSS": 0
+  },
+  {
+    "month": "2014-03",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 245,
+    "OPSS": 0
+  },
+  {
+    "month": "2014-04",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 267,
+    "OPSS": 0
+  },
+  {
+    "month": "2014-05",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 176,
+    "OPSS": 0
+  },
+  {
+    "month": "2014-06",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 243,
+    "OPSS": 0
+  },
+  {
+    "month": "2014-07",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 240,
+    "OPSS": 0
+  },
+  {
+    "month": "2014-08",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 169,
+    "OPSS": 0
+  },
+  {
+    "month": "2014-09",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 211,
+    "OPSS": 0
+  },
+  {
+    "month": "2014-10",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 237,
+    "OPSS": 0
+  },
+  {
+    "month": "2014-11",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 181,
+    "OPSS": 0
+  },
+  {
+    "month": "2014-12",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 173,
+    "OPSS": 0
+  },
+  {
+    "month": "2015-01",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 170,
+    "OPSS": 0
+  },
+  {
+    "month": "2015-02",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 129,
+    "OPSS": 0
+  },
+  {
+    "month": "2015-03",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 154,
+    "OPSS": 0
+  },
+  {
+    "month": "2015-04",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 172,
+    "OPSS": 0
+  },
+  {
+    "month": "2015-05",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 177,
+    "OPSS": 0
+  },
+  {
+    "month": "2015-06",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 177,
+    "OPSS": 0
+  },
+  {
+    "month": "2015-07",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 193,
+    "OPSS": 0
+  },
+  {
+    "month": "2015-08",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 172,
+    "OPSS": 0
+  },
+  {
+    "month": "2015-09",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 153,
+    "OPSS": 0
+  },
+  {
+    "month": "2015-10",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 244,
+    "OPSS": 0
+  },
+  {
+    "month": "2015-11",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 163,
+    "OPSS": 0
+  },
+  {
+    "month": "2015-12",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 141,
+    "OPSS": 0
+  },
+  {
+    "month": "2016-01",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 190,
+    "OPSS": 0
+  },
+  {
+    "month": "2016-02",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 179,
+    "OPSS": 0
+  },
+  {
+    "month": "2016-03",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 178,
+    "OPSS": 0
+  },
+  {
+    "month": "2016-04",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 216,
+    "OPSS": 0
+  },
+  {
+    "month": "2016-05",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 230,
+    "OPSS": 0
+  },
+  {
+    "month": "2016-06",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 185,
+    "OPSS": 0
+  },
+  {
+    "month": "2016-07",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 266,
+    "OPSS": 0
+  },
+  {
+    "month": "2016-08",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 215,
+    "OPSS": 0
+  },
+  {
+    "month": "2016-09",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 154,
+    "OPSS": 0
+  },
+  {
+    "month": "2016-10",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 139,
+    "OPSS": 0
+  },
+  {
+    "month": "2016-11",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 291,
+    "OPSS": 0
+  },
+  {
+    "month": "2016-12",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 147,
+    "OPSS": 0
+  },
+  {
+    "month": "2017-01",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 190,
+    "OPSS": 0
+  },
+  {
+    "month": "2017-02",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 180,
+    "OPSS": 0
+  },
+  {
+    "month": "2017-03",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 198,
+    "OPSS": 0
+  },
+  {
+    "month": "2017-04",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 225,
+    "OPSS": 0
+  },
+  {
+    "month": "2017-05",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 179,
+    "OPSS": 0
+  },
+  {
+    "month": "2017-06",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 195,
+    "OPSS": 0
+  },
+  {
+    "month": "2017-07",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 232,
+    "OPSS": 0
+  },
+  {
+    "month": "2017-08",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 168,
+    "OPSS": 0
+  },
+  {
+    "month": "2017-09",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 160,
+    "OPSS": 0
+  },
+  {
+    "month": "2017-10",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 268,
+    "OPSS": 0
+  },
+  {
+    "month": "2017-11",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 161,
+    "OPSS": 0
+  },
+  {
+    "month": "2017-12",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 154,
+    "OPSS": 0
+  },
+  {
+    "month": "2018-01",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 217,
+    "OPSS": 0
+  },
+  {
+    "month": "2018-02",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 126,
+    "OPSS": 0
+  },
+  {
+    "month": "2018-03",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 129,
+    "OPSS": 0
+  },
+  {
+    "month": "2018-04",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 157,
+    "OPSS": 0
+  },
+  {
+    "month": "2018-05",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 150,
+    "OPSS": 0
+  },
+  {
+    "month": "2018-06",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 126,
+    "OPSS": 0
+  },
+  {
+    "month": "2018-07",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 111,
+    "OPSS": 0
+  },
+  {
+    "month": "2018-08",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 147,
+    "OPSS": 0
+  },
+  {
+    "month": "2018-09",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 125,
+    "OPSS": 0
+  },
+  {
+    "month": "2018-10",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 159,
+    "OPSS": 0
+  },
+  {
+    "month": "2018-11",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 176,
+    "OPSS": 0
+  },
+  {
+    "month": "2018-12",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 82,
+    "OPSS": 0
+  },
+  {
+    "month": "2019-01",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 196,
+    "OPSS": 0
+  },
+  {
+    "month": "2019-02",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 118,
+    "OPSS": 0
+  },
+  {
+    "month": "2019-03",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 149,
+    "OPSS": 0
+  },
+  {
+    "month": "2019-04",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 179,
+    "OPSS": 0
+  },
+  {
+    "month": "2019-05",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 150,
+    "OPSS": 0
+  },
+  {
+    "month": "2019-06",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 121,
+    "OPSS": 0
+  },
+  {
+    "month": "2019-07",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 130,
+    "OPSS": 0
+  },
+  {
+    "month": "2019-08",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 160,
+    "OPSS": 0
+  },
+  {
+    "month": "2019-09",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 107,
+    "OPSS": 0
+  },
+  {
+    "month": "2019-10",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 186,
+    "OPSS": 0
+  },
+  {
+    "month": "2019-11",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 167,
+    "OPSS": 0
+  },
+  {
+    "month": "2019-12",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 106,
+    "OPSS": 0
+  },
+  {
     "month": "2020-01",
     "CPSC": 17,
     "EU Safety Gate": 0,
     "FDA": 83,
+    "Health Canada": 148,
     "OPSS": 0
   },
   {
@@ -11,6 +2076,7 @@
     "CPSC": 19,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 102,
     "OPSS": 0
   },
   {
@@ -18,6 +2084,7 @@
     "CPSC": 26,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 102,
     "OPSS": 0
   },
   {
@@ -25,6 +2092,7 @@
     "CPSC": 24,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 115,
     "OPSS": 0
   },
   {
@@ -32,6 +2100,7 @@
     "CPSC": 18,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 142,
     "OPSS": 0
   },
   {
@@ -39,6 +2108,7 @@
     "CPSC": 16,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 121,
     "OPSS": 0
   },
   {
@@ -46,6 +2116,7 @@
     "CPSC": 28,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 96,
     "OPSS": 0
   },
   {
@@ -53,6 +2124,7 @@
     "CPSC": 18,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 104,
     "OPSS": 0
   },
   {
@@ -60,6 +2132,7 @@
     "CPSC": 25,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 98,
     "OPSS": 0
   },
   {
@@ -67,6 +2140,7 @@
     "CPSC": 17,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 130,
     "OPSS": 0
   },
   {
@@ -74,6 +2148,7 @@
     "CPSC": 21,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 114,
     "OPSS": 0
   },
   {
@@ -81,6 +2156,7 @@
     "CPSC": 28,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 112,
     "OPSS": 0
   },
   {
@@ -88,6 +2164,7 @@
     "CPSC": 11,
     "EU Safety Gate": 0,
     "FDA": 98,
+    "Health Canada": 98,
     "OPSS": 0
   },
   {
@@ -95,6 +2172,7 @@
     "CPSC": 19,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 81,
     "OPSS": 0
   },
   {
@@ -102,6 +2180,7 @@
     "CPSC": 18,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 102,
     "OPSS": 0
   },
   {
@@ -109,6 +2188,7 @@
     "CPSC": 24,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 115,
     "OPSS": 0
   },
   {
@@ -116,6 +2196,7 @@
     "CPSC": 27,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 95,
     "OPSS": 0
   },
   {
@@ -123,6 +2204,7 @@
     "CPSC": 14,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 119,
     "OPSS": 0
   },
   {
@@ -130,6 +2212,7 @@
     "CPSC": 22,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 89,
     "OPSS": 0
   },
   {
@@ -137,6 +2220,7 @@
     "CPSC": 21,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 104,
     "OPSS": 0
   },
   {
@@ -144,6 +2228,7 @@
     "CPSC": 17,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 102,
     "OPSS": 0
   },
   {
@@ -151,6 +2236,7 @@
     "CPSC": 13,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 101,
     "OPSS": 0
   },
   {
@@ -158,6 +2244,7 @@
     "CPSC": 14,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 117,
     "OPSS": 0
   },
   {
@@ -165,6 +2252,7 @@
     "CPSC": 19,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 114,
     "OPSS": 0
   },
   {
@@ -172,6 +2260,7 @@
     "CPSC": 19,
     "EU Safety Gate": 0,
     "FDA": 87,
+    "Health Canada": 95,
     "OPSS": 0
   },
   {
@@ -179,6 +2268,7 @@
     "CPSC": 33,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 69,
     "OPSS": 0
   },
   {
@@ -186,6 +2276,7 @@
     "CPSC": 25,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 83,
     "OPSS": 0
   },
   {
@@ -193,6 +2284,7 @@
     "CPSC": 23,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 94,
     "OPSS": 0
   },
   {
@@ -200,6 +2292,7 @@
     "CPSC": 12,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 91,
     "OPSS": 0
   },
   {
@@ -207,6 +2300,7 @@
     "CPSC": 36,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 111,
     "OPSS": 0
   },
   {
@@ -214,6 +2308,7 @@
     "CPSC": 21,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 96,
     "OPSS": 0
   },
   {
@@ -221,6 +2316,7 @@
     "CPSC": 15,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 106,
     "OPSS": 0
   },
   {
@@ -228,6 +2324,7 @@
     "CPSC": 30,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 80,
     "OPSS": 0
   },
   {
@@ -235,6 +2332,7 @@
     "CPSC": 26,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 123,
     "OPSS": 0
   },
   {
@@ -242,6 +2340,7 @@
     "CPSC": 19,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 130,
     "OPSS": 0
   },
   {
@@ -249,6 +2348,7 @@
     "CPSC": 33,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 140,
     "OPSS": 0
   },
   {
@@ -256,6 +2356,7 @@
     "CPSC": 24,
     "EU Safety Gate": 0,
     "FDA": 126,
+    "Health Canada": 103,
     "OPSS": 0
   },
   {
@@ -263,6 +2364,7 @@
     "CPSC": 31,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 109,
     "OPSS": 0
   },
   {
@@ -270,6 +2372,7 @@
     "CPSC": 40,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 189,
     "OPSS": 0
   },
   {
@@ -277,6 +2380,7 @@
     "CPSC": 25,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 157,
     "OPSS": 0
   },
   {
@@ -284,6 +2388,7 @@
     "CPSC": 25,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 151,
     "OPSS": 0
   },
   {
@@ -291,6 +2396,7 @@
     "CPSC": 27,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 150,
     "OPSS": 0
   },
   {
@@ -298,6 +2404,7 @@
     "CPSC": 13,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 134,
     "OPSS": 0
   },
   {
@@ -305,6 +2412,7 @@
     "CPSC": 27,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 194,
     "OPSS": 0
   },
   {
@@ -312,6 +2420,7 @@
     "CPSC": 25,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 157,
     "OPSS": 0
   },
   {
@@ -319,6 +2428,7 @@
     "CPSC": 17,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 150,
     "OPSS": 0
   },
   {
@@ -326,6 +2436,7 @@
     "CPSC": 35,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 184,
     "OPSS": 0
   },
   {
@@ -333,6 +2444,7 @@
     "CPSC": 35,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 158,
     "OPSS": 0
   },
   {
@@ -340,6 +2452,7 @@
     "CPSC": 17,
     "EU Safety Gate": 0,
     "FDA": 103,
+    "Health Canada": 144,
     "OPSS": 0
   },
   {
@@ -347,6 +2460,7 @@
     "CPSC": 47,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 169,
     "OPSS": 0
   },
   {
@@ -354,6 +2468,7 @@
     "CPSC": 28,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 155,
     "OPSS": 0
   },
   {
@@ -361,6 +2476,7 @@
     "CPSC": 29,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 167,
     "OPSS": 0
   },
   {
@@ -368,6 +2484,7 @@
     "CPSC": 26,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 141,
     "OPSS": 0
   },
   {
@@ -375,6 +2492,7 @@
     "CPSC": 31,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 184,
     "OPSS": 0
   },
   {
@@ -382,6 +2500,7 @@
     "CPSC": 26,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 184,
     "OPSS": 0
   },
   {
@@ -389,6 +2508,7 @@
     "CPSC": 24,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 191,
     "OPSS": 0
   },
   {
@@ -396,6 +2516,7 @@
     "CPSC": 18,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 163,
     "OPSS": 0
   },
   {
@@ -403,6 +2524,7 @@
     "CPSC": 19,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 155,
     "OPSS": 0
   },
   {
@@ -410,6 +2532,7 @@
     "CPSC": 19,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 207,
     "OPSS": 0
   },
   {
@@ -417,6 +2540,7 @@
     "CPSC": 21,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 167,
     "OPSS": 0
   },
   {
@@ -424,6 +2548,7 @@
     "CPSC": 25,
     "EU Safety Gate": 0,
     "FDA": 127,
+    "Health Canada": 108,
     "OPSS": 3
   },
   {
@@ -431,6 +2556,7 @@
     "CPSC": 43,
     "EU Safety Gate": 0,
     "FDA": 0,
+    "Health Canada": 161,
     "OPSS": 54
   },
   {
@@ -438,6 +2564,7 @@
     "CPSC": 32,
     "EU Safety Gate": 321,
     "FDA": 0,
+    "Health Canada": 173,
     "OPSS": 61
   },
   {
@@ -445,6 +2572,7 @@
     "CPSC": 34,
     "EU Safety Gate": 463,
     "FDA": 0,
+    "Health Canada": 155,
     "OPSS": 50
   },
   {
@@ -452,6 +2580,7 @@
     "CPSC": 37,
     "EU Safety Gate": 433,
     "FDA": 0,
+    "Health Canada": 177,
     "OPSS": 49
   },
   {
@@ -459,6 +2588,7 @@
     "CPSC": 38,
     "EU Safety Gate": 368,
     "FDA": 0,
+    "Health Canada": 142,
     "OPSS": 59
   },
   {
@@ -466,6 +2596,7 @@
     "CPSC": 43,
     "EU Safety Gate": 390,
     "FDA": 0,
+    "Health Canada": 184,
     "OPSS": 73
   },
   {
@@ -473,6 +2604,7 @@
     "CPSC": 24,
     "EU Safety Gate": 368,
     "FDA": 0,
+    "Health Canada": 179,
     "OPSS": 78
   },
   {
@@ -480,6 +2612,7 @@
     "CPSC": 20,
     "EU Safety Gate": 277,
     "FDA": 0,
+    "Health Canada": 128,
     "OPSS": 34
   },
   {
@@ -487,6 +2620,7 @@
     "CPSC": 51,
     "EU Safety Gate": 459,
     "FDA": 0,
+    "Health Canada": 224,
     "OPSS": 84
   },
   {
@@ -494,6 +2628,7 @@
     "CPSC": 40,
     "EU Safety Gate": 354,
     "FDA": 0,
+    "Health Canada": 155,
     "OPSS": 87
   },
   {
@@ -501,27 +2636,31 @@
     "CPSC": 33,
     "EU Safety Gate": 325,
     "FDA": 0,
+    "Health Canada": 148,
     "OPSS": 115
   },
   {
     "month": "2026-01",
     "CPSC": 50,
-    "EU Safety Gate": 264,
+    "EU Safety Gate": 261,
     "FDA": 0,
+    "Health Canada": 130,
     "OPSS": 68
   },
   {
     "month": "2026-02",
     "CPSC": 62,
-    "EU Safety Gate": 365,
+    "EU Safety Gate": 353,
     "FDA": 0,
+    "Health Canada": 122,
     "OPSS": 60
   },
   {
     "month": "2026-03",
     "CPSC": 29,
-    "EU Safety Gate": 283,
+    "EU Safety Gate": 274,
     "FDA": 0,
+    "Health Canada": 155,
     "OPSS": 65
   },
   {
@@ -529,6 +2668,7 @@
     "CPSC": 60,
     "EU Safety Gate": 330,
     "FDA": 0,
+    "Health Canada": 108,
     "OPSS": 60
   }
 ]

@@ -1,19 +1,19 @@
 [
   {
     "country": "United States",
-    "count": 3742
+    "count": 3741
   },
   {
     "country": "People's Republic of China",
-    "count": 2227
+    "count": 2211
   },
   {
     "country": "Unknown",
-    "count": 601
+    "count": 600
   },
   {
     "country": "Italy",
-    "count": 545
+    "count": 543
   },
   {
     "country": "Germany",
@@ -21,11 +21,11 @@
   },
   {
     "country": "France",
-    "count": 312
+    "count": 311
   },
   {
     "country": "Spain",
-    "count": 142
+    "count": 141
   },
   {
     "country": "United Kingdom",
@@ -45,7 +45,7 @@
   },
   {
     "country": "Türkiye",
-    "count": 59
+    "count": 58
   },
   {
     "country": "Japan",
