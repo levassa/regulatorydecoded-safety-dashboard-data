@@ -929,79 +929,66 @@ def fetch_health_canada() -> pd.DataFrame:
     return pd.DataFrame(records)
 
 
+def _hc_severity(recall_class: str) -> str:
+    """Map Health Canada Recall class / Type to severity."""
+    rc = str(recall_class).strip().lower()
+    if rc in ("type i", "class 1", "class i"):
+        return "Serious"
+    if rc in ("type ii", "class 2", "class ii"):
+        return "Moderate"
+    if rc in ("type iii", "class 3", "class iii"):
+        return "Minor"
+    return "Not Reported"
+
+
 def normalise_health_canada(df: pd.DataFrame) -> pd.DataFrame:
+    # ── Real CSV/JSON field names (confirmed from HCRSAMOpenData.csv):
+    #   NID, Title, URL, Organization, Product, Issue,
+    #   "What you should do", Category, "Recall class", "Last updated", Archived
     if df.empty:
         return pd.DataFrame()
-    # Log recallType distribution to help diagnose filter issues in GH Actions logs.
-    # Accept either camelCase (recallType) or snake_case (recall_type).
-    type_col = next((c for c in ("recallType", "recall_type") if c in df.columns), None)
-    if type_col:
-        dist = df[type_col].value_counts().to_dict()
-        log.info("Health Canada %s distribution: %s", type_col, dist)
-        mask = df[type_col].astype(str).str.lower().str.contains(
-            "consumer|product|cp", na=False
-        )
-        filtered = df[mask].copy()
-        if filtered.empty:
-            # Filter would wipe everything — skip it and keep all records.
-            log.warning(
-                "Health Canada: recallType filter matched 0 records "
-                "(values may have changed). Keeping all %d records.", len(df)
-            )
-        else:
-            df = filtered
-            log.info("Health Canada: %d after consumer-product filter.", len(df))
+
+    # Log Organisation distribution so we know what's in the data.
+    if "Organization" in df.columns:
+        dist = df["Organization"].value_counts().head(10).to_dict()
+        log.info("Health Canada Organization distribution: %s", dist)
 
     rows = []
     for i, (_, r) in enumerate(df.iterrows()):
-        # Accept both camelCase and snake_case field names.
-        ref = str(r.get("recallId", r.get("recall_id", r.get("id", "")))).strip()
-        # If recallId is missing pandas serialises it as the string "nan" which is
-        # truthy — the empty-string check below would never fire, collapsing all
-        # records to the same SHA-1 id and losing everything to dedup.
-        # Treat "nan" / "None" / "" the same way: fall back to a composite key.
+        # NID is the unique recall identifier.
+        ref = str(r.get("NID", r.get("nid", ""))).strip()
         if ref in ("", "nan", "None", "none"):
-            title    = r.get("title", r.get("title_en", ""))
-            pub_date = r.get("datePublished", r.get("date_published", r.get("date", "")))
-            cat      = r.get("recallCategory", r.get("recall_category", r.get("category", "")))
-            ref = f"{title}::{pub_date}::{cat}"
-        # Last resort: if the composite key is also all-empty (unknown JSON structure),
-        # use row index so every record still gets a unique dedup id.
+            ref = f"{r.get('Title', r.get('title', ''))}::{r.get('Last updated', '')}"
         if not ref.replace(":", "").strip():
-            ref = f"row:{i}::{r.get('datePublished', r.get('date_published', r.get('date', '')))}"
+            ref = f"row:{i}"
 
-        hc_class  = str(r.get("hazardClassification",
-                               r.get("hazard_classification", r.get("hazard", "")))).strip()
-        desc      = str(r.get("description", r.get("summary", r.get("title", "")))).strip()
-        full_text = f"{hc_class} {desc}"
+        issue    = str(r.get("Issue",   r.get("issue",   ""))).strip()
+        product  = str(r.get("Product", r.get("product", ""))).strip()
+        title    = str(r.get("Title",   r.get("title",   ""))).strip()
+        action   = str(r.get("What you should do", "")).strip()
+        category = str(r.get("Category", r.get("category", ""))).strip()
+        rc_class = str(r.get("Recall class", r.get("recall_class", ""))).strip()
+        org      = str(r.get("Organization", "")).strip()
+        full_text = f"{issue} {product} {title}"
 
         rows.append({
             "id":                make_id("Health Canada", ref),
             "source":            "Health Canada",
-            "date":              safe_date(r.get("datePublished",
-                                               r.get("date_published",
-                                               r.get("recallDate",
-                                               r.get("date", ""))))),
+            "date":              safe_date(r.get("Last updated",
+                                               r.get("last_updated", ""))),
             "region":            SOURCE_CONFIG["Health Canada"]["region"],
             "notifying_country": "Canada",
-            "country_of_origin": str(r.get("countryOfOrigin",
-                                           r.get("country_of_origin", ""))).strip(),
-            "product_category":  normalise_category(str(r.get("recallCategory",
-                                                              r.get("recall_category",
-                                                              r.get("category", ""))))),
-            "product_desc":      str(r.get("title",
-                                           r.get("title_en",
-                                           r.get("productName",
-                                           r.get("product_name", ""))))).strip(),
-            "risk_type":         normalise_risk(hc_class),
+            "country_of_origin": "",
+            "product_category":  normalise_category(category),
+            "product_desc":      product or title,
+            "risk_type":         normalise_risk(issue),
             "hazard_type":       normalise_hazard_type(full_text),
             "injury_type":       normalise_injury_type(full_text),
-            "injury_description": desc[:500],
-            "severity":          extract_severity(full_text, hc_hazard_class=hc_class),
+            "injury_description": issue[:500],
+            "severity":          _hc_severity(rc_class),
             "injury_flag":       False,
             "injury_count":      0,
-            "corrective_action": str(r.get("corrective_action",
-                                           r.get("action", ""))).strip(),
+            "corrective_action": action[:500],
             "reference":         ref,
         })
     out = pd.DataFrame(rows)
