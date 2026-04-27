@@ -886,7 +886,18 @@ def fetch_health_canada() -> pd.DataFrame:
     cfg = SOURCE_CONFIG["Health Canada"]
     log.info("Fetching Health Canada recall data...")
     try:
-        data = get_json(cfg["url"])
+        # Stream the response to avoid IncompleteRead on the ~15 MB JSON file.
+        # GitHub Actions drops the connection at ~8 MB when reading all at once.
+        r = requests.get(cfg["url"], headers=_HEADERS, timeout=120, stream=True)
+        r.raise_for_status()
+        chunks = []
+        downloaded = 0
+        for chunk in r.iter_content(chunk_size=1024 * 1024):   # 1 MB chunks
+            chunks.append(chunk)
+            downloaded += len(chunk)
+        raw_bytes = b"".join(chunks)
+        log.info("Health Canada: downloaded %.1f MB", downloaded / 1024 / 1024)
+        data = json.loads(raw_bytes.decode("utf-8"))
     except Exception as exc:
         log.warning("Health Canada fetch error: %s", exc)
         return pd.DataFrame()
