@@ -1,268 +1,268 @@
 [
   {
     "risk_type": "Other",
-    "count": 9529,
-    "percentage": 57.5
+    "count": 42906,
+    "percentage": 85.9
   },
   {
     "risk_type": "Fire",
     "count": 873,
-    "percentage": 5.3
+    "percentage": 1.7
   },
   {
     "risk_type": "Injury",
     "count": 575,
-    "percentage": 3.5
+    "percentage": 1.2
   },
   {
     "risk_type": "Contamination",
     "count": 480,
-    "percentage": 2.9
+    "percentage": 1.0
   },
   {
     "risk_type": "Choking",
     "count": 318,
-    "percentage": 1.9
+    "percentage": 0.6
   },
   {
     "risk_type": "Chemical",
     "count": 184,
-    "percentage": 1.1
+    "percentage": 0.4
   },
   {
     "risk_type": "Electric Shock",
     "count": 165,
-    "percentage": 1.0
+    "percentage": 0.3
   },
   {
     "risk_type": "Falls",
     "count": 150,
-    "percentage": 0.9
+    "percentage": 0.3
   },
   {
     "risk_type": "Burns",
     "count": 134,
-    "percentage": 0.8
+    "percentage": 0.3
   },
   {
     "risk_type": "On 02/03/2023, Fresh Ideation Food Group, Llc Dba Fresh Creative Cuisine Of Baltimore, Md Is  Initiating A Recall Of  Various Products Sold From January 24, 2023 Through January 30, 2023 Because The Products Have The Potential To Be Contaminated With Listeria Monocytogenes .",
     "count": 99,
-    "percentage": 0.6
+    "percentage": 0.2
   },
   {
     "risk_type": "Drowning",
     "count": 41,
-    "percentage": 0.2
+    "percentage": 0.1
   },
   {
     "risk_type": "Potential To Be Contaminated With Listeria Monocytogenes",
     "count": 40,
-    "percentage": 0.2
+    "percentage": 0.1
   },
   {
     "risk_type": "Low Risk",
     "count": 34,
-    "percentage": 0.2
+    "percentage": 0.1
   },
   {
     "risk_type": "Products May Contain Salmonella",
     "count": 33,
-    "percentage": 0.2
+    "percentage": 0.1
   },
   {
     "risk_type": "Radiation",
     "count": 30,
-    "percentage": 0.2
+    "percentage": 0.1
   },
   {
     "risk_type": "Products May Be Contaminated With Listeria Monocytogenes.",
     "count": 30,
-    "percentage": 0.2
+    "percentage": 0.1
   },
   {
     "risk_type": "Environmental",
     "count": 30,
-    "percentage": 0.2
+    "percentage": 0.1
   },
   {
     "risk_type": "Product May Be Contaminated With Listeria Monocytogenes.",
     "count": 27,
-    "percentage": 0.2
+    "percentage": 0.1
   },
   {
     "risk_type": "Due To A Voluntary Recall Of Low Dead Space Syringes, And Luer Slip Tip Syringes Manufactured By Sol-Millennium Medical (Sol-M), Inc. These Syringes  Manufactured By Sol-M Are Present In Some Of Bvi Customeyes Procedure Packs.",
     "count": 26,
-    "percentage": 0.2
+    "percentage": 0.1
   },
   {
     "risk_type": "Ready To Eat Salad Products Containing Iceberg Lettuce, Red Cabbage And/Or Carrot Ingredients Are Recalled Due To A Possible Health Risk From Cyclospora.",
     "count": 24,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Xxx",
     "count": 19,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Medical Convenience Kits Contain Plastic Syringes Affected By The Fda Safety Alert Issued On March 19, 2024. Leaks, Breakage, And/ Other Quality Issues Have Been Identified That May Pose A Risk To Patient Health.",
     "count": 19,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Findings And Potential For Cronobacter Sakazakii And Clostridium Botulinum.",
     "count": 19,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Recall Required By Order Of Permanent Injunction. The Products Are Misbranded And Deemed Unapproved Drugs Based On Labeling Claims.",
     "count": 18,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "The Product Contains The Substance Methyl Salicylate Which Must Be In Child Resistant Packaging As Required By The Poison Prevention Packaging Act (Pppa). The Packaging Of The Product Is Not Child Resistant, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
     "count": 18,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "There Is A Rare Potential For Reduced- Or No-Energy Output During High Voltage (Hv) Therapy (Typically 0-12J) In Implantable Cardioverter Defibrillators (Icds) And Cardiac Resynchronization Therapy Defibrillators (Crt-Ds) Manufactured With A Specific (Glassed) Feedthrough, Including Currently Available Icds And Crt-Ds.",
     "count": 17,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Salmonella. The Firm Received Cucumbers Which Were Recalled Due To Possible Salmonella. The Cucumbers Were Used To Make Sushi.",
     "count": 16,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Potential For Backflow Of Medication From Secondary (Piggyback) Iv Containers Into Primary Iv Containers And The Inability To Prime (Occlusion).",
     "count": 16,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Undeclared Milk",
     "count": 16,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Potential Salmonella",
     "count": 16,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Listeria Monocytogenes Detected On Food Contact Surfaces In Ready To Eat Sandwich Manufacturer Facility.",
     "count": 15,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Distribution Without Premarket Approval/Clearance.",
     "count": 15,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "As The Temperature And Time Out Of Range Was Exceeded, Product Performances Cannot Be Guaranteed",
     "count": 14,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Foreign Material: Pieces Of A Pen (Writing Utensil).",
     "count": 14,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Inspection Confirmed A Small Percentage Of Sterile Packages With Inadequate Package Seal (Partial Heat Seal). Patients May Develop Infections If Non-Sterile Equipment Is Used.",
     "count": 14,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Product Tested Positive Salmonella .",
     "count": 14,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Listeria Monocytogenes",
     "count": 12,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Harvest Equipment Used In Harvesting Raw Iceberg Lettuce Was Tested By  Dole And Found To Contain Listeria Monocytogenes.",
     "count": 12,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Products Are Potentially Contaminated With Salmonella.",
     "count": 12,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "May Be Contaminated With Listeria Monocytogenes",
     "count": 12,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Sterilant (Hydrogen Peroxide) Used In Acetabular Cup Hip Prosthesis Component Was Not Evaluated To Confirm The Biocompatibility Of The Residual Sterilant.  Cannot Rule Out The Potential For Adverse Tissue Reactions.",
     "count": 11,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Reports Of Disconnection Of The 15Mm Connector From The Endotracheal Tube (Et Tube) For The Affected Products.",
     "count": 11,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Bone Void Filler Kits May Not Maintain Its Setting Characteristics For The Labeled Shelf-Life Duration. Use May Increase The Required Surgical And Anesthesia Time For The Patient Or Possible Longer-Term Health Consequences Could Include Incomplete Bone Formation Or Lack Of Bone Formation, Delayed Union, Or Nonunion.",
     "count": 11,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Potentially Contaminated With Listeria Monocytogenes",
     "count": 11,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Potential Listeria Monocytogenes",
     "count": 11,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "The Recalled Drain Covers Do Not Conform To The Entrapment Protection Standards Of The Virginia Graeme Baker Pool And Spa Safety Act (Vgba), Posing An Entrapment Hazard To Swimmers And Bathers.",
     "count": 10,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Medical And Surgical Procedure Trays And Kits Underwent Certain Manufacturing Conditions That May Result In The Outer Bag Being Incompletely Sealed, Which May Result In A Breach In The Sterility Of The Kit.",
     "count": 10,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Products May Potentially Contain One Or More Of The Following Undeclared Tree Nuts: Pecans, Almonds, Coconut, Macadamia Nuts, & Walnuts.",
     "count": 10,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Piston Syringes Sizes And Configurations Are Out Of The Range Of Devices Cleared Under The Firm'S 510(K).",
     "count": 10,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Salmonella Newport. Product Contains Onion Supplied From Thomson International, Inc.",
     "count": 10,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "During An Fda Investigation The Firm Was Notified That The Product Contains Undeclared Milk.",
     "count": 9,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Identification Of A  Potential  Manufacturing Defect On The Internal Surface Of The Nanoclave Within Specific Lots Of Nanoclave Sets, Which May Inhibit A Proper Seal With The Nanoclave Spike.",
     "count": 9,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Undeclared Egg",
     "count": 9,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Medline Industries, Lp Is Recalling Certain Kits And Trays That Were Manufactured Using Specific Lots Of Nurse Assist (As Components):  0.9% Sodium Chloride Irrigation Usp, Sterile Water For Irrigation Usp And Saline Flush Syringe. Nurse Assist Issued A Recall Due To The Potential Lack Of Sterility, Which Could Result In The Solution Being Non Sterile.",
