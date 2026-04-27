@@ -900,9 +900,16 @@ def fetch_health_canada() -> pd.DataFrame:
                 log.info("Health Canada: found records under key '%s'.", key)
                 break
         else:
-            # Last resort: find the first list value in the dict
-            records = next((v for v in data.values() if isinstance(v, list)), [])
-            log.warning("Health Canada: no known envelope key found; keys=%s", list(data.keys()))
+            # Last resort: pick the LARGEST list value (not the first, which may
+            # be a small metadata list preceding the actual data).
+            lists = [(k, v) for k, v in data.items() if isinstance(v, list)]
+            if lists:
+                key, records = max(lists, key=lambda kv: len(kv[1]))
+                log.warning("Health Canada: no known envelope key; picked largest list '%s' (%d items). All keys=%s",
+                            key, len(records), list(data.keys()))
+            else:
+                records = []
+                log.warning("Health Canada: no list found in response; keys=%s", list(data.keys()))
     else:
         records = []
     log.info("Health Canada: %d raw records.", len(records))
@@ -915,10 +922,12 @@ def normalise_health_canada(df: pd.DataFrame) -> pd.DataFrame:
     if df.empty:
         return pd.DataFrame()
     # Log recallType distribution to help diagnose filter issues in GH Actions logs.
-    if "recallType" in df.columns:
-        dist = df["recallType"].value_counts().to_dict()
-        log.info("Health Canada recallType distribution: %s", dist)
-        mask = df["recallType"].astype(str).str.lower().str.contains(
+    # Accept either camelCase (recallType) or snake_case (recall_type).
+    type_col = next((c for c in ("recallType", "recall_type") if c in df.columns), None)
+    if type_col:
+        dist = df[type_col].value_counts().to_dict()
+        log.info("Health Canada %s distribution: %s", type_col, dist)
+        mask = df[type_col].astype(str).str.lower().str.contains(
             "consumer|product|cp", na=False
         )
         filtered = df[mask].copy()
@@ -933,28 +942,46 @@ def normalise_health_canada(df: pd.DataFrame) -> pd.DataFrame:
             log.info("Health Canada: %d after consumer-product filter.", len(df))
 
     rows = []
-    for _, r in df.iterrows():
+    for i, (_, r) in enumerate(df.iterrows()):
+        # Accept both camelCase and snake_case field names.
         ref = str(r.get("recallId", r.get("recall_id", r.get("id", "")))).strip()
         # If recallId is missing pandas serialises it as the string "nan" which is
         # truthy — the empty-string check below would never fire, collapsing all
         # records to the same SHA-1 id and losing everything to dedup.
         # Treat "nan" / "None" / "" the same way: fall back to a composite key.
         if ref in ("", "nan", "None", "none"):
-            ref = f"{r.get('title','')}::{r.get('datePublished','')}::{r.get('recallCategory','')}"
+            title    = r.get("title", r.get("title_en", ""))
+            pub_date = r.get("datePublished", r.get("date_published", r.get("date", "")))
+            cat      = r.get("recallCategory", r.get("recall_category", r.get("category", "")))
+            ref = f"{title}::{pub_date}::{cat}"
+        # Last resort: if the composite key is also all-empty (unknown JSON structure),
+        # use row index so every record still gets a unique dedup id.
+        if not ref.replace(":", "").strip():
+            ref = f"row:{i}::{r.get('datePublished', r.get('date_published', r.get('date', ''))}"
 
-        hc_class  = str(r.get("hazardClassification", r.get("hazard", ""))).strip()
-        desc      = str(r.get("description", r.get("summary", ""))).strip()
+        hc_class  = str(r.get("hazardClassification",
+                               r.get("hazard_classification", r.get("hazard", "")))).strip()
+        desc      = str(r.get("description", r.get("summary", r.get("title", "")))).strip()
         full_text = f"{hc_class} {desc}"
 
         rows.append({
             "id":                make_id("Health Canada", ref),
             "source":            "Health Canada",
-            "date":              safe_date(r.get("datePublished", r.get("recallDate", r.get("date", "")))),
+            "date":              safe_date(r.get("datePublished",
+                                               r.get("date_published",
+                                               r.get("recallDate",
+                                               r.get("date", ""))))),
             "region":            SOURCE_CONFIG["Health Canada"]["region"],
             "notifying_country": "Canada",
-            "country_of_origin": str(r.get("countryOfOrigin", "")).strip(),
-            "product_category":  normalise_category(str(r.get("recallCategory", r.get("category", "")))),
-            "product_desc":      str(r.get("title", r.get("productName", ""))).strip(),
+            "country_of_origin": str(r.get("countryOfOrigin",
+                                           r.get("country_of_origin", ""))).strip(),
+            "product_category":  normalise_category(str(r.get("recallCategory",
+                                                              r.get("recall_category",
+                                                              r.get("category", ""))))),
+            "product_desc":      str(r.get("title",
+                                           r.get("title_en",
+                                           r.get("productName",
+                                           r.get("product_name", ""))))).strip(),
             "risk_type":         normalise_risk(hc_class),
             "hazard_type":       normalise_hazard_type(full_text),
             "injury_type":       normalise_injury_type(full_text),
@@ -962,7 +989,8 @@ def normalise_health_canada(df: pd.DataFrame) -> pd.DataFrame:
             "severity":          extract_severity(full_text, hc_hazard_class=hc_class),
             "injury_flag":       False,
             "injury_count":      0,
-            "corrective_action": str(r.get("corrective_action", r.get("action", ""))).strip(),
+            "corrective_action": str(r.get("corrective_action",
+                                           r.get("action", ""))).strip(),
             "reference":         ref,
         })
     out = pd.DataFrame(rows)
