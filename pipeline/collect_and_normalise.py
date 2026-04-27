@@ -957,7 +957,7 @@ def normalise_health_canada(df: pd.DataFrame) -> pd.DataFrame:
         # Last resort: if the composite key is also all-empty (unknown JSON structure),
         # use row index so every record still gets a unique dedup id.
         if not ref.replace(":", "").strip():
-            ref = f"row:{i}::{r.get('datePublished', r.get('date_published', r.get('date', ''))}"
+            ref = f"row:{i}::{r.get('datePublished', r.get('date_published', r.get('date', '')))}"
 
         hc_class  = str(r.get("hazardClassification",
                                r.get("hazard_classification", r.get("hazard", "")))).strip()
