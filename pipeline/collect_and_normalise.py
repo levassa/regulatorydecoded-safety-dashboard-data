@@ -153,8 +153,11 @@ SOURCE_CONFIG = {
         page_size   = 100,
         max_records = 3000,
         region      = "France",
-        f_ref       = ["reference_fiche", "numero_de_version"],
-        f_date      = ["date_de_publication"],
+        # V2 added record_id / record_timestamp as first columns (Jul 2024).
+        # reference_fiche and numero_de_version are kept for backward-compat.
+        f_ref       = ["record_id", "reference_fiche", "rappelguid",
+                       "numero_de_version", "recordid"],
+        f_date      = ["date_de_publication", "record_timestamp"],
         f_brand     = ["nom_de_la_marque_du_produit"],
         f_model     = ["noms_des_modeles_ou_references", "produits_ou_sous_categories"],
         f_category  = ["categorie_de_produit", "sous_categorie_de_produit"],
@@ -887,21 +890,47 @@ def fetch_health_canada() -> pd.DataFrame:
     except Exception as exc:
         log.warning("Health Canada fetch error: %s", exc)
         return pd.DataFrame()
-    records = data if isinstance(data, list) else data.get("results", data.get("data", []))
+    # Try every common envelope key; fall back to the raw value if it's a list.
+    if isinstance(data, list):
+        records = data
+    elif isinstance(data, dict):
+        for key in ("results", "data", "recalls", "items", "records", "RecallItems"):
+            if key in data and isinstance(data[key], list):
+                records = data[key]
+                log.info("Health Canada: found records under key '%s'.", key)
+                break
+        else:
+            # Last resort: find the first list value in the dict
+            records = next((v for v in data.values() if isinstance(v, list)), [])
+            log.warning("Health Canada: no known envelope key found; keys=%s", list(data.keys()))
+    else:
+        records = []
     log.info("Health Canada: %d raw records.", len(records))
+    if records:
+        log.info("Health Canada: sample field names: %s", list(records[0].keys())[:15])
     return pd.DataFrame(records)
 
 
 def normalise_health_canada(df: pd.DataFrame) -> pd.DataFrame:
     if df.empty:
         return pd.DataFrame()
-    # Keep only consumer/product recalls (exclude drug, food, vehicle recalls)
+    # Log recallType distribution to help diagnose filter issues in GH Actions logs.
     if "recallType" in df.columns:
+        dist = df["recallType"].value_counts().to_dict()
+        log.info("Health Canada recallType distribution: %s", dist)
         mask = df["recallType"].astype(str).str.lower().str.contains(
-            "consumer|product", na=False
+            "consumer|product|cp", na=False
         )
-        df = df[mask].copy()
-        log.info("Health Canada: %d after consumer-product filter.", len(df))
+        filtered = df[mask].copy()
+        if filtered.empty:
+            # Filter would wipe everything — skip it and keep all records.
+            log.warning(
+                "Health Canada: recallType filter matched 0 records "
+                "(values may have changed). Keeping all %d records.", len(df)
+            )
+        else:
+            df = filtered
+            log.info("Health Canada: %d after consumer-product filter.", len(df))
 
     rows = []
     for _, r in df.iterrows():
@@ -948,7 +977,10 @@ def normalise_health_canada(df: pd.DataFrame) -> pd.DataFrame:
 def fetch_rappelconso() -> pd.DataFrame:
     cfg = SOURCE_CONFIG["RappelConso"]
     cfg["_name"] = "RappelConso"
-    return fetch_ods_paginated(cfg)
+    df = fetch_ods_paginated(cfg)
+    if not df.empty:
+        log.info("RappelConso: sample field names: %s", list(df.columns)[:20])
+    return df
 
 
 def normalise_rappelconso(df: pd.DataFrame) -> pd.DataFrame:
@@ -956,16 +988,19 @@ def normalise_rappelconso(df: pd.DataFrame) -> pd.DataFrame:
         return pd.DataFrame()
     cfg  = SOURCE_CONFIG["RappelConso"]
     rows = []
-    for _, r in df.iterrows():
+    for i, (_, r) in enumerate(df.iterrows()):
         ref   = first_val(r, cfg["f_ref"])
         brand = first_val(r, cfg["f_brand"])
         model = first_val(r, cfg["f_model"])
         product_desc = f"{brand} — {model}".strip(" —") if (brand or model) else ""
         # first_val already strips "nan"/"None", but if every record lacks a
         # reference field the ref stays "" and all records share the same SHA-1.
-        # Fall back to a composite key so each recall keeps a unique dedup id.
+        # Fall back to a composite key; include row index as last resort so that
+        # even fully-empty records each get a unique dedup id.
         if not ref:
             ref = f"{brand}::{model}::{first_val(r, cfg['f_date'])}"
+        if not ref.replace("::", "").strip():
+            ref = f"row:{i}::{first_val(r, cfg['f_date'])}"
 
         risk_short = first_val(r, cfg["f_risk"])
         risk_long  = first_val(r, cfg["f_risk_long"]) or risk_short
