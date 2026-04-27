@@ -1,15 +1,16 @@
 [
   {
     "hazard_type": "Other",
-    "total": 8873,
+    "total": 11873,
     "by_source": {
       "ACCC": 0,
       "CPSC": 355,
       "EU Safety Gate": 5000,
       "FDA": 1872,
+      "Health Canada": 1,
       "NZ Product Safety": 1417,
       "OPSS": 228,
-      "RappelConso": 1
+      "RappelConso": 3000
     }
   },
   {
@@ -20,6 +21,7 @@
       "CPSC": 11,
       "EU Safety Gate": 0,
       "FDA": 847,
+      "Health Canada": 0,
       "NZ Product Safety": 1,
       "OPSS": 6,
       "RappelConso": 0
@@ -33,6 +35,7 @@
       "CPSC": 487,
       "EU Safety Gate": 0,
       "FDA": 39,
+      "Health Canada": 0,
       "NZ Product Safety": 21,
       "OPSS": 286,
       "RappelConso": 0
@@ -46,6 +49,7 @@
       "CPSC": 2,
       "EU Safety Gate": 0,
       "FDA": 509,
+      "Health Canada": 0,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -59,6 +63,7 @@
       "CPSC": 151,
       "EU Safety Gate": 0,
       "FDA": 190,
+      "Health Canada": 0,
       "NZ Product Safety": 16,
       "OPSS": 103,
       "RappelConso": 0
@@ -72,6 +77,7 @@
       "CPSC": 193,
       "EU Safety Gate": 0,
       "FDA": 7,
+      "Health Canada": 0,
       "NZ Product Safety": 1,
       "OPSS": 204,
       "RappelConso": 0
@@ -85,6 +91,7 @@
       "CPSC": 160,
       "EU Safety Gate": 0,
       "FDA": 209,
+      "Health Canada": 0,
       "NZ Product Safety": 2,
       "OPSS": 0,
       "RappelConso": 0
@@ -98,6 +105,7 @@
       "CPSC": 88,
       "EU Safety Gate": 0,
       "FDA": 69,
+      "Health Canada": 0,
       "NZ Product Safety": 6,
       "OPSS": 120,
       "RappelConso": 0
@@ -111,6 +119,7 @@
       "CPSC": 171,
       "EU Safety Gate": 0,
       "FDA": 39,
+      "Health Canada": 0,
       "NZ Product Safety": 8,
       "OPSS": 0,
       "RappelConso": 0
@@ -124,6 +133,7 @@
       "CPSC": 174,
       "EU Safety Gate": 0,
       "FDA": 9,
+      "Health Canada": 0,
       "NZ Product Safety": 4,
       "OPSS": 20,
       "RappelConso": 0
@@ -137,6 +147,7 @@
       "CPSC": 160,
       "EU Safety Gate": 0,
       "FDA": 24,
+      "Health Canada": 0,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -150,6 +161,7 @@
       "CPSC": 38,
       "EU Safety Gate": 0,
       "FDA": 70,
+      "Health Canada": 0,
       "NZ Product Safety": 33,
       "OPSS": 28,
       "RappelConso": 0
@@ -163,6 +175,7 @@
       "CPSC": 28,
       "EU Safety Gate": 0,
       "FDA": 63,
+      "Health Canada": 0,
       "NZ Product Safety": 2,
       "OPSS": 5,
       "RappelConso": 0
@@ -176,6 +189,7 @@
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 53,
+      "Health Canada": 0,
       "NZ Product Safety": 16,
       "OPSS": 0,
       "RappelConso": 0

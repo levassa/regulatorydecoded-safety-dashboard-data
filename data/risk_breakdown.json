@@ -1,68 +1,68 @@
 [
   {
     "risk_type": "Other",
-    "count": 6530,
-    "percentage": 48.1
+    "count": 9530,
+    "percentage": 57.5
   },
   {
     "risk_type": "Fire",
     "count": 873,
-    "percentage": 6.4
+    "percentage": 5.3
   },
   {
     "risk_type": "Injury",
     "count": 575,
-    "percentage": 4.2
+    "percentage": 3.5
   },
   {
     "risk_type": "Contamination",
     "count": 480,
-    "percentage": 3.5
+    "percentage": 2.9
   },
   {
     "risk_type": "Choking",
     "count": 318,
-    "percentage": 2.3
+    "percentage": 1.9
   },
   {
     "risk_type": "Chemical",
     "count": 184,
-    "percentage": 1.4
+    "percentage": 1.1
   },
   {
     "risk_type": "Electric Shock",
     "count": 165,
-    "percentage": 1.2
+    "percentage": 1.0
   },
   {
     "risk_type": "Falls",
     "count": 150,
-    "percentage": 1.1
+    "percentage": 0.9
   },
   {
     "risk_type": "Burns",
     "count": 134,
-    "percentage": 1.0
+    "percentage": 0.8
   },
   {
     "risk_type": "On 02/03/2023, Fresh Ideation Food Group, Llc Dba Fresh Creative Cuisine Of Baltimore, Md Is  Initiating A Recall Of  Various Products Sold From January 24, 2023 Through January 30, 2023 Because The Products Have The Potential To Be Contaminated With Listeria Monocytogenes .",
     "count": 99,
-    "percentage": 0.7
+    "percentage": 0.6
   },
   {
     "risk_type": "Drowning",
     "count": 41,
-    "percentage": 0.3
+    "percentage": 0.2
   },
   {
     "risk_type": "Potential To Be Contaminated With Listeria Monocytogenes",
     "count": 40,
-    "percentage": 0.3
+    "percentage": 0.2
   },
   {
     "risk_type": "Low Risk",
     "count": 34,
-    "percentage": 0.3
+    "percentage": 0.2
   },
   {
     "risk_type": "Products May Contain Salmonella",
@@ -97,7 +97,7 @@
   {
     "risk_type": "Ready To Eat Salad Products Containing Iceberg Lettuce, Red Cabbage And/Or Carrot Ingredients Are Recalled Due To A Possible Health Risk From Cyclospora.",
     "count": 24,
-    "percentage": 0.2
+    "percentage": 0.1
   },
   {
     "risk_type": "Xxx",
@@ -267,112 +267,112 @@
   {
     "risk_type": "Medline Industries, Lp Is Recalling Certain Kits And Trays That Were Manufactured Using Specific Lots Of Nurse Assist (As Components):  0.9% Sodium Chloride Irrigation Usp, Sterile Water For Irrigation Usp And Saline Flush Syringe. Nurse Assist Issued A Recall Due To The Potential Lack Of Sterility, Which Could Result In The Solution Being Non Sterile.",
     "count": 8,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Device Label Display An Incorrect Expiration Date, Extends The Shelf Life Of The Product. Affected Product  Distributed In The United States From 3/25/2018 To 9/28/2020, Expiration Dates Between 2022-11-01 And 2025-09-01 (Devices Have A Lot Number Ending In R, Or Are Kits Containing At Least 1 Device With A Lot Number Ending In R.)",
     "count": 8,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "The Food Was Not Held At An Appropriate Temperature.  The Holding Temperature Could Affect Spoilage And Potentially Support Pathogen Growth.",
     "count": 8,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Medline Is Recalling Medical Convenience Manufactured Using Certain Lots Of Safeair Smoke Evacuation Pencil Which Were Subsequently Recalled By Stryker.",
     "count": 8,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "To Provide Clarification And Labelling To Define The Useful Life Of Ultrasound Transducers In The Field.",
     "count": 8,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Potential To Be Contaminated With Salmonella",
     "count": 8,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Alcon Has Detected An Increase In Complaint Reports Related To Sharpness For Specific Clearcut Dual Bevel Sideport And A-Ok Comeal/Scleral V-Lance Ophthalmic Knives.",
     "count": 8,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Potential For Metal In Product",
     "count": 8,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Potential Presence Of Food-Grade Rubber Pieces.",
     "count": 8,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Consumer Complaints Related To Cronobacter Sakazakii Or Salmonella Newport In Infants And Evidence Of Cronobacter Sakazakii In The Manufacturing Facility Where The Product Had Been Produced",
     "count": 7,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Product Manufactured Using Uhmwpe Raw Material Over 5 Years Of Age Has The Potential For Elevated Levels Of Oxidation. Oxidation Within Uhmwpe Can Have An Impact On Its Material Properties.",
     "count": 7,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Patient Support Table Floor Plate May Be Incorrectly Installed.",
     "count": 7,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Complaints Of Reported Separation Of The Slider Gds Swivel Rod From The Swivel Core And Of A Notable Gap Between The Two Pieces.",
     "count": 7,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Products Distributed As Sterile May Not Have Been Adequately Sterilized",
     "count": 7,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Possible Metal Fragments In Yogurt Bars",
     "count": 7,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Products Contain Undeclared Soy.",
     "count": 7,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Facility Temperature Excursions (From June 2021-August 2021) Prior To Delivery; Exposure To Higher Temperatures May Have Impacted Product Effectiveness. All Lots Received Between 06/01/21-9/30/21.",
     "count": 7,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "After An Investigation, The Firm Discovered That A Sifter Used In The Production Of The Dextrose For Each Product Was Damaged And Introduced Metal Fragments In The Products.",
     "count": 7,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Foreign Material",
     "count": 7,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Various Vegetable And Fruit Products Are Recalled Due To Inadequate Sanitizer In Wash Water.",
     "count": 7,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Undeclared Wheat",
     "count": 7,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Toxic Levels Of Muscimol",
     "count": 7,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "The Products Contain The Substance Methyl Salicylate Which Must Be In Child Resistant Packaging As Required By The Poison Prevention Packaging Act (Pppa). The Packaging Of The Products Is Not Child Resistant, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",

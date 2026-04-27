@@ -5,6 +5,7 @@
     "total_injuries": 0,
     "by_region": {
       "Australia": 16,
+      "Canada": 0,
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 1,
@@ -260,6 +261,7 @@
     "total_injuries": 0,
     "by_region": {
       "Australia": 5,
+      "Canada": 0,
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 3,
@@ -515,6 +517,7 @@
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
+      "Canada": 0,
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 0,
@@ -770,6 +773,7 @@
     "total_injuries": 0,
     "by_region": {
       "Australia": 3,
+      "Canada": 0,
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 8,
@@ -1021,12 +1025,13 @@
   },
   {
     "severity": "Not Reported",
-    "total": 6721,
+    "total": 9721,
     "total_injuries": 0,
     "by_region": {
       "Australia": 1,
+      "Canada": 1,
       "EU / EEA": 5000,
-      "France": 1,
+      "France": 3000,
       "New Zealand": 1515,
       "USA": 1,
       "United Kingdom": 203
@@ -1233,7 +1238,7 @@
       "Motorcycle Parts And Accessories": 0,
       "Office Supplies And Stationery": 1,
       "Office Supplies And Stationeryrecalled Sand Products": 1,
-      "Other": 205,
+      "Other": 3205,
       "Other - Books": 1,
       "Other - Car Floor Mat": 1,
       "Other - Car Floor Mats": 4,
@@ -1268,7 +1273,7 @@
       "Instability / Fall Risk": 0,
       "Mechanical Failure": 3,
       "Microbiological Contamination": 6,
-      "Other": 6470,
+      "Other": 9470,
       "Radiation": 16,
       "Sharp Edges / Points": 8,
       "Small Parts / Choking Hazard": 20
