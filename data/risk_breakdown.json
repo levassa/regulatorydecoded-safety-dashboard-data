@@ -1,8 +1,8 @@
 [
   {
     "risk_type": "Other",
-    "count": 14951,
-    "percentage": 29.9
+    "count": 14956,
+    "percentage": 30.0
   },
   {
     "risk_type": "Medical Devices",
@@ -67,7 +67,7 @@
   {
     "risk_type": "Milk",
     "count": 674,
-    "percentage": 1.4
+    "percentage": 1.3
   },
   {
     "risk_type": "Seats And Restraints",
