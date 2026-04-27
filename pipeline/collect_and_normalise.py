@@ -906,9 +906,11 @@ def normalise_health_canada(df: pd.DataFrame) -> pd.DataFrame:
     rows = []
     for _, r in df.iterrows():
         ref = str(r.get("recallId", r.get("recall_id", r.get("id", "")))).strip()
-        # If recallId is missing every record gets the same hash → dedup kills all but one.
-        # Fallback to a composite key so each record stays unique.
-        if not ref:
+        # If recallId is missing pandas serialises it as the string "nan" which is
+        # truthy — the empty-string check below would never fire, collapsing all
+        # records to the same SHA-1 id and losing everything to dedup.
+        # Treat "nan" / "None" / "" the same way: fall back to a composite key.
+        if ref in ("", "nan", "None", "none"):
             ref = f"{r.get('title','')}::{r.get('datePublished','')}::{r.get('recallCategory','')}"
 
         hc_class  = str(r.get("hazardClassification", r.get("hazard", ""))).strip()
@@ -959,6 +961,11 @@ def normalise_rappelconso(df: pd.DataFrame) -> pd.DataFrame:
         brand = first_val(r, cfg["f_brand"])
         model = first_val(r, cfg["f_model"])
         product_desc = f"{brand} — {model}".strip(" —") if (brand or model) else ""
+        # first_val already strips "nan"/"None", but if every record lacks a
+        # reference field the ref stays "" and all records share the same SHA-1.
+        # Fall back to a composite key so each recall keeps a unique dedup id.
+        if not ref:
+            ref = f"{brand}::{model}::{first_val(r, cfg['f_date'])}"
 
         risk_short = first_val(r, cfg["f_risk"])
         risk_long  = first_val(r, cfg["f_risk_long"]) or risk_short
