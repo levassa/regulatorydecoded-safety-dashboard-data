@@ -1,13 +1,12 @@
 [
   {
     "injury_type": "Not Specified",
-    "total": 46066,
+    "total": 13682,
     "by_source": {
       "ACCC": 8,
-      "CPSC": 1548,
+      "CPSC": 324,
       "EU Safety Gate": 5000,
       "FDA": 3269,
-      "Health Canada": 31160,
       "NZ Product Safety": 1481,
       "OPSS": 600,
       "RappelConso": 3000
@@ -15,167 +14,116 @@
   },
   {
     "injury_type": "Choking / Suffocation",
-    "total": 727,
+    "total": 426,
     "by_source": {
       "ACCC": 1,
-      "CPSC": 13,
+      "CPSC": 207,
       "EU Safety Gate": 0,
       "FDA": 6,
-      "Health Canada": 495,
       "NZ Product Safety": 0,
       "OPSS": 212,
       "RappelConso": 0
     }
   },
   {
-    "injury_type": "Laceration / Cut",
-    "total": 570,
-    "by_source": {
-      "ACCC": 1,
-      "CPSC": 84,
-      "EU Safety Gate": 0,
-      "FDA": 115,
-      "Health Canada": 356,
-      "NZ Product Safety": 10,
-      "OPSS": 4,
-      "RappelConso": 0
-    }
-  },
-  {
-    "injury_type": "Fall Injury",
-    "total": 414,
-    "by_source": {
-      "ACCC": 2,
-      "CPSC": 64,
-      "EU Safety Gate": 0,
-      "FDA": 31,
-      "Health Canada": 317,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
     "injury_type": "Burns",
-    "total": 408,
+    "total": 404,
     "by_source": {
       "ACCC": 3,
-      "CPSC": 123,
+      "CPSC": 346,
       "EU Safety Gate": 0,
       "FDA": 21,
-      "Health Canada": 227,
       "NZ Product Safety": 12,
       "OPSS": 22,
       "RappelConso": 0
     }
   },
   {
-    "injury_type": "Allergic Reaction",
-    "total": 326,
-    "by_source": {
-      "ACCC": 0,
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 191,
-      "Health Canada": 134,
-      "NZ Product Safety": 1,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "injury_type": "Fracture / Blunt Trauma",
-    "total": 315,
-    "by_source": {
-      "ACCC": 0,
-      "CPSC": 95,
-      "EU Safety Gate": 0,
-      "FDA": 137,
-      "Health Canada": 80,
-      "NZ Product Safety": 3,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "injury_type": "Eye Injury",
-    "total": 281,
-    "by_source": {
-      "ACCC": 0,
-      "CPSC": 7,
-      "EU Safety Gate": 0,
-      "FDA": 83,
-      "Health Canada": 185,
-      "NZ Product Safety": 3,
-      "OPSS": 3,
-      "RappelConso": 0
-    }
-  },
-  {
-    "injury_type": "Electric Shock",
-    "total": 217,
-    "by_source": {
-      "ACCC": 2,
-      "CPSC": 11,
-      "EU Safety Gate": 0,
-      "FDA": 15,
-      "Health Canada": 65,
-      "NZ Product Safety": 4,
-      "OPSS": 120,
-      "RappelConso": 0
-    }
-  },
-  {
     "injury_type": "Poisoning / Ingestion",
-    "total": 186,
+    "total": 303,
     "by_source": {
       "ACCC": 0,
-      "CPSC": 16,
+      "CPSC": 279,
       "EU Safety Gate": 0,
       "FDA": 13,
-      "Health Canada": 146,
       "NZ Product Safety": 11,
       "OPSS": 0,
       "RappelConso": 0
     }
   },
   {
-    "injury_type": "Respiratory",
-    "total": 128,
+    "injury_type": "Laceration / Cut",
+    "total": 301,
     "by_source": {
-      "ACCC": 6,
-      "CPSC": 19,
+      "ACCC": 1,
+      "CPSC": 171,
       "EU Safety Gate": 0,
-      "FDA": 37,
-      "Health Canada": 61,
-      "NZ Product Safety": 3,
-      "OPSS": 2,
+      "FDA": 115,
+      "NZ Product Safety": 10,
+      "OPSS": 4,
       "RappelConso": 0
     }
   },
   {
-    "injury_type": "Radiation Exposure",
-    "total": 127,
+    "injury_type": "Fracture / Blunt Trauma",
+    "total": 269,
     "by_source": {
       "ACCC": 0,
-      "CPSC": 0,
+      "CPSC": 129,
       "EU Safety Gate": 0,
-      "FDA": 67,
-      "Health Canada": 58,
+      "FDA": 137,
+      "NZ Product Safety": 3,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "injury_type": "Electric Shock",
+    "total": 198,
+    "by_source": {
+      "ACCC": 2,
+      "CPSC": 57,
+      "EU Safety Gate": 0,
+      "FDA": 15,
+      "NZ Product Safety": 4,
+      "OPSS": 120,
+      "RappelConso": 0
+    }
+  },
+  {
+    "injury_type": "Allergic Reaction",
+    "total": 193,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 1,
+      "EU Safety Gate": 0,
+      "FDA": 191,
       "NZ Product Safety": 1,
-      "OPSS": 1,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "injury_type": "Fall Injury",
+    "total": 186,
+    "by_source": {
+      "ACCC": 2,
+      "CPSC": 153,
+      "EU Safety Gate": 0,
+      "FDA": 31,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
       "RappelConso": 0
     }
   },
   {
     "injury_type": "Entrapment",
-    "total": 106,
+    "total": 171,
     "by_source": {
       "ACCC": 1,
-      "CPSC": 15,
+      "CPSC": 148,
       "EU Safety Gate": 0,
       "FDA": 3,
-      "Health Canada": 68,
       "NZ Product Safety": 0,
       "OPSS": 19,
       "RappelConso": 0
@@ -183,27 +131,64 @@
   },
   {
     "injury_type": "Skin Irritation",
-    "total": 50,
+    "total": 147,
     "by_source": {
       "ACCC": 0,
-      "CPSC": 22,
+      "CPSC": 135,
       "EU Safety Gate": 0,
       "FDA": 12,
-      "Health Canada": 16,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
     }
   },
   {
+    "injury_type": "Eye Injury",
+    "total": 98,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 9,
+      "EU Safety Gate": 0,
+      "FDA": 83,
+      "NZ Product Safety": 3,
+      "OPSS": 3,
+      "RappelConso": 0
+    }
+  },
+  {
+    "injury_type": "Respiratory",
+    "total": 79,
+    "by_source": {
+      "ACCC": 6,
+      "CPSC": 31,
+      "EU Safety Gate": 0,
+      "FDA": 37,
+      "NZ Product Safety": 3,
+      "OPSS": 2,
+      "RappelConso": 0
+    }
+  },
+  {
+    "injury_type": "Radiation Exposure",
+    "total": 69,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 67,
+      "NZ Product Safety": 1,
+      "OPSS": 1,
+      "RappelConso": 0
+    }
+  },
+  {
     "injury_type": "Drowning",
-    "total": 29,
+    "total": 46,
     "by_source": {
       "ACCC": 1,
-      "CPSC": 1,
+      "CPSC": 28,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 10,
       "NZ Product Safety": 0,
       "OPSS": 17,
       "RappelConso": 0
