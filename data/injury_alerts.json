@@ -1482,6 +1482,25 @@
     "reference": "26267"
   },
   {
+    "id": "2ea07e7591db168e00ce5120b06fbf700ea0ce3c",
+    "source": "CPSC",
+    "date": "2026-02-12",
+    "region": "USA",
+    "notifying_country": "United States",
+    "country_of_origin": "",
+    "product_category": "Other",
+    "product_desc": "CheerKid Baby Bath Seats",
+    "risk_type": "Injury",
+    "hazard_type": "Instability / Fall Risk",
+    "injury_type": "Drowning",
+    "injury_description": "None reported",
+    "severity": "Fatal",
+    "injury_flag": true,
+    "injury_count": 0,
+    "corrective_action": "Consumers should immediately stop using the recalled bath seats and contact Babibaby for a full refund. Consumers should write \"Recalled\" on the front of the bath seat in permanent marker, disassemble the bath seat by removing the back rest and arm restraints, discard the screws, cut the five suction cups on the bottom and send a photo of the disassembled recalled bath seat showing the marked front of the seat to CheerKid-Recall@outlook.com.",
+    "reference": "26266"
+  },
+  {
     "id": "6348ad03d8040c2c7221fc9729bff8da09d36506",
     "source": "CPSC",
     "date": "2026-02-12",
@@ -2411,25 +2430,6 @@
     "injury_count": 0,
     "corrective_action": "Consumers should immediately stop using the ANNQUAN power strips and contact Hefei Juyuan Sporting Development to receive a full refund.",
     "reference": "26161"
-  },
-  {
-    "id": "85b661ae772b6966d361b8ba8cf2132f44ba4359",
-    "source": "CPSC",
-    "date": "2025-12-18",
-    "region": "USA",
-    "notifying_country": "United States",
-    "country_of_origin": "",
-    "product_category": "Other",
-    "product_desc": "Blue Wave brand 48-inch and taller above-ground pools",
-    "risk_type": "Injury",
-    "hazard_type": "Instability / Fall Risk",
-    "injury_type": "Drowning",
-    "injury_description": "None reported",
-    "severity": "Fatal",
-    "injury_flag": true,
-    "injury_count": 0,
-    "corrective_action": "Consumers should contact Blue Wave to request a free repair kit. In the interim, consumers should ensure that children cannot access the pool unattended or, alternatively, drain the pool until the repair can be installed.",
-    "reference": "26163"
   },
   {
     "id": "a9fc697d29f9f86ab0413535ec25059bbbc4c900",
@@ -10545,25 +10545,6 @@
     "reference": "26295"
   },
   {
-    "id": "2ea07e7591db168e00ce5120b06fbf700ea0ce3c",
-    "source": "CPSC",
-    "date": "2026-02-12",
-    "region": "USA",
-    "notifying_country": "United States",
-    "country_of_origin": "",
-    "product_category": "Other",
-    "product_desc": "CheerKid Baby Bath Seats",
-    "risk_type": "Drowning",
-    "hazard_type": "Drowning Risk",
-    "injury_type": "Drowning",
-    "injury_description": "None reported",
-    "severity": "Moderate",
-    "injury_flag": true,
-    "injury_count": 0,
-    "corrective_action": "Consumers should immediately stop using the recalled bath seats and contact Babibaby for a full refund. Consumers should write \"Recalled\" on the front of the bath seat in permanent marker, disassemble the bath seat by removing the back rest and arm restraints, discard the screws, cut the five suction cups on the bottom and send a photo of the disassembled recalled bath seat showing the marked front of the seat to CheerKid-Recall@outlook.com.",
-    "reference": "26266"
-  },
-  {
     "id": "3f355c3b58625a05481a42348b688a3bd75b6109",
     "source": "CPSC",
     "date": "2026-02-05",
@@ -10733,6 +10714,25 @@
     "injury_count": 0,
     "corrective_action": "Consumers should immediately stop using the recalled magnetic wireless chargers and go to https://www.recallrtr.com/powerbank to register for the recall and for instructions on how to receive a full refund. After registering, consumers should dispose of the power bank in accordance with local and state regulations and not discard it in the household trash.",
     "reference": "26179"
+  },
+  {
+    "id": "85b661ae772b6966d361b8ba8cf2132f44ba4359",
+    "source": "CPSC",
+    "date": "2025-12-18",
+    "region": "USA",
+    "notifying_country": "United States",
+    "country_of_origin": "",
+    "product_category": "Other",
+    "product_desc": "Blue Wave brand 48-inch and taller above-ground pools",
+    "risk_type": "Drowning",
+    "hazard_type": "Drowning Risk",
+    "injury_type": "Drowning",
+    "injury_description": "None reported",
+    "severity": "Moderate",
+    "injury_flag": true,
+    "injury_count": 0,
+    "corrective_action": "Consumers should contact Blue Wave to request a free repair kit. In the interim, consumers should ensure that children cannot access the pool unattended or, alternatively, drain the pool until the repair can be installed.",
+    "reference": "26163"
   },
   {
     "id": "0d0839937181478140ee265c40dd8b97b0dde704",
