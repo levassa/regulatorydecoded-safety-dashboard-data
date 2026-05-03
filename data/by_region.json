@@ -513,7 +513,7 @@
   },
   {
     "region": "Canada",
-    "total": 33471,
+    "total": 33473,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -810,7 +810,7 @@
       "Frozen": 72,
       "Frozen - Herbs And Spices": 1,
       "Fruits And Vegetables": 24,
-      "Furniture & Home": 926,
+      "Furniture & Home": 927,
       "Gadgets": 0,
       "Gastroenterology And Urology": 100,
       "Gastroenterology And Urology - Anaesthesiology - Ear, Nose And Throat": 1,
@@ -883,7 +883,7 @@
       "Light Truck & Van - Chassis Cab - Truck - Med. & H.D.": 2,
       "Light Truck & Van - Minivan - Suv": 1,
       "Light Truck & Van - Rv Trailer": 1,
-      "Light Truck & Van - Suv": 86,
+      "Light Truck & Van - Suv": 87,
       "Light Truck & Van - Suv - Car": 4,
       "Light Truck & Van - Suv - Minivan": 1,
       "Light Truck & Van - Suv - Minivan - Car": 1,
@@ -1019,13 +1019,13 @@
       "Fatal": 0,
       "Minor": 4306,
       "Moderate": 8476,
-      "Not Reported": 17849,
+      "Not Reported": 17851,
       "Serious": 2840
     }
   },
   {
     "region": "EU / EEA",
-    "total": 5000,
+    "total": 4993,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -1285,7 +1285,7 @@
       "Clothing & Textiles": 156,
       "Communications": 0,
       "Condiments": 0,
-      "Construction Products": 12,
+      "Construction Products": 11,
       "Consumer Products": 0,
       "Consumer Products - Drugs": 0,
       "Consumer Products - Natural Health Products": 0,
@@ -1316,7 +1316,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 0,
       "Electric Or Gas Productsbuilding Products": 0,
-      "Electrical & Electronics": 767,
+      "Electrical & Electronics": 766,
       "Food & Food Contact": 0,
       "Fresh": 0,
       "Frozen": 0,
@@ -1507,8 +1507,8 @@
       "Suv - Minivan - Light Truck & Van": 0,
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
-      "Tools & Machinery": 259,
-      "Toys & Childcare": 951,
+      "Tools & Machinery": 256,
+      "Toys & Childcare": 949,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
       "Truck - Med. & H.D. - Bus": 0,
@@ -1531,7 +1531,7 @@
       "Fatal": 0,
       "Minor": 0,
       "Moderate": 0,
-      "Not Reported": 5000,
+      "Not Reported": 4993,
       "Serious": 0
     }
   },

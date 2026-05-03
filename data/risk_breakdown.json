@@ -1,7 +1,7 @@
 [
   {
     "risk_type": "Other",
-    "count": 14979,
+    "count": 14972,
     "percentage": 29.9
   },
   {
@@ -36,8 +36,8 @@
   },
   {
     "risk_type": "Structure",
-    "count": 876,
-    "percentage": 1.7
+    "count": 877,
+    "percentage": 1.8
   },
   {
     "risk_type": "Injury",
@@ -71,7 +71,7 @@
   },
   {
     "risk_type": "Seats And Restraints",
-    "count": 650,
+    "count": 651,
     "percentage": 1.3
   },
   {
