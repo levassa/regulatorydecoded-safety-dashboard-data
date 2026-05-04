@@ -1025,7 +1025,7 @@
   },
   {
     "region": "EU / EEA",
-    "total": 4993,
+    "total": 5000,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -1285,7 +1285,7 @@
       "Clothing & Textiles": 156,
       "Communications": 0,
       "Condiments": 0,
-      "Construction Products": 11,
+      "Construction Products": 12,
       "Consumer Products": 0,
       "Consumer Products - Drugs": 0,
       "Consumer Products - Natural Health Products": 0,
@@ -1316,7 +1316,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 0,
       "Electric Or Gas Productsbuilding Products": 0,
-      "Electrical & Electronics": 766,
+      "Electrical & Electronics": 767,
       "Food & Food Contact": 0,
       "Fresh": 0,
       "Frozen": 0,
@@ -1507,8 +1507,8 @@
       "Suv - Minivan - Light Truck & Van": 0,
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
-      "Tools & Machinery": 256,
-      "Toys & Childcare": 949,
+      "Tools & Machinery": 259,
+      "Toys & Childcare": 951,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
       "Truck - Med. & H.D. - Bus": 0,
@@ -1531,7 +1531,7 @@
       "Fatal": 0,
       "Minor": 0,
       "Moderate": 0,
-      "Not Reported": 4993,
+      "Not Reported": 5000,
       "Serious": 0
     }
   },

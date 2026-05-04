@@ -57,11 +57,11 @@
   },
   {
     "product_category": "Toys & Childcare",
-    "total": 2125,
+    "total": 2127,
     "by_source": {
       "ACCC": 1,
       "CPSC": 0,
-      "EU Safety Gate": 949,
+      "EU Safety Gate": 951,
       "FDA": 0,
       "Health Canada": 733,
       "NZ Product Safety": 442,
@@ -99,11 +99,11 @@
   },
   {
     "product_category": "Electrical & Electronics",
-    "total": 1429,
+    "total": 1430,
     "by_source": {
       "ACCC": 11,
       "CPSC": 0,
-      "EU Safety Gate": 766,
+      "EU Safety Gate": 767,
       "FDA": 0,
       "Health Canada": 417,
       "NZ Product Safety": 235,
@@ -225,11 +225,11 @@
   },
   {
     "product_category": "Tools & Machinery",
-    "total": 830,
+    "total": 833,
     "by_source": {
       "ACCC": 3,
       "CPSC": 0,
-      "EU Safety Gate": 256,
+      "EU Safety Gate": 259,
       "FDA": 0,
       "Health Canada": 495,
       "NZ Product Safety": 76,
@@ -1232,14 +1232,14 @@
     }
   },
   {
-    "product_category": "Radiopharmaceuticals",
-    "total": 11,
+    "product_category": "Construction Products",
+    "total": 12,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
-      "EU Safety Gate": 0,
+      "EU Safety Gate": 12,
       "FDA": 0,
-      "Health Canada": 11,
+      "Health Canada": 0,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -1260,14 +1260,14 @@
     }
   },
   {
-    "product_category": "Construction Products",
+    "product_category": "Radiopharmaceuticals",
     "total": 11,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
-      "EU Safety Gate": 11,
+      "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 0,
+      "Health Canada": 11,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
