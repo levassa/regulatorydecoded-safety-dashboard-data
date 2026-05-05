@@ -1,10 +1,10 @@
 [
   {
     "severity": "Fatal",
-    "total": 533,
+    "total": 532,
     "total_injuries": 0,
     "by_region": {
-      "Australia": 16,
+      "Australia": 15,
       "Canada": 0,
       "EU / EEA": 0,
       "France": 0,
@@ -407,7 +407,7 @@
       "Minivan - Suv - Car": 0,
       "Motor Tricycle": 0,
       "Motor Tricycle - Motorcycle": 0,
-      "Motor Vehicles": 3,
+      "Motor Vehicles": 2,
       "Motorcycle": 0,
       "Motorcycle - Motor Tricycle": 0,
       "Motorcycle Parts And Accessories": 1,
@@ -522,7 +522,7 @@
       "Explosion": 6,
       "Flammability / Overheating": 49,
       "Instability / Fall Risk": 19,
-      "Mechanical Failure": 34,
+      "Mechanical Failure": 33,
       "Microbiological Contamination": 3,
       "Other": 106,
       "Radiation": 0,
@@ -532,10 +532,10 @@
   },
   {
     "severity": "Serious",
-    "total": 6884,
+    "total": 6885,
     "total_injuries": 0,
     "by_region": {
-      "Australia": 5,
+      "Australia": 6,
       "Canada": 2840,
       "EU / EEA": 0,
       "France": 0,
@@ -839,7 +839,7 @@
       "Frozen": 32,
       "Frozen - Herbs And Spices": 1,
       "Fruits And Vegetables": 5,
-      "Furniture & Home": 1,
+      "Furniture & Home": 2,
       "Gadgets": 0,
       "Gastroenterology And Urology": 11,
       "Gastroenterology And Urology - Anaesthesiology - Ear, Nose And Throat": 0,
@@ -1045,18 +1045,18 @@
       "Veterinary Drugs": 5
     },
     "by_hazard_type": {
-      "Allergen": 1439,
-      "Chemical / Toxic Substance": 199,
+      "Allergen": 1438,
+      "Chemical / Toxic Substance": 198,
       "Drowning Risk": 78,
       "Electrical Fault": 70,
-      "Entrapment": 14,
-      "Explosion": 66,
+      "Entrapment": 13,
+      "Explosion": 70,
       "Flammability / Overheating": 47,
       "Instability / Fall Risk": 26,
-      "Mechanical Failure": 224,
+      "Mechanical Failure": 227,
       "Microbiological Contamination": 1771,
       "Other": 2826,
-      "Radiation": 54,
+      "Radiation": 51,
       "Sharp Edges / Points": 60,
       "Small Parts / Choking Hazard": 10
     }
@@ -2125,14 +2125,14 @@
   },
   {
     "severity": "Not Reported",
-    "total": 27577,
+    "total": 27579,
     "total_injuries": 0,
     "by_region": {
       "Australia": 1,
       "Canada": 17851,
       "EU / EEA": 5000,
       "France": 3000,
-      "New Zealand": 1519,
+      "New Zealand": 1521,
       "USA": 1,
       "United Kingdom": 205
     },
@@ -2618,7 +2618,7 @@
       "Suv - Truck - Med. & H.D.": 1,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 1,
       "Tools & Machinery": 828,
-      "Toys & Childcare": 2115,
+      "Toys & Childcare": 2117,
       "Truck - Med. & H.D.": 964,
       "Truck - Med. & H.D. - A.T.V.": 1,
       "Truck - Med. & H.D. - Bus": 5,
@@ -2648,7 +2648,7 @@
       "Instability / Fall Risk": 313,
       "Mechanical Failure": 40,
       "Microbiological Contamination": 86,
-      "Other": 21400,
+      "Other": 21402,
       "Radiation": 1572,
       "Sharp Edges / Points": 175,
       "Small Parts / Choking Hazard": 509
