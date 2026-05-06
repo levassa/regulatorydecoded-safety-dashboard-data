@@ -5,11 +5,11 @@
     "by_source": {
       "ACCC": 0,
       "CPSC": 357,
-      "EU Safety Gate": 5000,
+      "EU Safety Gate": 4995,
       "FDA": 1872,
-      "Health Canada": 23064,
-      "NZ Product Safety": 1423,
-      "OPSS": 229,
+      "Health Canada": 23066,
+      "NZ Product Safety": 1424,
+      "OPSS": 231,
       "RappelConso": 3000
     }
   },
@@ -29,13 +29,13 @@
   },
   {
     "hazard_type": "Microbiological Contamination",
-    "total": 2721,
+    "total": 2723,
     "by_source": {
       "ACCC": 0,
       "CPSC": 11,
       "EU Safety Gate": 0,
       "FDA": 846,
-      "Health Canada": 1857,
+      "Health Canada": 1859,
       "NZ Product Safety": 1,
       "OPSS": 6,
       "RappelConso": 0
@@ -43,7 +43,7 @@
   },
   {
     "hazard_type": "Flammability / Overheating",
-    "total": 1690,
+    "total": 1689,
     "by_source": {
       "ACCC": 4,
       "CPSC": 488,
@@ -51,19 +51,19 @@
       "FDA": 38,
       "Health Canada": 850,
       "NZ Product Safety": 21,
-      "OPSS": 289,
+      "OPSS": 288,
       "RappelConso": 0
     }
   },
   {
     "hazard_type": "Radiation",
-    "total": 1663,
+    "total": 1665,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 50,
-      "Health Canada": 1597,
+      "Health Canada": 1599,
       "NZ Product Safety": 16,
       "OPSS": 0,
       "RappelConso": 0
@@ -99,7 +99,7 @@
   },
   {
     "hazard_type": "Small Parts / Choking Hazard",
-    "total": 905,
+    "total": 904,
     "by_source": {
       "ACCC": 7,
       "CPSC": 194,
@@ -107,7 +107,7 @@
       "FDA": 7,
       "Health Canada": 492,
       "NZ Product Safety": 1,
-      "OPSS": 204,
+      "OPSS": 203,
       "RappelConso": 0
     }
   },
