@@ -1,15 +1,15 @@
 [
   {
     "injury_type": "Not Specified",
-    "total": 44948,
+    "total": 44943,
     "by_source": {
       "ACCC": 8,
       "CPSC": 324,
-      "EU Safety Gate": 4995,
+      "EU Safety Gate": 4989,
       "FDA": 3274,
       "Health Canada": 31258,
       "NZ Product Safety": 1486,
-      "OPSS": 603,
+      "OPSS": 604,
       "RappelConso": 3000
     }
   },
@@ -29,9 +29,9 @@
   },
   {
     "injury_type": "Laceration / Cut",
-    "total": 660,
+    "total": 661,
     "by_source": {
-      "ACCC": 1,
+      "ACCC": 2,
       "CPSC": 174,
       "EU Safety Gate": 0,
       "FDA": 115,
@@ -127,15 +127,15 @@
   },
   {
     "injury_type": "Electric Shock",
-    "total": 263,
+    "total": 261,
     "by_source": {
-      "ACCC": 2,
+      "ACCC": 1,
       "CPSC": 58,
       "EU Safety Gate": 0,
       "FDA": 15,
       "Health Canada": 65,
       "NZ Product Safety": 4,
-      "OPSS": 119,
+      "OPSS": 118,
       "RappelConso": 0
     }
   },
