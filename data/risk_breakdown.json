@@ -1,7 +1,7 @@
 [
   {
     "risk_type": "Other",
-    "count": 14983,
+    "count": 14972,
     "percentage": 29.9
   },
   {
@@ -136,7 +136,7 @@
   },
   {
     "risk_type": "Label",
-    "count": 380,
+    "count": 381,
     "percentage": 0.8
   },
   {

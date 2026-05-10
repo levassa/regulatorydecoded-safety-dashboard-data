@@ -57,11 +57,11 @@
   },
   {
     "product_category": "Toys & Childcare",
-    "total": 2132,
+    "total": 2131,
     "by_source": {
       "ACCC": 2,
       "CPSC": 0,
-      "EU Safety Gate": 952,
+      "EU Safety Gate": 951,
       "FDA": 0,
       "Health Canada": 733,
       "NZ Product Safety": 445,
@@ -99,11 +99,11 @@
   },
   {
     "product_category": "Electrical & Electronics",
-    "total": 1440,
+    "total": 1438,
     "by_source": {
       "ACCC": 8,
       "CPSC": 0,
-      "EU Safety Gate": 780,
+      "EU Safety Gate": 778,
       "FDA": 0,
       "Health Canada": 417,
       "NZ Product Safety": 235,
@@ -141,11 +141,11 @@
   },
   {
     "product_category": "Furniture & Home",
-    "total": 1112,
+    "total": 1111,
     "by_source": {
       "ACCC": 2,
       "CPSC": 0,
-      "EU Safety Gate": 24,
+      "EU Safety Gate": 23,
       "FDA": 0,
       "Health Canada": 928,
       "NZ Product Safety": 158,
@@ -169,13 +169,13 @@
   },
   {
     "product_category": "Motor Vehicles",
-    "total": 977,
+    "total": 978,
     "by_source": {
       "ACCC": 2,
       "CPSC": 0,
       "EU Safety Gate": 502,
       "FDA": 0,
-      "Health Canada": 234,
+      "Health Canada": 235,
       "NZ Product Safety": 239,
       "OPSS": 0,
       "RappelConso": 0
@@ -211,11 +211,11 @@
   },
   {
     "product_category": "Sports & Leisure",
-    "total": 862,
+    "total": 860,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
-      "EU Safety Gate": 125,
+      "EU Safety Gate": 123,
       "FDA": 0,
       "Health Canada": 641,
       "NZ Product Safety": 96,
@@ -225,11 +225,11 @@
   },
   {
     "product_category": "Tools & Machinery",
-    "total": 831,
+    "total": 830,
     "by_source": {
       "ACCC": 4,
       "CPSC": 0,
-      "EU Safety Gate": 256,
+      "EU Safety Gate": 255,
       "FDA": 0,
       "Health Canada": 495,
       "NZ Product Safety": 76,
@@ -253,11 +253,11 @@
   },
   {
     "product_category": "Chemicals",
-    "total": 595,
+    "total": 592,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
-      "EU Safety Gate": 221,
+      "EU Safety Gate": 218,
       "FDA": 0,
       "Health Canada": 364,
       "NZ Product Safety": 10,
@@ -771,11 +771,11 @@
   },
   {
     "product_category": "Pyrotechnic Articles",
-    "total": 52,
+    "total": 51,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
-      "EU Safety Gate": 52,
+      "EU Safety Gate": 51,
       "FDA": 0,
       "Health Canada": 0,
       "NZ Product Safety": 0,

@@ -1,13 +1,13 @@
 [
   {
     "hazard_type": "Other",
-    "total": 34966,
+    "total": 34956,
     "by_source": {
       "ACCC": 0,
       "CPSC": 360,
-      "EU Safety Gate": 5000,
+      "EU Safety Gate": 4989,
       "FDA": 1872,
-      "Health Canada": 23080,
+      "Health Canada": 23081,
       "NZ Product Safety": 1425,
       "OPSS": 229,
       "RappelConso": 3000
