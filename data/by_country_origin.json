@@ -5,11 +5,11 @@
   },
   {
     "country": "People's Republic of China",
-    "count": 2239
+    "count": 2242
   },
   {
     "country": "Unknown",
-    "count": 593
+    "count": 596
   },
   {
     "country": "Italy",
@@ -45,7 +45,7 @@
   },
   {
     "country": "Japan",
-    "count": 57
+    "count": 56
   },
   {
     "country": "Sweden",
@@ -54,6 +54,10 @@
   {
     "country": "Czechia",
     "count": 39
+  },
+  {
+    "country": "Hong Kong",
+    "count": 38
   },
   {
     "country": "India",
@@ -65,10 +69,6 @@
   },
   {
     "country": "United Arab Emirates",
-    "count": 36
-  },
-  {
-    "country": "Hong Kong",
     "count": 36
   },
   {

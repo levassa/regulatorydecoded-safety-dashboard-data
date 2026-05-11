@@ -1,10 +1,10 @@
 [
   {
     "severity": "Fatal",
-    "total": 540,
+    "total": 541,
     "total_injuries": 0,
     "by_region": {
-      "Australia": 14,
+      "Australia": 15,
       "Canada": 0,
       "EU / EEA": 0,
       "France": 0,
@@ -495,7 +495,7 @@
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
       "Tools & Machinery": 1,
-      "Toys & Childcare": 2,
+      "Toys & Childcare": 3,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
       "Truck - Med. & H.D. - Bus": 0,
@@ -528,15 +528,15 @@
       "Other": 109,
       "Radiation": 0,
       "Sharp Edges / Points": 19,
-      "Small Parts / Choking Hazard": 80
+      "Small Parts / Choking Hazard": 81
     }
   },
   {
     "severity": "Serious",
-    "total": 6890,
+    "total": 6889,
     "total_injuries": 0,
     "by_region": {
-      "Australia": 7,
+      "Australia": 6,
       "Canada": 2844,
       "EU / EEA": 0,
       "France": 0,
@@ -892,7 +892,7 @@
       "Immunology": 0,
       "Jewellery": 0,
       "Kitchen/Cooking Accessories": 0,
-      "Kitchenware And Containers": 1,
+      "Kitchenware And Containers": 0,
       "Kitchenware And Tableware": 0,
       "Koru3 March 2014Tyco, Vigilant Mx4428 And F4000 Fire Indicator Panels": 0,
       "Koruamoxicillin Actavis - Powder For Oral Suspension; Glass Fragments Found In Two Bottles": 0,
@@ -1059,7 +1059,7 @@
       "Microbiological Contamination": 1772,
       "Other": 2828,
       "Radiation": 51,
-      "Sharp Edges / Points": 61,
+      "Sharp Edges / Points": 60,
       "Small Parts / Choking Hazard": 10
     }
   },
@@ -1597,7 +1597,7 @@
   },
   {
     "severity": "Minor",
-    "total": 5983,
+    "total": 5984,
     "total_injuries": 0,
     "by_region": {
       "Australia": 3,
@@ -1606,7 +1606,7 @@
       "France": 0,
       "New Zealand": 8,
       "USA": 874,
-      "United Kingdom": 790
+      "United Kingdom": 791
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
@@ -2025,7 +2025,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 1761,
+      "Other": 1762,
       "Other - Books": 0,
       "Other - Car Floor Mat": 0,
       "Other - Car Floor Mats": 0,
@@ -2124,21 +2124,21 @@
       "Other": 3750,
       "Radiation": 10,
       "Sharp Edges / Points": 68,
-      "Small Parts / Choking Hazard": 247
+      "Small Parts / Choking Hazard": 248
     }
   },
   {
     "severity": "Not Reported",
-    "total": 27576,
+    "total": 27581,
     "total_injuries": 0,
     "by_region": {
       "Australia": 1,
       "Canada": 17859,
-      "EU / EEA": 4989,
+      "EU / EEA": 4994,
       "France": 3000,
-      "New Zealand": 1523,
+      "New Zealand": 1524,
       "USA": 1,
-      "United Kingdom": 203
+      "United Kingdom": 202
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
@@ -2386,7 +2386,7 @@
       "Chassis Cab - Suv - Light Truck & Van - Truck - Med. & H.D.": 1,
       "Chassis Cab - Truck - Med. & H.D.": 18,
       "Chassis Cab - Truck - Med. & H.D. - Light Truck & Van": 2,
-      "Chemicals": 591,
+      "Chemicals": 594,
       "Chemistry": 0,
       "Chemistry - Gastroenterology And Urology": 0,
       "Chemistry - General Hospital And Personal Use": 0,
@@ -2398,11 +2398,11 @@
       "Clothing & Textiles": 738,
       "Communications": 1,
       "Condiments": 0,
-      "Construction Products": 12,
+      "Construction Products": 11,
       "Consumer Products": 30,
       "Consumer Products - Drugs": 7,
       "Consumer Products - Natural Health Products": 1,
-      "Cosmetics & Personal Care": 1902,
+      "Cosmetics & Personal Care": 1903,
       "Dairy": 0,
       "Dairy - Other": 0,
       "Decorative Articles": 36,
@@ -2435,7 +2435,7 @@
       "Frozen": 1,
       "Frozen - Herbs And Spices": 0,
       "Fruits And Vegetables": 1,
-      "Furniture & Home": 1107,
+      "Furniture & Home": 1109,
       "Gadgets": 14,
       "Gastroenterology And Urology": 0,
       "Gastroenterology And Urology - Anaesthesiology - Ear, Nose And Throat": 0,
@@ -2486,7 +2486,7 @@
       "Household Items - Specialized Products": 15,
       "Household Items - Veterinary Drugs": 1,
       "Immunology": 0,
-      "Jewellery": 212,
+      "Jewellery": 211,
       "Kitchen/Cooking Accessories": 44,
       "Kitchenware And Containers": 0,
       "Kitchenware And Tableware": 3,
@@ -2535,7 +2535,7 @@
       "Minivan - Suv - Car": 3,
       "Motor Tricycle": 23,
       "Motor Tricycle - Motorcycle": 1,
-      "Motor Vehicles": 975,
+      "Motor Vehicles": 974,
       "Motorcycle": 516,
       "Motorcycle - Motor Tricycle": 1,
       "Motorcycle Parts And Accessories": 0,
@@ -2557,7 +2557,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 3521,
+      "Other": 3520,
       "Other - Books": 1,
       "Other - Car Floor Mat": 1,
       "Other - Car Floor Mats": 4,
@@ -2586,7 +2586,7 @@
       "Processed - Frozen": 0,
       "Processed - Fruits And Vegetables": 0,
       "Processed - Fruits And Vegetables - Egg Products": 0,
-      "Pyrotechnic Articles": 51,
+      "Pyrotechnic Articles": 52,
       "Radiology": 1,
       "Radiology - Anaesthesiology": 0,
       "Radiology - Cardiovascular": 0,
@@ -2606,7 +2606,7 @@
       "Specialized Products - Drugs - Biologic Or Vaccine": 1,
       "Specialized Products - Natural Health Products": 8,
       "Specialized Products - Other": 2,
-      "Sports & Leisure": 860,
+      "Sports & Leisure": 861,
       "Stationery": 10,
       "Suv": 1410,
       "Suv - Car": 131,
@@ -2622,7 +2622,7 @@
       "Suv - Minivan - Light Truck & Van": 2,
       "Suv - Truck - Med. & H.D.": 1,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 1,
-      "Tools & Machinery": 824,
+      "Tools & Machinery": 825,
       "Toys & Childcare": 2118,
       "Truck - Med. & H.D.": 964,
       "Truck - Med. & H.D. - A.T.V.": 1,
@@ -2644,8 +2644,8 @@
     },
     "by_hazard_type": {
       "Allergen": 444,
-      "Chemical / Toxic Substance": 589,
-      "Drowning Risk": 118,
+      "Chemical / Toxic Substance": 588,
+      "Drowning Risk": 119,
       "Electrical Fault": 1347,
       "Entrapment": 92,
       "Explosion": 39,
@@ -2653,7 +2653,7 @@
       "Instability / Fall Risk": 313,
       "Mechanical Failure": 40,
       "Microbiological Contamination": 86,
-      "Other": 21397,
+      "Other": 21402,
       "Radiation": 1574,
       "Sharp Edges / Points": 175,
       "Small Parts / Choking Hazard": 509
