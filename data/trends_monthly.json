@@ -2259,7 +2259,7 @@
     "month": "2022-01",
     "CPSC": 19,
     "EU Safety Gate": 0,
-    "FDA": 87,
+    "FDA": 86,
     "Health Canada": 95,
     "OPSS": 0
   },
@@ -2355,7 +2355,7 @@
     "month": "2023-01",
     "CPSC": 24,
     "EU Safety Gate": 0,
-    "FDA": 126,
+    "FDA": 124,
     "Health Canada": 103,
     "OPSS": 0
   },
@@ -2557,7 +2557,7 @@
     "EU Safety Gate": 0,
     "FDA": 0,
     "Health Canada": 161,
-    "OPSS": 32
+    "OPSS": 30
   },
   {
     "month": "2025-03",
@@ -2658,7 +2658,7 @@
   {
     "month": "2026-03",
     "CPSC": 29,
-    "EU Safety Gate": 281,
+    "EU Safety Gate": 283,
     "FDA": 0,
     "Health Canada": 152,
     "OPSS": 64
@@ -2666,7 +2666,7 @@
   {
     "month": "2026-04",
     "CPSC": 75,
-    "EU Safety Gate": 327,
+    "EU Safety Gate": 331,
     "FDA": 0,
     "Health Canada": 209,
     "OPSS": 58
@@ -2676,7 +2676,7 @@
     "CPSC": 10,
     "EU Safety Gate": 156,
     "FDA": 0,
-    "Health Canada": 39,
-    "OPSS": 28
+    "Health Canada": 44,
+    "OPSS": 30
   }
 ]

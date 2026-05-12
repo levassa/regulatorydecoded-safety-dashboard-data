@@ -1,13 +1,13 @@
 [
   {
     "injury_type": "Not Specified",
-    "total": 44968,
+    "total": 44977,
     "by_source": {
-      "ACCC": 9,
+      "ACCC": 8,
       "CPSC": 325,
-      "EU Safety Gate": 4994,
-      "FDA": 3274,
-      "Health Canada": 31278,
+      "EU Safety Gate": 5000,
+      "FDA": 3275,
+      "Health Canada": 31281,
       "NZ Product Safety": 1488,
       "OPSS": 600,
       "RappelConso": 3000
@@ -15,13 +15,13 @@
   },
   {
     "injury_type": "Choking / Suffocation",
-    "total": 931,
+    "total": 932,
     "by_source": {
       "ACCC": 3,
       "CPSC": 212,
       "EU Safety Gate": 0,
       "FDA": 6,
-      "Health Canada": 497,
+      "Health Canada": 498,
       "NZ Product Safety": 0,
       "OPSS": 213,
       "RappelConso": 0
@@ -29,12 +29,12 @@
   },
   {
     "injury_type": "Laceration / Cut",
-    "total": 661,
+    "total": 662,
     "by_source": {
       "ACCC": 1,
       "CPSC": 175,
       "EU Safety Gate": 0,
-      "FDA": 115,
+      "FDA": 116,
       "Health Canada": 356,
       "NZ Product Safety": 10,
       "OPSS": 4,
@@ -85,12 +85,12 @@
   },
   {
     "injury_type": "Fracture / Blunt Trauma",
-    "total": 349,
+    "total": 346,
     "by_source": {
       "ACCC": 0,
       "CPSC": 129,
       "EU Safety Gate": 0,
-      "FDA": 137,
+      "FDA": 134,
       "Health Canada": 80,
       "NZ Product Safety": 3,
       "OPSS": 0,
@@ -113,12 +113,12 @@
   },
   {
     "injury_type": "Eye Injury",
-    "total": 282,
+    "total": 284,
     "by_source": {
       "ACCC": 0,
       "CPSC": 9,
       "EU Safety Gate": 0,
-      "FDA": 82,
+      "FDA": 84,
       "Health Canada": 185,
       "NZ Product Safety": 3,
       "OPSS": 3,
@@ -127,12 +127,12 @@
   },
   {
     "injury_type": "Electric Shock",
-    "total": 263,
+    "total": 262,
     "by_source": {
       "ACCC": 1,
       "CPSC": 58,
       "EU Safety Gate": 0,
-      "FDA": 15,
+      "FDA": 14,
       "Health Canada": 65,
       "NZ Product Safety": 4,
       "OPSS": 120,
@@ -169,13 +169,13 @@
   },
   {
     "injury_type": "Respiratory",
-    "total": 139,
+    "total": 141,
     "by_source": {
-      "ACCC": 5,
+      "ACCC": 6,
       "CPSC": 31,
       "EU Safety Gate": 0,
       "FDA": 37,
-      "Health Canada": 61,
+      "Health Canada": 62,
       "NZ Product Safety": 3,
       "OPSS": 2,
       "RappelConso": 0
