@@ -1,7 +1,7 @@
 [
   {
     "risk_type": "Other",
-    "count": 14984,
+    "count": 14979,
     "percentage": 29.9
   },
   {
@@ -176,7 +176,7 @@
   },
   {
     "risk_type": "Burns",
-    "count": 239,
+    "count": 240,
     "percentage": 0.5
   },
   {
@@ -241,7 +241,7 @@
   },
   {
     "risk_type": "Tree Nut",
-    "count": 102,
+    "count": 103,
     "percentage": 0.2
   },
   {

@@ -2667,16 +2667,16 @@
     "month": "2026-04",
     "Fatal": 48,
     "Minor": 72,
-    "Moderate": 55,
-    "Not Reported": 471,
+    "Moderate": 54,
+    "Not Reported": 463,
     "Serious": 27
   },
   {
     "month": "2026-05",
     "Fatal": 9,
     "Minor": 20,
-    "Moderate": 17,
-    "Not Reported": 186,
-    "Serious": 8
+    "Moderate": 18,
+    "Not Reported": 188,
+    "Serious": 9
   }
 ]
