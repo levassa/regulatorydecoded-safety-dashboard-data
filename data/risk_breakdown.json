@@ -1,7 +1,7 @@
 [
   {
     "risk_type": "Other",
-    "count": 14979,
+    "count": 14980,
     "percentage": 29.9
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "risk_type": "Performance",
-    "count": 1314,
+    "count": 1319,
     "percentage": 2.6
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "risk_type": "Structure",
-    "count": 878,
+    "count": 879,
     "percentage": 1.8
   },
   {
@@ -81,7 +81,7 @@
   },
   {
     "risk_type": "Lights And Instruments",
-    "count": 614,
+    "count": 616,
     "percentage": 1.2
   },
   {
@@ -101,12 +101,12 @@
   },
   {
     "risk_type": "Engine",
-    "count": 507,
+    "count": 508,
     "percentage": 1.0
   },
   {
     "risk_type": "Labelling And Packaging",
-    "count": 505,
+    "count": 506,
     "percentage": 1.0
   },
   {
