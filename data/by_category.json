@@ -15,10 +15,10 @@
   },
   {
     "product_category": "Other",
-    "total": 6586,
+    "total": 6600,
     "by_source": {
       "ACCC": 0,
-      "CPSC": 2043,
+      "CPSC": 2057,
       "EU Safety Gate": 0,
       "FDA": 0,
       "Health Canada": 543,
@@ -57,11 +57,11 @@
   },
   {
     "product_category": "Toys & Childcare",
-    "total": 2134,
+    "total": 2144,
     "by_source": {
       "ACCC": 7,
       "CPSC": 0,
-      "EU Safety Gate": 948,
+      "EU Safety Gate": 958,
       "FDA": 0,
       "Health Canada": 733,
       "NZ Product Safety": 446,
@@ -71,13 +71,13 @@
   },
   {
     "product_category": "Cosmetics & Personal Care",
-    "total": 1885,
+    "total": 1891,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
-      "EU Safety Gate": 1642,
+      "EU Safety Gate": 1647,
       "FDA": 0,
-      "Health Canada": 196,
+      "Health Canada": 197,
       "NZ Product Safety": 47,
       "OPSS": 0,
       "RappelConso": 0
@@ -99,11 +99,11 @@
   },
   {
     "product_category": "Electrical & Electronics",
-    "total": 1433,
+    "total": 1438,
     "by_source": {
       "ACCC": 4,
       "CPSC": 0,
-      "EU Safety Gate": 776,
+      "EU Safety Gate": 781,
       "FDA": 0,
       "Health Canada": 417,
       "NZ Product Safety": 236,
@@ -113,13 +113,13 @@
   },
   {
     "product_category": "Suv",
-    "total": 1410,
+    "total": 1411,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 1410,
+      "Health Canada": 1411,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -169,11 +169,11 @@
   },
   {
     "product_category": "Motor Vehicles",
-    "total": 973,
+    "total": 975,
     "by_source": {
       "ACCC": 1,
       "CPSC": 0,
-      "EU Safety Gate": 498,
+      "EU Safety Gate": 500,
       "FDA": 0,
       "Health Canada": 235,
       "NZ Product Safety": 239,
@@ -239,11 +239,11 @@
   },
   {
     "product_category": "Clothing & Textiles",
-    "total": 739,
+    "total": 740,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
-      "EU Safety Gate": 157,
+      "EU Safety Gate": 158,
       "FDA": 0,
       "Health Canada": 559,
       "NZ Product Safety": 23,
@@ -253,11 +253,11 @@
   },
   {
     "product_category": "Chemicals",
-    "total": 593,
+    "total": 594,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
-      "EU Safety Gate": 219,
+      "EU Safety Gate": 220,
       "FDA": 0,
       "Health Canada": 364,
       "NZ Product Safety": 10,
@@ -281,13 +281,13 @@
   },
   {
     "product_category": "Bus",
-    "total": 532,
+    "total": 533,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 532,
+      "Health Canada": 533,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -337,13 +337,13 @@
   },
   {
     "product_category": "School Bus",
-    "total": 337,
+    "total": 338,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 337,
+      "Health Canada": 338,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -379,13 +379,13 @@
   },
   {
     "product_category": "Radiology",
-    "total": 227,
+    "total": 228,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 227,
+      "Health Canada": 228,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -547,13 +547,13 @@
   },
   {
     "product_category": "Nuts, Grains, And Seeds",
-    "total": 99,
+    "total": 100,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 99,
+      "Health Canada": 100,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -603,13 +603,13 @@
   },
   {
     "product_category": "Fresh",
-    "total": 90,
+    "total": 91,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 90,
+      "Health Canada": 91,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -855,11 +855,11 @@
   },
   {
     "product_category": "Decorative Articles",
-    "total": 36,
+    "total": 37,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
-      "EU Safety Gate": 36,
+      "EU Safety Gate": 37,
       "FDA": 0,
       "Health Canada": 0,
       "NZ Product Safety": 0,
@@ -1120,6 +1120,20 @@
     }
   },
   {
+    "product_category": "Cardiovascular - General Hospital And Personal Use",
+    "total": 16,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 16,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
     "product_category": "Minivan - Suv",
     "total": 15,
     "by_source": {
@@ -1148,14 +1162,14 @@
     }
   },
   {
-    "product_category": "Cardiovascular - General Hospital And Personal Use",
+    "product_category": "Gadgets",
     "total": 15,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
-      "EU Safety Gate": 0,
+      "EU Safety Gate": 15,
       "FDA": 0,
-      "Health Canada": 15,
+      "Health Canada": 0,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -1184,20 +1198,6 @@
       "EU Safety Gate": 0,
       "FDA": 0,
       "Health Canada": 14,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Gadgets",
-    "total": 14,
-    "by_source": {
-      "ACCC": 0,
-      "CPSC": 0,
-      "EU Safety Gate": 14,
-      "FDA": 0,
-      "Health Canada": 0,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0

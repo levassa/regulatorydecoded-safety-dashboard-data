@@ -2668,15 +2668,15 @@
     "Fatal": 48,
     "Minor": 72,
     "Moderate": 53,
-    "Not Reported": 470,
+    "Not Reported": 461,
     "Serious": 27
   },
   {
     "month": "2026-05",
-    "Fatal": 9,
-    "Minor": 27,
-    "Moderate": 27,
-    "Not Reported": 202,
-    "Serious": 14
+    "Fatal": 19,
+    "Minor": 28,
+    "Moderate": 32,
+    "Not Reported": 241,
+    "Serious": 16
   }
 ]
