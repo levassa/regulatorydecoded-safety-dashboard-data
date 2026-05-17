@@ -1,7 +1,7 @@
 [
   {
     "risk_type": "Other",
-    "count": 14979,
+    "count": 14978,
     "percentage": 29.9
   },
   {
@@ -151,7 +151,7 @@
   },
   {
     "risk_type": "Visual System",
-    "count": 340,
+    "count": 341,
     "percentage": 0.7
   },
   {

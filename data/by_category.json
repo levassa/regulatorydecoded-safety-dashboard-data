@@ -57,11 +57,11 @@
   },
   {
     "product_category": "Toys & Childcare",
-    "total": 2144,
+    "total": 2142,
     "by_source": {
       "ACCC": 7,
       "CPSC": 0,
-      "EU Safety Gate": 958,
+      "EU Safety Gate": 956,
       "FDA": 0,
       "Health Canada": 733,
       "NZ Product Safety": 446,
@@ -99,11 +99,11 @@
   },
   {
     "product_category": "Electrical & Electronics",
-    "total": 1438,
+    "total": 1440,
     "by_source": {
       "ACCC": 4,
       "CPSC": 0,
-      "EU Safety Gate": 781,
+      "EU Safety Gate": 783,
       "FDA": 0,
       "Health Canada": 417,
       "NZ Product Safety": 236,
@@ -225,11 +225,11 @@
   },
   {
     "product_category": "Tools & Machinery",
-    "total": 830,
+    "total": 831,
     "by_source": {
       "ACCC": 3,
       "CPSC": 0,
-      "EU Safety Gate": 256,
+      "EU Safety Gate": 257,
       "FDA": 0,
       "Health Canada": 495,
       "NZ Product Safety": 76,
@@ -393,11 +393,11 @@
   },
   {
     "product_category": "Jewellery",
-    "total": 211,
+    "total": 210,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
-      "EU Safety Gate": 117,
+      "EU Safety Gate": 116,
       "FDA": 0,
       "Health Canada": 94,
       "NZ Product Safety": 0,
@@ -477,13 +477,13 @@
   },
   {
     "product_category": "Suv - Car",
-    "total": 132,
+    "total": 133,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 132,
+      "Health Canada": 133,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -1218,20 +1218,6 @@
     }
   },
   {
-    "product_category": "Construction Products",
-    "total": 12,
-    "by_source": {
-      "ACCC": 0,
-      "CPSC": 0,
-      "EU Safety Gate": 12,
-      "FDA": 0,
-      "Health Canada": 0,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
     "product_category": "General And Plastic Surgery - General Hospital And Personal Use",
     "total": 12,
     "by_source": {
@@ -1268,6 +1254,20 @@
       "EU Safety Gate": 0,
       "FDA": 0,
       "Health Canada": 11,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Construction Products",
+    "total": 11,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 11,
+      "FDA": 0,
+      "Health Canada": 0,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
