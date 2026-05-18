@@ -1027,7 +1027,7 @@
   },
   {
     "region": "EU / EEA",
-    "total": 4990,
+    "total": 5000,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -1285,7 +1285,7 @@
       "Clothing & Textiles": 158,
       "Communications": 0,
       "Condiments": 0,
-      "Construction Products": 11,
+      "Construction Products": 12,
       "Consumer Products": 0,
       "Consumer Products - Drugs": 0,
       "Consumer Products - Natural Health Products": 0,
@@ -1317,7 +1317,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 0,
       "Electric Or Gas Productsbuilding Products": 0,
-      "Electrical & Electronics": 783,
+      "Electrical & Electronics": 784,
       "Food & Food Contact": 0,
       "Fresh": 0,
       "Frozen": 0,
@@ -1375,7 +1375,7 @@
       "Household Items - Specialized Products": 0,
       "Household Items - Veterinary Drugs": 0,
       "Immunology": 0,
-      "Jewellery": 116,
+      "Jewellery": 117,
       "Kitchen/Cooking Accessories": 44,
       "Kitchenware And Containers": 0,
       "Kitchenware And Tableware": 0,
@@ -1494,7 +1494,7 @@
       "Specialized Products - Drugs - Biologic Or Vaccine": 0,
       "Specialized Products - Natural Health Products": 0,
       "Specialized Products - Other": 0,
-      "Sports & Leisure": 123,
+      "Sports & Leisure": 124,
       "Stationery": 10,
       "Suv": 0,
       "Suv - Car": 0,
@@ -1510,8 +1510,8 @@
       "Suv - Minivan - Light Truck & Van": 0,
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
-      "Tools & Machinery": 257,
-      "Toys & Childcare": 956,
+      "Tools & Machinery": 258,
+      "Toys & Childcare": 961,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
       "Truck - Med. & H.D. - Bus": 0,
@@ -1534,7 +1534,7 @@
       "Fatal": 0,
       "Minor": 0,
       "Moderate": 0,
-      "Not Reported": 4990,
+      "Not Reported": 5000,
       "Serious": 0
     }
   },
@@ -3584,9 +3584,9 @@
     },
     "by_severity": {
       "Fatal": 5,
-      "Minor": 796,
+      "Minor": 795,
       "Moderate": 0,
-      "Not Reported": 197,
+      "Not Reported": 198,
       "Serious": 2
     }
   }

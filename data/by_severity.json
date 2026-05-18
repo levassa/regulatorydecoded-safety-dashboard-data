@@ -1597,7 +1597,7 @@
   },
   {
     "severity": "Minor",
-    "total": 5987,
+    "total": 5986,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
@@ -1606,7 +1606,7 @@
       "France": 0,
       "New Zealand": 8,
       "USA": 875,
-      "United Kingdom": 796
+      "United Kingdom": 795
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
@@ -2025,7 +2025,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 1768,
+      "Other": 1767,
       "Other - Books": 0,
       "Other - Car Floor Mat": 0,
       "Other - Car Floor Mats": 0,
@@ -2124,21 +2124,21 @@
       "Other": 3750,
       "Radiation": 10,
       "Sharp Edges / Points": 68,
-      "Small Parts / Choking Hazard": 249
+      "Small Parts / Choking Hazard": 248
     }
   },
   {
     "severity": "Not Reported",
-    "total": 27597,
+    "total": 27608,
     "total_injuries": 0,
     "by_region": {
       "Australia": 2,
       "Canada": 17879,
-      "EU / EEA": 4990,
+      "EU / EEA": 5000,
       "France": 3000,
       "New Zealand": 1528,
       "USA": 1,
-      "United Kingdom": 197
+      "United Kingdom": 198
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
@@ -2397,7 +2397,7 @@
       "Clothing & Textiles": 740,
       "Communications": 1,
       "Condiments": 0,
-      "Construction Products": 11,
+      "Construction Products": 12,
       "Consumer Products": 30,
       "Consumer Products - Drugs": 7,
       "Consumer Products - Natural Health Products": 1,
@@ -2429,7 +2429,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 7,
       "Electric Or Gas Productsbuilding Products": 1,
-      "Electrical & Electronics": 1436,
+      "Electrical & Electronics": 1437,
       "Food & Food Contact": 201,
       "Fresh": 1,
       "Frozen": 1,
@@ -2487,7 +2487,7 @@
       "Household Items - Specialized Products": 15,
       "Household Items - Veterinary Drugs": 1,
       "Immunology": 0,
-      "Jewellery": 210,
+      "Jewellery": 211,
       "Kitchen/Cooking Accessories": 44,
       "Kitchenware And Containers": 0,
       "Kitchenware And Tableware": 3,
@@ -2557,7 +2557,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 3515,
+      "Other": 3516,
       "Other - Books": 1,
       "Other - Car Floor Mat": 1,
       "Other - Car Floor Mats": 4,
@@ -2606,7 +2606,7 @@
       "Specialized Products - Drugs - Biologic Or Vaccine": 1,
       "Specialized Products - Natural Health Products": 8,
       "Specialized Products - Other": 2,
-      "Sports & Leisure": 863,
+      "Sports & Leisure": 864,
       "Stationery": 10,
       "Suv": 1411,
       "Suv - Car": 133,
@@ -2622,8 +2622,8 @@
       "Suv - Minivan - Light Truck & Van": 2,
       "Suv - Truck - Med. & H.D.": 1,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 1,
-      "Tools & Machinery": 826,
-      "Toys & Childcare": 2124,
+      "Tools & Machinery": 827,
+      "Toys & Childcare": 2129,
       "Truck - Med. & H.D.": 964,
       "Truck - Med. & H.D. - A.T.V.": 1,
       "Truck - Med. & H.D. - Bus": 5,
@@ -2653,8 +2653,8 @@
       "Instability / Fall Risk": 315,
       "Mechanical Failure": 41,
       "Microbiological Contamination": 86,
-      "Other": 21414,
-      "Radiation": 1577,
+      "Other": 21426,
+      "Radiation": 1576,
       "Sharp Edges / Points": 175,
       "Small Parts / Choking Hazard": 511
     }

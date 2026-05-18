@@ -2554,9 +2554,9 @@
   {
     "month": "2025-02",
     "Fatal": 16,
-    "Minor": 35,
+    "Minor": 34,
     "Moderate": 50,
-    "Not Reported": 113,
+    "Not Reported": 112,
     "Serious": 13
   },
   {
@@ -2628,7 +2628,7 @@
     "Fatal": 27,
     "Minor": 89,
     "Moderate": 60,
-    "Not Reported": 451,
+    "Not Reported": 450,
     "Serious": 9
   },
   {
@@ -2668,7 +2668,7 @@
     "Fatal": 48,
     "Minor": 72,
     "Moderate": 53,
-    "Not Reported": 459,
+    "Not Reported": 469,
     "Serious": 27
   },
   {
@@ -2676,7 +2676,7 @@
     "Fatal": 19,
     "Minor": 28,
     "Moderate": 32,
-    "Not Reported": 244,
+    "Not Reported": 247,
     "Serious": 16
   }
 ]
