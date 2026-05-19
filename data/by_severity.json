@@ -1,7 +1,7 @@
 [
   {
     "severity": "Fatal",
-    "total": 550,
+    "total": 549,
     "total_injuries": 0,
     "by_region": {
       "Australia": 14,
@@ -9,7 +9,7 @@
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 1,
-      "USA": 530,
+      "USA": 529,
       "United Kingdom": 5
     },
     "by_category": {
@@ -395,7 +395,7 @@
       "Low Speed Motorcycle": 0,
       "Measuring Instruments": 0,
       "Meat And Poultry": 0,
-      "Medical Devices": 21,
+      "Medical Devices": 20,
       "Microbiology": 0,
       "Microbiology - Ophthalmology": 0,
       "Minivan": 0,
@@ -516,7 +516,7 @@
     },
     "by_hazard_type": {
       "Allergen": 0,
-      "Chemical / Toxic Substance": 66,
+      "Chemical / Toxic Substance": 65,
       "Drowning Risk": 2,
       "Electrical Fault": 21,
       "Entrapment": 134,
@@ -533,7 +533,7 @@
   },
   {
     "severity": "Serious",
-    "total": 6901,
+    "total": 6902,
     "total_injuries": 0,
     "by_region": {
       "Australia": 9,
@@ -541,7 +541,7 @@
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 3,
-      "USA": 4035,
+      "USA": 4036,
       "United Kingdom": 2
     },
     "by_category": {
@@ -927,7 +927,7 @@
       "Low Speed Motorcycle": 0,
       "Measuring Instruments": 0,
       "Meat And Poultry": 1,
-      "Medical Devices": 2254,
+      "Medical Devices": 2255,
       "Microbiology": 0,
       "Microbiology - Ophthalmology": 0,
       "Minivan": 0,
@@ -1047,20 +1047,20 @@
       "Veterinary Drugs": 5
     },
     "by_hazard_type": {
-      "Allergen": 1442,
-      "Chemical / Toxic Substance": 200,
+      "Allergen": 1445,
+      "Chemical / Toxic Substance": 199,
       "Drowning Risk": 78,
-      "Electrical Fault": 71,
+      "Electrical Fault": 70,
       "Entrapment": 13,
       "Explosion": 69,
       "Flammability / Overheating": 47,
       "Instability / Fall Risk": 26,
-      "Mechanical Failure": 226,
-      "Microbiological Contamination": 1772,
-      "Other": 2834,
-      "Radiation": 52,
+      "Mechanical Failure": 224,
+      "Microbiological Contamination": 1769,
+      "Other": 2839,
+      "Radiation": 51,
       "Sharp Edges / Points": 61,
-      "Small Parts / Choking Hazard": 10
+      "Small Parts / Choking Hazard": 11
     }
   },
   {
@@ -1597,7 +1597,7 @@
   },
   {
     "severity": "Minor",
-    "total": 5986,
+    "total": 5990,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
@@ -1606,7 +1606,7 @@
       "France": 0,
       "New Zealand": 8,
       "USA": 875,
-      "United Kingdom": 795
+      "United Kingdom": 799
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
@@ -2025,7 +2025,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 1767,
+      "Other": 1771,
       "Other - Books": 0,
       "Other - Car Floor Mat": 0,
       "Other - Car Floor Mats": 0,
@@ -2114,14 +2114,14 @@
       "Allergen": 622,
       "Chemical / Toxic Substance": 76,
       "Drowning Risk": 57,
-      "Electrical Fault": 156,
+      "Electrical Fault": 158,
       "Entrapment": 25,
       "Explosion": 48,
-      "Flammability / Overheating": 619,
+      "Flammability / Overheating": 620,
       "Instability / Fall Risk": 76,
       "Mechanical Failure": 85,
       "Microbiological Contamination": 146,
-      "Other": 3750,
+      "Other": 3751,
       "Radiation": 10,
       "Sharp Edges / Points": 68,
       "Small Parts / Choking Hazard": 248
@@ -2129,7 +2129,7 @@
   },
   {
     "severity": "Not Reported",
-    "total": 27608,
+    "total": 27604,
     "total_injuries": 0,
     "by_region": {
       "Australia": 2,
@@ -2138,7 +2138,7 @@
       "France": 3000,
       "New Zealand": 1528,
       "USA": 1,
-      "United Kingdom": 198
+      "United Kingdom": 194
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
@@ -2557,7 +2557,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 3516,
+      "Other": 3512,
       "Other - Books": 1,
       "Other - Car Floor Mat": 1,
       "Other - Car Floor Mats": 4,
@@ -2644,7 +2644,7 @@
     },
     "by_hazard_type": {
       "Allergen": 444,
-      "Chemical / Toxic Substance": 581,
+      "Chemical / Toxic Substance": 578,
       "Drowning Risk": 119,
       "Electrical Fault": 1347,
       "Entrapment": 92,
@@ -2653,7 +2653,7 @@
       "Instability / Fall Risk": 315,
       "Mechanical Failure": 41,
       "Microbiological Contamination": 86,
-      "Other": 21426,
+      "Other": 21425,
       "Radiation": 1576,
       "Sharp Edges / Points": 175,
       "Small Parts / Choking Hazard": 511
