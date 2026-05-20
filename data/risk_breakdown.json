@@ -16,7 +16,7 @@
   },
   {
     "risk_type": "Fire",
-    "count": 1652,
+    "count": 1654,
     "percentage": 3.3
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "risk_type": "Injury",
-    "count": 889,
+    "count": 888,
     "percentage": 1.8
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "risk_type": "Salmonella",
-    "count": 599,
+    "count": 600,
     "percentage": 1.2
   },
   {
@@ -176,7 +176,7 @@
   },
   {
     "risk_type": "Burns",
-    "count": 241,
+    "count": 242,
     "percentage": 0.5
   },
   {

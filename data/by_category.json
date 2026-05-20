@@ -71,11 +71,11 @@
   },
   {
     "product_category": "Cosmetics & Personal Care",
-    "total": 1891,
+    "total": 1890,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
-      "EU Safety Gate": 1647,
+      "EU Safety Gate": 1646,
       "FDA": 0,
       "Health Canada": 197,
       "NZ Product Safety": 47,
@@ -99,9 +99,9 @@
   },
   {
     "product_category": "Electrical & Electronics",
-    "total": 1441,
+    "total": 1442,
     "by_source": {
-      "ACCC": 4,
+      "ACCC": 5,
       "CPSC": 0,
       "EU Safety Gate": 784,
       "FDA": 0,
@@ -169,9 +169,9 @@
   },
   {
     "product_category": "Motor Vehicles",
-    "total": 975,
+    "total": 974,
     "by_source": {
-      "ACCC": 1,
+      "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 500,
       "FDA": 0,
@@ -239,13 +239,13 @@
   },
   {
     "product_category": "Clothing & Textiles",
-    "total": 740,
+    "total": 741,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 158,
       "FDA": 0,
-      "Health Canada": 559,
+      "Health Canada": 560,
       "NZ Product Safety": 23,
       "OPSS": 0,
       "RappelConso": 0
@@ -253,13 +253,13 @@
   },
   {
     "product_category": "Chemicals",
-    "total": 594,
+    "total": 595,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 220,
       "FDA": 0,
-      "Health Canada": 364,
+      "Health Canada": 365,
       "NZ Product Safety": 10,
       "OPSS": 0,
       "RappelConso": 0
@@ -393,11 +393,11 @@
   },
   {
     "product_category": "Jewellery",
-    "total": 211,
+    "total": 212,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
-      "EU Safety Gate": 117,
+      "EU Safety Gate": 118,
       "FDA": 0,
       "Health Canada": 94,
       "NZ Product Safety": 0,
@@ -868,7 +868,7 @@
     }
   },
   {
-    "product_category": "Dental",
+    "product_category": "Herbs And Spices",
     "total": 35,
     "by_source": {
       "ACCC": 0,
@@ -896,14 +896,14 @@
     }
   },
   {
-    "product_category": "Herbs And Spices",
-    "total": 34,
+    "product_category": "Dental",
+    "total": 35,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 34,
+      "Health Canada": 35,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
