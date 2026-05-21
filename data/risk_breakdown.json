@@ -16,12 +16,12 @@
   },
   {
     "risk_type": "Fire",
-    "count": 1654,
+    "count": 1655,
     "percentage": 3.3
   },
   {
     "risk_type": "Performance",
-    "count": 1325,
+    "count": 1326,
     "percentage": 2.6
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "risk_type": "Choking",
-    "count": 741,
+    "count": 742,
     "percentage": 1.5
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "risk_type": "Milk",
-    "count": 676,
+    "count": 677,
     "percentage": 1.3
   },
   {
@@ -100,12 +100,12 @@
     "percentage": 1.1
   },
   {
-    "risk_type": "Engine",
-    "count": 508,
+    "risk_type": "Labelling And Packaging",
+    "count": 509,
     "percentage": 1.0
   },
   {
-    "risk_type": "Labelling And Packaging",
+    "risk_type": "Engine",
     "count": 508,
     "percentage": 1.0
   },
@@ -161,7 +161,7 @@
   },
   {
     "risk_type": "Product Quality",
-    "count": 298,
+    "count": 301,
     "percentage": 0.6
   },
   {
@@ -280,12 +280,12 @@
     "percentage": 0.1
   },
   {
-    "risk_type": "Covid - Medical Devices",
+    "risk_type": "Product Safety - Covid",
     "count": 73,
     "percentage": 0.1
   },
   {
-    "risk_type": "Product Safety - Covid",
+    "risk_type": "Covid - Medical Devices",
     "count": 73,
     "percentage": 0.1
   },
@@ -365,12 +365,12 @@
     "percentage": 0.1
   },
   {
-    "risk_type": "Manufacturing Defect",
+    "risk_type": "Environmental",
     "count": 31,
     "percentage": 0.1
   },
   {
-    "risk_type": "Environmental",
+    "risk_type": "Manufacturing Defect",
     "count": 31,
     "percentage": 0.1
   },
@@ -395,12 +395,12 @@
     "percentage": 0.1
   },
   {
-    "risk_type": "Inaccurate Test Or Measurement Results",
+    "risk_type": "Product May Be Contaminated With Listeria Monocytogenes.",
     "count": 27,
     "percentage": 0.1
   },
   {
-    "risk_type": "Product May Be Contaminated With Listeria Monocytogenes.",
+    "risk_type": "Inaccurate Test Or Measurement Results",
     "count": 27,
     "percentage": 0.1
   },
@@ -425,22 +425,22 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Milk - Soy",
-    "count": 24,
-    "percentage": 0.0
-  },
-  {
     "risk_type": "E. Coli - Non-Pathogenic",
     "count": 24,
     "percentage": 0.0
   },
   {
-    "risk_type": "Dosage",
-    "count": 23,
+    "risk_type": "Milk - Soy",
+    "count": 24,
     "percentage": 0.0
   },
   {
     "risk_type": "Ready To Eat Salad Products Containing Iceberg Lettuce, Red Cabbage And/Or Carrot Ingredients Are Recalled Due To A Possible Health Risk From Cyclospora.",
+    "count": 23,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Dosage",
     "count": 23,
     "percentage": 0.0
   },
@@ -465,13 +465,18 @@
     "percentage": 0.0
   },
   {
+    "risk_type": "Xxx",
+    "count": 19,
+    "percentage": 0.0
+  },
+  {
     "risk_type": "Findings And Potential For Cronobacter Sakazakii And Clostridium Botulinum.",
     "count": 19,
     "percentage": 0.0
   },
   {
-    "risk_type": "Xxx",
-    "count": 19,
+    "risk_type": "The Product Contains The Substance Methyl Salicylate Which Must Be In Child Resistant Packaging As Required By The Poison Prevention Packaging Act (Pppa). The Packaging Of The Product Is Not Child Resistant, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
+    "count": 18,
     "percentage": 0.0
   },
   {
@@ -481,11 +486,6 @@
   },
   {
     "risk_type": "Medical Convenience Kits Contain Plastic Syringes Affected By The Fda Safety Alert Issued On March 19, 2024. Leaks, Breakage, And/ Other Quality Issues Have Been Identified That May Pose A Risk To Patient Health.",
-    "count": 18,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "The Product Contains The Substance Methyl Salicylate Which Must Be In Child Resistant Packaging As Required By The Poison Prevention Packaging Act (Pppa). The Packaging Of The Product Is Not Child Resistant, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
     "count": 18,
     "percentage": 0.0
   },
@@ -500,7 +500,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Potential For Backflow Of Medication From Secondary (Piggyback) Iv Containers Into Primary Iv Containers And The Inability To Prime (Occlusion).",
+    "risk_type": "Salmonella. The Firm Received Cucumbers Which Were Recalled Due To Possible Salmonella. The Cucumbers Were Used To Make Sushi.",
+    "count": 16,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Fish",
     "count": 16,
     "percentage": 0.0
   },
@@ -515,12 +520,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Salmonella. The Firm Received Cucumbers Which Were Recalled Due To Possible Salmonella. The Cucumbers Were Used To Make Sushi.",
-    "count": 16,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Fish",
+    "risk_type": "Potential For Backflow Of Medication From Secondary (Piggyback) Iv Containers Into Primary Iv Containers And The Inability To Prime (Occlusion).",
     "count": 16,
     "percentage": 0.0
   },
@@ -530,12 +530,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Listeria Monocytogenes Detected On Food Contact Surfaces In Ready To Eat Sandwich Manufacturer Facility.",
+    "risk_type": "Impact Hazard",
     "count": 15,
     "percentage": 0.0
   },
   {
-    "risk_type": "Impact Hazard",
+    "risk_type": "Listeria Monocytogenes Detected On Food Contact Surfaces In Ready To Eat Sandwich Manufacturer Facility.",
     "count": 15,
     "percentage": 0.0
   },
@@ -555,6 +555,11 @@
     "percentage": 0.0
   },
   {
+    "risk_type": "Consumer Products",
+    "count": 13,
+    "percentage": 0.0
+  },
+  {
     "risk_type": "Labelling - Product Safety",
     "count": 13,
     "percentage": 0.0
@@ -565,7 +570,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Consumer Products",
+    "risk_type": "Medline Has Identified Issues Related To Calibration Of The Equipment Used To Sterilize And Package The Devices. All Products Were Exposed To The Validated Sterilization And Packaging Cycles; However, The Identified Calibration Issues Have The Potential To Impact The Sterility Assurance Level (Sal) Of The Recalled Products.",
     "count": 13,
     "percentage": 0.0
   },
@@ -585,8 +590,8 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Medline Has Identified Issues Related To Calibration Of The Equipment Used To Sterilize And Package The Devices. All Products Were Exposed To The Validated Sterilization And Packaging Cycles; However, The Identified Calibration Issues Have The Potential To Impact The Sterility Assurance Level (Sal) Of The Recalled Products.",
-    "count": 13,
+    "risk_type": "Products Are Potentially Contaminated With Salmonella.",
+    "count": 12,
     "percentage": 0.0
   },
   {
@@ -595,7 +600,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Products Are Potentially Contaminated With Salmonella.",
+    "risk_type": "New Safety Information - Product Safety",
     "count": 12,
     "percentage": 0.0
   },
@@ -605,7 +610,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "New Safety Information - Product Safety",
+    "risk_type": "E. Coli - Other Pathogenic",
     "count": 12,
     "percentage": 0.0
   },
@@ -620,22 +625,17 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Bone Void Filler Kits May Not Maintain Its Setting Characteristics For The Labeled Shelf-Life Duration. Use May Increase The Required Surgical And Anesthesia Time For The Patient Or Possible Longer-Term Health Consequences Could Include Incomplete Bone Formation Or Lack Of Bone Formation, Delayed Union, Or Nonunion.",
-    "count": 11,
-    "percentage": 0.0
-  },
-  {
     "risk_type": "Harvest Equipment Used In Harvesting Raw Iceberg Lettuce Was Tested By  Dole And Found To Contain Listeria Monocytogenes.",
     "count": 11,
     "percentage": 0.0
   },
   {
-    "risk_type": "May Be Contaminated With Listeria Monocytogenes",
+    "risk_type": "Bone Void Filler Kits May Not Maintain Its Setting Characteristics For The Labeled Shelf-Life Duration. Use May Increase The Required Surgical And Anesthesia Time For The Patient Or Possible Longer-Term Health Consequences Could Include Incomplete Bone Formation Or Lack Of Bone Formation, Delayed Union, Or Nonunion.",
     "count": 11,
     "percentage": 0.0
   },
   {
-    "risk_type": "Staphylococcus Aureus",
+    "risk_type": "May Be Contaminated With Listeria Monocytogenes",
     "count": 11,
     "percentage": 0.0
   },
@@ -655,12 +655,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "E. Coli - Other Pathogenic",
-    "count": 11,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Potentially Contaminated With Listeria Monocytogenes",
+    "risk_type": "Staphylococcus Aureus",
     "count": 11,
     "percentage": 0.0
   },
@@ -670,12 +665,17 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Entanglement Hazard",
+    "risk_type": "Potentially Contaminated With Listeria Monocytogenes",
+    "count": 11,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Recalled Drain Covers Do Not Conform To The Entrapment Protection Standards Of The Virginia Graeme Baker Pool And Spa Safety Act (Vgba), Posing An Entrapment Hazard To Swimmers And Bathers.",
     "count": 10,
     "percentage": 0.0
   },
   {
-    "risk_type": "Poisoning Hazard",
+    "risk_type": "Entanglement Hazard",
     "count": 10,
     "percentage": 0.0
   },
@@ -685,12 +685,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Suspected Quality Concern",
+    "risk_type": "Poisoning Hazard",
     "count": 10,
     "percentage": 0.0
   },
   {
-    "risk_type": "The Recalled Drain Covers Do Not Conform To The Entrapment Protection Standards Of The Virginia Graeme Baker Pool And Spa Safety Act (Vgba), Posing An Entrapment Hazard To Swimmers And Bathers.",
+    "risk_type": "Suspected Quality Concern",
     "count": 10,
     "percentage": 0.0
   },
@@ -720,17 +720,17 @@
     "percentage": 0.0
   },
   {
+    "risk_type": "Wheat - Gluten",
+    "count": 9,
+    "percentage": 0.0
+  },
+  {
     "risk_type": "During An Fda Investigation The Firm Was Notified That The Product Contains Undeclared Milk.",
     "count": 9,
     "percentage": 0.0
   },
   {
     "risk_type": "Identification Of A  Potential  Manufacturing Defect On The Internal Surface Of The Nanoclave Within Specific Lots Of Nanoclave Sets, Which May Inhibit A Proper Seal With The Nanoclave Spike.",
-    "count": 9,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Wheat - Gluten",
     "count": 9,
     "percentage": 0.0
   },
@@ -745,12 +745,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "The Food Was Not Held At An Appropriate Temperature.  The Holding Temperature Could Affect Spoilage And Potentially Support Pathogen Growth.",
-    "count": 8,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Potential For Metal In Product",
+    "risk_type": "Premature Failure",
     "count": 8,
     "percentage": 0.0
   },
@@ -760,7 +755,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Crustacean And Shellfish",
+    "risk_type": "Potential For Metal In Product",
+    "count": 8,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Food Was Not Held At An Appropriate Temperature.  The Holding Temperature Could Affect Spoilage And Potentially Support Pathogen Growth.",
     "count": 8,
     "percentage": 0.0
   },
@@ -780,12 +780,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "To Provide Clarification And Labelling To Define The Useful Life Of Ultrasound Transducers In The Field.",
+    "risk_type": "Crustacean And Shellfish",
     "count": 8,
     "percentage": 0.0
   },
   {
-    "risk_type": "Premature Failure",
+    "risk_type": "To Provide Clarification And Labelling To Define The Useful Life Of Ultrasound Transducers In The Field.",
     "count": 8,
     "percentage": 0.0
   },
@@ -795,17 +795,17 @@
     "percentage": 0.0
   },
   {
+    "risk_type": "Products Contain Undeclared Soy.",
+    "count": 7,
+    "percentage": 0.0
+  },
+  {
     "risk_type": "After An Investigation, The Firm Discovered That A Sifter Used In The Production Of The Dextrose For Each Product Was Damaged And Introduced Metal Fragments In The Products.",
     "count": 7,
     "percentage": 0.0
   },
   {
-    "risk_type": "Products Distributed As Sterile May Not Have Been Adequately Sterilized",
-    "count": 7,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Products Contain Undeclared Soy.",
+    "risk_type": "Foreign Material",
     "count": 7,
     "percentage": 0.0
   },
@@ -835,17 +835,17 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Foreign Material",
+    "risk_type": "Patient Support Table Floor Plate May Be Incorrectly Installed.",
     "count": 7,
     "percentage": 0.0
   },
   {
-    "risk_type": "Possible Metal Fragments In Yogurt Bars",
+    "risk_type": "Products Distributed As Sterile May Not Have Been Adequately Sterilized",
     "count": 7,
     "percentage": 0.0
   },
   {
-    "risk_type": "Consumer Complaints Related To Cronobacter Sakazakii Or Salmonella Newport In Infants And Evidence Of Cronobacter Sakazakii In The Manufacturing Facility Where The Product Had Been Produced",
+    "risk_type": "Facility Temperature Excursions (From June 2021-August 2021) Prior To Delivery; Exposure To Higher Temperatures May Have Impacted Product Effectiveness. All Lots Received Between 06/01/21-9/30/21.",
     "count": 7,
     "percentage": 0.0
   },
@@ -865,7 +865,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Facility Temperature Excursions (From June 2021-August 2021) Prior To Delivery; Exposure To Higher Temperatures May Have Impacted Product Effectiveness. All Lots Received Between 06/01/21-9/30/21.",
+    "risk_type": "Consumer Complaints Related To Cronobacter Sakazakii Or Salmonella Newport In Infants And Evidence Of Cronobacter Sakazakii In The Manufacturing Facility Where The Product Had Been Produced",
     "count": 7,
     "percentage": 0.0
   },
@@ -875,12 +875,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Patient Support Table Floor Plate May Be Incorrectly Installed.",
+    "risk_type": "Possible Metal Fragments In Yogurt Bars",
     "count": 7,
     "percentage": 0.0
   },
   {
-    "risk_type": "Undeclared Yellow #5",
+    "risk_type": "The Products Contain The Substance Methyl Salicylate Which Must Be In Child Resistant Packaging As Required By The Poison Prevention Packaging Act (Pppa). The Packaging Of The Products Is Not Child Resistant, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
     "count": 6,
     "percentage": 0.0
   },
@@ -890,7 +890,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "The Products Contain The Substance Methyl Salicylate Which Must Be In Child Resistant Packaging As Required By The Poison Prevention Packaging Act (Pppa). The Packaging Of The Products Is Not Child Resistant, Posing A Risk Of Poisoning If The Contents Are Swallowed By Young Children.",
+    "risk_type": "There Are Reports Of Inadequate Locking Of The Extended Tab Screws.  Complaints Were Reported Where The Closure Top Backed Out Of The Screw Post-Operatively.",
     "count": 6,
     "percentage": 0.0
   },
@@ -905,12 +905,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "There Are Reports Of Inadequate Locking Of The Extended Tab Screws.  Complaints Were Reported Where The Closure Top Backed Out Of The Screw Post-Operatively.",
-    "count": 6,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "The Magnetic Resonance Systems Could Potentially Have A Cryogen Ventilation System That Does Not Meet The Venting Requirements.",
+    "risk_type": "Undeclared Yellow #5",
     "count": 6,
     "percentage": 0.0
   },
@@ -920,12 +915,17 @@
     "percentage": 0.0
   },
   {
+    "risk_type": "Sterile Blades Within Sterile Kits Have The Potential For The Blade To Puncture The Outer Foil Layer Of The Sterile Packaging.",
+    "count": 6,
+    "percentage": 0.0
+  },
+  {
     "risk_type": "Undeclared Wheat And Soy",
     "count": 6,
     "percentage": 0.0
   },
   {
-    "risk_type": "Sterile Blades Within Sterile Kits Have The Potential For The Blade To Puncture The Outer Foil Layer Of The Sterile Packaging.",
+    "risk_type": "Complaints Of Reported Separation Of The Slider Gds Swivel Rod From The Swivel Core And Of A Notable Gap Between The Two Pieces.",
     "count": 6,
     "percentage": 0.0
   },
@@ -950,12 +950,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "During An Internal Review, Medline Identified Higher-Than-Expected Endotoxin Levels On A Representative Medline Neuro Sponge Product, Indicating That In-Market Product May Be Out-Of-Specification For Endotoxin.",
+    "risk_type": "Products Held Under Insanitary Conditions",
     "count": 6,
     "percentage": 0.0
   },
   {
-    "risk_type": "Toxic Levels Of Muscimol",
+    "risk_type": "During An Internal Review, Medline Identified Higher-Than-Expected Endotoxin Levels On A Representative Medline Neuro Sponge Product, Indicating That In-Market Product May Be Out-Of-Specification For Endotoxin.",
     "count": 6,
     "percentage": 0.0
   },
@@ -965,17 +965,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Complaints Of Reported Separation Of The Slider Gds Swivel Rod From The Swivel Core And Of A Notable Gap Between The Two Pieces.",
-    "count": 6,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Products Held Under Insanitary Conditions",
-    "count": 6,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Firm Received Positive Test Results For L. Monocytogenes In A Finished Product. All Products Manufactured With The Same Components Are Being Recalled.",
+    "risk_type": "The Magnetic Resonance Systems Could Potentially Have A Cryogen Ventilation System That Does Not Meet The Venting Requirements.",
     "count": 6,
     "percentage": 0.0
   },
@@ -985,12 +975,22 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Macarons Do Not Declare The Following Colors:  Fd&C Blue #1, Blue #2, Red #3, Yellow #5, Yellow #6, Red #40.",
-    "count": 5,
+    "risk_type": "Toxic Levels Of Muscimol",
+    "count": 6,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Firm Received Positive Test Results For L. Monocytogenes In A Finished Product. All Products Manufactured With The Same Components Are Being Recalled.",
+    "count": 6,
     "percentage": 0.0
   },
   {
     "risk_type": "Cyclospora",
+    "count": 5,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "All Products Manufactured By The Firm Have The Potential To Be Contaminated With Listeria Monocytogenes.",
     "count": 5,
     "percentage": 0.0
   },
@@ -1000,17 +1000,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Potential Under-Processing.",
+    "risk_type": "Lack Of Efficacy",
     "count": 5,
     "percentage": 0.0
   },
   {
     "risk_type": "Infant Fatalities Have Been Reported With Other Manufacturers' Inclined Sleep Products, After The Infants Rolled From Their Back To Their Stomach Or Side, Or Under Other Circumstances.",
-    "count": 5,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Possibly Contaminated With Listeria Monocytogenes",
     "count": 5,
     "percentage": 0.0
   },
@@ -1025,7 +1020,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Lack Of Efficacy",
+    "risk_type": "Fabrics",
     "count": 5,
     "percentage": 0.0
   },
@@ -1035,7 +1030,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Fabrics",
+    "risk_type": "Possibly Contaminated With Listeria Monocytogenes",
+    "count": 5,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Macarons Do Not Declare The Following Colors:  Fd&C Blue #1, Blue #2, Red #3, Yellow #5, Yellow #6, Red #40.",
     "count": 5,
     "percentage": 0.0
   },
@@ -1070,7 +1070,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "All Products Manufactured By The Firm Have The Potential To Be Contaminated With Listeria Monocytogenes.",
+    "risk_type": "Product May Be Contaminated With Foreign Material (Metal)",
     "count": 5,
     "percentage": 0.0
   },
@@ -1090,22 +1090,22 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product May Be Contaminated With Foreign Material (Metal)",
-    "count": 5,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Potential For Manufacturing Defect. Weld Crack Led To Devices Failing At The Leak Check Step In Manufacturing.",
-    "count": 5,
-    "percentage": 0.0
-  },
-  {
     "risk_type": "Potential For Unsealed Sterile Packing.",
     "count": 5,
     "percentage": 0.0
   },
   {
+    "risk_type": "Potential Under-Processing.",
+    "count": 5,
+    "percentage": 0.0
+  },
+  {
     "risk_type": "Potential For The Backcheck Valve To Malfunction, Resulting In Backflow Of Medication From Secondary (Piggyback) Iv Containers Into Primary Iv Containers And The Inability To Prime, Resulting In Patient Injuries Of Adverse Drug Reaction And/Or Product  Malfunction With Loss Of Medication/Blood.",
+    "count": 5,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Potential For Manufacturing Defect. Weld Crack Led To Devices Failing At The Leak Check Step In Manufacturing.",
     "count": 5,
     "percentage": 0.0
   },
@@ -1120,7 +1120,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "There Is A Potential For Open/Weak Seals On Purchased Breather Pouches Used For Packaging Of Select Sterile Convenience Kits.",
+    "risk_type": "Bd Phoenix Sulfamethoxazole-Trimethoprim (Sxt) Resistance, False Resistant Sxt Result With S. Aureus Could Lead To A Potential Loss Of Access To A Preferred Antibiotic Regimen And Potential Reduction In Effectiveness Of Treatment Of The Infection",
     "count": 4,
     "percentage": 0.0
   },
@@ -1130,12 +1130,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Potential Foreign Material - Metal, Wood, Gasket Material, And/Or Sifter Balls",
-    "count": 4,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Bd Phoenix Sulfamethoxazole-Trimethoprim (Sxt) Resistance, False Resistant Sxt Result With S. Aureus Could Lead To A Potential Loss Of Access To A Preferred Antibiotic Regimen And Potential Reduction In Effectiveness Of Treatment Of The Infection",
+    "risk_type": "Performance - Covid",
     "count": 4,
     "percentage": 0.0
   },
@@ -1145,12 +1140,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Pieces Of Plastic Polymer Were Introduced Into The Sugar System.",
+    "risk_type": "If The Coolant Level In The Cooling Circuit Drops Below A Certain Level, This May Result In A Situation In Which The X-Ray Tube Is No Longer Sufficiently Cooled And The System Will Display The Message \"Tube Hot, Have A Break\". Several Minutes Later The System Will Block X-Ray To Prevent Further Damage And Display The Message \"No Xray: Tube Too Hot\".",
     "count": 4,
     "percentage": 0.0
   },
   {
-    "risk_type": "If The Coolant Level In The Cooling Circuit Drops Below A Certain Level, This May Result In A Situation In Which The X-Ray Tube Is No Longer Sufficiently Cooled And The System Will Display The Message \"Tube Hot, Have A Break\". Several Minutes Later The System Will Block X-Ray To Prevent Further Damage And Display The Message \"No Xray: Tube Too Hot\".",
+    "risk_type": "Pieces Of Plastic Polymer Were Introduced Into The Sugar System.",
     "count": 4,
     "percentage": 0.0
   },
@@ -1165,17 +1160,12 @@
     "percentage": 0.0
   },
   {
+    "risk_type": "There Is A Potential For Open/Weak Seals On Purchased Breather Pouches Used For Packaging Of Select Sterile Convenience Kits.",
+    "count": 4,
+    "percentage": 0.0
+  },
+  {
     "risk_type": "Bd (C.R. Bard) Has Received User Complaints Reporting That During Use Of Bd Bard Ng Sump Tubes With Enfit Connectors, Inadequate Or Reduced Suction, Decompression, And Drainage Occurred.",
-    "count": 4,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Performance - Covid",
-    "count": 4,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "There Is A Potential For Blister Seals On The Product To Present A Bubble On The Seal Area Of The Packaging. This Seal Acts As A Sterile Barrier And, In This Event, Indicates That The Sterility Seal Has Been Breached.",
     "count": 4,
     "percentage": 0.0
   },
@@ -1185,22 +1175,22 @@
     "percentage": 0.0
   },
   {
+    "risk_type": "There Is A Potential For Blister Seals On The Product To Present A Bubble On The Seal Area Of The Packaging. This Seal Acts As A Sterile Barrier And, In This Event, Indicates That The Sterility Seal Has Been Breached.",
+    "count": 4,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Packaging Improper Or Incomplete Seal Of The Pouch Surrounding The Sterile Product May Result In A Breach Of The Sterile Barrier Created By The Pouch",
+    "count": 4,
+    "percentage": 0.0
+  },
+  {
     "risk_type": "Due To Increased Complaints Regarding Frayed Or Broken Grip Cables On Reusable Instruments With Jaws.",
     "count": 4,
     "percentage": 0.0
   },
   {
-    "risk_type": "Catheter Center Lumen Was Found To Have An Occlusion In The Tip Of The Catheter; The Source Of The Occlusion An Excessive Mdx, A Silicone-Based Lubricant Which Coats The Catheter Tip. An Occluded, Partially Or Fully, And/Or Uncured Or Excessive Mdx May Dislodge From The Catheter Lead To  Full Catheter Obstruction Resulting In Delay To Treatment And Partial Obstruction Resulting In Reduced Flow, Or Particulate Dislodgement That May Result In Delay To Treatment, Hemolysis, Embolism/Embolus Or Thrombosis/Thrombus",
-    "count": 4,
-    "percentage": 0.0
-  },
-  {
     "risk_type": "Chocolate May Contain Plastic Pieces",
-    "count": 4,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Firm Has Received Complaints From Patients Who Are Unable To Exit Mri (Magnetic Resonance Imaging) Mode On Their Ipgs (Implantable Pulse Generators).",
     "count": 4,
     "percentage": 0.0
   },
@@ -1215,7 +1205,17 @@
     "percentage": 0.0
   },
   {
+    "risk_type": "Firm Has Received Complaints From Patients Who Are Unable To Exit Mri (Magnetic Resonance Imaging) Mode On Their Ipgs (Implantable Pulse Generators).",
+    "count": 4,
+    "percentage": 0.0
+  },
+  {
     "risk_type": "New Safety Information - Product Withdrawal",
+    "count": 4,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "No 510K For The Product To Be Used In A Natural Or Surgical Opening To The Body",
     "count": 4,
     "percentage": 0.0
   },
@@ -1225,7 +1225,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "No 510K For The Product To Be Used In A Natural Or Surgical Opening To The Body",
+    "risk_type": "Potential Foreign Material - Metal, Wood, Gasket Material, And/Or Sifter Balls",
     "count": 4,
     "percentage": 0.0
   },
@@ -1240,7 +1240,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Packaging Improper Or Incomplete Seal Of The Pouch Surrounding The Sterile Product May Result In A Breach Of The Sterile Barrier Created By The Pouch",
+    "risk_type": "Catheter Center Lumen Was Found To Have An Occlusion In The Tip Of The Catheter; The Source Of The Occlusion An Excessive Mdx, A Silicone-Based Lubricant Which Coats The Catheter Tip. An Occluded, Partially Or Fully, And/Or Uncured Or Excessive Mdx May Dislodge From The Catheter Lead To  Full Catheter Obstruction Resulting In Delay To Treatment And Partial Obstruction Resulting In Reduced Flow, Or Particulate Dislodgement That May Result In Delay To Treatment, Hemolysis, Embolism/Embolus Or Thrombosis/Thrombus",
     "count": 4,
     "percentage": 0.0
   },

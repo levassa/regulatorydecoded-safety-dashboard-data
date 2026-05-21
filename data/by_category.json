@@ -43,13 +43,13 @@
   },
   {
     "product_category": "Drugs",
-    "total": 2763,
+    "total": 2764,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 2763,
+      "Health Canada": 2764,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -71,11 +71,11 @@
   },
   {
     "product_category": "Cosmetics & Personal Care",
-    "total": 1890,
+    "total": 1891,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
-      "EU Safety Gate": 1646,
+      "EU Safety Gate": 1647,
       "FDA": 0,
       "Health Canada": 197,
       "NZ Product Safety": 47,
@@ -127,13 +127,13 @@
   },
   {
     "product_category": "Household Items",
-    "total": 1255,
+    "total": 1256,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 1255,
+      "Health Canada": 1256,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -155,13 +155,13 @@
   },
   {
     "product_category": "Natural Health Products",
-    "total": 1037,
+    "total": 1039,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 1037,
+      "Health Canada": 1039,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -239,13 +239,13 @@
   },
   {
     "product_category": "Clothing & Textiles",
-    "total": 741,
+    "total": 742,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 158,
       "FDA": 0,
-      "Health Canada": 560,
+      "Health Canada": 561,
       "NZ Product Safety": 23,
       "OPSS": 0,
       "RappelConso": 0
@@ -309,13 +309,13 @@
   },
   {
     "product_category": "General Hospital And Personal Use",
-    "total": 385,
+    "total": 386,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 385,
+      "Health Canada": 386,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -393,11 +393,11 @@
   },
   {
     "product_category": "Jewellery",
-    "total": 212,
+    "total": 211,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
-      "EU Safety Gate": 118,
+      "EU Safety Gate": 117,
       "FDA": 0,
       "Health Canada": 94,
       "NZ Product Safety": 0,
@@ -589,13 +589,13 @@
   },
   {
     "product_category": "Cannabis",
-    "total": 92,
+    "total": 93,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 92,
+      "Health Canada": 93,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -812,6 +812,20 @@
     }
   },
   {
+    "product_category": "Non-Alcoholic",
+    "total": 44,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 44,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
     "product_category": "Kitchen/Cooking Accessories",
     "total": 44,
     "by_source": {
@@ -827,20 +841,6 @@
   },
   {
     "product_category": "Physical Medicine",
-    "total": 43,
-    "by_source": {
-      "ACCC": 0,
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 43,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Non-Alcoholic",
     "total": 43,
     "by_source": {
       "ACCC": 0,
@@ -1009,13 +1009,13 @@
   },
   {
     "product_category": "Fruits And Vegetables",
-    "total": 25,
+    "total": 26,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 25,
+      "Health Canada": 26,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
