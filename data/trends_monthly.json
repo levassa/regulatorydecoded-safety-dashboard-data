@@ -2666,17 +2666,17 @@
   {
     "month": "2026-04",
     "CPSC": 75,
-    "EU Safety Gate": 283,
+    "EU Safety Gate": 331,
     "FDA": 0,
-    "Health Canada": 206,
+    "Health Canada": 205,
     "OPSS": 57
   },
   {
     "month": "2026-05",
     "CPSC": 24,
-    "EU Safety Gate": 191,
+    "EU Safety Gate": 239,
     "FDA": 0,
-    "Health Canada": 106,
+    "Health Canada": 111,
     "OPSS": 51
   }
 ]

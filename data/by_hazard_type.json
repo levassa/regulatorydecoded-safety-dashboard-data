@@ -1,13 +1,13 @@
 [
   {
     "hazard_type": "Other",
-    "total": 34923,
+    "total": 35021,
     "by_source": {
       "ACCC": 0,
       "CPSC": 362,
-      "EU Safety Gate": 4904,
+      "EU Safety Gate": 5000,
       "FDA": 1878,
-      "Health Canada": 23119,
+      "Health Canada": 23121,
       "NZ Product Safety": 1429,
       "OPSS": 231,
       "RappelConso": 3000
@@ -43,13 +43,13 @@
   },
   {
     "hazard_type": "Flammability / Overheating",
-    "total": 1699,
+    "total": 1700,
     "by_source": {
       "ACCC": 1,
       "CPSC": 489,
       "EU Safety Gate": 0,
       "FDA": 38,
-      "Health Canada": 858,
+      "Health Canada": 859,
       "NZ Product Safety": 21,
       "OPSS": 292,
       "RappelConso": 0
@@ -57,13 +57,13 @@
   },
   {
     "hazard_type": "Radiation",
-    "total": 1664,
+    "total": 1665,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 49,
-      "Health Canada": 1599,
+      "Health Canada": 1600,
       "NZ Product Safety": 16,
       "OPSS": 0,
       "RappelConso": 0
