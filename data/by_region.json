@@ -515,7 +515,7 @@
   },
   {
     "region": "Canada",
-    "total": 33562,
+    "total": 33563,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -886,7 +886,7 @@
       "Light Truck & Van - Chassis Cab - Truck - Med. & H.D.": 2,
       "Light Truck & Van - Minivan - Suv": 1,
       "Light Truck & Van - Rv Trailer": 1,
-      "Light Truck & Van - Suv": 87,
+      "Light Truck & Van - Suv": 88,
       "Light Truck & Van - Suv - Car": 4,
       "Light Truck & Van - Suv - Minivan": 1,
       "Light Truck & Van - Suv - Minivan - Car": 1,
@@ -1023,7 +1023,7 @@
       "Fatal": 0,
       "Minor": 4308,
       "Moderate": 8514,
-      "Not Reported": 17886,
+      "Not Reported": 17887,
       "Serious": 2854
     }
   },

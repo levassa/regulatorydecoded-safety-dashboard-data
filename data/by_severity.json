@@ -2133,11 +2133,11 @@
   },
   {
     "severity": "Not Reported",
-    "total": 27611,
+    "total": 27612,
     "total_injuries": 0,
     "by_region": {
       "Australia": 2,
-      "Canada": 17886,
+      "Canada": 17887,
       "EU / EEA": 5000,
       "France": 3000,
       "New Zealand": 1528,
@@ -2514,7 +2514,7 @@
       "Light Truck & Van - Chassis Cab - Truck - Med. & H.D.": 2,
       "Light Truck & Van - Minivan - Suv": 1,
       "Light Truck & Van - Rv Trailer": 1,
-      "Light Truck & Van - Suv": 87,
+      "Light Truck & Van - Suv": 88,
       "Light Truck & Van - Suv - Car": 4,
       "Light Truck & Van - Suv - Minivan": 1,
       "Light Truck & Van - Suv - Minivan - Car": 1,
@@ -2658,7 +2658,7 @@
       "Instability / Fall Risk": 315,
       "Mechanical Failure": 41,
       "Microbiological Contamination": 86,
-      "Other": 21429,
+      "Other": 21430,
       "Radiation": 1574,
       "Sharp Edges / Points": 175,
       "Small Parts / Choking Hazard": 512
