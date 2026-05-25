@@ -2133,14 +2133,14 @@
   },
   {
     "severity": "Not Reported",
-    "total": 27612,
+    "total": 27613,
     "total_injuries": 0,
     "by_region": {
       "Australia": 2,
       "Canada": 17887,
       "EU / EEA": 5000,
       "France": 3000,
-      "New Zealand": 1528,
+      "New Zealand": 1529,
       "USA": 1,
       "United Kingdom": 194
     },
@@ -2628,7 +2628,7 @@
       "Suv - Truck - Med. & H.D.": 1,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 1,
       "Tools & Machinery": 828,
-      "Toys & Childcare": 2132,
+      "Toys & Childcare": 2133,
       "Truck - Med. & H.D.": 964,
       "Truck - Med. & H.D. - A.T.V.": 1,
       "Truck - Med. & H.D. - Bus": 5,
@@ -2658,7 +2658,7 @@
       "Instability / Fall Risk": 315,
       "Mechanical Failure": 41,
       "Microbiological Contamination": 86,
-      "Other": 21430,
+      "Other": 21431,
       "Radiation": 1574,
       "Sharp Edges / Points": 175,
       "Small Parts / Choking Hazard": 512
