@@ -2673,10 +2673,10 @@
   },
   {
     "month": "2026-05",
-    "Fatal": 19,
+    "Fatal": 24,
     "Minor": 39,
-    "Moderate": 46,
-    "Not Reported": 305,
-    "Serious": 18
+    "Moderate": 47,
+    "Not Reported": 306,
+    "Serious": 19
   }
 ]
