@@ -1,8 +1,8 @@
 [
   {
     "risk_type": "Other",
-    "count": 14630,
-    "percentage": 29.4
+    "count": 14991,
+    "percentage": 29.9
   },
   {
     "risk_type": "Medical Devices",
@@ -12,11 +12,11 @@
   {
     "risk_type": "Product Safety",
     "count": 1820,
-    "percentage": 3.7
+    "percentage": 3.6
   },
   {
     "risk_type": "Fire",
-    "count": 1657,
+    "count": 1659,
     "percentage": 3.3
   },
   {
@@ -26,12 +26,12 @@
   },
   {
     "risk_type": "Electric Shock",
-    "count": 1284,
+    "count": 1283,
     "percentage": 2.6
   },
   {
     "risk_type": "Injury",
-    "count": 889,
+    "count": 888,
     "percentage": 1.8
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "risk_type": "Choking",
-    "count": 743,
+    "count": 742,
     "percentage": 1.5
   },
   {
@@ -67,7 +67,7 @@
   {
     "risk_type": "Milk",
     "count": 677,
-    "percentage": 1.4
+    "percentage": 1.3
   },
   {
     "risk_type": "Seats And Restraints",
@@ -176,7 +176,7 @@
   },
   {
     "risk_type": "Burns",
-    "count": 243,
+    "count": 244,
     "percentage": 0.5
   },
   {
@@ -417,12 +417,12 @@
   {
     "risk_type": "Covid - Product Safety",
     "count": 25,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "Quality",
     "count": 25,
-    "percentage": 0.1
+    "percentage": 0.0
   },
   {
     "risk_type": "E. Coli - Non-Pathogenic",
@@ -6965,6 +6965,11 @@
     "percentage": 0.0
   },
   {
+    "risk_type": "Product Recall For Pnw Loam Pedals Gen 2 Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
     "risk_type": "Product Recall For Pieps Pro Ips And Pieps Set Pro Ips Avalanche Transceiver Presenting A Risk Of Entrapment.",
     "count": 1,
     "percentage": 0.0
@@ -6981,11 +6986,6 @@
   },
   {
     "risk_type": "Product Recall For Oxo Good Grips Pasta Scoop Strainer Presenting A Serious Health Risk.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Product Recall For Outigo Kf12 Chainsaw Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -7041,6 +7041,11 @@
   },
   {
     "risk_type": "Product Recall For Matalan Dungarees, Rompers And Sweater Sets Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Stretchy Gorilla Toys Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
@@ -7120,11 +7125,6 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Pnw Loam Pedals Gen 2 Presenting A Serious Risk Of Injuries.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
     "risk_type": "Product Recall For Yamaha Drive 2 Ac And Drive 2 Ac Li Golf Cars Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
@@ -7165,6 +7165,11 @@
     "percentage": 0.0
   },
   {
+    "risk_type": "Product Recall For Unbranded Twistlok Carabiners, Rope Pulleys And Swing Swivels Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
     "risk_type": "Product Recall For Ultra Violette Lean Screen Spf50+ Sunscreen Presenting A Serious Health Risk.",
     "count": 1,
     "percentage": 0.0
@@ -7196,11 +7201,6 @@
   },
   {
     "risk_type": "Product Recall For Stromer St3, St5 And St7 Bicycles Fitted With Wren Front Suspension Forks Presenting A Risk Of Injuries.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Product Recall For Stretchy Gorilla Toys Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
