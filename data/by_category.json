@@ -85,13 +85,13 @@
   },
   {
     "product_category": "Car",
-    "total": 1541,
+    "total": 1542,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 1541,
+      "Health Canada": 1542,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -99,13 +99,13 @@
   },
   {
     "product_category": "Electrical & Electronics",
-    "total": 1465,
+    "total": 1466,
     "by_source": {
       "ACCC": 7,
       "CPSC": 0,
       "EU Safety Gate": 803,
       "FDA": 0,
-      "Health Canada": 418,
+      "Health Canada": 419,
       "NZ Product Safety": 237,
       "OPSS": 0,
       "RappelConso": 0
@@ -309,13 +309,13 @@
   },
   {
     "product_category": "General Hospital And Personal Use",
-    "total": 386,
+    "total": 387,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 386,
+      "Health Canada": 387,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -365,13 +365,13 @@
   },
   {
     "product_category": "Cardiovascular",
-    "total": 233,
+    "total": 234,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 233,
+      "Health Canada": 234,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -407,13 +407,13 @@
   },
   {
     "product_category": "General And Plastic Surgery",
-    "total": 180,
+    "total": 181,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 180,
+      "Health Canada": 181,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -435,13 +435,13 @@
   },
   {
     "product_category": "Anaesthesiology",
-    "total": 143,
+    "total": 144,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 143,
+      "Health Canada": 144,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -533,13 +533,13 @@
   },
   {
     "product_category": "Gastroenterology And Urology",
-    "total": 102,
+    "total": 103,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 102,
+      "Health Canada": 103,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -589,13 +589,13 @@
   },
   {
     "product_category": "Cannabis",
-    "total": 93,
+    "total": 94,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 93,
+      "Health Canada": 94,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
