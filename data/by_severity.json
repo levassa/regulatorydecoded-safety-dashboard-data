@@ -1603,7 +1603,7 @@
   },
   {
     "severity": "Minor",
-    "total": 5992,
+    "total": 5993,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
@@ -1612,7 +1612,7 @@
       "France": 0,
       "New Zealand": 8,
       "USA": 876,
-      "United Kingdom": 800
+      "United Kingdom": 801
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
@@ -2032,7 +2032,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 1773,
+      "Other": 1774,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
       "Other - Car Floor Mat": 0,
@@ -2125,19 +2125,19 @@
       "Electrical Fault": 160,
       "Entrapment": 25,
       "Explosion": 49,
-      "Flammability / Overheating": 620,
+      "Flammability / Overheating": 621,
       "Instability / Fall Risk": 76,
       "Mechanical Failure": 85,
       "Microbiological Contamination": 146,
-      "Other": 3749,
+      "Other": 3748,
       "Radiation": 10,
       "Sharp Edges / Points": 68,
-      "Small Parts / Choking Hazard": 250
+      "Small Parts / Choking Hazard": 251
     }
   },
   {
     "severity": "Not Reported",
-    "total": 27638,
+    "total": 27637,
     "total_injuries": 0,
     "by_region": {
       "Australia": 1,
@@ -2146,7 +2146,7 @@
       "France": 3000,
       "New Zealand": 1532,
       "USA": 1,
-      "United Kingdom": 193
+      "United Kingdom": 192
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
@@ -2410,7 +2410,7 @@
       "Consumer Products": 30,
       "Consumer Products - Drugs": 7,
       "Consumer Products - Natural Health Products": 1,
-      "Cosmetics & Personal Care": 1845,
+      "Cosmetics & Personal Care": 1846,
       "Dairy": 0,
       "Dairy - Other": 0,
       "Decorations, Candles And Novelties": 0,
@@ -2439,7 +2439,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 7,
       "Electric Or Gas Productsbuilding Products": 1,
-      "Electrical & Electronics": 1459,
+      "Electrical & Electronics": 1460,
       "Food & Food Contact": 201,
       "Fresh": 1,
       "Frozen": 1,
@@ -2545,7 +2545,7 @@
       "Minivan - Suv - Car": 3,
       "Motor Tricycle": 23,
       "Motor Tricycle - Motorcycle": 2,
-      "Motor Vehicles": 972,
+      "Motor Vehicles": 973,
       "Motorcycle": 516,
       "Motorcycle - Motor Tricycle": 1,
       "Natural Health Products": 574,
@@ -2566,7 +2566,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 3511,
+      "Other": 3510,
       "Other - Back Patch, Recovery Tape": 1,
       "Other - Books": 1,
       "Other - Car Floor Mat": 1,
@@ -2616,7 +2616,7 @@
       "Specialized Products - Drugs - Biologic Or Vaccine": 1,
       "Specialized Products - Natural Health Products": 8,
       "Specialized Products - Other": 2,
-      "Sports & Leisure": 869,
+      "Sports & Leisure": 866,
       "Stationery": 10,
       "Suv": 1414,
       "Suv - Car": 133,
@@ -2654,7 +2654,7 @@
     },
     "by_hazard_type": {
       "Allergen": 444,
-      "Chemical / Toxic Substance": 581,
+      "Chemical / Toxic Substance": 580,
       "Drowning Risk": 119,
       "Electrical Fault": 1348,
       "Entrapment": 92,
