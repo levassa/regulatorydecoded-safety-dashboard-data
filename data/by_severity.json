@@ -1051,7 +1051,7 @@
       "Veterinary Drugs": 5
     },
     "by_hazard_type": {
-      "Allergen": 1444,
+      "Allergen": 1440,
       "Chemical / Toxic Substance": 200,
       "Drowning Risk": 78,
       "Electrical Fault": 70,
@@ -1059,9 +1059,9 @@
       "Explosion": 69,
       "Flammability / Overheating": 46,
       "Instability / Fall Risk": 26,
-      "Mechanical Failure": 220,
-      "Microbiological Contamination": 1770,
-      "Other": 2845,
+      "Mechanical Failure": 219,
+      "Microbiological Contamination": 1778,
+      "Other": 2842,
       "Radiation": 51,
       "Sharp Edges / Points": 60,
       "Small Parts / Choking Hazard": 11
@@ -2137,14 +2137,14 @@
   },
   {
     "severity": "Not Reported",
-    "total": 27637,
+    "total": 27639,
     "total_injuries": 0,
     "by_region": {
       "Australia": 1,
-      "Canada": 17911,
+      "Canada": 17912,
       "EU / EEA": 5000,
       "France": 3000,
-      "New Zealand": 1532,
+      "New Zealand": 1533,
       "USA": 1,
       "United Kingdom": 192
     },
@@ -2606,7 +2606,7 @@
       "Recreational Crafts": 1,
       "Rv Chassis": 7,
       "Rv Chassis - Truck - Med. & H.D.": 1,
-      "Rv Trailer": 935,
+      "Rv Trailer": 936,
       "Safety, Security And Surveillance": 1,
       "School Bus": 338,
       "School Bus - Truck - Med. & H.D.": 1,
@@ -2633,7 +2633,7 @@
       "Suv - Truck - Med. & H.D.": 1,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 1,
       "Tools & Machinery": 829,
-      "Toys & Childcare": 2153,
+      "Toys & Childcare": 2154,
       "Truck - Med. & H.D.": 964,
       "Truck - Med. & H.D. - A.T.V.": 1,
       "Truck - Med. & H.D. - Bus": 5,
@@ -2662,9 +2662,9 @@
       "Flammability / Overheating": 859,
       "Instability / Fall Risk": 315,
       "Mechanical Failure": 40,
-      "Microbiological Contamination": 86,
-      "Other": 21438,
-      "Radiation": 1584,
+      "Microbiological Contamination": 87,
+      "Other": 21442,
+      "Radiation": 1581,
       "Sharp Edges / Points": 175,
       "Small Parts / Choking Hazard": 517
     }

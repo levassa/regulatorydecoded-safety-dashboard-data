@@ -57,14 +57,14 @@
   },
   {
     "product_category": "Toys & Childcare",
-    "total": 2171,
+    "total": 2172,
     "by_source": {
       "ACCC": 7,
       "CPSC": 0,
       "EU Safety Gate": 974,
       "FDA": 0,
       "Health Canada": 742,
-      "NZ Product Safety": 448,
+      "NZ Product Safety": 449,
       "OPSS": 0,
       "RappelConso": 0
     }
@@ -197,13 +197,13 @@
   },
   {
     "product_category": "Rv Trailer",
-    "total": 935,
+    "total": 936,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 935,
+      "Health Canada": 936,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
