@@ -293,7 +293,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 0,
       "Electric Or Gas Productsbuilding Products": 0,
-      "Electrical & Electronics": 7,
+      "Electrical & Electronics": 6,
       "Food & Food Contact": 0,
       "Fresh": 0,
       "Frozen": 0,
@@ -352,7 +352,7 @@
       "Immunology": 0,
       "Jewellery": 0,
       "Kitchen/Cooking Accessories": 0,
-      "Kitchenware And Containers": 2,
+      "Kitchenware And Containers": 3,
       "Kitchenware And Tableware": 0,
       "Koru3 March 2014Tyco, Vigilant Mx4428 And F4000 Fire Indicator Panels": 0,
       "Koruamoxicillin Actavis - Powder For Oral Suspension; Glass Fragments Found In Two Bottles": 0,
@@ -507,16 +507,16 @@
       "Veterinary Drugs": 0
     },
     "by_severity": {
-      "Fatal": 19,
+      "Fatal": 18,
       "Minor": 0,
       "Moderate": 0,
       "Not Reported": 1,
-      "Serious": 5
+      "Serious": 6
     }
   },
   {
     "region": "Canada",
-    "total": 33597,
+    "total": 33598,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -725,7 +725,7 @@
       "Bus - Truck - Med. & H.D. - School Bus": 1,
       "Candy, Confectionary, Snacks And Sweeteners": 164,
       "Candy, Confectionary, Snacks And Sweeteners - Nuts, Grains, And Seeds": 5,
-      "Cannabis": 94,
+      "Cannabis": 95,
       "Canned": 5,
       "Car": 1543,
       "Car - A.T.V. - Suv": 1,
@@ -1025,7 +1025,7 @@
       "Fatal": 0,
       "Minor": 4308,
       "Moderate": 8521,
-      "Not Reported": 17912,
+      "Not Reported": 17913,
       "Serious": 2856
     }
   },
@@ -1323,7 +1323,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 0,
       "Electric Or Gas Productsbuilding Products": 0,
-      "Electrical & Electronics": 804,
+      "Electrical & Electronics": 805,
       "Food & Food Contact": 0,
       "Fresh": 0,
       "Frozen": 0,
@@ -1517,7 +1517,7 @@
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
       "Tools & Machinery": 260,
-      "Toys & Childcare": 974,
+      "Toys & Childcare": 973,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
       "Truck - Med. & H.D. - Bus": 0,
@@ -2576,7 +2576,7 @@
   },
   {
     "region": "USA",
-    "total": 6074,
+    "total": 4000,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -2995,7 +2995,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 2074,
+      "Other": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
       "Other - Car Floor Mat": 0,
@@ -3082,11 +3082,11 @@
       "Veterinary Drugs": 0
     },
     "by_severity": {
-      "Fatal": 541,
-      "Minor": 876,
-      "Moderate": 618,
-      "Not Reported": 1,
-      "Serious": 4038
+      "Fatal": 26,
+      "Minor": 0,
+      "Moderate": 0,
+      "Not Reported": 0,
+      "Serious": 3974
     }
   },
   {
@@ -3598,9 +3598,9 @@
     },
     "by_severity": {
       "Fatal": 5,
-      "Minor": 801,
+      "Minor": 805,
       "Moderate": 0,
-      "Not Reported": 192,
+      "Not Reported": 188,
       "Serious": 2
     }
   }
