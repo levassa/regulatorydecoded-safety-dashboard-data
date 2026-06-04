@@ -2061,7 +2061,7 @@
   },
   {
     "region": "New Zealand",
-    "total": 1545,
+    "total": 1546,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 1,
@@ -2353,7 +2353,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 7,
       "Electric Or Gas Productsbuilding Products": 1,
-      "Electrical & Electronics": 237,
+      "Electrical & Electronics": 238,
       "Food & Food Contact": 2,
       "Fresh": 0,
       "Frozen": 0,
@@ -2570,13 +2570,13 @@
       "Fatal": 1,
       "Minor": 8,
       "Moderate": 0,
-      "Not Reported": 1533,
+      "Not Reported": 1534,
       "Serious": 3
     }
   },
   {
     "region": "USA",
-    "total": 4000,
+    "total": 6074,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -2995,7 +2995,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 0,
+      "Other": 2074,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
       "Other - Car Floor Mat": 0,
@@ -3082,11 +3082,11 @@
       "Veterinary Drugs": 0
     },
     "by_severity": {
-      "Fatal": 26,
-      "Minor": 0,
-      "Moderate": 0,
-      "Not Reported": 0,
-      "Serious": 3974
+      "Fatal": 541,
+      "Minor": 876,
+      "Moderate": 618,
+      "Not Reported": 1,
+      "Serious": 4038
     }
   },
   {

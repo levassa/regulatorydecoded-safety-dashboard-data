@@ -1,7 +1,7 @@
 [
   {
     "severity": "Fatal",
-    "total": 50,
+    "total": 565,
     "total_injuries": 0,
     "by_region": {
       "Australia": 18,
@@ -9,7 +9,7 @@
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 1,
-      "USA": 26,
+      "USA": 541,
       "United Kingdom": 5
     },
     "by_category": {
@@ -430,7 +430,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 5,
+      "Other": 520,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
       "Other - Car Floor Mat": 0,
@@ -518,24 +518,24 @@
     },
     "by_hazard_type": {
       "Allergen": 0,
-      "Chemical / Toxic Substance": 6,
-      "Drowning Risk": 1,
-      "Electrical Fault": 3,
-      "Entrapment": 0,
-      "Explosion": 5,
-      "Flammability / Overheating": 1,
-      "Instability / Fall Risk": 0,
-      "Mechanical Failure": 6,
-      "Microbiological Contamination": 2,
-      "Other": 10,
+      "Chemical / Toxic Substance": 70,
+      "Drowning Risk": 3,
+      "Electrical Fault": 22,
+      "Entrapment": 135,
+      "Explosion": 6,
+      "Flammability / Overheating": 50,
+      "Instability / Fall Risk": 22,
+      "Mechanical Failure": 35,
+      "Microbiological Contamination": 3,
+      "Other": 111,
       "Radiation": 0,
-      "Sharp Edges / Points": 0,
-      "Small Parts / Choking Hazard": 16
+      "Sharp Edges / Points": 19,
+      "Small Parts / Choking Hazard": 89
     }
   },
   {
     "severity": "Serious",
-    "total": 6841,
+    "total": 6905,
     "total_injuries": 0,
     "by_region": {
       "Australia": 6,
@@ -543,7 +543,7 @@
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 3,
-      "USA": 3974,
+      "USA": 4038,
       "United Kingdom": 2
     },
     "by_category": {
@@ -964,7 +964,7 @@
       "Ophthalmology": 1,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 3,
-      "Other": 56,
+      "Other": 120,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
       "Other - Car Floor Mat": 0,
@@ -1052,24 +1052,24 @@
     },
     "by_hazard_type": {
       "Allergen": 1440,
-      "Chemical / Toxic Substance": 199,
-      "Drowning Risk": 74,
-      "Electrical Fault": 69,
-      "Entrapment": 9,
-      "Explosion": 68,
-      "Flammability / Overheating": 40,
-      "Instability / Fall Risk": 24,
-      "Mechanical Failure": 210,
+      "Chemical / Toxic Substance": 200,
+      "Drowning Risk": 78,
+      "Electrical Fault": 70,
+      "Entrapment": 14,
+      "Explosion": 69,
+      "Flammability / Overheating": 46,
+      "Instability / Fall Risk": 26,
+      "Mechanical Failure": 219,
       "Microbiological Contamination": 1778,
-      "Other": 2828,
+      "Other": 2842,
       "Radiation": 51,
-      "Sharp Edges / Points": 42,
-      "Small Parts / Choking Hazard": 9
+      "Sharp Edges / Points": 61,
+      "Small Parts / Choking Hazard": 11
     }
   },
   {
     "severity": "Moderate",
-    "total": 8521,
+    "total": 9139,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
@@ -1077,7 +1077,7 @@
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 0,
-      "USA": 0,
+      "USA": 618,
       "United Kingdom": 0
     },
     "by_category": {
@@ -1498,7 +1498,7 @@
       "Ophthalmology": 27,
       "Ophthalmology - General Hospital And Personal Use": 1,
       "Orthopaedics": 91,
-      "Other": 75,
+      "Other": 693,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
       "Other - Car Floor Mat": 0,
@@ -1586,24 +1586,24 @@
     },
     "by_hazard_type": {
       "Allergen": 697,
-      "Chemical / Toxic Substance": 38,
-      "Drowning Risk": 16,
-      "Electrical Fault": 10,
-      "Entrapment": 7,
-      "Explosion": 39,
-      "Flammability / Overheating": 16,
-      "Instability / Fall Risk": 0,
-      "Mechanical Failure": 98,
-      "Microbiological Contamination": 712,
-      "Other": 6836,
+      "Chemical / Toxic Substance": 106,
+      "Drowning Risk": 33,
+      "Electrical Fault": 47,
+      "Entrapment": 39,
+      "Explosion": 53,
+      "Flammability / Overheating": 125,
+      "Instability / Fall Risk": 65,
+      "Mechanical Failure": 158,
+      "Microbiological Contamination": 720,
+      "Other": 6902,
       "Radiation": 30,
-      "Sharp Edges / Points": 22,
-      "Small Parts / Choking Hazard": 0
+      "Sharp Edges / Points": 102,
+      "Small Parts / Choking Hazard": 62
     }
   },
   {
     "severity": "Minor",
-    "total": 5121,
+    "total": 5997,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
@@ -1611,7 +1611,7 @@
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 8,
-      "USA": 0,
+      "USA": 876,
       "United Kingdom": 805
     },
     "by_category": {
@@ -2032,7 +2032,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 902,
+      "Other": 1778,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
       "Other - Car Floor Mat": 0,
@@ -2119,33 +2119,33 @@
       "Veterinary Drugs": 25
     },
     "by_hazard_type": {
-      "Allergen": 620,
-      "Chemical / Toxic Substance": 47,
-      "Drowning Risk": 41,
-      "Electrical Fault": 125,
-      "Entrapment": 16,
-      "Explosion": 37,
-      "Flammability / Overheating": 298,
-      "Instability / Fall Risk": 0,
-      "Mechanical Failure": 18,
-      "Microbiological Contamination": 144,
-      "Other": 3565,
+      "Allergen": 622,
+      "Chemical / Toxic Substance": 76,
+      "Drowning Risk": 56,
+      "Electrical Fault": 158,
+      "Entrapment": 25,
+      "Explosion": 49,
+      "Flammability / Overheating": 624,
+      "Instability / Fall Risk": 76,
+      "Mechanical Failure": 85,
+      "Microbiological Contamination": 146,
+      "Other": 3751,
       "Radiation": 10,
-      "Sharp Edges / Points": 10,
-      "Small Parts / Choking Hazard": 190
+      "Sharp Edges / Points": 68,
+      "Small Parts / Choking Hazard": 251
     }
   },
   {
     "severity": "Not Reported",
-    "total": 27635,
+    "total": 27637,
     "total_injuries": 0,
     "by_region": {
       "Australia": 1,
       "Canada": 17913,
       "EU / EEA": 5000,
       "France": 3000,
-      "New Zealand": 1533,
-      "USA": 0,
+      "New Zealand": 1534,
+      "USA": 1,
       "United Kingdom": 188
     },
     "by_category": {
@@ -2439,7 +2439,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 7,
       "Electric Or Gas Productsbuilding Products": 1,
-      "Electrical & Electronics": 1461,
+      "Electrical & Electronics": 1462,
       "Food & Food Contact": 201,
       "Fresh": 1,
       "Frozen": 1,
@@ -2566,7 +2566,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 3505,
+      "Other": 3506,
       "Other - Back Patch, Recovery Tape": 1,
       "Other - Books": 1,
       "Other - Car Floor Mat": 1,
@@ -2659,11 +2659,11 @@
       "Electrical Fault": 1348,
       "Entrapment": 92,
       "Explosion": 40,
-      "Flammability / Overheating": 858,
+      "Flammability / Overheating": 859,
       "Instability / Fall Risk": 315,
       "Mechanical Failure": 40,
       "Microbiological Contamination": 87,
-      "Other": 21439,
+      "Other": 21440,
       "Radiation": 1584,
       "Sharp Edges / Points": 175,
       "Small Parts / Choking Hazard": 517
