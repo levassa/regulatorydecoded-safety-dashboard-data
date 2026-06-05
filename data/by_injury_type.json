@@ -1,13 +1,13 @@
 [
   {
     "injury_type": "Not Specified",
-    "total": 45049,
+    "total": 44964,
     "by_source": {
       "ACCC": 2,
       "CPSC": 327,
-      "EU Safety Gate": 5000,
+      "EU Safety Gate": 4902,
       "FDA": 3272,
-      "Health Canada": 31358,
+      "Health Canada": 31371,
       "NZ Product Safety": 1498,
       "OPSS": 592,
       "RappelConso": 3000
@@ -43,13 +43,13 @@
   },
   {
     "injury_type": "Burns",
-    "total": 645,
+    "total": 646,
     "by_source": {
       "ACCC": 2,
       "CPSC": 358,
       "EU Safety Gate": 0,
       "FDA": 20,
-      "Health Canada": 230,
+      "Health Canada": 231,
       "NZ Product Safety": 12,
       "OPSS": 23,
       "RappelConso": 0

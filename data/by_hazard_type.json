@@ -1,13 +1,13 @@
 [
   {
     "hazard_type": "Other",
-    "total": 35046,
+    "total": 34959,
     "by_source": {
       "ACCC": 0,
       "CPSC": 367,
-      "EU Safety Gate": 5000,
+      "EU Safety Gate": 4902,
       "FDA": 1878,
-      "Health Canada": 23137,
+      "Health Canada": 23148,
       "NZ Product Safety": 1435,
       "OPSS": 229,
       "RappelConso": 3000
@@ -43,13 +43,13 @@
   },
   {
     "hazard_type": "Flammability / Overheating",
-    "total": 1704,
+    "total": 1707,
     "by_source": {
-      "ACCC": 1,
+      "ACCC": 2,
       "CPSC": 491,
       "EU Safety Gate": 0,
       "FDA": 37,
-      "Health Canada": 859,
+      "Health Canada": 861,
       "NZ Product Safety": 21,
       "OPSS": 295,
       "RappelConso": 0
@@ -71,10 +71,10 @@
   },
   {
     "hazard_type": "Electrical Fault",
-    "total": 1645,
+    "total": 1644,
     "by_source": {
       "ACCC": 1,
-      "CPSC": 90,
+      "CPSC": 89,
       "EU Safety Gate": 0,
       "FDA": 69,
       "Health Canada": 1355,
@@ -115,8 +115,8 @@
     "hazard_type": "Mechanical Failure",
     "total": 537,
     "by_source": {
-      "ACCC": 5,
-      "CPSC": 165,
+      "ACCC": 4,
+      "CPSC": 166,
       "EU Safety Gate": 0,
       "FDA": 204,
       "Health Canada": 161,
@@ -141,13 +141,13 @@
   },
   {
     "hazard_type": "Sharp Edges / Points",
-    "total": 425,
+    "total": 426,
     "by_source": {
       "ACCC": 2,
       "CPSC": 176,
       "EU Safety Gate": 0,
       "FDA": 39,
-      "Health Canada": 200,
+      "Health Canada": 201,
       "NZ Product Safety": 8,
       "OPSS": 0,
       "RappelConso": 0

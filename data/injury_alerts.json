@@ -19,25 +19,6 @@
     "reference": "26509"
   },
   {
-    "id": "b260ae101c2a7d5018f29019272a047546f42048",
-    "source": "CPSC",
-    "date": "2026-05-28",
-    "region": "USA",
-    "notifying_country": "United States",
-    "country_of_origin": "",
-    "product_category": "Other",
-    "product_desc": "Talan and Royce Collection Sofas, Loveseats and Recliners",
-    "risk_type": "Fire",
-    "hazard_type": "Electrical Fault",
-    "injury_type": "Burns",
-    "injury_description": "The firm reported 41 incidents, including smoking, burning, and electrical odor smell, two resulting in fire. No injuries reported.",
-    "severity": "Fatal",
-    "injury_flag": true,
-    "injury_count": 0,
-    "corrective_action": "Consumers should stop using the recalled illuminated spheres immediately and contact Bethlehem Lights for a full refund. Consumers should immediately unplug the product from the wall and cut the power cord. To receive a refund, consumers will be asked to email a photo of the product with the cut cord to ribbonsphere@bethlehemlights.com before disposing of it in the garbage.",
-    "reference": "26513"
-  },
-  {
     "id": "956d13c600738ba0e53a940250f7b07adc3ed307",
     "source": "CPSC",
     "date": "2026-05-28",
@@ -9802,6 +9783,25 @@
     "injury_count": 0,
     "corrective_action": "Consumers should stop using the recalled lounge chairs immediately and contact Giantex for a full refund. Consumers will be instructed to either request a prepaid return package or will be asked to destroy the recalled lounge chair by detaching the headrest pillow, cutting the fabric, and providing photographic proof of destruction.",
     "reference": "26512"
+  },
+  {
+    "id": "b260ae101c2a7d5018f29019272a047546f42048",
+    "source": "CPSC",
+    "date": "2026-05-28",
+    "region": "USA",
+    "notifying_country": "United States",
+    "country_of_origin": "",
+    "product_category": "Other",
+    "product_desc": "Talan and Royce Collection Sofas, Loveseats and Recliners",
+    "risk_type": "Fire",
+    "hazard_type": "Mechanical Failure",
+    "injury_type": "Burns",
+    "injury_description": "The firm reported 41 incidents, including smoking, burning, and electrical odor smell, two resulting in fire. No injuries reported.",
+    "severity": "Serious",
+    "injury_flag": true,
+    "injury_count": 0,
+    "corrective_action": "Consumers should stop using the power recliner switch on their furniture set and unplug the power cord immediately then go to http://www.warrantyservice.com/JoyFurnitureRecall to participate in the recall. The firm is offering all consumers a free replacement power recliner switch on the sofa, loveseat, and recliner with an upgraded switch. They will arrange for an authorized technician to replace the affected switches at your residence.",
+    "reference": "26513"
   },
   {
     "id": "fb8caaf869880a5b0f1cb1b8ce6e3ad782dd3cad",

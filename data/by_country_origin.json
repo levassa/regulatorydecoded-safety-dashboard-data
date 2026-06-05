@@ -1,27 +1,27 @@
 [
   {
     "country": "United States",
-    "count": 3760
+    "count": 3767
   },
   {
     "country": "People's Republic of China",
-    "count": 2299
+    "count": 2235
   },
   {
     "country": "Unknown",
-    "count": 584
+    "count": 564
   },
   {
     "country": "Italy",
     "count": 507
   },
   {
-    "country": "Germany",
-    "count": 323
+    "country": "France",
+    "count": 321
   },
   {
-    "country": "France",
-    "count": 317
+    "country": "Germany",
+    "count": 316
   },
   {
     "country": "Spain",
@@ -29,42 +29,42 @@
   },
   {
     "country": "United Kingdom",
-    "count": 98
+    "count": 91
   },
   {
     "country": "Poland",
-    "count": 93
+    "count": 91
   },
   {
     "country": "The Netherlands",
-    "count": 69
+    "count": 62
   },
   {
     "country": "Türkiye",
-    "count": 58
+    "count": 59
   },
   {
     "country": "Japan",
-    "count": 57
+    "count": 56
   },
   {
     "country": "Sweden",
-    "count": 56
+    "count": 54
   },
   {
     "country": "Czechia",
     "count": 39
   },
   {
-    "country": "Hong Kong",
-    "count": 38
-  },
-  {
     "country": "India",
-    "count": 38
+    "count": 36
   },
   {
     "country": "United Arab Emirates",
+    "count": 36
+  },
+  {
+    "country": "Hong Kong",
     "count": 36
   },
   {
@@ -85,7 +85,7 @@
   },
   {
     "country": "Austria",
-    "count": 23
+    "count": 22
   },
   {
     "country": "Pakistan",
@@ -97,7 +97,11 @@
   },
   {
     "country": "Belgium",
-    "count": 21
+    "count": 20
+  },
+  {
+    "country": "Denmark",
+    "count": 19
   },
   {
     "country": "Netherlands",
@@ -105,11 +109,7 @@
   },
   {
     "country": "Hungary",
-    "count": 18
-  },
-  {
-    "country": "Denmark",
-    "count": 18
+    "count": 17
   },
   {
     "country": "Brazil",

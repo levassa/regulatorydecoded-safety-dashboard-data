@@ -1,13 +1,13 @@
 [
   {
     "risk_type": "Other",
-    "count": 14995,
-    "percentage": 29.8
+    "count": 14897,
+    "percentage": 29.7
   },
   {
     "risk_type": "Medical Devices",
     "count": 4796,
-    "percentage": 9.5
+    "percentage": 9.6
   },
   {
     "risk_type": "Product Safety",
@@ -16,12 +16,12 @@
   },
   {
     "risk_type": "Fire",
-    "count": 1663,
+    "count": 1666,
     "percentage": 3.3
   },
   {
     "risk_type": "Performance",
-    "count": 1338,
+    "count": 1344,
     "percentage": 2.7
   },
   {
@@ -71,12 +71,12 @@
   },
   {
     "risk_type": "Seats And Restraints",
-    "count": 654,
+    "count": 655,
     "percentage": 1.3
   },
   {
     "risk_type": "Airbag",
-    "count": 631,
+    "count": 632,
     "percentage": 1.3
   },
   {
@@ -101,7 +101,7 @@
   },
   {
     "risk_type": "Labelling And Packaging",
-    "count": 511,
+    "count": 512,
     "percentage": 1.0
   },
   {
@@ -151,7 +151,7 @@
   },
   {
     "risk_type": "Visual System",
-    "count": 341,
+    "count": 342,
     "percentage": 0.7
   },
   {
@@ -161,7 +161,7 @@
   },
   {
     "risk_type": "Product Quality",
-    "count": 303,
+    "count": 304,
     "percentage": 0.6
   },
   {
@@ -306,7 +306,7 @@
   },
   {
     "risk_type": "Unauthorised Device",
-    "count": 63,
+    "count": 64,
     "percentage": 0.1
   },
   {
@@ -375,17 +375,17 @@
     "percentage": 0.1
   },
   {
-    "risk_type": "Environmental",
-    "count": 30,
-    "percentage": 0.1
-  },
-  {
     "risk_type": "Entrapment Hazard",
     "count": 30,
     "percentage": 0.1
   },
   {
     "risk_type": "Ingestion Hazard",
+    "count": 29,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Environmental",
     "count": 29,
     "percentage": 0.1
   },
