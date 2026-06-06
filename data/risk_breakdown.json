@@ -1,13 +1,13 @@
 [
   {
     "risk_type": "Other",
-    "count": 14897,
-    "percentage": 29.7
+    "count": 14995,
+    "percentage": 29.8
   },
   {
     "risk_type": "Medical Devices",
     "count": 4796,
-    "percentage": 9.6
+    "percentage": 9.5
   },
   {
     "risk_type": "Product Safety",
@@ -16,7 +16,7 @@
   },
   {
     "risk_type": "Fire",
-    "count": 1666,
+    "count": 1669,
     "percentage": 3.3
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "risk_type": "Injury",
-    "count": 890,
+    "count": 895,
     "percentage": 1.8
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "risk_type": "Structure",
-    "count": 882,
+    "count": 883,
     "percentage": 1.8
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "risk_type": "Choking",
-    "count": 747,
+    "count": 750,
     "percentage": 1.5
   },
   {
@@ -76,12 +76,12 @@
   },
   {
     "risk_type": "Airbag",
-    "count": 632,
+    "count": 634,
     "percentage": 1.3
   },
   {
     "risk_type": "Lights And Instruments",
-    "count": 616,
+    "count": 618,
     "percentage": 1.2
   },
   {
@@ -91,17 +91,17 @@
   },
   {
     "risk_type": "Powertrain",
-    "count": 591,
+    "count": 592,
     "percentage": 1.2
   },
   {
     "risk_type": "Chemical",
-    "count": 572,
+    "count": 571,
     "percentage": 1.1
   },
   {
     "risk_type": "Labelling And Packaging",
-    "count": 512,
+    "count": 513,
     "percentage": 1.0
   },
   {
@@ -131,18 +131,18 @@
   },
   {
     "risk_type": "Suspension",
-    "count": 395,
+    "count": 396,
     "percentage": 0.8
   },
   {
     "risk_type": "Label",
-    "count": 381,
+    "count": 382,
     "percentage": 0.8
   },
   {
     "risk_type": "Physical Hazard",
     "count": 377,
-    "percentage": 0.8
+    "percentage": 0.7
   },
   {
     "risk_type": "Fuel Supply",
@@ -176,7 +176,7 @@
   },
   {
     "risk_type": "Burns",
-    "count": 248,
+    "count": 247,
     "percentage": 0.5
   },
   {
@@ -256,7 +256,7 @@
   },
   {
     "risk_type": "Microbial Hazard",
-    "count": 82,
+    "count": 83,
     "percentage": 0.2
   },
   {
@@ -311,7 +311,7 @@
   },
   {
     "risk_type": "Drowning",
-    "count": 55,
+    "count": 57,
     "percentage": 0.1
   },
   {
@@ -500,12 +500,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Potential Salmonella",
-    "count": 16,
+    "risk_type": "Fish",
+    "count": 17,
     "percentage": 0.0
   },
   {
-    "risk_type": "Fish",
+    "risk_type": "Potential Salmonella",
     "count": 16,
     "percentage": 0.0
   },
@@ -550,6 +550,11 @@
     "percentage": 0.0
   },
   {
+    "risk_type": "Consumer Products",
+    "count": 14,
+    "percentage": 0.0
+  },
+  {
     "risk_type": "Medline Has Identified Issues Related To Calibration Of The Equipment Used To Sterilize And Package The Devices. All Products Were Exposed To The Validated Sterilization And Packaging Cycles; However, The Identified Calibration Issues Have The Potential To Impact The Sterility Assurance Level (Sal) Of The Recalled Products.",
     "count": 13,
     "percentage": 0.0
@@ -566,11 +571,6 @@
   },
   {
     "risk_type": "Labelling - Product Safety",
-    "count": 13,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Consumer Products",
     "count": 13,
     "percentage": 0.0
   },
@@ -7840,7 +7840,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Ktl 2Pc Balloon Dog Toy Presenting A Risk To Health.",
+    "risk_type": "Product Recall For Ktl 2.2Kg Squishy Hot Colour Gorilla Toy Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
@@ -10740,6 +10740,11 @@
     "percentage": 0.0
   },
   {
+    "risk_type": "Product Recall For Handlebar Stem On Mirider 24 Bicycles Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
     "risk_type": "Product Recall For Head Sport Gmbh Head Yellow Ski Boots Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
@@ -10775,12 +10780,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Hobbycraft Sand And Pom Pom Art Kit Presenting A Health Risk.",
+    "risk_type": "Labelling And Packaging - Dosage",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Labelling And Packaging - Dosage",
+    "risk_type": "Product Recall For Home Bargains Happy Easter Plush Toys Presenting A Serious Risk Of Asphyxiation.",
     "count": 1,
     "percentage": 0.0
   },
@@ -10820,12 +10825,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Joolz Hub Pram Presenting A High Risk Of Injuries.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Product Recall For Home Bargains Happy Easter Plush Toys Presenting A Serious Risk Of Asphyxiation.",
+    "risk_type": "Product Recall For Hobbycraft Sand And Pom Pom Art Kit Presenting A Health Risk.",
     "count": 1,
     "percentage": 0.0
   },
@@ -10870,7 +10870,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Handlebar Stem On Mirider 24 Bicycles Presenting A Risk Of Injuries.",
+    "risk_type": "Product Recall For Halfords Essentials Nyala R129 Car Seat Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Eovolt Afternoon Twenty V0 Bicycles Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -10910,12 +10915,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Halfords Essentials Nyala R129 Car Seat Presenting A Risk Of Injuries.",
+    "risk_type": "Product Recall For Endless Pools Retractable Pool Cover Presenting A Risk Of Entrapment.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Endless Pools Retractable Pool Cover Presenting A Risk Of Entrapment.",
+    "risk_type": "Product Recall For Makita Cordless Grease Gun Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -10955,12 +10960,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For My Living World Worm Kit Presenting A Health Risk.",
+    "risk_type": "Product Recall For Joolz Hub Pram Presenting A High Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Kids Create Sand Art Kit Presenting A Risk To Health.",
+    "risk_type": "Product Recall For Next Core 5Lt Flush Ceiling Light Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -10995,27 +11000,27 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Petzl Swan Easyfit Climbing Harnesses Resenting A Serious Risk Of Injuries.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
     "risk_type": "Product Recall For Pieps Pro Ips And Pieps Set Pro Ips Avalanche Transceiver Presenting A Risk Of Entrapment.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Next Core 5Lt Flush Ceiling Light Presenting A Risk Of Injuries.",
+    "risk_type": "Product Recall For My Living World Worm Kit Presenting A Health Risk.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Ktl 2.2Kg Squishy Hot Colour Gorilla Toy Presenting A Risk To Health.",
+    "risk_type": "Product Recall For Kids Create Sand Art Kit Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
   {
     "risk_type": "A Defect In The Wheel Can Compromise The Wheel'S Structural Integrity, Posing A Crash Hazard.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Ktl 2Pc Balloon Dog Toy Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11045,12 +11050,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Ktl Squishy Stretchy Capybara Toy Presenting A Risk To Health.",
+    "risk_type": "Product Recall For Magnetic Effect Chess Intelligence Strategy Game Sold Via Tiktok Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Makita Cordless Grease Gun Presenting A Risk Of Injuries.",
+    "risk_type": "Product Recall For Ktl Stretchy Dog Toys Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11095,12 +11100,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Magnetic Effect Chess Intelligence Strategy Game Sold Via Tiktok Presenting A Serious Risk Of Injuries.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Product Recall For Ktl Stretchy Dog Toys Presenting A Risk To Health.",
+    "risk_type": "Product Recall For Ktl Squishy Stretchy Capybara Toy Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
