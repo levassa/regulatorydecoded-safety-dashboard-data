@@ -113,13 +113,13 @@
   },
   {
     "product_category": "Suv",
-    "total": 1417,
+    "total": 1418,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 1417,
+      "Health Canada": 1418,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -141,13 +141,13 @@
   },
   {
     "product_category": "Furniture & Home",
-    "total": 1120,
+    "total": 1121,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 27,
       "FDA": 0,
-      "Health Canada": 931,
+      "Health Canada": 932,
       "NZ Product Safety": 162,
       "OPSS": 0,
       "RappelConso": 0

@@ -2133,11 +2133,11 @@
   },
   {
     "severity": "Not Reported",
-    "total": 27654,
+    "total": 27656,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
-      "Canada": 17932,
+      "Canada": 17934,
       "EU / EEA": 5000,
       "France": 3000,
       "New Zealand": 1534,
@@ -2440,7 +2440,7 @@
       "Frozen": 1,
       "Frozen - Herbs And Spices": 0,
       "Fruits And Vegetables": 1,
-      "Furniture & Home": 1118,
+      "Furniture & Home": 1119,
       "Gadgets": 16,
       "Games And Puzzles": 0,
       "Gastroenterology And Urology": 0,
@@ -2613,7 +2613,7 @@
       "Specialized Products - Other": 2,
       "Sports & Leisure": 867,
       "Stationery": 10,
-      "Suv": 1417,
+      "Suv": 1418,
       "Suv - Car": 133,
       "Suv - Car - Light Truck & Van": 5,
       "Suv - Car - Minivan - Light Truck & Van": 1,
@@ -2658,8 +2658,8 @@
       "Instability / Fall Risk": 315,
       "Mechanical Failure": 39,
       "Microbiological Contamination": 87,
-      "Other": 21458,
-      "Radiation": 1580,
+      "Other": 21454,
+      "Radiation": 1586,
       "Sharp Edges / Points": 176,
       "Small Parts / Choking Hazard": 518
     }
