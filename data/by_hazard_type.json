@@ -1,14 +1,14 @@
 [
   {
     "hazard_type": "Other",
-    "total": 35071,
+    "total": 35065,
     "by_source": {
       "ACCC": 0,
       "CPSC": 370,
-      "EU Safety Gate": 5000,
+      "EU Safety Gate": 4991,
       "FDA": 1878,
-      "Health Canada": 23159,
-      "NZ Product Safety": 1435,
+      "Health Canada": 23161,
+      "NZ Product Safety": 1436,
       "OPSS": 229,
       "RappelConso": 3000
     }
@@ -29,7 +29,7 @@
   },
   {
     "hazard_type": "Microbiological Contamination",
-    "total": 2734,
+    "total": 2733,
     "by_source": {
       "ACCC": 0,
       "CPSC": 11,
@@ -37,7 +37,7 @@
       "FDA": 849,
       "Health Canada": 1866,
       "NZ Product Safety": 1,
-      "OPSS": 7,
+      "OPSS": 6,
       "RappelConso": 0
     }
   },
@@ -57,13 +57,13 @@
   },
   {
     "hazard_type": "Radiation",
-    "total": 1677,
+    "total": 1678,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 49,
-      "Health Canada": 1612,
+      "Health Canada": 1613,
       "NZ Product Safety": 16,
       "OPSS": 0,
       "RappelConso": 0
@@ -85,7 +85,7 @@
   },
   {
     "hazard_type": "Chemical / Toxic Substance",
-    "total": 1029,
+    "total": 1030,
     "by_source": {
       "ACCC": 1,
       "CPSC": 162,
@@ -93,7 +93,7 @@
       "FDA": 191,
       "Health Canada": 577,
       "NZ Product Safety": 16,
-      "OPSS": 82,
+      "OPSS": 83,
       "RappelConso": 0
     }
   },

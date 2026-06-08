@@ -1,7 +1,7 @@
 [
   {
     "risk_type": "Other",
-    "count": 14995,
+    "count": 14987,
     "percentage": 29.8
   },
   {
@@ -56,7 +56,7 @@
   },
   {
     "risk_type": "Contamination",
-    "count": 734,
+    "count": 733,
     "percentage": 1.5
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "risk_type": "Seats And Restraints",
-    "count": 655,
+    "count": 657,
     "percentage": 1.3
   },
   {
@@ -96,7 +96,7 @@
   },
   {
     "risk_type": "Chemical",
-    "count": 571,
+    "count": 572,
     "percentage": 1.1
   },
   {
@@ -131,7 +131,7 @@
   },
   {
     "risk_type": "Suspension",
-    "count": 396,
+    "count": 397,
     "percentage": 0.8
   },
   {
@@ -10920,6 +10920,11 @@
     "percentage": 0.0
   },
   {
+    "risk_type": "Product Recall For Magnetic Effect Chess Intelligence Strategy Game Sold Via Tiktok Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
     "risk_type": "Product Recall For Makita Cordless Grease Gun Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
@@ -10955,12 +10960,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Multi-Colour Ultra-Fine Quartz Sand Presenting A Risk To Health.",
+    "risk_type": "Product Recall For Joolz Hub Pram Presenting A High Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Joolz Hub Pram Presenting A High Risk Of Injuries.",
+    "risk_type": "Product Recall For My Living World Worm Kit Presenting A Health Risk.",
     "count": 1,
     "percentage": 0.0
   },
@@ -10995,17 +11000,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Petzl Newton Climbing Harnesses Presenting A Serious Risk Of Injuries.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
     "risk_type": "Product Recall For Pieps Pro Ips And Pieps Set Pro Ips Avalanche Transceiver Presenting A Risk Of Entrapment.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For My Living World Worm Kit Presenting A Health Risk.",
+    "risk_type": "Product Recall For Multi-Colour Ultra-Fine Quartz Sand Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11035,6 +11035,11 @@
     "percentage": 0.0
   },
   {
+    "risk_type": "Product Recall For Ktl Glitter And Glow Magical Sand Art Kit Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
     "risk_type": "Product Recall For Ktl Kreative Kids! Jumbo Craft Box Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
@@ -11045,12 +11050,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Ktl Squeezy Splatter Pig Toy Presenting A Risk To Health.",
+    "risk_type": "Product Recall For M.Asam Vitamin C Glow Ampullens Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Magnetic Effect Chess Intelligence Strategy Game Sold Via Tiktok Presenting A Serious Risk Of Injuries.",
+    "risk_type": "Product Recall For Ktl Squishy Stretchy Capybara Toy Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11095,12 +11100,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For M.Asam Vitamin C Glow Ampullens Presenting A Risk Of Injuries.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Product Recall For Ktl Squishy Stretchy Capybara Toy Presenting A Risk To Health.",
+    "risk_type": "Product Recall For Ktl Squeezy Splatter Pig Toy Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
