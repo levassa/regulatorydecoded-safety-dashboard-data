@@ -57,11 +57,11 @@
   },
   {
     "product_category": "Toys & Childcare",
-    "total": 2168,
+    "total": 2171,
     "by_source": {
       "ACCC": 6,
       "CPSC": 0,
-      "EU Safety Gate": 970,
+      "EU Safety Gate": 973,
       "FDA": 0,
       "Health Canada": 742,
       "NZ Product Safety": 450,
@@ -71,11 +71,11 @@
   },
   {
     "product_category": "Cosmetics & Personal Care",
-    "total": 1840,
+    "total": 1839,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
-      "EU Safety Gate": 1595,
+      "EU Safety Gate": 1594,
       "FDA": 0,
       "Health Canada": 198,
       "NZ Product Safety": 47,
@@ -99,11 +99,11 @@
   },
   {
     "product_category": "Electrical & Electronics",
-    "total": 1475,
+    "total": 1479,
     "by_source": {
-      "ACCC": 6,
+      "ACCC": 7,
       "CPSC": 0,
-      "EU Safety Gate": 810,
+      "EU Safety Gate": 813,
       "FDA": 0,
       "Health Canada": 421,
       "NZ Product Safety": 238,
@@ -253,11 +253,11 @@
   },
   {
     "product_category": "Chemicals",
-    "total": 599,
+    "total": 600,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
-      "EU Safety Gate": 222,
+      "EU Safety Gate": 223,
       "FDA": 0,
       "Health Canada": 367,
       "NZ Product Safety": 10,
@@ -393,11 +393,11 @@
   },
   {
     "product_category": "Jewellery",
-    "total": 207,
+    "total": 208,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
-      "EU Safety Gate": 113,
+      "EU Safety Gate": 114,
       "FDA": 0,
       "Health Canada": 94,
       "NZ Product Safety": 0,
@@ -771,11 +771,11 @@
   },
   {
     "product_category": "Pyrotechnic Articles",
-    "total": 51,
+    "total": 52,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
-      "EU Safety Gate": 51,
+      "EU Safety Gate": 52,
       "FDA": 0,
       "Health Canada": 0,
       "NZ Product Safety": 0,
@@ -2002,14 +2002,14 @@
     }
   },
   {
-    "product_category": "Kitchenware And Containers",
+    "product_category": "Chemistry - Immunology",
     "total": 3,
     "by_source": {
-      "ACCC": 3,
+      "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 0,
+      "Health Canada": 3,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -2058,7 +2058,7 @@
     }
   },
   {
-    "product_category": "Chemistry - Immunology",
+    "product_category": "Light Truck & Van - Car - Suv",
     "total": 3,
     "by_source": {
       "ACCC": 0,
@@ -2086,14 +2086,14 @@
     }
   },
   {
-    "product_category": "Light Truck & Van - Car - Suv",
-    "total": 3,
+    "product_category": "Processed - Canned",
+    "total": 2,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 3,
+      "Health Canada": 2,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -2114,7 +2114,7 @@
     }
   },
   {
-    "product_category": "Processed - Canned",
+    "product_category": "Radiology - Anaesthesiology",
     "total": 2,
     "by_source": {
       "ACCC": 0,
@@ -2170,7 +2170,7 @@
     }
   },
   {
-    "product_category": "Radiology - Anaesthesiology",
+    "product_category": "Anaesthesiology - Neurology",
     "total": 2,
     "by_source": {
       "ACCC": 0,
@@ -2282,7 +2282,7 @@
     }
   },
   {
-    "product_category": "Anaesthesiology - Neurology",
+    "product_category": "Ear, Nose And Throat - General And Plastic Surgery - General Hospital And Personal Use",
     "total": 2,
     "by_source": {
       "ACCC": 0,
@@ -2290,6 +2290,20 @@
       "EU Safety Gate": 0,
       "FDA": 0,
       "Health Canada": 2,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Kitchenware And Containers",
+    "total": 2,
+    "by_source": {
+      "ACCC": 2,
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 0,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -2310,20 +2324,6 @@
     }
   },
   {
-    "product_category": "Light Truck & Van - Chassis Cab - Truck - Med. & H.D.",
-    "total": 2,
-    "by_source": {
-      "ACCC": 0,
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 2,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
     "product_category": "Haematology - Pathology",
     "total": 2,
     "by_source": {
@@ -2338,7 +2338,7 @@
     }
   },
   {
-    "product_category": "Ear, Nose And Throat - General And Plastic Surgery - General Hospital And Personal Use",
+    "product_category": "Light Truck & Van - Chassis Cab - Truck - Med. & H.D.",
     "total": 2,
     "by_source": {
       "ACCC": 0,

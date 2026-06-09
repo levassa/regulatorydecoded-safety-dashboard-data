@@ -292,7 +292,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 0,
       "Electric Or Gas Productsbuilding Products": 0,
-      "Electrical & Electronics": 6,
+      "Electrical & Electronics": 7,
       "Food & Food Contact": 0,
       "Fresh": 0,
       "Frozen": 0,
@@ -351,7 +351,7 @@
       "Immunology": 0,
       "Jewellery": 0,
       "Kitchen/Cooking Accessories": 0,
-      "Kitchenware And Containers": 3,
+      "Kitchenware And Containers": 2,
       "Kitchenware And Tableware": 0,
       "Koru3 March 2014Tyco, Vigilant Mx4428 And F4000 Fire Indicator Panels": 0,
       "Koruamoxicillin Actavis - Powder For Oral Suspension; Glass Fragments Found In Two Bottles": 0,
@@ -507,11 +507,11 @@
       "Veterinary Drugs": 0
     },
     "by_severity": {
-      "Fatal": 17,
+      "Fatal": 18,
       "Minor": 1,
       "Moderate": 0,
       "Not Reported": 0,
-      "Serious": 7
+      "Serious": 6
     }
   },
   {
@@ -1031,7 +1031,7 @@
   },
   {
     "region": "EU / EEA",
-    "total": 4991,
+    "total": 4999,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -1277,7 +1277,7 @@
       "Chassis Cab - Suv - Light Truck & Van - Truck - Med. & H.D.": 0,
       "Chassis Cab - Truck - Med. & H.D.": 0,
       "Chassis Cab - Truck - Med. & H.D. - Light Truck & Van": 0,
-      "Chemicals": 222,
+      "Chemicals": 223,
       "Chemistry": 0,
       "Chemistry - Gastroenterology And Urology": 0,
       "Chemistry - General Hospital And Personal Use": 0,
@@ -1293,7 +1293,7 @@
       "Consumer Products": 0,
       "Consumer Products - Drugs": 0,
       "Consumer Products - Natural Health Products": 0,
-      "Cosmetics & Personal Care": 1595,
+      "Cosmetics & Personal Care": 1594,
       "Dairy": 0,
       "Dairy - Other": 0,
       "Decorations, Candles And Novelties": 0,
@@ -1322,7 +1322,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 0,
       "Electric Or Gas Productsbuilding Products": 0,
-      "Electrical & Electronics": 810,
+      "Electrical & Electronics": 813,
       "Food & Food Contact": 0,
       "Fresh": 0,
       "Frozen": 0,
@@ -1379,7 +1379,7 @@
       "Household Items - Specialized Products": 0,
       "Household Items - Veterinary Drugs": 0,
       "Immunology": 0,
-      "Jewellery": 113,
+      "Jewellery": 114,
       "Kitchen/Cooking Accessories": 45,
       "Kitchenware And Containers": 0,
       "Kitchenware And Tableware": 0,
@@ -1480,7 +1480,7 @@
       "Processed - Frozen": 0,
       "Processed - Fruits And Vegetables": 0,
       "Processed - Fruits And Vegetables - Egg Products": 0,
-      "Pyrotechnic Articles": 51,
+      "Pyrotechnic Articles": 52,
       "Radiology": 0,
       "Radiology - Anaesthesiology": 0,
       "Radiology - Cardiovascular": 0,
@@ -1517,7 +1517,7 @@
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
       "Tools & Machinery": 259,
-      "Toys & Childcare": 970,
+      "Toys & Childcare": 973,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
       "Truck - Med. & H.D. - Bus": 0,
@@ -1540,7 +1540,7 @@
       "Fatal": 0,
       "Minor": 0,
       "Moderate": 0,
-      "Not Reported": 4991,
+      "Not Reported": 4999,
       "Serious": 0
     }
   },

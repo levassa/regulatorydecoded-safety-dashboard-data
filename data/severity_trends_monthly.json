@@ -2069,7 +2069,7 @@
     "Minor": 62,
     "Moderate": 68,
     "Not Reported": 27,
-    "Serious": 83
+    "Serious": 82
   },
   {
     "month": "2020-02",
@@ -2668,7 +2668,7 @@
     "Fatal": 48,
     "Minor": 72,
     "Moderate": 53,
-    "Not Reported": 461,
+    "Not Reported": 466,
     "Serious": 27
   },
   {
@@ -2676,7 +2676,7 @@
     "Fatal": 30,
     "Minor": 61,
     "Moderate": 55,
-    "Not Reported": 400,
+    "Not Reported": 403,
     "Serious": 22
   },
   {
