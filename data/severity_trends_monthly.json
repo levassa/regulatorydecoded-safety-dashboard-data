@@ -2676,13 +2676,13 @@
     "Fatal": 30,
     "Minor": 61,
     "Moderate": 55,
-    "Not Reported": 403,
+    "Not Reported": 404,
     "Serious": 22
   },
   {
     "month": "2026-06",
     "Fatal": 5,
-    "Minor": 22,
+    "Minor": 24,
     "Moderate": 10,
     "Not Reported": 128,
     "Serious": 3

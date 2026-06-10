@@ -1,10 +1,10 @@
 [
   {
     "severity": "Fatal",
-    "total": 569,
+    "total": 568,
     "total_injuries": 0,
     "by_region": {
-      "Australia": 18,
+      "Australia": 17,
       "Canada": 0,
       "EU / EEA": 0,
       "France": 0,
@@ -302,7 +302,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 0,
       "Electric Or Gas Productsbuilding Products": 0,
-      "Electrical & Electronics": 6,
+      "Electrical & Electronics": 5,
       "Food & Food Contact": 6,
       "Fresh": 0,
       "Frozen": 0,
@@ -530,15 +530,15 @@
       "Other": 113,
       "Radiation": 0,
       "Sharp Edges / Points": 19,
-      "Small Parts / Choking Hazard": 90
+      "Small Parts / Choking Hazard": 89
     }
   },
   {
     "severity": "Serious",
-    "total": 6908,
+    "total": 6909,
     "total_injuries": 0,
     "by_region": {
-      "Australia": 6,
+      "Australia": 7,
       "Canada": 2857,
       "EU / EEA": 0,
       "France": 0,
@@ -836,7 +836,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 0,
       "Electric Or Gas Productsbuilding Products": 0,
-      "Electrical & Electronics": 1,
+      "Electrical & Electronics": 2,
       "Food & Food Contact": 3630,
       "Fresh": 38,
       "Frozen": 33,
@@ -1057,7 +1057,7 @@
       "Electrical Fault": 71,
       "Entrapment": 14,
       "Explosion": 69,
-      "Flammability / Overheating": 48,
+      "Flammability / Overheating": 49,
       "Instability / Fall Risk": 26,
       "Mechanical Failure": 220,
       "Microbiological Contamination": 1777,
@@ -1603,11 +1603,11 @@
   },
   {
     "severity": "Minor",
-    "total": 6000,
+    "total": 6002,
     "total_injuries": 0,
     "by_region": {
       "Australia": 1,
-      "Canada": 4308,
+      "Canada": 4310,
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 8,
@@ -1886,7 +1886,7 @@
       "Dental - General Hospital And Personal Use": 0,
       "Dental - Orthopaedics - General And Plastic Surgery": 0,
       "Dolls And Doll Houses": 0,
-      "Drugs": 434,
+      "Drugs": 436,
       "Drugs - Biologic Or Vaccine": 0,
       "Drugs - Cannabis": 0,
       "Drugs - Natural Health Products": 1,
@@ -2127,9 +2127,9 @@
       "Explosion": 49,
       "Flammability / Overheating": 625,
       "Instability / Fall Risk": 76,
-      "Mechanical Failure": 85,
+      "Mechanical Failure": 86,
       "Microbiological Contamination": 146,
-      "Other": 3751,
+      "Other": 3752,
       "Radiation": 10,
       "Sharp Edges / Points": 68,
       "Small Parts / Choking Hazard": 253
@@ -2137,14 +2137,14 @@
   },
   {
     "severity": "Not Reported",
-    "total": 27660,
+    "total": 27662,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
       "Canada": 17937,
-      "EU / EEA": 4999,
+      "EU / EEA": 5000,
       "France": 3000,
-      "New Zealand": 1535,
+      "New Zealand": 1536,
       "USA": 1,
       "United Kingdom": 188
     },
@@ -2409,7 +2409,7 @@
       "Consumer Products": 30,
       "Consumer Products - Drugs": 7,
       "Consumer Products - Natural Health Products": 1,
-      "Cosmetics & Personal Care": 1839,
+      "Cosmetics & Personal Care": 1840,
       "Dairy": 0,
       "Dairy - Other": 0,
       "Decorations, Candles And Novelties": 0,
@@ -2444,7 +2444,7 @@
       "Frozen": 1,
       "Frozen - Herbs And Spices": 0,
       "Fruits And Vegetables": 1,
-      "Furniture & Home": 1119,
+      "Furniture & Home": 1120,
       "Gadgets": 16,
       "Games And Puzzles": 0,
       "Gastroenterology And Urology": 0,
@@ -2663,7 +2663,7 @@
       "Instability / Fall Risk": 315,
       "Mechanical Failure": 39,
       "Microbiological Contamination": 86,
-      "Other": 21457,
+      "Other": 21459,
       "Radiation": 1587,
       "Sharp Edges / Points": 176,
       "Small Parts / Choking Hazard": 518

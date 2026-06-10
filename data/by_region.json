@@ -507,16 +507,16 @@
       "Veterinary Drugs": 0
     },
     "by_severity": {
-      "Fatal": 18,
+      "Fatal": 17,
       "Minor": 1,
       "Moderate": 0,
       "Not Reported": 0,
-      "Serious": 6
+      "Serious": 7
     }
   },
   {
     "region": "Canada",
-    "total": 33631,
+    "total": 33633,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -789,7 +789,7 @@
       "Dental - General Hospital And Personal Use": 2,
       "Dental - Orthopaedics - General And Plastic Surgery": 1,
       "Dolls And Doll Houses": 0,
-      "Drugs": 2766,
+      "Drugs": 2768,
       "Drugs - Biologic Or Vaccine": 8,
       "Drugs - Cannabis": 1,
       "Drugs - Natural Health Products": 72,
@@ -1023,7 +1023,7 @@
     },
     "by_severity": {
       "Fatal": 0,
-      "Minor": 4308,
+      "Minor": 4310,
       "Moderate": 8529,
       "Not Reported": 17937,
       "Serious": 2857
@@ -1031,7 +1031,7 @@
   },
   {
     "region": "EU / EEA",
-    "total": 4999,
+    "total": 5000,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -1293,7 +1293,7 @@
       "Consumer Products": 0,
       "Consumer Products - Drugs": 0,
       "Consumer Products - Natural Health Products": 0,
-      "Cosmetics & Personal Care": 1594,
+      "Cosmetics & Personal Care": 1595,
       "Dairy": 0,
       "Dairy - Other": 0,
       "Decorations, Candles And Novelties": 0,
@@ -1540,7 +1540,7 @@
       "Fatal": 0,
       "Minor": 0,
       "Moderate": 0,
-      "Not Reported": 4999,
+      "Not Reported": 5000,
       "Serious": 0
     }
   },
@@ -2061,7 +2061,7 @@
   },
   {
     "region": "New Zealand",
-    "total": 1547,
+    "total": 1548,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 1,
@@ -2358,7 +2358,7 @@
       "Frozen": 0,
       "Frozen - Herbs And Spices": 0,
       "Fruits And Vegetables": 0,
-      "Furniture & Home": 162,
+      "Furniture & Home": 163,
       "Gadgets": 0,
       "Games And Puzzles": 0,
       "Gastroenterology And Urology": 0,
@@ -2570,7 +2570,7 @@
       "Fatal": 1,
       "Minor": 8,
       "Moderate": 0,
-      "Not Reported": 1535,
+      "Not Reported": 1536,
       "Serious": 3
     }
   },

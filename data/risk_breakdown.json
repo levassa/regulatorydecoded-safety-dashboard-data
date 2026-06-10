@@ -1,7 +1,7 @@
 [
   {
     "risk_type": "Other",
-    "count": 14995,
+    "count": 14997,
     "percentage": 29.8
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "risk_type": "Fire",
-    "count": 1669,
+    "count": 1670,
     "percentage": 3.3
   },
   {
@@ -176,7 +176,7 @@
   },
   {
     "risk_type": "Burns",
-    "count": 247,
+    "count": 246,
     "percentage": 0.5
   },
   {
@@ -192,7 +192,7 @@
   {
     "risk_type": "Unauthorized Product",
     "count": 176,
-    "percentage": 0.4
+    "percentage": 0.3
   },
   {
     "risk_type": "Sulphites",
@@ -440,6 +440,11 @@
     "percentage": 0.0
   },
   {
+    "risk_type": "Packaging",
+    "count": 23,
+    "percentage": 0.0
+  },
+  {
     "risk_type": "Ready To Eat Salad Products Containing Iceberg Lettuce, Red Cabbage And/Or Carrot Ingredients Are Recalled Due To A Possible Health Risk From Cyclospora.",
     "count": 23,
     "percentage": 0.0
@@ -447,11 +452,6 @@
   {
     "risk_type": "Marine Biotoxin",
     "count": 22,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Packaging",
-    "count": 21,
     "percentage": 0.0
   },
   {
