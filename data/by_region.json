@@ -516,7 +516,7 @@
   },
   {
     "region": "Canada",
-    "total": 33633,
+    "total": 33637,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -565,7 +565,7 @@
       "A.T.V. - Motorcycle": 1,
       "A.T.V. - Truck - Med. & H.D.": 1,
       "Alcoholic": 21,
-      "Anaesthesiology": 146,
+      "Anaesthesiology": 147,
       "Anaesthesiology - Cardiovascular": 5,
       "Anaesthesiology - Cardiovascular - General And Plastic Surgery - General Hospital And Personal Use - Obstetrics And Gynaecology - Orthopaedics": 1,
       "Anaesthesiology - Cardiovascular - General Hospital And Personal Use": 1,
@@ -722,7 +722,7 @@
       "Bus - School Bus - Truck - Med. & H.D.": 5,
       "Bus - Truck - Med. & H.D.": 14,
       "Bus - Truck - Med. & H.D. - School Bus": 1,
-      "Candy, Confectionary, Snacks And Sweeteners": 164,
+      "Candy, Confectionary, Snacks And Sweeteners": 165,
       "Candy, Confectionary, Snacks And Sweeteners - Nuts, Grains, And Seeds": 5,
       "Cannabis": 95,
       "Canned": 5,
@@ -859,7 +859,7 @@
       "Hobby And Craft Items - Household Items - Other": 1,
       "Hobby And Craft Items - Jewellery": 1,
       "Hobby And Craft Items - Other": 5,
-      "Household Items": 1258,
+      "Household Items": 1259,
       "Household Items - Other": 122,
       "Household Items - Specialized Products": 15,
       "Household Items - Veterinary Drugs": 1,
@@ -1002,7 +1002,7 @@
       "Suv - Truck - Med. & H.D.": 1,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 1,
       "Tools & Machinery": 495,
-      "Toys & Childcare": 742,
+      "Toys & Childcare": 743,
       "Truck - Med. & H.D.": 964,
       "Truck - Med. & H.D. - A.T.V.": 1,
       "Truck - Med. & H.D. - Bus": 5,
@@ -1024,9 +1024,9 @@
     "by_severity": {
       "Fatal": 0,
       "Minor": 4310,
-      "Moderate": 8529,
-      "Not Reported": 17937,
-      "Serious": 2857
+      "Moderate": 8530,
+      "Not Reported": 17939,
+      "Serious": 2858
     }
   },
   {
@@ -2061,7 +2061,7 @@
   },
   {
     "region": "New Zealand",
-    "total": 1548,
+    "total": 1549,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 1,
@@ -2352,7 +2352,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 7,
       "Electric Or Gas Productsbuilding Products": 1,
-      "Electrical & Electronics": 238,
+      "Electrical & Electronics": 239,
       "Food & Food Contact": 2,
       "Fresh": 0,
       "Frozen": 0,
@@ -2570,7 +2570,7 @@
       "Fatal": 1,
       "Minor": 8,
       "Moderate": 0,
-      "Not Reported": 1536,
+      "Not Reported": 1537,
       "Serious": 3
     }
   },
@@ -3598,9 +3598,9 @@
     },
     "by_severity": {
       "Fatal": 5,
-      "Minor": 805,
+      "Minor": 806,
       "Moderate": 0,
-      "Not Reported": 188,
+      "Not Reported": 187,
       "Serious": 2
     }
   }

@@ -535,11 +535,11 @@
   },
   {
     "severity": "Serious",
-    "total": 6909,
+    "total": 6910,
     "total_injuries": 0,
     "by_region": {
       "Australia": 7,
-      "Canada": 2857,
+      "Canada": 2858,
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 3,
@@ -594,7 +594,7 @@
       "A.T.V. - Motorcycle": 0,
       "A.T.V. - Truck - Med. & H.D.": 0,
       "Alcoholic": 3,
-      "Anaesthesiology": 28,
+      "Anaesthesiology": 29,
       "Anaesthesiology - Cardiovascular": 0,
       "Anaesthesiology - Cardiovascular - General And Plastic Surgery - General Hospital And Personal Use - Obstetrics And Gynaecology - Orthopaedics": 0,
       "Anaesthesiology - Cardiovascular - General Hospital And Personal Use": 0,
@@ -1061,7 +1061,7 @@
       "Instability / Fall Risk": 26,
       "Mechanical Failure": 220,
       "Microbiological Contamination": 1777,
-      "Other": 2842,
+      "Other": 2843,
       "Radiation": 51,
       "Sharp Edges / Points": 60,
       "Small Parts / Choking Hazard": 11
@@ -1069,11 +1069,11 @@
   },
   {
     "severity": "Moderate",
-    "total": 9148,
+    "total": 9149,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
-      "Canada": 8529,
+      "Canada": 8530,
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 0,
@@ -1285,7 +1285,7 @@
       "Bus - School Bus - Truck - Med. & H.D.": 0,
       "Bus - Truck - Med. & H.D.": 0,
       "Bus - Truck - Med. & H.D. - School Bus": 0,
-      "Candy, Confectionary, Snacks And Sweeteners": 91,
+      "Candy, Confectionary, Snacks And Sweeteners": 92,
       "Candy, Confectionary, Snacks And Sweeteners - Nuts, Grains, And Seeds": 5,
       "Cannabis": 0,
       "Canned": 3,
@@ -1595,7 +1595,7 @@
       "Instability / Fall Risk": 65,
       "Mechanical Failure": 158,
       "Microbiological Contamination": 720,
-      "Other": 6910,
+      "Other": 6911,
       "Radiation": 30,
       "Sharp Edges / Points": 102,
       "Small Parts / Choking Hazard": 62
@@ -1603,7 +1603,7 @@
   },
   {
     "severity": "Minor",
-    "total": 6002,
+    "total": 6003,
     "total_injuries": 0,
     "by_region": {
       "Australia": 1,
@@ -1612,7 +1612,7 @@
       "France": 0,
       "New Zealand": 8,
       "USA": 878,
-      "United Kingdom": 805
+      "United Kingdom": 806
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
@@ -2032,7 +2032,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 1780,
+      "Other": 1781,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
       "Other - Car Floor Mat": 0,
@@ -2132,21 +2132,21 @@
       "Other": 3752,
       "Radiation": 10,
       "Sharp Edges / Points": 68,
-      "Small Parts / Choking Hazard": 253
+      "Small Parts / Choking Hazard": 254
     }
   },
   {
     "severity": "Not Reported",
-    "total": 27662,
+    "total": 27664,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
-      "Canada": 17937,
+      "Canada": 17939,
       "EU / EEA": 5000,
       "France": 3000,
-      "New Zealand": 1536,
+      "New Zealand": 1537,
       "USA": 1,
-      "United Kingdom": 188
+      "United Kingdom": 187
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
@@ -2438,7 +2438,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 7,
       "Electric Or Gas Productsbuilding Products": 1,
-      "Electrical & Electronics": 1472,
+      "Electrical & Electronics": 1473,
       "Food & Food Contact": 201,
       "Fresh": 1,
       "Frozen": 1,
@@ -2490,7 +2490,7 @@
       "Hobby And Craft Items - Household Items - Other": 1,
       "Hobby And Craft Items - Jewellery": 1,
       "Hobby And Craft Items - Other": 5,
-      "Household Items": 1258,
+      "Household Items": 1259,
       "Household Items - Other": 122,
       "Household Items - Specialized Products": 15,
       "Household Items - Veterinary Drugs": 1,
@@ -2566,7 +2566,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 3506,
+      "Other": 3505,
       "Other - Back Patch, Recovery Tape": 1,
       "Other - Books": 1,
       "Other - Car Floor Mat": 1,
@@ -2633,7 +2633,7 @@
       "Suv - Truck - Med. & H.D.": 1,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 1,
       "Tools & Machinery": 828,
-      "Toys & Childcare": 2154,
+      "Toys & Childcare": 2155,
       "Truck - Med. & H.D.": 964,
       "Truck - Med. & H.D. - A.T.V.": 1,
       "Truck - Med. & H.D. - Bus": 5,
@@ -2654,19 +2654,19 @@
     },
     "by_hazard_type": {
       "Allergen": 444,
-      "Chemical / Toxic Substance": 578,
+      "Chemical / Toxic Substance": 576,
       "Drowning Risk": 118,
       "Electrical Fault": 1348,
-      "Entrapment": 93,
+      "Entrapment": 94,
       "Explosion": 40,
       "Flammability / Overheating": 861,
       "Instability / Fall Risk": 315,
       "Mechanical Failure": 39,
       "Microbiological Contamination": 86,
       "Other": 21459,
-      "Radiation": 1587,
+      "Radiation": 1589,
       "Sharp Edges / Points": 176,
-      "Small Parts / Choking Hazard": 518
+      "Small Parts / Choking Hazard": 519
     }
   }
 ]

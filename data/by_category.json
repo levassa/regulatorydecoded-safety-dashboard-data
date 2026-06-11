@@ -57,13 +57,13 @@
   },
   {
     "product_category": "Toys & Childcare",
-    "total": 2171,
+    "total": 2172,
     "by_source": {
       "ACCC": 6,
       "CPSC": 0,
       "EU Safety Gate": 973,
       "FDA": 0,
-      "Health Canada": 742,
+      "Health Canada": 743,
       "NZ Product Safety": 450,
       "OPSS": 0,
       "RappelConso": 0
@@ -99,14 +99,14 @@
   },
   {
     "product_category": "Electrical & Electronics",
-    "total": 1479,
+    "total": 1480,
     "by_source": {
       "ACCC": 7,
       "CPSC": 0,
       "EU Safety Gate": 813,
       "FDA": 0,
       "Health Canada": 421,
-      "NZ Product Safety": 238,
+      "NZ Product Safety": 239,
       "OPSS": 0,
       "RappelConso": 0
     }
@@ -127,13 +127,13 @@
   },
   {
     "product_category": "Household Items",
-    "total": 1258,
+    "total": 1259,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 1258,
+      "Health Canada": 1259,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -421,13 +421,13 @@
   },
   {
     "product_category": "Candy, Confectionary, Snacks And Sweeteners",
-    "total": 164,
+    "total": 165,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 164,
+      "Health Canada": 165,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -435,13 +435,13 @@
   },
   {
     "product_category": "Anaesthesiology",
-    "total": 146,
+    "total": 147,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 146,
+      "Health Canada": 147,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
