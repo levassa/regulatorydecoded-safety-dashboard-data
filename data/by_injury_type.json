@@ -1,13 +1,13 @@
 [
   {
     "injury_type": "Not Specified",
-    "total": 45083,
+    "total": 44979,
     "by_source": {
       "ACCC": 2,
       "CPSC": 328,
-      "EU Safety Gate": 5000,
+      "EU Safety Gate": 4888,
       "FDA": 3271,
-      "Health Canada": 31391,
+      "Health Canada": 31399,
       "NZ Product Safety": 1501,
       "OPSS": 590,
       "RappelConso": 3000
@@ -21,9 +21,9 @@
       "CPSC": 214,
       "EU Safety Gate": 0,
       "FDA": 6,
-      "Health Canada": 507,
+      "Health Canada": 508,
       "NZ Product Safety": 0,
-      "OPSS": 218,
+      "OPSS": 217,
       "RappelConso": 0
     }
   },
@@ -141,7 +141,7 @@
   },
   {
     "injury_type": "Entrapment",
-    "total": 250,
+    "total": 251,
     "by_source": {
       "ACCC": 0,
       "CPSC": 157,
@@ -149,7 +149,7 @@
       "FDA": 3,
       "Health Canada": 70,
       "NZ Product Safety": 0,
-      "OPSS": 20,
+      "OPSS": 21,
       "RappelConso": 0
     }
   },

@@ -15,13 +15,13 @@
   },
   {
     "product_category": "Other",
-    "total": 6626,
+    "total": 6627,
     "by_source": {
       "ACCC": 0,
       "CPSC": 2083,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 543,
+      "Health Canada": 544,
       "NZ Product Safety": 0,
       "OPSS": 1000,
       "RappelConso": 3000
@@ -43,13 +43,13 @@
   },
   {
     "product_category": "Drugs",
-    "total": 2768,
+    "total": 2769,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 2768,
+      "Health Canada": 2769,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -57,11 +57,11 @@
   },
   {
     "product_category": "Toys & Childcare",
-    "total": 2172,
+    "total": 2157,
     "by_source": {
       "ACCC": 6,
       "CPSC": 0,
-      "EU Safety Gate": 973,
+      "EU Safety Gate": 958,
       "FDA": 0,
       "Health Canada": 743,
       "NZ Product Safety": 450,
@@ -71,11 +71,11 @@
   },
   {
     "product_category": "Cosmetics & Personal Care",
-    "total": 1840,
+    "total": 1770,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
-      "EU Safety Gate": 1595,
+      "EU Safety Gate": 1525,
       "FDA": 0,
       "Health Canada": 198,
       "NZ Product Safety": 47,
@@ -99,11 +99,11 @@
   },
   {
     "product_category": "Electrical & Electronics",
-    "total": 1480,
+    "total": 1469,
     "by_source": {
       "ACCC": 7,
       "CPSC": 0,
-      "EU Safety Gate": 813,
+      "EU Safety Gate": 802,
       "FDA": 0,
       "Health Canada": 421,
       "NZ Product Safety": 239,
@@ -169,11 +169,11 @@
   },
   {
     "product_category": "Motor Vehicles",
-    "total": 981,
+    "total": 974,
     "by_source": {
       "ACCC": 1,
       "CPSC": 0,
-      "EU Safety Gate": 506,
+      "EU Safety Gate": 499,
       "FDA": 0,
       "Health Canada": 235,
       "NZ Product Safety": 239,
@@ -197,13 +197,13 @@
   },
   {
     "product_category": "Rv Trailer",
-    "total": 938,
+    "total": 940,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 938,
+      "Health Canada": 940,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -211,11 +211,11 @@
   },
   {
     "product_category": "Sports & Leisure",
-    "total": 867,
+    "total": 865,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
-      "EU Safety Gate": 127,
+      "EU Safety Gate": 125,
       "FDA": 0,
       "Health Canada": 644,
       "NZ Product Safety": 96,
@@ -225,11 +225,11 @@
   },
   {
     "product_category": "Tools & Machinery",
-    "total": 831,
+    "total": 830,
     "by_source": {
       "ACCC": 1,
       "CPSC": 0,
-      "EU Safety Gate": 259,
+      "EU Safety Gate": 258,
       "FDA": 0,
       "Health Canada": 495,
       "NZ Product Safety": 76,
@@ -239,11 +239,11 @@
   },
   {
     "product_category": "Clothing & Textiles",
-    "total": 739,
+    "total": 738,
     "by_source": {
       "ACCC": 1,
       "CPSC": 0,
-      "EU Safety Gate": 154,
+      "EU Safety Gate": 153,
       "FDA": 0,
       "Health Canada": 561,
       "NZ Product Safety": 23,
@@ -379,13 +379,13 @@
   },
   {
     "product_category": "Radiology",
-    "total": 230,
+    "total": 231,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 230,
+      "Health Canada": 231,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -393,11 +393,11 @@
   },
   {
     "product_category": "Jewellery",
-    "total": 208,
+    "total": 206,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
-      "EU Safety Gate": 114,
+      "EU Safety Gate": 112,
       "FDA": 0,
       "Health Canada": 94,
       "NZ Product Safety": 0,
@@ -561,13 +561,13 @@
   },
   {
     "product_category": "Cannabis",
-    "total": 95,
+    "total": 96,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 95,
+      "Health Canada": 96,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -785,13 +785,13 @@
   },
   {
     "product_category": "Suv - Light Truck & Van",
-    "total": 46,
+    "total": 48,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 46,
+      "Health Canada": 48,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -1107,13 +1107,13 @@
   },
   {
     "product_category": "Chassis Cab - Truck - Med. & H.D.",
-    "total": 18,
+    "total": 19,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 18,
+      "Health Canada": 19,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -1218,20 +1218,6 @@
     }
   },
   {
-    "product_category": "Construction Products",
-    "total": 12,
-    "by_source": {
-      "ACCC": 0,
-      "CPSC": 0,
-      "EU Safety Gate": 12,
-      "FDA": 0,
-      "Health Canada": 0,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
     "product_category": "General And Plastic Surgery - General Hospital And Personal Use",
     "total": 12,
     "by_source": {
@@ -1240,20 +1226,6 @@
       "EU Safety Gate": 0,
       "FDA": 0,
       "Health Canada": 12,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Vaping And Tobacco Products",
-    "total": 11,
-    "by_source": {
-      "ACCC": 0,
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 11,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -1274,12 +1246,26 @@
     }
   },
   {
-    "product_category": "Stationery",
-    "total": 10,
+    "product_category": "Vaping And Tobacco Products",
+    "total": 11,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
-      "EU Safety Gate": 10,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 11,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Construction Products",
+    "total": 11,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 11,
       "FDA": 0,
       "Health Canada": 0,
       "NZ Product Safety": 0,
@@ -1324,6 +1310,20 @@
       "EU Safety Gate": 0,
       "FDA": 0,
       "Health Canada": 9,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Stationery",
+    "total": 9,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 9,
+      "FDA": 0,
+      "Health Canada": 0,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -1554,20 +1554,6 @@
     }
   },
   {
-    "product_category": "Other - Telescopic Ladder",
-    "total": 7,
-    "by_source": {
-      "ACCC": 0,
-      "CPSC": 0,
-      "EU Safety Gate": 7,
-      "FDA": 0,
-      "Health Canada": 0,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
     "product_category": "Consumer Products - Drugs",
     "total": 7,
     "by_source": {
@@ -1596,6 +1582,20 @@
     }
   },
   {
+    "product_category": "Car - Suv - Light Truck & Van",
+    "total": 6,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 6,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
     "product_category": "Light Trailer - Rv Trailer",
     "total": 6,
     "by_source": {
@@ -1610,14 +1610,14 @@
     }
   },
   {
-    "product_category": "Car - Suv - Light Truck & Van",
+    "product_category": "Other - Telescopic Ladder",
     "total": 6,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
-      "EU Safety Gate": 0,
+      "EU Safety Gate": 6,
       "FDA": 0,
-      "Health Canada": 6,
+      "Health Canada": 0,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
