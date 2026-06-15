@@ -57,11 +57,11 @@
   },
   {
     "product_category": "Toys & Childcare",
-    "total": 2172,
+    "total": 2175,
     "by_source": {
       "ACCC": 6,
       "CPSC": 0,
-      "EU Safety Gate": 973,
+      "EU Safety Gate": 976,
       "FDA": 0,
       "Health Canada": 743,
       "NZ Product Safety": 450,
@@ -99,11 +99,11 @@
   },
   {
     "product_category": "Electrical & Electronics",
-    "total": 1478,
+    "total": 1490,
     "by_source": {
       "ACCC": 7,
       "CPSC": 0,
-      "EU Safety Gate": 811,
+      "EU Safety Gate": 823,
       "FDA": 0,
       "Health Canada": 421,
       "NZ Product Safety": 239,
@@ -169,11 +169,11 @@
   },
   {
     "product_category": "Motor Vehicles",
-    "total": 980,
+    "total": 981,
     "by_source": {
       "ACCC": 1,
       "CPSC": 0,
-      "EU Safety Gate": 505,
+      "EU Safety Gate": 506,
       "FDA": 0,
       "Health Canada": 235,
       "NZ Product Safety": 239,
@@ -197,13 +197,13 @@
   },
   {
     "product_category": "Rv Trailer",
-    "total": 940,
+    "total": 941,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 940,
+      "Health Canada": 941,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -225,11 +225,11 @@
   },
   {
     "product_category": "Tools & Machinery",
-    "total": 835,
+    "total": 836,
     "by_source": {
       "ACCC": 1,
       "CPSC": 0,
-      "EU Safety Gate": 263,
+      "EU Safety Gate": 264,
       "FDA": 0,
       "Health Canada": 495,
       "NZ Product Safety": 76,
@@ -239,11 +239,11 @@
   },
   {
     "product_category": "Clothing & Textiles",
-    "total": 738,
+    "total": 739,
     "by_source": {
       "ACCC": 1,
       "CPSC": 0,
-      "EU Safety Gate": 153,
+      "EU Safety Gate": 154,
       "FDA": 0,
       "Health Canada": 561,
       "NZ Product Safety": 23,
@@ -253,11 +253,11 @@
   },
   {
     "product_category": "Chemicals",
-    "total": 607,
+    "total": 608,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
-      "EU Safety Gate": 230,
+      "EU Safety Gate": 231,
       "FDA": 0,
       "Health Canada": 367,
       "NZ Product Safety": 10,
