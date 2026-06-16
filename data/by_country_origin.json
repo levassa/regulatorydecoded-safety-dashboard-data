@@ -1,7 +1,7 @@
 [
   {
     "country": "United States",
-    "count": 3775
+    "count": 3776
   },
   {
     "country": "People's Republic of China",
@@ -69,7 +69,7 @@
   },
   {
     "country": "Canada",
-    "count": 35
+    "count": 33
   },
   {
     "country": "Israel",
@@ -92,19 +92,19 @@
     "count": 22
   },
   {
-    "country": "Belgium",
+    "country": "Netherlands",
     "count": 20
   },
   {
-    "country": "Republic of Korea",
-    "count": 19
+    "country": "Belgium",
+    "count": 20
   },
   {
     "country": "Denmark",
     "count": 19
   },
   {
-    "country": "Netherlands",
+    "country": "Republic of Korea",
     "count": 19
   },
   {
