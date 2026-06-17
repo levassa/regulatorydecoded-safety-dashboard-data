@@ -2500,7 +2500,7 @@
       "Household Items - Specialized Products": 15,
       "Household Items - Veterinary Drugs": 1,
       "Immunology": 0,
-      "Jewellery": 206,
+      "Jewellery": 205,
       "Kitchen/Cooking Accessories": 45,
       "Kitchenware And Containers": 0,
       "Kitchenware And Tableware": 3,
@@ -2621,7 +2621,7 @@
       "Specialized Products - Drugs - Biologic Or Vaccine": 1,
       "Specialized Products - Natural Health Products": 8,
       "Specialized Products - Other": 2,
-      "Sports & Leisure": 865,
+      "Sports & Leisure": 866,
       "Stationery": 9,
       "Suv": 1420,
       "Suv - Car": 133,
@@ -2668,8 +2668,8 @@
       "Instability / Fall Risk": 315,
       "Mechanical Failure": 39,
       "Microbiological Contamination": 86,
-      "Other": 21472,
-      "Radiation": 1590,
+      "Other": 21471,
+      "Radiation": 1591,
       "Sharp Edges / Points": 176,
       "Small Parts / Choking Hazard": 520
     }

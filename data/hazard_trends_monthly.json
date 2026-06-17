@@ -3636,7 +3636,7 @@
     "Electrical Fault": 27,
     "Flammability / Overheating": 30,
     "Microbiological Contamination": 9,
-    "Other": 357,
+    "Other": 356,
     "Radiation": 12,
     "Small Parts / Choking Hazard": 24
   },
@@ -3669,8 +3669,8 @@
     "Electrical Fault": 26,
     "Flammability / Overheating": 42,
     "Microbiological Contamination": 19,
-    "Other": 464,
-    "Radiation": 32,
+    "Other": 463,
+    "Radiation": 33,
     "Small Parts / Choking Hazard": 26
   },
   {
@@ -3680,7 +3680,7 @@
     "Electrical Fault": 15,
     "Flammability / Overheating": 33,
     "Microbiological Contamination": 10,
-    "Other": 434,
+    "Other": 435,
     "Radiation": 13,
     "Small Parts / Choking Hazard": 21
   },
