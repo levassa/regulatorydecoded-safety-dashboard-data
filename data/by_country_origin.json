@@ -1,11 +1,11 @@
 [
   {
-    "country": "People's Republic of China",
-    "count": 2368
+    "country": "United States",
+    "count": 3774
   },
   {
-    "country": "United States",
-    "count": 1743
+    "country": "People's Republic of China",
+    "count": 2368
   },
   {
     "country": "Unknown",
@@ -13,27 +13,27 @@
   },
   {
     "country": "Italy",
-    "count": 470
+    "count": 476
   },
   {
     "country": "Germany",
-    "count": 309
+    "count": 322
   },
   {
     "country": "France",
-    "count": 304
+    "count": 311
   },
   {
     "country": "Spain",
-    "count": 123
+    "count": 128
+  },
+  {
+    "country": "United Kingdom",
+    "count": 95
   },
   {
     "country": "Poland",
     "count": 94
-  },
-  {
-    "country": "United Kingdom",
-    "count": 84
   },
   {
     "country": "Türkiye",
@@ -41,7 +41,11 @@
   },
   {
     "country": "Japan",
-    "count": 46
+    "count": 56
+  },
+  {
+    "country": "Sweden",
+    "count": 54
   },
   {
     "country": "Hong Kong",
@@ -52,32 +56,52 @@
     "count": 40
   },
   {
-    "country": "The Netherlands",
+    "country": "India",
     "count": 39
   },
   {
-    "country": "India",
-    "count": 38
-  },
-  {
-    "country": "Sweden",
-    "count": 37
+    "country": "The Netherlands",
+    "count": 39
   },
   {
     "country": "United Arab Emirates",
     "count": 36
   },
   {
+    "country": "Canada",
+    "count": 33
+  },
+  {
+    "country": "Israel",
+    "count": 29
+  },
+  {
+    "country": "China",
+    "count": 27
+  },
+  {
     "country": "Switzerland",
-    "count": 22
+    "count": 24
   },
   {
     "country": "Austria",
-    "count": 20
+    "count": 23
   },
   {
     "country": "Pakistan",
+    "count": 21
+  },
+  {
+    "country": "Netherlands",
     "count": 20
+  },
+  {
+    "country": "Belgium",
+    "count": 20
+  },
+  {
+    "country": "Denmark",
+    "count": 18
   },
   {
     "country": "Republic of Korea",
@@ -88,35 +112,11 @@
     "count": 17
   },
   {
-    "country": "Israel",
-    "count": 16
-  },
-  {
     "country": "Brazil",
-    "count": 15
-  },
-  {
-    "country": "Belgium",
-    "count": 14
-  },
-  {
-    "country": "China",
-    "count": 14
-  },
-  {
-    "country": "Denmark",
-    "count": 13
-  },
-  {
-    "country": "Canada",
-    "count": 12
+    "count": 17
   },
   {
     "country": "Ireland",
-    "count": 10
-  },
-  {
-    "country": "Ivory Coast",
-    "count": 10
+    "count": 16
   }
 ]
