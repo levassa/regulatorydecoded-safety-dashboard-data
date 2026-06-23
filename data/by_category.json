@@ -113,13 +113,13 @@
   },
   {
     "product_category": "Suv",
-    "total": 1421,
+    "total": 1422,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 1421,
+      "Health Canada": 1422,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -267,13 +267,13 @@
   },
   {
     "product_category": "Light Truck & Van",
-    "total": 590,
+    "total": 591,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 590,
+      "Health Canada": 591,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0

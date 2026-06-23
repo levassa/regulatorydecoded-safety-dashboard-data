@@ -1053,19 +1053,19 @@
       "Veterinary Drugs": 5
     },
     "by_hazard_type": {
-      "Allergen": 1444,
-      "Chemical / Toxic Substance": 199,
+      "Allergen": 1447,
+      "Chemical / Toxic Substance": 198,
       "Drowning Risk": 76,
-      "Electrical Fault": 69,
+      "Electrical Fault": 70,
       "Entrapment": 14,
       "Explosion": 69,
       "Flammability / Overheating": 50,
       "Instability / Fall Risk": 26,
       "Mechanical Failure": 222,
-      "Microbiological Contamination": 1776,
-      "Other": 2847,
+      "Microbiological Contamination": 1775,
+      "Other": 2846,
       "Radiation": 51,
-      "Sharp Edges / Points": 60,
+      "Sharp Edges / Points": 59,
       "Small Parts / Choking Hazard": 11
     }
   },
@@ -2125,7 +2125,7 @@
     "by_hazard_type": {
       "Allergen": 622,
       "Chemical / Toxic Substance": 76,
-      "Drowning Risk": 57,
+      "Drowning Risk": 61,
       "Electrical Fault": 157,
       "Entrapment": 26,
       "Explosion": 49,
@@ -2136,16 +2136,16 @@
       "Other": 3753,
       "Radiation": 10,
       "Sharp Edges / Points": 68,
-      "Small Parts / Choking Hazard": 246
+      "Small Parts / Choking Hazard": 242
     }
   },
   {
     "severity": "Not Reported",
-    "total": 27698,
+    "total": 27700,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
-      "Canada": 17968,
+      "Canada": 17970,
       "EU / EEA": 5000,
       "France": 3000,
       "New Zealand": 1538,
@@ -2515,7 +2515,7 @@
       "Lawn And Garden Supplies": 1,
       "Light Trailer": 60,
       "Light Trailer - Rv Trailer": 6,
-      "Light Truck & Van": 590,
+      "Light Truck & Van": 591,
       "Light Truck & Van - Car": 4,
       "Light Truck & Van - Car - Suv": 3,
       "Light Truck & Van - Car - Suv - Minivan": 1,
@@ -2623,7 +2623,7 @@
       "Specialized Products - Other": 2,
       "Sports & Leisure": 867,
       "Stationery": 9,
-      "Suv": 1421,
+      "Suv": 1422,
       "Suv - Car": 133,
       "Suv - Car - Light Truck & Van": 5,
       "Suv - Car - Minivan - Light Truck & Van": 1,
@@ -2668,8 +2668,8 @@
       "Instability / Fall Risk": 316,
       "Mechanical Failure": 39,
       "Microbiological Contamination": 86,
-      "Other": 21480,
-      "Radiation": 1592,
+      "Other": 21481,
+      "Radiation": 1593,
       "Sharp Edges / Points": 176,
       "Small Parts / Choking Hazard": 520
     }
