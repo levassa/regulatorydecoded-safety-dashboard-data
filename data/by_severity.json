@@ -1071,11 +1071,11 @@
   },
   {
     "severity": "Moderate",
-    "total": 9171,
+    "total": 9177,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
-      "Canada": 8548,
+      "Canada": 8554,
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 0,
@@ -1392,14 +1392,14 @@
       "Gastroenterology And Urology - General Hospital And Personal Use": 7,
       "Gastroenterology And Urology - Haematology": 2,
       "Gastroenterology And Urology - Orthopaedics": 1,
-      "General And Plastic Surgery": 161,
+      "General And Plastic Surgery": 163,
       "General And Plastic Surgery - Anaesthesiology - Gastroenterology And Urology": 1,
       "General And Plastic Surgery - Gastroenterology And Urology": 2,
       "General And Plastic Surgery - Gastroenterology And Urology - Orthopaedics - Neurology - Ophthalmology - Obstetrics And Gynaecology": 1,
       "General And Plastic Surgery - General Hospital And Personal Use": 11,
       "General And Plastic Surgery - Obstetrics And Gynaecology": 1,
       "General And Plastic Surgery - Orthopaedics": 1,
-      "General Hospital And Personal Use": 342,
+      "General Hospital And Personal Use": 343,
       "General Hospital And Personal Use - Cardiovascular": 1,
       "General Hospital And Personal Use - Cardiovascular - General And Plastic Surgery": 1,
       "General Hospital And Personal Use - Chemistry - Microbiology - Ophthalmology - Haematology": 1,
@@ -1484,7 +1484,7 @@
       "Motorcycle": 0,
       "Motorcycle - Motor Tricycle": 0,
       "Natural Health Products": 295,
-      "Neurology": 53,
+      "Neurology": 54,
       "Neurology - Anaesthesiology": 1,
       "Neurology - Cardiovascular - General And Plastic Surgery": 0,
       "Neurology - General Hospital And Personal Use": 1,
@@ -1500,7 +1500,7 @@
       "Office Supplies And Stationeryrecalled Sand Products": 0,
       "Ophthalmology": 28,
       "Ophthalmology - General Hospital And Personal Use": 1,
-      "Orthopaedics": 92,
+      "Orthopaedics": 93,
       "Other": 698,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -1532,7 +1532,7 @@
       "Processed - Fruits And Vegetables": 0,
       "Processed - Fruits And Vegetables - Egg Products": 0,
       "Pyrotechnic Articles": 0,
-      "Radiology": 217,
+      "Radiology": 218,
       "Radiology - Anaesthesiology": 2,
       "Radiology - Cardiovascular": 1,
       "Radiology - General Hospital And Personal Use": 1,
@@ -1589,7 +1589,7 @@
     },
     "by_hazard_type": {
       "Allergen": 697,
-      "Chemical / Toxic Substance": 106,
+      "Chemical / Toxic Substance": 107,
       "Drowning Risk": 34,
       "Electrical Fault": 48,
       "Entrapment": 41,
@@ -1598,7 +1598,7 @@
       "Instability / Fall Risk": 65,
       "Mechanical Failure": 159,
       "Microbiological Contamination": 720,
-      "Other": 6928,
+      "Other": 6933,
       "Radiation": 30,
       "Sharp Edges / Points": 102,
       "Small Parts / Choking Hazard": 62
@@ -1606,7 +1606,7 @@
   },
   {
     "severity": "Minor",
-    "total": 6002,
+    "total": 6001,
     "total_injuries": 0,
     "by_region": {
       "Australia": 1,
@@ -1615,7 +1615,7 @@
       "France": 0,
       "New Zealand": 8,
       "USA": 879,
-      "United Kingdom": 802
+      "United Kingdom": 801
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
@@ -2036,7 +2036,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 1778,
+      "Other": 1777,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
       "Other - Car Floor Mat": 0,
@@ -2136,12 +2136,12 @@
       "Other": 3753,
       "Radiation": 10,
       "Sharp Edges / Points": 68,
-      "Small Parts / Choking Hazard": 242
+      "Small Parts / Choking Hazard": 241
     }
   },
   {
     "severity": "Not Reported",
-    "total": 27704,
+    "total": 27705,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
@@ -2150,7 +2150,7 @@
       "France": 3000,
       "New Zealand": 1540,
       "USA": 1,
-      "United Kingdom": 191
+      "United Kingdom": 192
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
@@ -2414,7 +2414,7 @@
       "Consumer Products": 30,
       "Consumer Products - Drugs": 7,
       "Consumer Products - Natural Health Products": 1,
-      "Cosmetics & Personal Care": 1767,
+      "Cosmetics & Personal Care": 1769,
       "Dairy": 0,
       "Dairy - Other": 0,
       "Decorations, Candles And Novelties": 0,
@@ -2443,7 +2443,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 7,
       "Electric Or Gas Productsbuilding Products": 1,
-      "Electrical & Electronics": 1511,
+      "Electrical & Electronics": 1510,
       "Food & Food Contact": 201,
       "Fresh": 1,
       "Frozen": 1,
@@ -2571,7 +2571,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 3510,
+      "Other": 3511,
       "Other - Back Patch, Recovery Tape": 1,
       "Other - Books": 1,
       "Other - Car Floor Mat": 1,
@@ -2638,7 +2638,7 @@
       "Suv - Truck - Med. & H.D.": 1,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 1,
       "Tools & Machinery": 837,
-      "Toys & Childcare": 2185,
+      "Toys & Childcare": 2184,
       "Truck - Med. & H.D.": 967,
       "Truck - Med. & H.D. - A.T.V.": 1,
       "Truck - Med. & H.D. - Bus": 5,
@@ -2659,7 +2659,7 @@
     },
     "by_hazard_type": {
       "Allergen": 444,
-      "Chemical / Toxic Substance": 578,
+      "Chemical / Toxic Substance": 579,
       "Drowning Risk": 118,
       "Electrical Fault": 1352,
       "Entrapment": 95,
@@ -2668,8 +2668,8 @@
       "Instability / Fall Risk": 317,
       "Mechanical Failure": 39,
       "Microbiological Contamination": 86,
-      "Other": 21485,
-      "Radiation": 1592,
+      "Other": 21483,
+      "Radiation": 1594,
       "Sharp Edges / Points": 176,
       "Small Parts / Choking Hazard": 520
     }

@@ -57,11 +57,11 @@
   },
   {
     "product_category": "Toys & Childcare",
-    "total": 2200,
+    "total": 2199,
     "by_source": {
       "ACCC": 4,
       "CPSC": 0,
-      "EU Safety Gate": 1001,
+      "EU Safety Gate": 1000,
       "FDA": 0,
       "Health Canada": 743,
       "NZ Product Safety": 452,
@@ -71,11 +71,11 @@
   },
   {
     "product_category": "Cosmetics & Personal Care",
-    "total": 1767,
+    "total": 1769,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
-      "EU Safety Gate": 1522,
+      "EU Safety Gate": 1524,
       "FDA": 0,
       "Health Canada": 198,
       "NZ Product Safety": 47,
@@ -99,11 +99,11 @@
   },
   {
     "product_category": "Electrical & Electronics",
-    "total": 1518,
+    "total": 1517,
     "by_source": {
       "ACCC": 7,
       "CPSC": 0,
-      "EU Safety Gate": 850,
+      "EU Safety Gate": 849,
       "FDA": 0,
       "Health Canada": 422,
       "NZ Product Safety": 239,
@@ -309,13 +309,13 @@
   },
   {
     "product_category": "General Hospital And Personal Use",
-    "total": 392,
+    "total": 393,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 392,
+      "Health Canada": 393,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -379,13 +379,13 @@
   },
   {
     "product_category": "Radiology",
-    "total": 233,
+    "total": 234,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 233,
+      "Health Canada": 234,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -407,13 +407,13 @@
   },
   {
     "product_category": "General And Plastic Surgery",
-    "total": 183,
+    "total": 185,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 183,
+      "Health Canada": 185,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -575,13 +575,13 @@
   },
   {
     "product_category": "Orthopaedics",
-    "total": 95,
+    "total": 96,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 95,
+      "Health Canada": 96,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -728,7 +728,7 @@
     }
   },
   {
-    "product_category": "Light Trailer",
+    "product_category": "Neurology",
     "total": 60,
     "by_source": {
       "ACCC": 0,
@@ -742,14 +742,14 @@
     }
   },
   {
-    "product_category": "Neurology",
-    "total": 59,
+    "product_category": "Light Trailer",
+    "total": 60,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 59,
+      "Health Canada": 60,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
