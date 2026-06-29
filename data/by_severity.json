@@ -522,7 +522,7 @@
       "Allergen": 0,
       "Chemical / Toxic Substance": 69,
       "Drowning Risk": 3,
-      "Electrical Fault": 21,
+      "Electrical Fault": 22,
       "Entrapment": 142,
       "Explosion": 7,
       "Flammability / Overheating": 54,
@@ -532,7 +532,7 @@
       "Other": 115,
       "Radiation": 0,
       "Sharp Edges / Points": 20,
-      "Small Parts / Choking Hazard": 95
+      "Small Parts / Choking Hazard": 94
     }
   },
   {
@@ -2145,14 +2145,14 @@
   },
   {
     "severity": "Not Reported",
-    "total": 27710,
+    "total": 27713,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
-      "Canada": 17976,
-      "EU / EEA": 5000,
+      "Canada": 17978,
+      "EU / EEA": 4999,
       "France": 3000,
-      "New Zealand": 1541,
+      "New Zealand": 1543,
       "USA": 1,
       "United Kingdom": 192
     },
@@ -2377,7 +2377,7 @@
       "Car - Minivan": 7,
       "Car - Minivan - Suv": 7,
       "Car - Minivan - Suv - Light Truck & Van": 1,
-      "Car - Suv": 345,
+      "Car - Suv": 346,
       "Car - Suv - Light Truck & Van": 6,
       "Car - Suv - Light Truck & Van - Minivan": 1,
       "Car - Suv - Minivan": 2,
@@ -2447,7 +2447,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 7,
       "Electric Or Gas Productsbuilding Products": 1,
-      "Electrical & Electronics": 1527,
+      "Electrical & Electronics": 1528,
       "Food & Food Contact": 201,
       "Fresh": 1,
       "Frozen": 1,
@@ -2519,7 +2519,7 @@
       "Lawn And Garden Supplies": 1,
       "Light Trailer": 60,
       "Light Trailer - Rv Trailer": 6,
-      "Light Truck & Van": 591,
+      "Light Truck & Van": 592,
       "Light Truck & Van - Car": 4,
       "Light Truck & Van - Car - Suv": 3,
       "Light Truck & Van - Car - Suv - Minivan": 1,
@@ -2665,16 +2665,16 @@
     "by_hazard_type": {
       "Allergen": 444,
       "Chemical / Toxic Substance": 579,
-      "Drowning Risk": 118,
+      "Drowning Risk": 119,
       "Electrical Fault": 1352,
       "Entrapment": 95,
       "Explosion": 40,
-      "Flammability / Overheating": 865,
+      "Flammability / Overheating": 866,
       "Instability / Fall Risk": 317,
       "Mechanical Failure": 39,
       "Microbiological Contamination": 86,
-      "Other": 21481,
-      "Radiation": 1598,
+      "Other": 21483,
+      "Radiation": 1597,
       "Sharp Edges / Points": 176,
       "Small Parts / Choking Hazard": 520
     }

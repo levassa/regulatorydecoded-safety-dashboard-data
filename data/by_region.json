@@ -518,7 +518,7 @@
   },
   {
     "region": "Canada",
-    "total": 33708,
+    "total": 33710,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -740,7 +740,7 @@
       "Car - Minivan": 7,
       "Car - Minivan - Suv": 7,
       "Car - Minivan - Suv - Light Truck & Van": 1,
-      "Car - Suv": 345,
+      "Car - Suv": 346,
       "Car - Suv - Light Truck & Van": 6,
       "Car - Suv - Light Truck & Van - Minivan": 1,
       "Car - Suv - Minivan": 2,
@@ -882,7 +882,7 @@
       "Lawn And Garden Supplies": 1,
       "Light Trailer": 60,
       "Light Trailer - Rv Trailer": 6,
-      "Light Truck & Van": 591,
+      "Light Truck & Van": 592,
       "Light Truck & Van - Car": 4,
       "Light Truck & Van - Car - Suv": 3,
       "Light Truck & Van - Car - Suv - Minivan": 1,
@@ -1029,13 +1029,13 @@
       "Fatal": 0,
       "Minor": 4314,
       "Moderate": 8556,
-      "Not Reported": 17976,
+      "Not Reported": 17978,
       "Serious": 2862
     }
   },
   {
     "region": "EU / EEA",
-    "total": 5000,
+    "total": 4999,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -1523,7 +1523,7 @@
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
       "Tools & Machinery": 271,
-      "Toys & Childcare": 1018,
+      "Toys & Childcare": 1017,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
       "Truck - Med. & H.D. - Bus": 0,
@@ -1546,7 +1546,7 @@
       "Fatal": 0,
       "Minor": 0,
       "Moderate": 0,
-      "Not Reported": 5000,
+      "Not Reported": 4999,
       "Serious": 0
     }
   },
@@ -2069,7 +2069,7 @@
   },
   {
     "region": "New Zealand",
-    "total": 1554,
+    "total": 1556,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 1,
@@ -2361,7 +2361,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 7,
       "Electric Or Gas Productsbuilding Products": 1,
-      "Electrical & Electronics": 239,
+      "Electrical & Electronics": 240,
       "Food & Food Contact": 2,
       "Fresh": 0,
       "Frozen": 0,
@@ -2557,7 +2557,7 @@
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
       "Tools & Machinery": 76,
-      "Toys & Childcare": 453,
+      "Toys & Childcare": 454,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
       "Truck - Med. & H.D. - Bus": 0,
@@ -2580,7 +2580,7 @@
       "Fatal": 1,
       "Minor": 8,
       "Moderate": 1,
-      "Not Reported": 1541,
+      "Not Reported": 1543,
       "Serious": 3
     }
   },
