@@ -1,10 +1,10 @@
 [
   {
     "severity": "Fatal",
-    "total": 587,
+    "total": 588,
     "total_injuries": 0,
     "by_region": {
-      "Australia": 18,
+      "Australia": 19,
       "Canada": 0,
       "EU / EEA": 0,
       "France": 0,
@@ -270,6 +270,7 @@
       "Clinical Toxicology": 0,
       "Clothing & Textiles": 2,
       "Communications": 0,
+      "Computers, Laptops And Accessories": 1,
       "Condiments": 0,
       "Construction Products": 0,
       "Consumer Products": 0,
@@ -522,7 +523,7 @@
       "Allergen": 0,
       "Chemical / Toxic Substance": 69,
       "Drowning Risk": 3,
-      "Electrical Fault": 22,
+      "Electrical Fault": 23,
       "Entrapment": 142,
       "Explosion": 7,
       "Flammability / Overheating": 54,
@@ -537,10 +538,10 @@
   },
   {
     "severity": "Serious",
-    "total": 6915,
+    "total": 6914,
     "total_injuries": 0,
     "by_region": {
-      "Australia": 6,
+      "Australia": 5,
       "Canada": 2862,
       "EU / EEA": 0,
       "France": 0,
@@ -806,6 +807,7 @@
       "Clinical Toxicology": 0,
       "Clothing & Textiles": 0,
       "Communications": 0,
+      "Computers, Laptops And Accessories": 0,
       "Condiments": 7,
       "Construction Products": 0,
       "Consumer Products": 0,
@@ -1034,7 +1036,7 @@
       "Suv - Minivan - Light Truck & Van": 0,
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
-      "Tools & Machinery": 3,
+      "Tools & Machinery": 2,
       "Toys & Childcare": 6,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
@@ -1055,17 +1057,17 @@
       "Veterinary Drugs": 5
     },
     "by_hazard_type": {
-      "Allergen": 1449,
+      "Allergen": 1442,
       "Chemical / Toxic Substance": 198,
-      "Drowning Risk": 76,
+      "Drowning Risk": 78,
       "Electrical Fault": 70,
       "Entrapment": 14,
-      "Explosion": 69,
-      "Flammability / Overheating": 49,
-      "Instability / Fall Risk": 26,
-      "Mechanical Failure": 222,
-      "Microbiological Contamination": 1775,
-      "Other": 2846,
+      "Explosion": 70,
+      "Flammability / Overheating": 50,
+      "Instability / Fall Risk": 25,
+      "Mechanical Failure": 224,
+      "Microbiological Contamination": 1760,
+      "Other": 2862,
       "Radiation": 51,
       "Sharp Edges / Points": 59,
       "Small Parts / Choking Hazard": 11
@@ -1342,6 +1344,7 @@
       "Clinical Toxicology": 2,
       "Clothing & Textiles": 0,
       "Communications": 0,
+      "Computers, Laptops And Accessories": 0,
       "Condiments": 17,
       "Construction Products": 0,
       "Consumer Products": 0,
@@ -1609,7 +1612,7 @@
   },
   {
     "severity": "Minor",
-    "total": 6003,
+    "total": 6002,
     "total_injuries": 0,
     "by_region": {
       "Australia": 1,
@@ -1618,7 +1621,7 @@
       "France": 0,
       "New Zealand": 8,
       "USA": 879,
-      "United Kingdom": 801
+      "United Kingdom": 800
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
@@ -1878,6 +1881,7 @@
       "Clinical Toxicology": 0,
       "Clothing & Textiles": 0,
       "Communications": 0,
+      "Computers, Laptops And Accessories": 0,
       "Condiments": 11,
       "Construction Products": 0,
       "Consumer Products": 0,
@@ -2039,7 +2043,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 1778,
+      "Other": 1777,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
       "Other - Car Floor Mat": 0,
@@ -2133,28 +2137,28 @@
       "Electrical Fault": 161,
       "Entrapment": 26,
       "Explosion": 49,
-      "Flammability / Overheating": 626,
+      "Flammability / Overheating": 628,
       "Instability / Fall Risk": 76,
       "Mechanical Failure": 88,
       "Microbiological Contamination": 146,
-      "Other": 3754,
+      "Other": 3753,
       "Radiation": 10,
       "Sharp Edges / Points": 68,
-      "Small Parts / Choking Hazard": 240
+      "Small Parts / Choking Hazard": 238
     }
   },
   {
     "severity": "Not Reported",
-    "total": 27713,
+    "total": 27717,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
       "Canada": 17978,
-      "EU / EEA": 4999,
+      "EU / EEA": 5000,
       "France": 3000,
-      "New Zealand": 1543,
+      "New Zealand": 1545,
       "USA": 1,
-      "United Kingdom": 192
+      "United Kingdom": 193
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
@@ -2414,6 +2418,7 @@
       "Clinical Toxicology": 0,
       "Clothing & Textiles": 740,
       "Communications": 1,
+      "Computers, Laptops And Accessories": 0,
       "Condiments": 0,
       "Construction Products": 9,
       "Consumer Products": 30,
@@ -2575,7 +2580,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 3511,
+      "Other": 3512,
       "Other - Back Patch, Recovery Tape": 1,
       "Other - Books": 1,
       "Other - Car Floor Mat": 1,
@@ -2643,7 +2648,7 @@
       "Suv - Truck - Med. & H.D.": 1,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 1,
       "Tools & Machinery": 842,
-      "Toys & Childcare": 2203,
+      "Toys & Childcare": 2206,
       "Truck - Med. & H.D.": 967,
       "Truck - Med. & H.D. - A.T.V.": 1,
       "Truck - Med. & H.D. - Bus": 5,
@@ -2664,7 +2669,7 @@
     },
     "by_hazard_type": {
       "Allergen": 444,
-      "Chemical / Toxic Substance": 579,
+      "Chemical / Toxic Substance": 580,
       "Drowning Risk": 119,
       "Electrical Fault": 1352,
       "Entrapment": 95,
@@ -2673,7 +2678,7 @@
       "Instability / Fall Risk": 317,
       "Mechanical Failure": 39,
       "Microbiological Contamination": 86,
-      "Other": 21483,
+      "Other": 21486,
       "Radiation": 1597,
       "Sharp Edges / Points": 176,
       "Small Parts / Choking Hazard": 520

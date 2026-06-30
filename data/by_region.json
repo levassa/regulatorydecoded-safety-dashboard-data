@@ -260,6 +260,7 @@
       "Clinical Toxicology": 0,
       "Clothing & Textiles": 2,
       "Communications": 0,
+      "Computers, Laptops And Accessories": 1,
       "Condiments": 0,
       "Construction Products": 0,
       "Consumer Products": 0,
@@ -488,7 +489,7 @@
       "Suv - Minivan - Light Truck & Van": 0,
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
-      "Tools & Machinery": 1,
+      "Tools & Machinery": 0,
       "Toys & Childcare": 3,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
@@ -509,11 +510,11 @@
       "Veterinary Drugs": 0
     },
     "by_severity": {
-      "Fatal": 18,
+      "Fatal": 19,
       "Minor": 1,
       "Moderate": 0,
       "Not Reported": 0,
-      "Serious": 6
+      "Serious": 5
     }
   },
   {
@@ -777,6 +778,7 @@
       "Clinical Toxicology": 2,
       "Clothing & Textiles": 562,
       "Communications": 1,
+      "Computers, Laptops And Accessories": 0,
       "Condiments": 35,
       "Construction Products": 0,
       "Consumer Products": 30,
@@ -1035,7 +1037,7 @@
   },
   {
     "region": "EU / EEA",
-    "total": 4999,
+    "total": 5000,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -1294,6 +1296,7 @@
       "Clinical Toxicology": 0,
       "Clothing & Textiles": 155,
       "Communications": 0,
+      "Computers, Laptops And Accessories": 0,
       "Condiments": 0,
       "Construction Products": 9,
       "Consumer Products": 0,
@@ -1523,7 +1526,7 @@
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
       "Tools & Machinery": 271,
-      "Toys & Childcare": 1017,
+      "Toys & Childcare": 1018,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
       "Truck - Med. & H.D. - Bus": 0,
@@ -1546,7 +1549,7 @@
       "Fatal": 0,
       "Minor": 0,
       "Moderate": 0,
-      "Not Reported": 4999,
+      "Not Reported": 5000,
       "Serious": 0
     }
   },
@@ -1811,6 +1814,7 @@
       "Clinical Toxicology": 0,
       "Clothing & Textiles": 0,
       "Communications": 0,
+      "Computers, Laptops And Accessories": 0,
       "Condiments": 0,
       "Construction Products": 0,
       "Consumer Products": 0,
@@ -2069,7 +2073,7 @@
   },
   {
     "region": "New Zealand",
-    "total": 1556,
+    "total": 1558,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 1,
@@ -2328,6 +2332,7 @@
       "Clinical Toxicology": 0,
       "Clothing & Textiles": 23,
       "Communications": 0,
+      "Computers, Laptops And Accessories": 0,
       "Condiments": 0,
       "Construction Products": 0,
       "Consumer Products": 0,
@@ -2557,7 +2562,7 @@
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
       "Tools & Machinery": 76,
-      "Toys & Childcare": 454,
+      "Toys & Childcare": 456,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
       "Truck - Med. & H.D. - Bus": 0,
@@ -2580,7 +2585,7 @@
       "Fatal": 1,
       "Minor": 8,
       "Moderate": 1,
-      "Not Reported": 1543,
+      "Not Reported": 1545,
       "Serious": 3
     }
   },
@@ -2845,6 +2850,7 @@
       "Clinical Toxicology": 0,
       "Clothing & Textiles": 0,
       "Communications": 0,
+      "Computers, Laptops And Accessories": 0,
       "Condiments": 0,
       "Construction Products": 0,
       "Consumer Products": 0,
@@ -3362,6 +3368,7 @@
       "Clinical Toxicology": 0,
       "Clothing & Textiles": 0,
       "Communications": 0,
+      "Computers, Laptops And Accessories": 0,
       "Condiments": 0,
       "Construction Products": 0,
       "Consumer Products": 0,
@@ -3612,9 +3619,9 @@
     },
     "by_severity": {
       "Fatal": 5,
-      "Minor": 801,
+      "Minor": 800,
       "Moderate": 0,
-      "Not Reported": 192,
+      "Not Reported": 193,
       "Serious": 2
     }
   }
