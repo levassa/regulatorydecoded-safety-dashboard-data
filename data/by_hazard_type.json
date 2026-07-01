@@ -1,15 +1,15 @@
 [
   {
     "hazard_type": "Other",
-    "total": 35152,
+    "total": 35146,
     "by_source": {
       "ACCC": 0,
-      "CPSC": 373,
-      "EU Safety Gate": 5000,
+      "CPSC": 374,
+      "EU Safety Gate": 4994,
       "FDA": 1895,
-      "Health Canada": 23209,
+      "Health Canada": 23210,
       "NZ Product Safety": 1445,
-      "OPSS": 230,
+      "OPSS": 228,
       "RappelConso": 3000
     }
   },
@@ -43,15 +43,15 @@
   },
   {
     "hazard_type": "Flammability / Overheating",
-    "total": 1724,
+    "total": 1732,
     "by_source": {
       "ACCC": 3,
-      "CPSC": 497,
+      "CPSC": 501,
       "EU Safety Gate": 0,
       "FDA": 39,
       "Health Canada": 865,
       "NZ Product Safety": 22,
-      "OPSS": 298,
+      "OPSS": 302,
       "RappelConso": 0
     }
   },
@@ -74,34 +74,34 @@
     "total": 1654,
     "by_source": {
       "ACCC": 2,
-      "CPSC": 90,
+      "CPSC": 91,
       "EU Safety Gate": 0,
       "FDA": 70,
       "Health Canada": 1359,
       "NZ Product Safety": 6,
-      "OPSS": 127,
+      "OPSS": 126,
       "RappelConso": 0
     }
   },
   {
     "hazard_type": "Chemical / Toxic Substance",
-    "total": 1030,
+    "total": 1032,
     "by_source": {
       "ACCC": 0,
-      "CPSC": 162,
+      "CPSC": 165,
       "EU Safety Gate": 0,
       "FDA": 189,
       "Health Canada": 578,
       "NZ Product Safety": 16,
-      "OPSS": 85,
+      "OPSS": 84,
       "RappelConso": 0
     }
   },
   {
     "hazard_type": "Small Parts / Choking Hazard",
-    "total": 925,
+    "total": 926,
     "by_source": {
-      "ACCC": 13,
+      "ACCC": 14,
       "CPSC": 205,
       "EU Safety Gate": 0,
       "FDA": 8,
@@ -115,8 +115,8 @@
     "hazard_type": "Mechanical Failure",
     "total": 546,
     "by_source": {
-      "ACCC": 5,
-      "CPSC": 169,
+      "ACCC": 4,
+      "CPSC": 170,
       "EU Safety Gate": 0,
       "FDA": 207,
       "Health Canada": 163,
@@ -141,13 +141,13 @@
   },
   {
     "hazard_type": "Sharp Edges / Points",
-    "total": 425,
+    "total": 426,
     "by_source": {
       "ACCC": 1,
       "CPSC": 177,
       "EU Safety Gate": 0,
       "FDA": 38,
-      "Health Canada": 201,
+      "Health Canada": 202,
       "NZ Product Safety": 8,
       "OPSS": 0,
       "RappelConso": 0

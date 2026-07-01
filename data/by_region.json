@@ -256,7 +256,6 @@
       "Chemistry - Haematology": 0,
       "Chemistry - Immunology": 0,
       "Child Car Seat": 0,
-      "Child Car Seats": 1,
       "Clinical Toxicology": 0,
       "Clothing & Textiles": 2,
       "Communications": 0,
@@ -281,7 +280,7 @@
       "Drugs - Cannabis": 0,
       "Drugs - Natural Health Products": 0,
       "Drugs - Veterinary Drugs": 0,
-      "Dummies And Soothers": 1,
+      "Dummies And Soothers": 2,
       "Ear, Nose And Throat": 0,
       "Ear, Nose And Throat - Gastroenterology And Urology": 0,
       "Ear, Nose And Throat - Gastroenterology And Urology - General And Plastic Surgery": 0,
@@ -519,7 +518,7 @@
   },
   {
     "region": "Canada",
-    "total": 33710,
+    "total": 33712,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -746,7 +745,7 @@
       "Car - Suv - Light Truck & Van - Minivan": 1,
       "Car - Suv - Minivan": 2,
       "Car Parts And Accessories": 0,
-      "Cardiovascular": 238,
+      "Cardiovascular": 239,
       "Cardiovascular - Anaesthesiology": 1,
       "Cardiovascular - Chemistry": 1,
       "Cardiovascular - Gastroenterology And Urology": 2,
@@ -774,7 +773,6 @@
       "Chemistry - Haematology": 2,
       "Chemistry - Immunology": 3,
       "Child Car Seat": 79,
-      "Child Car Seats": 0,
       "Clinical Toxicology": 2,
       "Clothing & Textiles": 562,
       "Communications": 1,
@@ -872,7 +870,7 @@
       "Jewellery": 94,
       "Kitchen/Cooking Accessories": 0,
       "Kitchenware And Containers": 0,
-      "Kitchenware And Tableware": 3,
+      "Kitchenware And Tableware": 4,
       "Koru3 March 2014Tyco, Vigilant Mx4428 And F4000 Fire Indicator Panels": 0,
       "Koruamoxicillin Actavis - Powder For Oral Suspension; Glass Fragments Found In Two Bottles": 0,
       "Korujcm Compact Base For Neptune And Triton Wheelchairs": 0,
@@ -1031,13 +1029,13 @@
       "Fatal": 0,
       "Minor": 4314,
       "Moderate": 8556,
-      "Not Reported": 17978,
-      "Serious": 2862
+      "Not Reported": 17979,
+      "Serious": 2863
     }
   },
   {
     "region": "EU / EEA",
-    "total": 5000,
+    "total": 4994,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -1292,7 +1290,6 @@
       "Chemistry - Haematology": 0,
       "Chemistry - Immunology": 0,
       "Child Car Seat": 0,
-      "Child Car Seats": 0,
       "Clinical Toxicology": 0,
       "Clothing & Textiles": 155,
       "Communications": 0,
@@ -1302,7 +1299,7 @@
       "Consumer Products": 0,
       "Consumer Products - Drugs": 0,
       "Consumer Products - Natural Health Products": 0,
-      "Cosmetics & Personal Care": 1511,
+      "Cosmetics & Personal Care": 1507,
       "Dairy": 0,
       "Dairy - Other": 0,
       "Decorations, Candles And Novelties": 0,
@@ -1330,7 +1327,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 0,
       "Electric Or Gas Productsbuilding Products": 0,
-      "Electrical & Electronics": 865,
+      "Electrical & Electronics": 864,
       "Food & Food Contact": 0,
       "Fresh": 0,
       "Frozen": 0,
@@ -1526,7 +1523,7 @@
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
       "Tools & Machinery": 271,
-      "Toys & Childcare": 1018,
+      "Toys & Childcare": 1017,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
       "Truck - Med. & H.D. - Bus": 0,
@@ -1549,7 +1546,7 @@
       "Fatal": 0,
       "Minor": 0,
       "Moderate": 0,
-      "Not Reported": 5000,
+      "Not Reported": 4994,
       "Serious": 0
     }
   },
@@ -1810,7 +1807,6 @@
       "Chemistry - Haematology": 0,
       "Chemistry - Immunology": 0,
       "Child Car Seat": 0,
-      "Child Car Seats": 0,
       "Clinical Toxicology": 0,
       "Clothing & Textiles": 0,
       "Communications": 0,
@@ -2328,7 +2324,6 @@
       "Chemistry - Haematology": 0,
       "Chemistry - Immunology": 0,
       "Child Car Seat": 0,
-      "Child Car Seats": 0,
       "Clinical Toxicology": 0,
       "Clothing & Textiles": 23,
       "Communications": 0,
@@ -2591,7 +2586,7 @@
   },
   {
     "region": "USA",
-    "total": 6108,
+    "total": 6118,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -2846,7 +2841,6 @@
       "Chemistry - Haematology": 0,
       "Chemistry - Immunology": 0,
       "Child Car Seat": 0,
-      "Child Car Seats": 0,
       "Clinical Toxicology": 0,
       "Clothing & Textiles": 0,
       "Communications": 0,
@@ -3012,7 +3006,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 2108,
+      "Other": 2118,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
       "Other - Car Floor Mat": 0,
@@ -3100,8 +3094,8 @@
       "Veterinary Drugs": 0
     },
     "by_severity": {
-      "Fatal": 563,
-      "Minor": 879,
+      "Fatal": 570,
+      "Minor": 882,
       "Moderate": 623,
       "Not Reported": 1,
       "Serious": 4042
@@ -3364,7 +3358,6 @@
       "Chemistry - Haematology": 0,
       "Chemistry - Immunology": 0,
       "Child Car Seat": 0,
-      "Child Car Seats": 0,
       "Clinical Toxicology": 0,
       "Clothing & Textiles": 0,
       "Communications": 0,
@@ -3619,9 +3612,9 @@
     },
     "by_severity": {
       "Fatal": 5,
-      "Minor": 800,
+      "Minor": 801,
       "Moderate": 0,
-      "Not Reported": 193,
+      "Not Reported": 192,
       "Serious": 2
     }
   }
