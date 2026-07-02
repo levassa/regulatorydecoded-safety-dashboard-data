@@ -518,7 +518,7 @@
   },
   {
     "region": "Canada",
-    "total": 33712,
+    "total": 33717,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -724,7 +724,7 @@
       "Bus - School Bus - Truck - Med. & H.D.": 5,
       "Bus - Truck - Med. & H.D.": 14,
       "Bus - Truck - Med. & H.D. - School Bus": 1,
-      "Candy, Confectionary, Snacks And Sweeteners": 166,
+      "Candy, Confectionary, Snacks And Sweeteners": 169,
       "Candy, Confectionary, Snacks And Sweeteners - Nuts, Grains, And Seeds": 5,
       "Cannabis": 96,
       "Canned": 5,
@@ -766,7 +766,7 @@
       "Chassis Cab - Suv - Light Truck & Van - Truck - Med. & H.D.": 1,
       "Chassis Cab - Truck - Med. & H.D.": 19,
       "Chassis Cab - Truck - Med. & H.D. - Light Truck & Van": 2,
-      "Chemicals": 367,
+      "Chemicals": 368,
       "Chemistry": 132,
       "Chemistry - Gastroenterology And Urology": 2,
       "Chemistry - General Hospital And Personal Use": 3,
@@ -812,7 +812,7 @@
       "Electric Or Gas Productsbuilding Products": 0,
       "Electrical & Electronics": 423,
       "Food & Food Contact": 4390,
-      "Fresh": 91,
+      "Fresh": 92,
       "Frozen": 73,
       "Frozen - Herbs And Spices": 1,
       "Fruits And Vegetables": 27,
@@ -1027,15 +1027,15 @@
     },
     "by_severity": {
       "Fatal": 0,
-      "Minor": 4314,
-      "Moderate": 8556,
-      "Not Reported": 17979,
-      "Serious": 2863
+      "Minor": 4315,
+      "Moderate": 8557,
+      "Not Reported": 17980,
+      "Serious": 2865
     }
   },
   {
     "region": "EU / EEA",
-    "total": 4994,
+    "total": 5000,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -1299,7 +1299,7 @@
       "Consumer Products": 0,
       "Consumer Products - Drugs": 0,
       "Consumer Products - Natural Health Products": 0,
-      "Cosmetics & Personal Care": 1507,
+      "Cosmetics & Personal Care": 1511,
       "Dairy": 0,
       "Dairy - Other": 0,
       "Decorations, Candles And Novelties": 0,
@@ -1327,7 +1327,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 0,
       "Electric Or Gas Productsbuilding Products": 0,
-      "Electrical & Electronics": 864,
+      "Electrical & Electronics": 865,
       "Food & Food Contact": 0,
       "Fresh": 0,
       "Frozen": 0,
@@ -1523,7 +1523,7 @@
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
       "Tools & Machinery": 271,
-      "Toys & Childcare": 1017,
+      "Toys & Childcare": 1018,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
       "Truck - Med. & H.D. - Bus": 0,
@@ -1546,7 +1546,7 @@
       "Fatal": 0,
       "Minor": 0,
       "Moderate": 0,
-      "Not Reported": 4994,
+      "Not Reported": 5000,
       "Serious": 0
     }
   },
@@ -3612,9 +3612,9 @@
     },
     "by_severity": {
       "Fatal": 5,
-      "Minor": 801,
+      "Minor": 798,
       "Moderate": 0,
-      "Not Reported": 192,
+      "Not Reported": 195,
       "Serious": 2
     }
   }
