@@ -2572,7 +2572,7 @@
     "Fatal": 18,
     "Minor": 56,
     "Moderate": 47,
-    "Not Reported": 138,
+    "Not Reported": 139,
     "Serious": 12
   },
   {
@@ -2668,7 +2668,7 @@
     "Fatal": 48,
     "Minor": 72,
     "Moderate": 53,
-    "Not Reported": 462,
+    "Not Reported": 461,
     "Serious": 27
   },
   {
@@ -2676,7 +2676,7 @@
     "Fatal": 30,
     "Minor": 59,
     "Moderate": 55,
-    "Not Reported": 399,
+    "Not Reported": 398,
     "Serious": 22
   },
   {
@@ -2684,7 +2684,7 @@
     "Fatal": 30,
     "Minor": 68,
     "Moderate": 42,
-    "Not Reported": 481,
+    "Not Reported": 466,
     "Serious": 13
   },
   {
@@ -2693,6 +2693,6 @@
     "Minor": 2,
     "Moderate": 13,
     "Not Reported": 48,
-    "Serious": 4
+    "Serious": 5
   }
 ]
