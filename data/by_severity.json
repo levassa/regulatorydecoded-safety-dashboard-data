@@ -537,10 +537,10 @@
   },
   {
     "severity": "Serious",
-    "total": 6922,
+    "total": 6921,
     "total_injuries": 0,
     "by_region": {
-      "Australia": 5,
+      "Australia": 4,
       "Canada": 2866,
       "EU / EEA": 0,
       "France": 0,
@@ -899,7 +899,7 @@
       "Immunology": 0,
       "Jewellery": 0,
       "Kitchen/Cooking Accessories": 0,
-      "Kitchenware And Containers": 2,
+      "Kitchenware And Containers": 1,
       "Kitchenware And Tableware": 0,
       "Koru3 March 2014Tyco, Vigilant Mx4428 And F4000 Fire Indicator Panels": 0,
       "Koruamoxicillin Actavis - Powder For Oral Suspension; Glass Fragments Found In Two Bottles": 0,
@@ -1055,19 +1055,19 @@
       "Veterinary Drugs": 5
     },
     "by_hazard_type": {
-      "Allergen": 1444,
+      "Allergen": 1443,
       "Chemical / Toxic Substance": 198,
       "Drowning Risk": 78,
       "Electrical Fault": 70,
       "Entrapment": 14,
       "Explosion": 71,
-      "Flammability / Overheating": 51,
+      "Flammability / Overheating": 50,
       "Instability / Fall Risk": 25,
-      "Mechanical Failure": 226,
-      "Microbiological Contamination": 1760,
-      "Other": 2864,
+      "Mechanical Failure": 229,
+      "Microbiological Contamination": 1761,
+      "Other": 2862,
       "Radiation": 51,
-      "Sharp Edges / Points": 59,
+      "Sharp Edges / Points": 58,
       "Small Parts / Choking Hazard": 11
     }
   },
@@ -1612,13 +1612,13 @@
     "total": 6006,
     "total_injuries": 0,
     "by_region": {
-      "Australia": 1,
+      "Australia": 2,
       "Canada": 4316,
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 8,
       "USA": 883,
-      "United Kingdom": 798
+      "United Kingdom": 797
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
@@ -2040,7 +2040,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 1779,
+      "Other": 1778,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
       "Other - Car Floor Mat": 0,
@@ -2107,7 +2107,7 @@
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
       "Tools & Machinery": 0,
-      "Toys & Childcare": 2,
+      "Toys & Childcare": 3,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
       "Truck - Med. & H.D. - Bus": 0,
@@ -2128,9 +2128,9 @@
     },
     "by_hazard_type": {
       "Allergen": 622,
-      "Chemical / Toxic Substance": 76,
+      "Chemical / Toxic Substance": 77,
       "Drowning Risk": 61,
-      "Electrical Fault": 160,
+      "Electrical Fault": 159,
       "Entrapment": 26,
       "Explosion": 48,
       "Flammability / Overheating": 636,
@@ -2145,16 +2145,16 @@
   },
   {
     "severity": "Not Reported",
-    "total": 27707,
+    "total": 27724,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
       "Canada": 17982,
-      "EU / EEA": 4984,
+      "EU / EEA": 5000,
       "France": 3000,
       "New Zealand": 1545,
       "USA": 1,
-      "United Kingdom": 195
+      "United Kingdom": 196
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
@@ -2448,7 +2448,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 7,
       "Electric Or Gas Productsbuilding Products": 1,
-      "Electrical & Electronics": 1528,
+      "Electrical & Electronics": 1534,
       "Food & Food Contact": 201,
       "Fresh": 1,
       "Frozen": 1,
@@ -2505,7 +2505,7 @@
       "Household Items - Specialized Products": 15,
       "Household Items - Veterinary Drugs": 1,
       "Immunology": 0,
-      "Jewellery": 204,
+      "Jewellery": 205,
       "Kitchen/Cooking Accessories": 45,
       "Kitchenware And Containers": 0,
       "Kitchenware And Tableware": 4,
@@ -2576,7 +2576,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 3514,
+      "Other": 3515,
       "Other - Back Patch, Recovery Tape": 1,
       "Other - Books": 1,
       "Other - Car Floor Mat": 1,
@@ -2642,8 +2642,8 @@
       "Suv - Minivan - Light Truck & Van": 2,
       "Suv - Truck - Med. & H.D.": 1,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 1,
-      "Tools & Machinery": 842,
-      "Toys & Childcare": 2205,
+      "Tools & Machinery": 844,
+      "Toys & Childcare": 2212,
       "Truck - Med. & H.D.": 967,
       "Truck - Med. & H.D. - A.T.V.": 1,
       "Truck - Med. & H.D. - Bus": 5,
@@ -2673,10 +2673,10 @@
       "Instability / Fall Risk": 317,
       "Mechanical Failure": 39,
       "Microbiological Contamination": 86,
-      "Other": 21475,
+      "Other": 21493,
       "Radiation": 1596,
       "Sharp Edges / Points": 177,
-      "Small Parts / Choking Hazard": 520
+      "Small Parts / Choking Hazard": 519
     }
   }
 ]

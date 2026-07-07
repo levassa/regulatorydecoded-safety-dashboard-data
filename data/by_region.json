@@ -353,7 +353,7 @@
       "Immunology": 0,
       "Jewellery": 0,
       "Kitchen/Cooking Accessories": 0,
-      "Kitchenware And Containers": 2,
+      "Kitchenware And Containers": 1,
       "Kitchenware And Tableware": 0,
       "Koru3 March 2014Tyco, Vigilant Mx4428 And F4000 Fire Indicator Panels": 0,
       "Koruamoxicillin Actavis - Powder For Oral Suspension; Glass Fragments Found In Two Bottles": 0,
@@ -489,7 +489,7 @@
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
       "Tools & Machinery": 2,
-      "Toys & Childcare": 3,
+      "Toys & Childcare": 4,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
       "Truck - Med. & H.D. - Bus": 0,
@@ -510,10 +510,10 @@
     },
     "by_severity": {
       "Fatal": 19,
-      "Minor": 1,
+      "Minor": 2,
       "Moderate": 0,
       "Not Reported": 0,
-      "Serious": 5
+      "Serious": 4
     }
   },
   {
@@ -1035,7 +1035,7 @@
   },
   {
     "region": "EU / EEA",
-    "total": 4984,
+    "total": 5000,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -1328,7 +1328,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 0,
       "Electric Or Gas Productsbuilding Products": 0,
-      "Electrical & Electronics": 865,
+      "Electrical & Electronics": 871,
       "Food & Food Contact": 0,
       "Fresh": 0,
       "Frozen": 0,
@@ -1385,7 +1385,7 @@
       "Household Items - Specialized Products": 0,
       "Household Items - Veterinary Drugs": 0,
       "Immunology": 0,
-      "Jewellery": 110,
+      "Jewellery": 111,
       "Kitchen/Cooking Accessories": 45,
       "Kitchenware And Containers": 0,
       "Kitchenware And Tableware": 0,
@@ -1522,8 +1522,8 @@
       "Suv - Minivan - Light Truck & Van": 0,
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
-      "Tools & Machinery": 271,
-      "Toys & Childcare": 1017,
+      "Tools & Machinery": 273,
+      "Toys & Childcare": 1024,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
       "Truck - Med. & H.D. - Bus": 0,
@@ -1546,7 +1546,7 @@
       "Fatal": 0,
       "Minor": 0,
       "Moderate": 0,
-      "Not Reported": 4984,
+      "Not Reported": 5000,
       "Serious": 0
     }
   },
@@ -3612,9 +3612,9 @@
     },
     "by_severity": {
       "Fatal": 5,
-      "Minor": 798,
+      "Minor": 797,
       "Moderate": 0,
-      "Not Reported": 195,
+      "Not Reported": 196,
       "Serious": 2
     }
   }
