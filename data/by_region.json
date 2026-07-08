@@ -518,7 +518,7 @@
   },
   {
     "region": "Canada",
-    "total": 33732,
+    "total": 33736,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -777,7 +777,7 @@
       "Clothing & Textiles": 562,
       "Communications": 1,
       "Computers, Laptops And Accessories": 0,
-      "Condiments": 35,
+      "Condiments": 36,
       "Construction Products": 0,
       "Consumer Products": 30,
       "Consumer Products - Drugs": 7,
@@ -793,7 +793,7 @@
       "Dental - General Hospital And Personal Use": 2,
       "Dental - Orthopaedics - General And Plastic Surgery": 1,
       "Diving": 0,
-      "Drugs": 2773,
+      "Drugs": 2774,
       "Drugs - Biologic Or Vaccine": 8,
       "Drugs - Cannabis": 1,
       "Drugs - Natural Health Products": 72,
@@ -837,7 +837,7 @@
       "General And Plastic Surgery - General Hospital And Personal Use": 12,
       "General And Plastic Surgery - Obstetrics And Gynaecology": 1,
       "General And Plastic Surgery - Orthopaedics": 1,
-      "General Hospital And Personal Use": 393,
+      "General Hospital And Personal Use": 394,
       "General Hospital And Personal Use - Cardiovascular": 4,
       "General Hospital And Personal Use - Cardiovascular - General And Plastic Surgery": 1,
       "General Hospital And Personal Use - Chemistry - Microbiology - Ophthalmology - Haematology": 1,
@@ -939,7 +939,7 @@
       "Ophthalmology": 29,
       "Ophthalmology - General Hospital And Personal Use": 1,
       "Orthopaedics": 97,
-      "Other": 546,
+      "Other": 547,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
       "Other - Car Floor Mat": 0,
@@ -1027,10 +1027,10 @@
     },
     "by_severity": {
       "Fatal": 0,
-      "Minor": 4316,
-      "Moderate": 8568,
-      "Not Reported": 17982,
-      "Serious": 2866
+      "Minor": 4317,
+      "Moderate": 8569,
+      "Not Reported": 17983,
+      "Serious": 2867
     }
   },
   {
@@ -3612,9 +3612,9 @@
     },
     "by_severity": {
       "Fatal": 5,
-      "Minor": 797,
+      "Minor": 794,
       "Moderate": 0,
-      "Not Reported": 196,
+      "Not Reported": 199,
       "Serious": 2
     }
   }
