@@ -1,7 +1,7 @@
 [
   {
     "risk_type": "Other",
-    "count": 15008,
+    "count": 14996,
     "percentage": 29.7
   },
   {
@@ -16,12 +16,12 @@
   },
   {
     "risk_type": "Fire",
-    "count": 1694,
+    "count": 1695,
     "percentage": 3.4
   },
   {
     "risk_type": "Performance",
-    "count": 1369,
+    "count": 1370,
     "percentage": 2.7
   },
   {
@@ -161,7 +161,7 @@
   },
   {
     "risk_type": "Product Quality",
-    "count": 310,
+    "count": 311,
     "percentage": 0.6
   },
   {
@@ -171,12 +171,12 @@
   },
   {
     "risk_type": "Fuel System",
-    "count": 255,
+    "count": 257,
     "percentage": 0.5
   },
   {
     "risk_type": "Burns",
-    "count": 250,
+    "count": 251,
     "percentage": 0.5
   },
   {
@@ -306,7 +306,7 @@
   },
   {
     "risk_type": "Unauthorised Device",
-    "count": 66,
+    "count": 67,
     "percentage": 0.1
   },
   {
@@ -475,12 +475,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Recall Required By Order Of Permanent Injunction. The Products Are Misbranded And Deemed Unapproved Drugs Based On Labeling Claims.",
+    "risk_type": "Findings And Potential For Cronobacter Sakazakii And Clostridium Botulinum.",
     "count": 18,
     "percentage": 0.0
   },
   {
-    "risk_type": "Findings And Potential For Cronobacter Sakazakii And Clostridium Botulinum.",
+    "risk_type": "Recall Required By Order Of Permanent Injunction. The Products Are Misbranded And Deemed Unapproved Drugs Based On Labeling Claims.",
     "count": 18,
     "percentage": 0.0
   },
@@ -490,7 +490,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "There Is A Rare Potential For Reduced- Or No-Energy Output During High Voltage (Hv) Therapy (Typically 0-12J) In Implantable Cardioverter Defibrillators (Icds) And Cardiac Resynchronization Therapy Defibrillators (Crt-Ds) Manufactured With A Specific (Glassed) Feedthrough, Including Currently Available Icds And Crt-Ds.",
+    "risk_type": "Fish",
     "count": 17,
     "percentage": 0.0
   },
@@ -500,13 +500,8 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Fish",
+    "risk_type": "There Is A Rare Potential For Reduced- Or No-Energy Output During High Voltage (Hv) Therapy (Typically 0-12J) In Implantable Cardioverter Defibrillators (Icds) And Cardiac Resynchronization Therapy Defibrillators (Crt-Ds) Manufactured With A Specific (Glassed) Feedthrough, Including Currently Available Icds And Crt-Ds.",
     "count": 17,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Undeclared Milk",
-    "count": 16,
     "percentage": 0.0
   },
   {
@@ -515,12 +510,17 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Potential For Backflow Of Medication From Secondary (Piggyback) Iv Containers Into Primary Iv Containers And The Inability To Prime (Occlusion).",
+    "risk_type": "Revised Instructions For Use",
     "count": 16,
     "percentage": 0.0
   },
   {
-    "risk_type": "Revised Instructions For Use",
+    "risk_type": "Undeclared Milk",
+    "count": 16,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Potential For Backflow Of Medication From Secondary (Piggyback) Iv Containers Into Primary Iv Containers And The Inability To Prime (Occlusion).",
     "count": 16,
     "percentage": 0.0
   },
@@ -550,32 +550,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Gluten - Wheat",
-    "count": 13,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Product Tested Positive Salmonella .",
-    "count": 13,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "E. Coli - Other Pathogenic",
-    "count": 13,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Medline Has Identified Issues Related To Calibration Of The Equipment Used To Sterilize And Package The Devices. All Products Were Exposed To The Validated Sterilization And Packaging Cycles; However, The Identified Calibration Issues Have The Potential To Impact The Sterility Assurance Level (Sal) Of The Recalled Products.",
-    "count": 13,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Egg - Soy",
-    "count": 13,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Foreign Material: Pieces Of A Pen (Writing Utensil).",
+    "risk_type": "As The Temperature And Time Out Of Range Was Exceeded, Product Performances Cannot Be Guaranteed",
     "count": 13,
     "percentage": 0.0
   },
@@ -585,7 +560,37 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "As The Temperature And Time Out Of Range Was Exceeded, Product Performances Cannot Be Guaranteed",
+    "risk_type": "Gluten - Wheat",
+    "count": 13,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "New Safety Information - Product Safety",
+    "count": 13,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Tested Positive Salmonella .",
+    "count": 13,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Medline Has Identified Issues Related To Calibration Of The Equipment Used To Sterilize And Package The Devices. All Products Were Exposed To The Validated Sterilization And Packaging Cycles; However, The Identified Calibration Issues Have The Potential To Impact The Sterility Assurance Level (Sal) Of The Recalled Products.",
+    "count": 13,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Foreign Material: Pieces Of A Pen (Writing Utensil).",
+    "count": 13,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "E. Coli - Other Pathogenic",
+    "count": 13,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Egg - Soy",
     "count": 13,
     "percentage": 0.0
   },
@@ -601,11 +606,6 @@
   },
   {
     "risk_type": "Products Are Potentially Contaminated With Salmonella.",
-    "count": 12,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "New Safety Information - Product Safety",
     "count": 12,
     "percentage": 0.0
   },

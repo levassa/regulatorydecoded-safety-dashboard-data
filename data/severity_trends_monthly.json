@@ -2684,15 +2684,15 @@
     "Fatal": 30,
     "Minor": 68,
     "Moderate": 42,
-    "Not Reported": 481,
+    "Not Reported": 469,
     "Serious": 13
   },
   {
     "month": "2026-07",
     "Fatal": 6,
     "Minor": 12,
-    "Moderate": 14,
-    "Not Reported": 56,
-    "Serious": 6
+    "Moderate": 16,
+    "Not Reported": 61,
+    "Serious": 7
   }
 ]
