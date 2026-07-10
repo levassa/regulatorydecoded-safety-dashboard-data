@@ -1,7 +1,7 @@
 [
   {
     "risk_type": "Other",
-    "count": 14996,
+    "count": 14951,
     "percentage": 29.7
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "risk_type": "Performance",
-    "count": 1370,
+    "count": 1372,
     "percentage": 2.7
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "risk_type": "Injury",
-    "count": 907,
+    "count": 908,
     "percentage": 1.8
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "risk_type": "Choking",
-    "count": 730,
+    "count": 729,
     "percentage": 1.4
   },
   {
@@ -81,7 +81,7 @@
   },
   {
     "risk_type": "Lights And Instruments",
-    "count": 624,
+    "count": 625,
     "percentage": 1.2
   },
   {
@@ -96,7 +96,7 @@
   },
   {
     "risk_type": "Chemical",
-    "count": 581,
+    "count": 583,
     "percentage": 1.2
   },
   {
@@ -136,7 +136,7 @@
   },
   {
     "risk_type": "Label",
-    "count": 384,
+    "count": 385,
     "percentage": 0.8
   },
   {
@@ -176,13 +176,13 @@
   },
   {
     "risk_type": "Burns",
-    "count": 251,
+    "count": 252,
     "percentage": 0.5
   },
   {
     "risk_type": "E. Coli O157:H7",
     "count": 227,
-    "percentage": 0.4
+    "percentage": 0.5
   },
   {
     "risk_type": "Tires",
@@ -221,7 +221,7 @@
   },
   {
     "risk_type": "Sterility",
-    "count": 152,
+    "count": 153,
     "percentage": 0.3
   },
   {
@@ -480,12 +480,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Recall Required By Order Of Permanent Injunction. The Products Are Misbranded And Deemed Unapproved Drugs Based On Labeling Claims.",
+    "risk_type": "Medical Convenience Kits Contain Plastic Syringes Affected By The Fda Safety Alert Issued On March 19, 2024. Leaks, Breakage, And/ Other Quality Issues Have Been Identified That May Pose A Risk To Patient Health.",
     "count": 18,
     "percentage": 0.0
   },
   {
-    "risk_type": "Medical Convenience Kits Contain Plastic Syringes Affected By The Fda Safety Alert Issued On March 19, 2024. Leaks, Breakage, And/ Other Quality Issues Have Been Identified That May Pose A Risk To Patient Health.",
+    "risk_type": "Recall Required By Order Of Permanent Injunction. The Products Are Misbranded And Deemed Unapproved Drugs Based On Labeling Claims.",
     "count": 18,
     "percentage": 0.0
   },
@@ -735,6 +735,11 @@
     "percentage": 0.0
   },
   {
+    "risk_type": "Mustard - Soy",
+    "count": 9,
+    "percentage": 0.0
+  },
+  {
     "risk_type": "Wheat - Gluten",
     "count": 9,
     "percentage": 0.0
@@ -751,11 +756,6 @@
   },
   {
     "risk_type": "Crustacean And Shellfish",
-    "count": 8,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Mustard - Soy",
     "count": 8,
     "percentage": 0.0
   },
@@ -2240,7 +2240,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For 4.4M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "risk_type": "Products Were Made With Peanut Butter Contaminated With Salmonella.",
     "count": 2,
     "percentage": 0.0
   },
@@ -2265,7 +2265,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Products Were Made With Peanut Butter Contaminated With Salmonella.",
+    "risk_type": "Product Safety Report For 4.4M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
     "count": 2,
     "percentage": 0.0
   },
@@ -3015,22 +3015,22 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Wheat - Sulphites",
-    "count": 2,
-    "percentage": 0.0
-  },
-  {
     "risk_type": "The Weight Plates Can Dislodge From The Handle During Use, Posing An Impact Hazard.",
     "count": 2,
     "percentage": 0.0
   },
   {
-    "risk_type": "A Slight Dimensional Variation Which Has The Potential For Increased Difficulty Fitting Into Outer Canister.",
+    "risk_type": "Certain Peritoneal Dialysis Product Codes Do Not Have Fda Regulatory Clearance And Were Distributed Within The United States In Error.",
     "count": 2,
     "percentage": 0.0
   },
   {
-    "risk_type": "Certain Peritoneal Dialysis Product Codes Do Not Have Fda Regulatory Clearance And Were Distributed Within The United States In Error.",
+    "risk_type": "Wheat - Sulphites",
+    "count": 2,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "A Slight Dimensional Variation Which Has The Potential For Increased Difficulty Fitting Into Outer Canister.",
     "count": 2,
     "percentage": 0.0
   },
@@ -3095,11 +3095,6 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Confirmed Customer Complaints Indicating That Gem Paks (Cartridges) For The Gem Premier 5000 May Experience An Increased Incidence Of  Process Control Solution Not Detected  (Pcsnd) Errors During Warm-Up, Including Consecutive Occurrences, Resulting In Gem Pak Ejection And Requiring Insertion Of A New Gem Pak. Iqm2 Is An Active Quality Process Control Program Designed To Provide Continuous Monitoring Of The Entire Testing Process. Thus, If A Gem Pak Completes Autopak Validation Following Warm-Up, It May Remain In Use.    Consecutive Gem Pak Ejections During Warm-Up May Prolong Turnaround Times, Potentially Delaying Results. In Such Cases, Patient Management May Require Reassessment Once Results Are Available. While Many Gem Paks Continue To Perform As Intended, Consecutive Ejections May Increase The Likelihood Of Operational Disruption, Highlighting The Importance Of Advance Planning Where Feasible To Help Minimize Impact.",
-    "count": 2,
-    "percentage": 0.0
-  },
-  {
     "risk_type": "Undeclared Milk And Sesame Seeds",
     "count": 2,
     "percentage": 0.0
@@ -3115,12 +3110,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "During An Inspection By The Fda The Firm Was Notified By Fda That The Product Contains Undeclared Milk, Wheat  & Soy.",
+    "risk_type": "As A Result Of Receiving An Fda It Has Come To Our Attention Letter (Ihctoa Letter) Regarding Potential Cybersecurity Issues With Various Of The Firm Device.",
     "count": 2,
     "percentage": 0.0
   },
   {
-    "risk_type": "An Increased Number Of Complaints Were Reported On The Blood Pump Rotor (P/N - F40015481 Rev A) After A Period Of Use By Clinics Noting Loose/Dislodged Guide Sheaves.",
+    "risk_type": "During An Inspection By The Fda The Firm Was Notified By Fda That The Product Contains Undeclared Milk, Wheat  & Soy.",
     "count": 2,
     "percentage": 0.0
   },
@@ -3175,7 +3170,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "As A Result Of Receiving An Fda It Has Come To Our Attention Letter (Ihctoa Letter) Regarding Potential Cybersecurity Issues With Various Of The Firm Device.",
+    "risk_type": "Confirmed Customer Complaints Indicating That Gem Paks (Cartridges) For The Gem Premier 5000 May Experience An Increased Incidence Of  Process Control Solution Not Detected  (Pcsnd) Errors During Warm-Up, Including Consecutive Occurrences, Resulting In Gem Pak Ejection And Requiring Insertion Of A New Gem Pak. Iqm2 Is An Active Quality Process Control Program Designed To Provide Continuous Monitoring Of The Entire Testing Process. Thus, If A Gem Pak Completes Autopak Validation Following Warm-Up, It May Remain In Use.    Consecutive Gem Pak Ejections During Warm-Up May Prolong Turnaround Times, Potentially Delaying Results. In Such Cases, Patient Management May Require Reassessment Once Results Are Available. While Many Gem Paks Continue To Perform As Intended, Consecutive Ejections May Increase The Likelihood Of Operational Disruption, Highlighting The Importance Of Advance Planning Where Feasible To Help Minimize Impact.",
+    "count": 2,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "An Increased Number Of Complaints Were Reported On The Blood Pump Rotor (P/N - F40015481 Rev A) After A Period Of Use By Clinics Noting Loose/Dislodged Guide Sheaves.",
     "count": 2,
     "percentage": 0.0
   },
@@ -3245,17 +3245,17 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Surface Paint On The Brown Bell Found In \"Day 10\" Of The Advent Calendar Contains Levels Of Lead That Exceed The Federal Lead Paint Ban, Posing A Risk Of Lead Poisoning. Excessive Levels Of Lead Can Be Toxic Or Cause Other Health Problems To Young Children If The Paint Is Ingested.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
     "risk_type": "Updated Reprocessing Instruction For Use (Rifu): Impacted Pentax Medical Video Upper Gi Scopes (Eg) And Video Colonoscopes (Ec) Families",
     "count": 1,
     "percentage": 0.0
   },
   {
     "risk_type": "Undeclared Substance - Labelling - Product Safety",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "System May Exhibit A Loss Of Imaging Functionality And Data Due To An Issue Which Can Cause The System To Continuously Restart. If The Issue Occurs During A Procedure, There May Be A Delay And/Or Abortion Of The Procedure.",
     "count": 1,
     "percentage": 0.0
   },
@@ -3280,17 +3280,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "System May Exhibit A Loss Of Imaging Functionality And Data Due To An Issue Which Can Cause The System To Continuously Restart. If The Issue Occurs During A Procedure, There May Be A Delay And/Or Abortion Of The Procedure.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
     "risk_type": "Squirrel Mix Product Is Recalled Due To Undeclared Milk, Soy Lecithin, And Colors: B1, R40, Y5, Y6, And B2.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Surface Paint On The Miniature Skateboard And Scooter Toys In The Ramp Sets Contain Levels Of Lead That Exceed The Federal Lead Paint Ban, Posing A Risk Of Lead Poisoning. The Miniature Scooter Toy Also Fails To Comply With The Federal Lead Content Ban. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Effects.",
     "count": 1,
     "percentage": 0.0
   },
@@ -3300,12 +3290,22 @@
     "percentage": 0.0
   },
   {
+    "risk_type": "Surface Paint On The Miniature Skateboard And Scooter Toys In The Ramp Sets Contain Levels Of Lead That Exceed The Federal Lead Paint Ban, Posing A Risk Of Lead Poisoning. The Miniature Scooter Toy Also Fails To Comply With The Federal Lead Content Ban. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Effects.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
     "risk_type": "System Does Not Trigger A Cancel Command Followed By A Reload Of The Scan With The New Parameter(S). This Issue May Result In A Delay In Diagnosis And/Or Need For Patient Rescan",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Use Of The Continuous Glucose Monitoring System While Actively Taking   Hydroxyurea, An Anti-Neoplastic Drug  Could Result In Inaccurate Elevated Sensor Glucose Readings.",
+    "risk_type": "Technopath Manufacturing Ltd. Has Identified An Issue With The Glass Vial Commodity Used To Fill The Multichem S Plus Level 1, Multichem S Plus Level 2, Multichem S Plus Level 3, Multichem Ia Plus And Multichem P Controls. Some Customers Have Experienced Broken Vials When Receiving Or Thawing Technopath Multichem Ia Plus And Multichem S Plus Controls. Breakages Have Been Observed Upon Delivery, While Thawing Or While Opening The Vial. The Breakages Can Result In The Bottom Of The Vial Breaking Off, Breakage In The Neck Thread Area Or Cracking On The Sides Of The Vial. This May Expose The User To Biohazardous Material If Cut And May Cause A Delay In Patient Results.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Surface Paint On The Brown Bell Found In \"Day 10\" Of The Advent Calendar Contains Levels Of Lead That Exceed The Federal Lead Paint Ban, Posing A Risk Of Lead Poisoning. Excessive Levels Of Lead Can Be Toxic Or Cause Other Health Problems To Young Children If The Paint Is Ingested.",
     "count": 1,
     "percentage": 0.0
   },
@@ -3315,7 +3315,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Undeclared Sulfites In Product",
+    "risk_type": "Use Of The Continuous Glucose Monitoring System While Actively Taking   Hydroxyurea, An Anti-Neoplastic Drug  Could Result In Inaccurate Elevated Sensor Glucose Readings.",
     "count": 1,
     "percentage": 0.0
   },
@@ -3325,7 +3325,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Tampering",
+    "risk_type": "Undeclared Sulfites In Product",
     "count": 1,
     "percentage": 0.0
   },
@@ -3340,7 +3340,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Technopath Manufacturing Ltd. Has Identified An Issue With The Glass Vial Commodity Used To Fill The Multichem S Plus Level 1, Multichem S Plus Level 2, Multichem S Plus Level 3, Multichem Ia Plus And Multichem P Controls. Some Customers Have Experienced Broken Vials When Receiving Or Thawing Technopath Multichem Ia Plus And Multichem S Plus Controls. Breakages Have Been Observed Upon Delivery, While Thawing Or While Opening The Vial. The Breakages Can Result In The Bottom Of The Vial Breaking Off, Breakage In The Neck Thread Area Or Cracking On The Sides Of The Vial. This May Expose The User To Biohazardous Material If Cut And May Cause A Delay In Patient Results.",
+    "risk_type": "Users Were Reporting Instances Of \"Gas Loss In Iab Circuit\" And \"Gas Gain In Iab Circuit\" Alarms While Providing Therapy. An Internal Investigation Of The Complaints Determined That There Is A Potential Trigger For These Alarms That Was Not Listed In The Ifu: Patient Movement (Coughing, General Movement, And Swallowing).  Blood In The Circuit, Kins And Abrasions Of The Tubing/Catheter And Certain Patient Conditions Could Also Trigger These Alarms.  The Hhe Also Identified Hardware Issues Related To These Alarms.",
     "count": 1,
     "percentage": 0.0
   },
@@ -3360,6 +3360,11 @@
     "percentage": 0.0
   },
   {
+    "risk_type": "Tampering",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
     "risk_type": "Sprouts Have The Potential To Be Contaminated With Listeria Monocytogenes",
     "count": 1,
     "percentage": 0.0
@@ -3371,11 +3376,6 @@
   },
   {
     "risk_type": "Users Of The Freestyle Libre 3 Sensors Reported Situations Where They Were Receiving Erroneously High Glucose Results. The Inaccurate Higher Glucose Values May Lead To Users Calculating Higher Insulin Bolus Correctional Doses Based On Inaccurate Cgm Glucose Data. The Inaccurate Higher Glucose Values May Also Contribute To Missed Or Delayed Recognition Of Hypoglycemia, When The Sensor Incorrectly Reports Normal Or Even High Glucose Values When The Actual Glucose Is Trending Low Or Is Low. If The Hypoglycemia Missed By The Device Occurs Acutely, A User May Not Be Able To Confirm The Actual Glucose With A Self-Monitored Blood Glucose (Bg) And/Or Administer Prompt Intervention To Raise Glucose Levels. The Over-Delivery Of Insulin And/Or The Missed Or Delayed Detection Of Impending Or Overt Hypoglycemia In The Worst-Case Scenario May Lead To Severe Hypoglycemia/Hypoglycemic Crisis With Significant Adverse Health Consequences. Such Consequences Include Central Nervous System Dysfunction, Loss Of Consciousness, Seizure Activity And May Lead To Coma, Permanent Neurological Damage, And Death.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Users Were Reporting Instances Of \"Gas Loss In Iab Circuit\" And \"Gas Gain In Iab Circuit\" Alarms While Providing Therapy. An Internal Investigation Of The Complaints Determined That There Is A Potential Trigger For These Alarms That Was Not Listed In The Ifu: Patient Movement (Coughing, General Movement, And Swallowing).  Blood In The Circuit, Kins And Abrasions Of The Tubing/Catheter And Certain Patient Conditions Could Also Trigger These Alarms.  The Hhe Also Identified Hardware Issues Related To These Alarms.",
     "count": 1,
     "percentage": 0.0
   },
@@ -4360,17 +4360,22 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Wheat - Sesame Seeds",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
     "risk_type": "Recalled Lots Were Manufactured With Double The Amount Of Preservative Concentration.",
     "count": 1,
     "percentage": 0.0
   },
   {
+    "risk_type": "Wheat - Sesame Seeds",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
     "risk_type": "Wheat - Sesame Seeds - Mustard - Gluten",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Recall Due To Mold Growth Observed (Eurotium Spp., Aspergillus Niger, And Xeromyces Bisporus).",
     "count": 1,
     "percentage": 0.0
   },
@@ -4381,11 +4386,6 @@
   },
   {
     "risk_type": "Wheat - Soy",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Recall Due To Mold Growth Observed (Eurotium Spp., Aspergillus Niger, And Xeromyces Bisporus).",
     "count": 1,
     "percentage": 0.0
   },
@@ -4410,12 +4410,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Products Were Found To Contain Flying Fish Instead Of Angler Fish.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "When Adding One Or More Intended Scan Groups Names Must Contain Only Letters, Numbers (0-9), Or A Space Or The User Interface Will Not Update To Confirm The Intended Group(S) Has Been Added To The Acquisition.",
+    "risk_type": "Wild Leek Was Recalled Due To Undeclared Soybean, Wheat, And Fish (Anchovy).",
     "count": 1,
     "percentage": 0.0
   },
@@ -4426,6 +4421,11 @@
   },
   {
     "risk_type": "Ranch Dressing Dip Contains Undeclared Milk As An Ingredient.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "When Adding One Or More Intended Scan Groups Names Must Contain Only Letters, Numbers (0-9), Or A Space Or The User Interface Will Not Update To Confirm The Intended Group(S) Has Been Added To The Acquisition.",
     "count": 1,
     "percentage": 0.0
   },
@@ -4465,12 +4465,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "White Corn Tortilla Chips May Contain Undeclared Milk",
+    "risk_type": "Products Were Made With Recalled California Dairies Milk Powder Due To Salmonella.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Products Were Made With Recalled California Dairies Milk Powder Due To Salmonella.",
+    "risk_type": "White Corn Tortilla Chips May Contain Undeclared Milk",
     "count": 1,
     "percentage": 0.0
   },
@@ -4480,12 +4480,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Wild Leek Was Recalled Due To Undeclared Soybean, Wheat, And Fish (Anchovy).",
+    "risk_type": "Products Were Found To Contain Undeclared Coconut",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Products Were Found To Contain Undeclared Coconut",
+    "risk_type": "Products Were Found To Contain Flying Fish Instead Of Angler Fish.",
     "count": 1,
     "percentage": 0.0
   },
@@ -4520,12 +4520,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "A Defect Involving An Occluded Needle Was Discovered During A Training Exercise.",
+    "risk_type": "Product Safety Report For Zhong Jie Ming Toys Dinosaur Helmet Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Zhong Jie Ming Toys Dinosaur Helmet Presenting A Serious Risk Of Injuries.",
+    "risk_type": "A Defect Involving An Occluded Needle Was Discovered During A Training Exercise.",
     "count": 1,
     "percentage": 0.0
   },
@@ -4620,11 +4620,6 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Terex Gb Limited Finlay J-1170+ Mobile Jaw Crusher Presenting A High Risk Of Injuries.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
     "risk_type": "Product Safety Report For Tarmak Nba Basketball Hoop Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
@@ -4641,6 +4636,11 @@
   },
   {
     "risk_type": "Product Safety Report For Star Blue Light Up Tri-Scooter Presenting A High Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Stainless Steel Telescopic Ladder 3.8M Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -5780,7 +5780,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Stainless Steel Telescopic Ladder 3.8M Presenting A Serious Risk Of Injuries.",
+    "risk_type": "Product Safety Report For Stainless Steel 4.4M And 5M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -7900,7 +7900,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Ktl Squeezy Splatter Pig Toy Presenting A Risk To Health.",
+    "risk_type": "Product Recall For Ktl Kreative Kids! Jumbo Craft Box Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
@@ -10810,6 +10810,16 @@
     "percentage": 0.0
   },
   {
+    "risk_type": "Product Recall For Hti Toys Stretcherz Toys Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Hunter Price'S Crayola-Branded Discovery Craft Box Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
     "risk_type": "Product Recall For Hunter Price’S Crayola-Branded Touchy Feely Craft Box Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
@@ -10840,7 +10850,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Joolz Aer2 Car Seat Adapter Set Presenting A Risk Of Injuries.",
+    "risk_type": "Listeria - Food",
     "count": 1,
     "percentage": 0.0
   },
@@ -10850,7 +10860,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Listeria - Food",
+    "risk_type": "Product Recall For Kids Create Sand Art Kit Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
@@ -10880,22 +10890,17 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Ktl Kreative Kids! Jumbo Craft Box Presenting A Risk To Health.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Product Recall For Ktl Sensory Science Kit Presenting A Risk To Health.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
     "risk_type": "1.8Mm Truss Wires Are Being Removed To Facilitate The Introduction Of 2.0Mm Truss Wires. The Increased Wire Diameter And New Manufacturing Process Are Meant To Provide A Stronger Wire And Reduced Breakage.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Kids Create Sand Art Kit Presenting A Risk To Health.",
+    "risk_type": "Product Recall For Joolz Aer2 Car Seat Adapter Set Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For George Baby 3-Pack Rompers With Zip Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -10906,6 +10911,11 @@
   },
   {
     "risk_type": "Product Recall For Grafix Make Your Own Sand Bottle (Star & Heart)  Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Habico Ltd 350G Jars Of Coloured Sand Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
@@ -10930,7 +10940,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Hello Sunday Mineral Eye Cream Spf50 Presenting A Risk To Health.",
+    "risk_type": "Product Recall For Hti Toys Fun Sand Art Bottle Kit Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
@@ -10940,7 +10950,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Hunter Price'S Crayola-Branded Discovery Craft Box Presenting A Risk To Health.",
+    "risk_type": "Product Recall For Hgl Stretchy Sand Monster Truck/Car Toys Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
@@ -10975,17 +10985,17 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Hti Toys Fun Sand Art Bottle Kit Presenting A Risk To Health.",
+    "risk_type": "Product Recall For Hello Sunday Mineral Eye Cream Spf50 Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Hti Toys Stretcherz Toys Presenting A Risk To Health.",
+    "risk_type": "Product Recall For Multi-Colour Ultra-Fine Quartz Sand Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Hgl Stretchy Sand Monster Truck/Car Toys Presenting A Risk To Health.",
+    "risk_type": "Product Recall For My Living World Worm Kit Presenting A Health Risk.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11020,7 +11030,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Pieps Pro Ips And Pieps Set Pro Ips Avalanche Transceiver Presenting A Risk Of Entrapment.",
+    "risk_type": "Product Recall For Ktl Sensory Science Kit Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11030,7 +11040,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Ktl Squishy Stretchy Capybara Toy Presenting A Risk To Health.",
+    "risk_type": "Product Recall For Q'Straint Wheelchair Securement Retractors Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11065,17 +11075,17 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Site Hallissey Dark Brown Dealer Boot Presenting A Risk Of Injuries.",
+    "risk_type": "Product Recall For Pieps Pro Ips And Pieps Set Pro Ips Avalanche Transceiver Presenting A Risk Of Entrapment.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Soft Bulalaet Gun Presenting A High Risk Of Injuries And Asphyxiation.",
+    "risk_type": "Product Recall For Ktl Squeezy Splatter Pig Toy Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Q'Straint Wheelchair Securement Retractors Presenting A Risk Of Injuries.",
+    "risk_type": "Product Recall For Ktl Squishy Stretchy Capybara Toy Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11110,7 +11120,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Lezyne Pressure Over Drive + Digital Pressure Over Drive Bicycle Floor Pump Presenting A Risk Of Injuries.",
+    "risk_type": "Product Recall For Moonboon Organic Baby Hammock Mounting Kit Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11120,7 +11130,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For My Living World Worm Kit Presenting A Health Risk.",
+    "risk_type": "Product Recall For M.Asam Vitamin C Glow Ampullens Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11160,17 +11170,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Moonboon Organic Baby Hammock Mounting Kit Presenting A Risk Of Injuries.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Product Recall For Multi-Colour Ultra-Fine Quartz Sand Presenting A Risk To Health.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Product Recall For M.Asam Vitamin C Glow Ampullens Presenting A Risk Of Injuries.",
+    "risk_type": "Product Recall For Lezyne Pressure Over Drive + Digital Pressure Over Drive Bicycle Floor Pump Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11215,7 +11215,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For George Baby 3-Pack Rompers With Zip Presenting A Risk Of Injuries.",
+    "risk_type": "Product Recall For George 'Stitch And Angel' Two Piece Children'S Clothing Set Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11395,12 +11395,17 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Dt Swiss Erc/Crc/Hec/Arc Bicycle Wheels Presenting A Risk Of Injuries.",
+    "risk_type": "Product Recall For Draper 30274 Petrol Chainsaw Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
   {
     "risk_type": "Product Recall For 110,000 Pcs Clear Water Beads Presenting A High Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Dunelm Novelty Doorstops Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11440,12 +11445,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For George 'Stitch And Angel' Two Piece Children'S Clothing Set Presenting A Risk Of Injuries.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Product Recall For Dunelm Novelty Doorstops Presenting A Risk To Health.",
+    "risk_type": "Product Recall For Dt Swiss Erc/Crc/Hec/Arc Bicycle Wheels Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11545,6 +11545,11 @@
     "percentage": 0.0
   },
   {
+    "risk_type": "Product Safety Report For Gel Water Beads Presenting A Serious Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
     "risk_type": "Product Safety Report For Giant Momentum Vida E+ Bicycle Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
@@ -11580,12 +11585,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Heybike Ec Compact City E-Bike Presenting A High Risk Of Injuries.",
+    "risk_type": "Product Recall For Site Hallissey Dark Brown Dealer Boot Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Specialized Como Sl 4.0 And Como Sl 5.0 Electric Hybrid Bicycles",
+    "risk_type": "Product Safety Report For Hinsinc Brushless Angle Grinder Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11625,12 +11630,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Joycat Baby Float Sold Via Amazon Presenting A Serious Risk Of Injuries.",
+    "risk_type": "Product Safety Report For Heybike Ec Compact City E-Bike Presenting A High Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Hinsinc Brushless Angle Grinder Presenting A Serious Risk Of Injuries.",
+    "risk_type": "Product Safety Report For Black Three-Step Folding Ladder Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11670,12 +11675,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Crystal Mud Sponge Water Beads Presenting A Serious Risk Of Injuries And Asphyxiation.",
+    "risk_type": "Product Safety Report For Fai Top High Pressure Washer Gun Sold Via Amazon Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Gel Water Beads Presenting A Serious Risk Of Asphyxiation.",
+    "risk_type": "Product Safety Report For Deluxus Water Beads 50000Pcs Presenting A High Risk Of Asphyxiation.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11720,12 +11725,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Fai Top High Pressure Washer Gun Sold Via Amazon Presenting A Serious Risk Of Injuries.",
+    "risk_type": "Product Safety Report For Crystal Mud Sponge Water Beads Presenting A Serious Risk Of Injuries And Asphyxiation.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Deluxus Water Beads 50000Pcs Presenting A High Risk Of Asphyxiation.",
+    "risk_type": "Product Safety Report For Parner Baby Swim Float And Seat Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11765,12 +11770,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Red Gasoline Chainsaw Presenting A High Risk Of Injuries.",
+    "risk_type": "Product Safety Report For Joycat Baby Float Sold Via Amazon Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Kaak Dough Driem Line Presenting A High Risk Of Entrapment.",
+    "risk_type": "Product Safety Report For Red Lawn Mower Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11810,12 +11815,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Stainless Steel 4.4M And 5M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "risk_type": "Product Safety Report For Red Gasoline Chainsaw Presenting A High Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Red Lawn Mower Presenting A Serious Risk Of Injuries.",
+    "risk_type": "Product Safety Report For Kaak Dough Driem Line Presenting A High Risk Of Entrapment.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11855,12 +11860,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Meat Grinder Presenting A Serious Risk Of Injuries.",
+    "risk_type": "Product Safety Report For Nineaccy Telescopic Ladders Presenting An Injuries Risk.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Parner Baby Swim Float And Seat Presenting A Serious Risk Of Injuries.",
+    "risk_type": "Product Safety Report For Mercury Marine 450R And 500R Outboard Motors Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11905,12 +11910,17 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Nineaccy Telescopic Ladders Presenting An Injuries Risk.",
+    "risk_type": "Product Safety Report For Meat Grinder Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Mercury Marine 450R And 500R Outboard Motors Presenting A Risk Of Injuries.",
+    "risk_type": "Product Recall For Vevor Lifting Chains Presenting A Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Villeroy & Boch Kiddy Bears Children'S Glass Collection Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11945,7 +11955,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall Of Sand-Filled Weirdo Toys Presenting A Risk To Health.",
+    "risk_type": "Product Safety Report For Bianchi Impulso Rc Bicycle Handlebars Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11955,7 +11965,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Bugaboo Giraffe Highchair Presenting A Risk Of Injuries.",
+    "risk_type": "Product Recall Of Xiangtai Safety Belt Sold Via Tiktok Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11990,17 +12000,17 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety - Supply",
+    "risk_type": "Product Recall Of Sand-Filled Weirdo Toys Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety - Supply - Labelling",
+    "risk_type": "Product Recall For Soft Bulalaet Gun Presenting A High Risk Of Injuries And Asphyxiation.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall Of Xiangtai Safety Belt Sold Via Tiktok Presenting A Serious Risk Of Injuries.",
+    "risk_type": "Product Recall For Specialized Como Sl 4.0 And Como Sl 5.0 Electric Hybrid Bicycles",
     "count": 1,
     "percentage": 0.0
   },
@@ -12035,7 +12045,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Stromer St3, St5 And St7 Bicycles Fitted With Wren Front Suspension Forks Presenting A Risk Of Injuries.",
+    "risk_type": "Product Recall For Urban Balcony Deckchair Presenting A Risk Of Entrapment.",
     "count": 1,
     "percentage": 0.0
   },
@@ -12045,7 +12055,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Villeroy & Boch Kiddy Bears Children'S Glass Collection Presenting A Risk Of Injuries.",
+    "risk_type": "Product Recall For Texet Bright Start Fluorescent Coloured Craft Sand Pack Of 6 Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
@@ -12085,17 +12095,17 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Urban Balcony Deckchair Presenting A Risk Of Entrapment.",
+    "risk_type": "Product Recall For Stromer St3, St5 And St7 Bicycles Fitted With Wren Front Suspension Forks Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Vevor Lifting Chains Presenting A Risk Of Injuries.",
+    "risk_type": "Product Safety Report For A Sigma Group Modulbox Mb Sv – All Models Presenting A Health Risk.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Texet Bright Start Fluorescent Coloured Craft Sand Pack Of 6 Presenting A Risk To Health.",
+    "risk_type": "Product Safety Report For A Supatool 4 Step Aluminium Step Ladder Presenting A High Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -12130,7 +12140,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Autojare Mitool Mini Chainsaws Presenting A Serious Risk Of Injuries.",
+    "risk_type": "Product Safety - Supply",
     "count": 1,
     "percentage": 0.0
   },
@@ -12140,7 +12150,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety - Unauthorised Device",
+    "risk_type": "Product Safety Report For Bababing Una Highchair Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -12175,17 +12185,17 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Bianchi Impulso Rc Bicycle Handlebars Presenting A Serious Risk Of Injuries.",
+    "risk_type": "Product Safety Report For Autojare Mitool Mini Chainsaws Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Black Three-Step Folding Ladder Presenting A Serious Risk Of Injuries.",
+    "risk_type": "Product Safety - Supply - Labelling",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Bababing Una Highchair Presenting A Risk Of Injuries.",
+    "risk_type": "Product Safety - Unauthorised Device",
     "count": 1,
     "percentage": 0.0
   },
@@ -12220,7 +12230,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For 3.2M Telescopic Ladder (Kiko 5031-8) Presenting A Serious Risk Of Injuries.",
+    "risk_type": "Product Safety Report For A Dece Oasis (Ado) Folding Electric Bikes Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -12230,7 +12240,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For A Supatool 4 Step Aluminium Step Ladder Presenting A High Risk Of Injuries.",
+    "risk_type": "Product Safety Report For 3.8M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -12270,17 +12280,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For A Dece Oasis (Ado) Folding Electric Bikes Presenting A Serious Risk Of Injuries.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Product Safety Report For A Sigma Group Modulbox Mb Sv – All Models Presenting A Health Risk.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Product Safety Report For 3.8M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "risk_type": "Product Safety Report For 3.2M Telescopic Ladder (Kiko 5031-8) Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
