@@ -1,7 +1,7 @@
 [
   {
     "risk_type": "Other",
-    "count": 14951,
+    "count": 15009,
     "percentage": 29.7
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "risk_type": "Fire",
-    "count": 1695,
+    "count": 1698,
     "percentage": 3.4
   },
   {
@@ -26,12 +26,12 @@
   },
   {
     "risk_type": "Electric Shock",
-    "count": 1290,
+    "count": 1293,
     "percentage": 2.6
   },
   {
     "risk_type": "Injury",
-    "count": 908,
+    "count": 911,
     "percentage": 1.8
   },
   {
@@ -76,7 +76,7 @@
   },
   {
     "risk_type": "Airbag",
-    "count": 634,
+    "count": 636,
     "percentage": 1.3
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "risk_type": "Powertrain",
-    "count": 593,
+    "count": 596,
     "percentage": 1.2
   },
   {
@@ -111,12 +111,12 @@
   },
   {
     "risk_type": "Steering",
-    "count": 502,
+    "count": 503,
     "percentage": 1.0
   },
   {
     "risk_type": "Listeria",
-    "count": 500,
+    "count": 501,
     "percentage": 1.0
   },
   {
@@ -136,7 +136,7 @@
   },
   {
     "risk_type": "Label",
-    "count": 385,
+    "count": 387,
     "percentage": 0.8
   },
   {
@@ -182,7 +182,7 @@
   {
     "risk_type": "E. Coli O157:H7",
     "count": 227,
-    "percentage": 0.5
+    "percentage": 0.4
   },
   {
     "risk_type": "Tires",
@@ -216,7 +216,7 @@
   },
   {
     "risk_type": "Peanut",
-    "count": 153,
+    "count": 154,
     "percentage": 0.3
   },
   {
@@ -350,12 +350,12 @@
     "percentage": 0.1
   },
   {
-    "risk_type": "Unauthorized Product - Product Safety",
-    "count": 34,
+    "risk_type": "Low Risk",
+    "count": 35,
     "percentage": 0.1
   },
   {
-    "risk_type": "Low Risk",
+    "risk_type": "Unauthorized Product - Product Safety",
     "count": 34,
     "percentage": 0.1
   },
@@ -695,6 +695,11 @@
     "percentage": 0.0
   },
   {
+    "risk_type": "Wheat - Gluten",
+    "count": 10,
+    "percentage": 0.0
+  },
+  {
     "risk_type": "Piston Syringes Sizes And Configurations Are Out Of The Range Of Devices Cleared Under The Firm'S 510(K).",
     "count": 10,
     "percentage": 0.0
@@ -730,17 +735,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Undeclared Egg",
-    "count": 9,
-    "percentage": 0.0
-  },
-  {
     "risk_type": "Mustard - Soy",
-    "count": 9,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Wheat - Gluten",
     "count": 9,
     "percentage": 0.0
   },
@@ -750,12 +745,27 @@
     "percentage": 0.0
   },
   {
+    "risk_type": "Undeclared Egg",
+    "count": 9,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Crustacean And Shellfish",
+    "count": 8,
+    "percentage": 0.0
+  },
+  {
     "risk_type": "Premature Failure",
     "count": 8,
     "percentage": 0.0
   },
   {
-    "risk_type": "Crustacean And Shellfish",
+    "risk_type": "The Food Was Not Held At An Appropriate Temperature.  The Holding Temperature Could Affect Spoilage And Potentially Support Pathogen Growth.",
+    "count": 8,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Alcon Has Detected An Increase In Complaint Reports Related To Sharpness For Specific Clearcut Dual Bevel Sideport And A-Ok Comeal/Scleral V-Lance Ophthalmic Knives.",
     "count": 8,
     "percentage": 0.0
   },
@@ -765,7 +775,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Alcon Has Detected An Increase In Complaint Reports Related To Sharpness For Specific Clearcut Dual Bevel Sideport And A-Ok Comeal/Scleral V-Lance Ophthalmic Knives.",
+    "risk_type": "Potential Presence Of Food-Grade Rubber Pieces.",
     "count": 8,
     "percentage": 0.0
   },
@@ -785,13 +795,8 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Potential Presence Of Food-Grade Rubber Pieces.",
-    "count": 8,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "The Food Was Not Held At An Appropriate Temperature.  The Holding Temperature Could Affect Spoilage And Potentially Support Pathogen Growth.",
-    "count": 8,
+    "risk_type": "Dosage - Labelling",
+    "count": 7,
     "percentage": 0.0
   },
   {
@@ -800,17 +805,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Foreign Material",
-    "count": 7,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Dosage - Labelling",
-    "count": 7,
-    "percentage": 0.0
-  },
-  {
     "risk_type": "Possible Metal Fragments In Yogurt Bars",
+    "count": 7,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Foreign Material",
     "count": 7,
     "percentage": 0.0
   },
