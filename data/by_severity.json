@@ -2153,11 +2153,11 @@
   },
   {
     "severity": "Not Reported",
-    "total": 27753,
+    "total": 27754,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
-      "Canada": 18005,
+      "Canada": 18006,
       "EU / EEA": 5000,
       "France": 3000,
       "New Zealand": 1545,
@@ -2638,7 +2638,7 @@
       "Specialized Products - Other": 2,
       "Sports & Leisure": 868,
       "Stationery": 9,
-      "Suv": 1425,
+      "Suv": 1426,
       "Suv - Car": 133,
       "Suv - Car - Light Truck & Van": 5,
       "Suv - Car - Minivan - Light Truck & Van": 1,
@@ -2683,8 +2683,8 @@
       "Instability / Fall Risk": 317,
       "Mechanical Failure": 39,
       "Microbiological Contamination": 86,
-      "Other": 21515,
-      "Radiation": 1593,
+      "Other": 21513,
+      "Radiation": 1596,
       "Sharp Edges / Points": 178,
       "Small Parts / Choking Hazard": 518
     }
