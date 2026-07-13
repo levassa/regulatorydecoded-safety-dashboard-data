@@ -1,24 +1,5 @@
 [
   {
-    "id": "81eab7b10d8b756cec89aff788caa30020bd4d5d",
-    "source": "ACCC",
-    "date": "Wed, 17 Ju",
-    "region": "Australia",
-    "notifying_country": "Australia",
-    "country_of_origin": "",
-    "product_category": "Clothing & Textiles",
-    "product_desc": "Baby quilted printed snowsuit",
-    "risk_type": "Injury",
-    "hazard_type": "Small Parts / Choking Hazard",
-    "injury_type": "Choking / Suffocation",
-    "injury_description": "<div class=\"field field--name-field-psa-recall-published-date field--type-datetime field--label-hidden field__item\"><time datetime=\"2026-06-17T12:00:00Z\" class=\"datetime\">17 Jun 2026</time>\n</div>\n                    <a href=\"https://www.productsafety.gov.au/system/files/Baby%20quilted%20printed%20snowsuit%20-%20Pink%20Florals%20and%20Cream%20Bears.jpg\"><img loading=\"lazy\" src=\"https://www.productsafety.gov.au/system/files/styles/large/private/Baby%20quilted%20printed%20snowsuit%20-%20Pink%20Flo",
-    "severity": "Fatal",
-    "injury_flag": false,
-    "injury_count": 0,
-    "corrective_action": "",
-    "reference": "baby-quilted-printed-snowsuit"
-  },
-  {
     "id": "51ad4b082d81a929588d73a80c087f1680e4252f",
     "source": "ACCC",
     "date": "Wed, 17 Ju",
@@ -36,6 +17,25 @@
     "injury_count": 0,
     "corrective_action": "",
     "reference": "rains-insulated-stainless-steel-tumbler-450ml"
+  },
+  {
+    "id": "81eab7b10d8b756cec89aff788caa30020bd4d5d",
+    "source": "ACCC",
+    "date": "Wed, 17 Ju",
+    "region": "Australia",
+    "notifying_country": "Australia",
+    "country_of_origin": "",
+    "product_category": "Clothing & Textiles",
+    "product_desc": "Baby quilted printed snowsuit",
+    "risk_type": "Injury",
+    "hazard_type": "Small Parts / Choking Hazard",
+    "injury_type": "Choking / Suffocation",
+    "injury_description": "<div class=\"field field--name-field-psa-recall-published-date field--type-datetime field--label-hidden field__item\"><time datetime=\"2026-06-17T12:00:00Z\" class=\"datetime\">17 Jun 2026</time>\n</div>\n                    <a href=\"https://www.productsafety.gov.au/system/files/Baby%20quilted%20printed%20snowsuit%20-%20Pink%20Florals%20and%20Cream%20Bears.jpg\"><img loading=\"lazy\" src=\"https://www.productsafety.gov.au/system/files/styles/large/private/Baby%20quilted%20printed%20snowsuit%20-%20Pink%20Flo",
+    "severity": "Fatal",
+    "injury_flag": false,
+    "injury_count": 0,
+    "corrective_action": "",
+    "reference": "baby-quilted-printed-snowsuit"
   },
   {
     "id": "058f7d1072e99fbfd47a39c360922a1e0526528e",
@@ -57,25 +57,6 @@
     "reference": "mistral-barrel-cyclonic-vacuum-cleaner-%E2%80%93-sold-at-bunnings"
   },
   {
-    "id": "9cc591a01ba254ac20bdfebb57c7f2d6356c4558",
-    "source": "ACCC",
-    "date": "Wed, 01 Ju",
-    "region": "Australia",
-    "notifying_country": "Australia",
-    "country_of_origin": "",
-    "product_category": "Electrical & Electronics",
-    "product_desc": "Neon wall lamp",
-    "risk_type": "Burns",
-    "hazard_type": "Small Parts / Choking Hazard",
-    "injury_type": "Respiratory",
-    "injury_description": "<div class=\"field field--name-field-psa-recall-published-date field--type-datetime field--label-hidden field__item\"><time datetime=\"2026-07-01T12:00:00Z\" class=\"datetime\">1 Jul 2026</time>\n</div>\n                    <a href=\"https://www.productsafety.gov.au/system/files/Neon%20wall%20lamp.png\"><img loading=\"lazy\" src=\"https://www.productsafety.gov.au/system/files/styles/large/private/Neon%20wall%20lamp.png?itok=MF98N4h0\" width=\"480\" height=\"360\" alt=\"Neon wall lamp in assorted shapes\" class=\"img",
-    "severity": "Fatal",
-    "injury_flag": false,
-    "injury_count": 0,
-    "corrective_action": "",
-    "reference": "neon-wall-lamp"
-  },
-  {
     "id": "7cca4335c0b8c6d067380f36fe142b73d6caa125",
     "source": "ACCC",
     "date": "Wed, 01 Ju",
@@ -93,6 +74,25 @@
     "injury_count": 0,
     "corrective_action": "",
     "reference": "personalised-bling-dummy-and-clip-set"
+  },
+  {
+    "id": "9cc591a01ba254ac20bdfebb57c7f2d6356c4558",
+    "source": "ACCC",
+    "date": "Wed, 01 Ju",
+    "region": "Australia",
+    "notifying_country": "Australia",
+    "country_of_origin": "",
+    "product_category": "Electrical & Electronics",
+    "product_desc": "Neon wall lamp",
+    "risk_type": "Burns",
+    "hazard_type": "Small Parts / Choking Hazard",
+    "injury_type": "Respiratory",
+    "injury_description": "<div class=\"field field--name-field-psa-recall-published-date field--type-datetime field--label-hidden field__item\"><time datetime=\"2026-07-01T12:00:00Z\" class=\"datetime\">1 Jul 2026</time>\n</div>\n                    <a href=\"https://www.productsafety.gov.au/system/files/Neon%20wall%20lamp.png\"><img loading=\"lazy\" src=\"https://www.productsafety.gov.au/system/files/styles/large/private/Neon%20wall%20lamp.png?itok=MF98N4h0\" width=\"480\" height=\"360\" alt=\"Neon wall lamp in assorted shapes\" class=\"img",
+    "severity": "Fatal",
+    "injury_flag": false,
+    "injury_count": 0,
+    "corrective_action": "",
+    "reference": "neon-wall-lamp"
   },
   {
     "id": "ea2c259c610d537832b91ea050225d79e90e70cc",
@@ -247,6 +247,25 @@
     "reference": "7kw-ev-charger"
   },
   {
+    "id": "70662e49df95bbf0cf1b15be6cd9bec7d1c9eed8",
+    "source": "ACCC",
+    "date": "Mon, 13 Ju",
+    "region": "Australia",
+    "notifying_country": "Australia",
+    "country_of_origin": "",
+    "product_category": "Kitchenware And Containers",
+    "product_desc": "Toy Story 5 Collector Cup and Topper",
+    "risk_type": "Injury",
+    "hazard_type": "Small Parts / Choking Hazard",
+    "injury_type": "Choking / Suffocation",
+    "injury_description": "<div class=\"field field--name-field-psa-recall-published-date field--type-datetime field--label-hidden field__item\"><time datetime=\"2026-07-13T12:00:00Z\" class=\"datetime\">13 Jul 2026</time>\n</div>\n                    <a href=\"https://www.productsafety.gov.au/system/files/Toy%20Story%205%20collector%20cup%20-%20Buzz%20Lightyear.png\"><img loading=\"lazy\" src=\"https://www.productsafety.gov.au/system/files/styles/large/private/Toy%20Story%205%20collector%20cup%20-%20Buzz%20Lightyear.png?itok=N5hbLp38",
+    "severity": "Fatal",
+    "injury_flag": false,
+    "injury_count": 0,
+    "corrective_action": "",
+    "reference": "toy-story-5-collector-cup-and-topper"
+  },
+  {
     "id": "217ab4083765e0483c8f4f3258845c688e655a2e",
     "source": "ACCC",
     "date": "Mon, 06 Ju",
@@ -361,25 +380,6 @@
     "reference": "self-feeding-baby-bottles"
   },
   {
-    "id": "ae9a2259821b32a5e95b9a1155ea3740bd37af6e",
-    "source": "ACCC",
-    "date": "Fri, 10 Ju",
-    "region": "Australia",
-    "notifying_country": "Australia",
-    "country_of_origin": "",
-    "product_category": "Toys & Childcare",
-    "product_desc": "Nuby Foldable Bathtub for babies and infants",
-    "risk_type": "Injury",
-    "hazard_type": "Drowning Risk",
-    "injury_type": "Drowning",
-    "injury_description": "<div class=\"field field--name-field-psa-recall-published-date field--type-datetime field--label-hidden field__item\"><time datetime=\"2026-07-10T12:00:00Z\" class=\"datetime\">10 Jul 2026</time>\n</div>\n                    <a href=\"https://www.productsafety.gov.au/system/files/Nuby%20foldable%20bathtub%20for%20babies%20and%20infants.jpeg\"><img loading=\"lazy\" src=\"https://www.productsafety.gov.au/system/files/styles/large/private/Nuby%20foldable%20bathtub%20for%20babies%20and%20infants.jpeg?itok=0L_uRj",
-    "severity": "Fatal",
-    "injury_flag": false,
-    "injury_count": 0,
-    "corrective_action": "",
-    "reference": "nuby-foldable-bathtub-for-babies-and-infants"
-  },
-  {
     "id": "57e913d6b91c5fa4195d36b8bac046afa391f947",
     "source": "ACCC",
     "date": "Fri, 10 Ju",
@@ -399,23 +399,23 @@
     "reference": "fotopro-bluetooth-smartphone-shutter-remote"
   },
   {
-    "id": "020dd6f56a15e0e6220a0ae6250f36cc4d5e8bf1",
+    "id": "ae9a2259821b32a5e95b9a1155ea3740bd37af6e",
     "source": "ACCC",
-    "date": "Fri, 05 Ju",
+    "date": "Fri, 10 Ju",
     "region": "Australia",
     "notifying_country": "Australia",
     "country_of_origin": "",
-    "product_category": "Electrical & Electronics",
-    "product_desc": "Miele WWG880 WCS washing machine",
-    "risk_type": "Fire",
-    "hazard_type": "Flammability / Overheating",
-    "injury_type": "Not Specified",
-    "injury_description": "<div class=\"field field--name-field-psa-recall-published-date field--type-datetime field--label-hidden field__item\"><time datetime=\"2026-06-05T12:00:00Z\" class=\"datetime\">5 Jun 2026</time>\n</div>\n                    <a href=\"https://www.productsafety.gov.au/system/files/Washing%20machine%20front.jpg\"><img loading=\"lazy\" src=\"https://www.productsafety.gov.au/system/files/styles/large/private/Washing%20machine%20front.jpg?itok=s021o9JP\" width=\"336\" height=\"480\" alt=\"Front of Miele washing machine\"",
-    "severity": "Serious",
+    "product_category": "Toys & Childcare",
+    "product_desc": "Nuby Foldable Bathtub for babies and infants",
+    "risk_type": "Injury",
+    "hazard_type": "Drowning Risk",
+    "injury_type": "Drowning",
+    "injury_description": "<div class=\"field field--name-field-psa-recall-published-date field--type-datetime field--label-hidden field__item\"><time datetime=\"2026-07-10T12:00:00Z\" class=\"datetime\">10 Jul 2026</time>\n</div>\n                    <a href=\"https://www.productsafety.gov.au/system/files/Nuby%20foldable%20bathtub%20for%20babies%20and%20infants.jpeg\"><img loading=\"lazy\" src=\"https://www.productsafety.gov.au/system/files/styles/large/private/Nuby%20foldable%20bathtub%20for%20babies%20and%20infants.jpeg?itok=0L_uRj",
+    "severity": "Fatal",
     "injury_flag": false,
     "injury_count": 0,
     "corrective_action": "",
-    "reference": "miele-wwg880-wcs-washing-machine"
+    "reference": "nuby-foldable-bathtub-for-babies-and-infants"
   },
   {
     "id": "2384ae93127c352854a368cf173d205807b471fe",
@@ -475,14 +475,14 @@
     "reference": "courant-kalimba-arborist-rope-range"
   },
   {
-    "id": "6d3be61d00098606451f0149c5f46a6d0f2d5f2e",
+    "id": "74e1c2f673fc5a8597af8000215f9fc5047aa9bd",
     "source": "NZ Product Safety",
     "date": "9 Septembe",
     "region": "New Zealand",
     "notifying_country": "New Zealand",
     "country_of_origin": "",
-    "product_category": "Electrical & Electronics",
-    "product_desc": "9 September 2021GU10 4W LED lamp (220-240VAC) installed in some Manrose bathroom Fan Light models (lamp needs to be replaced).",
+    "product_category": "9 September 2020Honda Sxs1000 (2016-20) Steering Universal Joint",
+    "product_desc": "9 September 2020Honda SXS1000 (2016-20) Steering Universal Joint",
     "risk_type": "Other",
     "hazard_type": "Other",
     "injury_type": "Not Specified",
@@ -491,7 +491,7 @@
     "injury_flag": false,
     "injury_count": 0,
     "corrective_action": "",
-    "reference": "gu10-4w-led-lamp-220-240vac-installed-in-some-manrose-bathroom-fan-light-models"
+    "reference": "honda-sxs1000-2016-20-steering-universal-joint"
   },
   {
     "id": "4adf81a840302362f8ad60d79e2a53fd012f9482",
@@ -513,14 +513,14 @@
     "reference": "zero-dusky-steel-cable-retractor-model-cr-30"
   },
   {
-    "id": "74e1c2f673fc5a8597af8000215f9fc5047aa9bd",
+    "id": "6d3be61d00098606451f0149c5f46a6d0f2d5f2e",
     "source": "NZ Product Safety",
     "date": "9 Septembe",
     "region": "New Zealand",
     "notifying_country": "New Zealand",
     "country_of_origin": "",
-    "product_category": "9 September 2020Honda Sxs1000 (2016-20) Steering Universal Joint",
-    "product_desc": "9 September 2020Honda SXS1000 (2016-20) Steering Universal Joint",
+    "product_category": "Electrical & Electronics",
+    "product_desc": "9 September 2021GU10 4W LED lamp (220-240VAC) installed in some Manrose bathroom Fan Light models (lamp needs to be replaced).",
     "risk_type": "Other",
     "hazard_type": "Other",
     "injury_type": "Not Specified",
@@ -529,7 +529,7 @@
     "injury_flag": false,
     "injury_count": 0,
     "corrective_action": "",
-    "reference": "honda-sxs1000-2016-20-steering-universal-joint"
+    "reference": "gu10-4w-led-lamp-220-240vac-installed-in-some-manrose-bathroom-fan-light-models"
   },
   {
     "id": "608012aba5a065eb28da8e69e9c78d9fe27c3005",
@@ -608,25 +608,6 @@
     "reference": "ultra-violette-lean-screen-spf-50"
   },
   {
-    "id": "3f276c61634cc5d18a73b33a92f6bc8cc509cea7",
-    "source": "NZ Product Safety",
-    "date": "9 November",
-    "region": "New Zealand",
-    "notifying_country": "New Zealand",
-    "country_of_origin": "",
-    "product_category": "Tools & Machinery",
-    "product_desc": "Archived 09 November 20199 November 2017CA-ABEK1 Multi Gas Filter for Shigematsu masks",
-    "risk_type": "Other",
-    "hazard_type": "Other",
-    "injury_type": "Not Specified",
-    "injury_description": "",
-    "severity": "Not Reported",
-    "injury_flag": false,
-    "injury_count": 0,
-    "corrective_action": "",
-    "reference": "ca-abek1"
-  },
-  {
     "id": "8275a231fdb1cd68542be6f1b9096e36f5c26049",
     "source": "NZ Product Safety",
     "date": "9 November",
@@ -646,14 +627,14 @@
     "reference": "konges-slojd-knit-mittens-and-knit-boots"
   },
   {
-    "id": "8998270337e7c235d2c9bc9ad48e3fd5abef9b91",
+    "id": "3f276c61634cc5d18a73b33a92f6bc8cc509cea7",
     "source": "NZ Product Safety",
     "date": "9 November",
     "region": "New Zealand",
     "notifying_country": "New Zealand",
     "country_of_origin": "",
-    "product_category": "Electrical & Electronics",
-    "product_desc": "9 November 2020DOMETIC RV Refrigerators, RUA6 &  RUA8 series",
+    "product_category": "Tools & Machinery",
+    "product_desc": "Archived 09 November 20199 November 2017CA-ABEK1 Multi Gas Filter for Shigematsu masks",
     "risk_type": "Other",
     "hazard_type": "Other",
     "injury_type": "Not Specified",
@@ -662,7 +643,7 @@
     "injury_flag": false,
     "injury_count": 0,
     "corrective_action": "",
-    "reference": "dometic-rv-refrigerators-rua6-and-rua8-series"
+    "reference": "ca-abek1"
   },
   {
     "id": "e0f5411981ec4c5fbde9baa1a17233a4c9d6b38c",
@@ -684,6 +665,25 @@
     "reference": "bellman-and-symfon-flash-receiver"
   },
   {
+    "id": "8998270337e7c235d2c9bc9ad48e3fd5abef9b91",
+    "source": "NZ Product Safety",
+    "date": "9 November",
+    "region": "New Zealand",
+    "notifying_country": "New Zealand",
+    "country_of_origin": "",
+    "product_category": "Electrical & Electronics",
+    "product_desc": "9 November 2020DOMETIC RV Refrigerators, RUA6 &  RUA8 series",
+    "risk_type": "Other",
+    "hazard_type": "Other",
+    "injury_type": "Not Specified",
+    "injury_description": "",
+    "severity": "Not Reported",
+    "injury_flag": false,
+    "injury_count": 0,
+    "corrective_action": "",
+    "reference": "dometic-rv-refrigerators-rua6-and-rua8-series"
+  },
+  {
     "id": "254711be32d4d96d9677d068dccca5bf2321bc87",
     "source": "NZ Product Safety",
     "date": "9 May 2025",
@@ -703,14 +703,14 @@
     "reference": "baby-merino-bodysuit-baby-merino-growsuit-baby-thermal-bodysuit-sold-at-postie"
   },
   {
-    "id": "290bee6110060deaee7f20afbb9a035185e2ffd6",
+    "id": "6d2122b5a6b37d2f6ac5d5e5ee927115ea113dc0",
     "source": "NZ Product Safety",
     "date": "9 May 2019",
     "region": "New Zealand",
     "notifying_country": "New Zealand",
     "country_of_origin": "",
     "product_category": "Motor Vehicles",
-    "product_desc": "9 May 2019Polaris Ranger 500 2018",
+    "product_desc": "9 May 2019Polaris Ranger 150 2018",
     "risk_type": "Other",
     "hazard_type": "Other",
     "injury_type": "Not Specified",
@@ -719,7 +719,7 @@
     "injury_flag": false,
     "injury_count": 0,
     "corrective_action": "",
-    "reference": "polaris-ranger-500-2018"
+    "reference": "polaris-ranger-150-2018"
   },
   {
     "id": "620fd43f65d9b288610098bc607f425c3c07f5de",
@@ -760,25 +760,6 @@
     "reference": "polaris-ranger-ev-2015-2019"
   },
   {
-    "id": "f47446244acb1a439f65ce89e0c09525d7fec450",
-    "source": "NZ Product Safety",
-    "date": "9 May 2019",
-    "region": "New Zealand",
-    "notifying_country": "New Zealand",
-    "country_of_origin": "",
-    "product_category": "Motor Vehicles",
-    "product_desc": "9 May 2019Polaris ACE 150 2017-2018",
-    "risk_type": "Other",
-    "hazard_type": "Other",
-    "injury_type": "Not Specified",
-    "injury_description": "",
-    "severity": "Not Reported",
-    "injury_flag": false,
-    "injury_count": 0,
-    "corrective_action": "",
-    "reference": "polaris-ace-150-2017-2018"
-  },
-  {
     "id": "1955d18479316ce95cf5ee1d0b4a7b00a4aafab4",
     "source": "NZ Product Safety",
     "date": "9 May 2019",
@@ -798,14 +779,14 @@
     "reference": "polaris-ranger-diesel-2016-2018"
   },
   {
-    "id": "6d2122b5a6b37d2f6ac5d5e5ee927115ea113dc0",
+    "id": "f47446244acb1a439f65ce89e0c09525d7fec450",
     "source": "NZ Product Safety",
     "date": "9 May 2019",
     "region": "New Zealand",
     "notifying_country": "New Zealand",
     "country_of_origin": "",
     "product_category": "Motor Vehicles",
-    "product_desc": "9 May 2019Polaris Ranger 150 2018",
+    "product_desc": "9 May 2019Polaris ACE 150 2017-2018",
     "risk_type": "Other",
     "hazard_type": "Other",
     "injury_type": "Not Specified",
@@ -814,7 +795,26 @@
     "injury_flag": false,
     "injury_count": 0,
     "corrective_action": "",
-    "reference": "polaris-ranger-150-2018"
+    "reference": "polaris-ace-150-2017-2018"
+  },
+  {
+    "id": "290bee6110060deaee7f20afbb9a035185e2ffd6",
+    "source": "NZ Product Safety",
+    "date": "9 May 2019",
+    "region": "New Zealand",
+    "notifying_country": "New Zealand",
+    "country_of_origin": "",
+    "product_category": "Motor Vehicles",
+    "product_desc": "9 May 2019Polaris Ranger 500 2018",
+    "risk_type": "Other",
+    "hazard_type": "Other",
+    "injury_type": "Not Specified",
+    "injury_description": "",
+    "severity": "Not Reported",
+    "injury_flag": false,
+    "injury_count": 0,
+    "corrective_action": "",
+    "reference": "polaris-ranger-500-2018"
   },
   {
     "id": "a402365f4efdea027690434e04051cff23147c14",
@@ -855,33 +855,14 @@
     "reference": "campmaster-and-wildcountry-dual-burner-butane-stoves"
   },
   {
-    "id": "b8bfec12b873487aa5b002b3a47c0020f6f5aee9",
-    "source": "NZ Product Safety",
-    "date": "9 June 202",
-    "region": "New Zealand",
-    "notifying_country": "New Zealand",
-    "country_of_origin": "",
-    "product_category": "Tools & Machinery",
-    "product_desc": "9 June 2023DeWALT Fiberglass Sledgehammers and STANLEY FATMAX Fiberglass Sledgehammers",
-    "risk_type": "Other",
-    "hazard_type": "Other",
-    "injury_type": "Not Specified",
-    "injury_description": "",
-    "severity": "Not Reported",
-    "injury_flag": false,
-    "injury_count": 0,
-    "corrective_action": "",
-    "reference": "dewalt-fiberglass-sledgehammers-and-stanley-fatmax-fiberglass-sledgehammers"
-  },
-  {
-    "id": "ba586b2658c247458f8a9f84cc307aa1c1e6d678",
+    "id": "6898f8f35e8df1351221150d9d46ae92509bdbd6",
     "source": "NZ Product Safety",
     "date": "9 June 202",
     "region": "New Zealand",
     "notifying_country": "New Zealand",
     "country_of_origin": "",
     "product_category": "Toys & Childcare",
-    "product_desc": "9 June 2023Chemist Warehouse Wooden Puzzle Assorted",
+    "product_desc": "9 June 2025The Pod Baby Way Capsule – Cozy Haven Baby Capsule with Beige Liner and Footshield- sold at Baby Way.",
     "risk_type": "Other",
     "hazard_type": "Other",
     "injury_type": "Not Specified",
@@ -890,7 +871,7 @@
     "injury_flag": false,
     "injury_count": 0,
     "corrective_action": "",
-    "reference": "chemist-warehouse-wooden-puzzle-assorted"
+    "reference": "the-pod-baby-way-capsule-cozy-haven-baby-capsule-with-beige-liner-and-footshield-sold-at-baby-way"
   },
   {
     "id": "c86bd3219feda7a830b6cc68887e4eac94949dde",
@@ -912,25 +893,6 @@
     "reference": "postie-miss-mango-jumbo-scrunchie"
   },
   {
-    "id": "e03e088c7d941f8929e51b12f6803a16aed73f89",
-    "source": "NZ Product Safety",
-    "date": "9 June 202",
-    "region": "New Zealand",
-    "notifying_country": "New Zealand",
-    "country_of_origin": "",
-    "product_category": "Toys & Childcare",
-    "product_desc": "9 June 2025Baybetss Cozy 360 Rotating and Convertible Car Seat with ISOFIX- sold at Baby Way",
-    "risk_type": "Other",
-    "hazard_type": "Other",
-    "injury_type": "Not Specified",
-    "injury_description": "",
-    "severity": "Not Reported",
-    "injury_flag": false,
-    "injury_count": 0,
-    "corrective_action": "",
-    "reference": "baybetss-cozy-360-rotating-and-convertible-car-seat-with-isofix-sold-at-baby-way"
-  },
-  {
     "id": "8af70739ea817002d052bf66b6ff11d08e0f9126",
     "source": "NZ Product Safety",
     "date": "9 June 202",
@@ -950,14 +912,14 @@
     "reference": "mort-bay-4-way-and-6-way-switched-power-boards"
   },
   {
-    "id": "6898f8f35e8df1351221150d9d46ae92509bdbd6",
+    "id": "ba586b2658c247458f8a9f84cc307aa1c1e6d678",
     "source": "NZ Product Safety",
     "date": "9 June 202",
     "region": "New Zealand",
     "notifying_country": "New Zealand",
     "country_of_origin": "",
     "product_category": "Toys & Childcare",
-    "product_desc": "9 June 2025The Pod Baby Way Capsule – Cozy Haven Baby Capsule with Beige Liner and Footshield- sold at Baby Way.",
+    "product_desc": "9 June 2023Chemist Warehouse Wooden Puzzle Assorted",
     "risk_type": "Other",
     "hazard_type": "Other",
     "injury_type": "Not Specified",
@@ -966,7 +928,45 @@
     "injury_flag": false,
     "injury_count": 0,
     "corrective_action": "",
-    "reference": "the-pod-baby-way-capsule-cozy-haven-baby-capsule-with-beige-liner-and-footshield-sold-at-baby-way"
+    "reference": "chemist-warehouse-wooden-puzzle-assorted"
+  },
+  {
+    "id": "e03e088c7d941f8929e51b12f6803a16aed73f89",
+    "source": "NZ Product Safety",
+    "date": "9 June 202",
+    "region": "New Zealand",
+    "notifying_country": "New Zealand",
+    "country_of_origin": "",
+    "product_category": "Toys & Childcare",
+    "product_desc": "9 June 2025Baybetss Cozy 360 Rotating and Convertible Car Seat with ISOFIX- sold at Baby Way",
+    "risk_type": "Other",
+    "hazard_type": "Other",
+    "injury_type": "Not Specified",
+    "injury_description": "",
+    "severity": "Not Reported",
+    "injury_flag": false,
+    "injury_count": 0,
+    "corrective_action": "",
+    "reference": "baybetss-cozy-360-rotating-and-convertible-car-seat-with-isofix-sold-at-baby-way"
+  },
+  {
+    "id": "b8bfec12b873487aa5b002b3a47c0020f6f5aee9",
+    "source": "NZ Product Safety",
+    "date": "9 June 202",
+    "region": "New Zealand",
+    "notifying_country": "New Zealand",
+    "country_of_origin": "",
+    "product_category": "Tools & Machinery",
+    "product_desc": "9 June 2023DeWALT Fiberglass Sledgehammers and STANLEY FATMAX Fiberglass Sledgehammers",
+    "risk_type": "Other",
+    "hazard_type": "Other",
+    "injury_type": "Not Specified",
+    "injury_description": "",
+    "severity": "Not Reported",
+    "injury_flag": false,
+    "injury_count": 0,
+    "corrective_action": "",
+    "reference": "dewalt-fiberglass-sledgehammers-and-stanley-fatmax-fiberglass-sledgehammers"
   },
   {
     "id": "1ef022bee66d5b60720eab65e16112badb4924fd",
@@ -1121,14 +1121,14 @@
     "reference": "kids-sequin-skirt"
   },
   {
-    "id": "c3c332e77dbfab09629a614e6beb3ba698e56443",
+    "id": "f3f91999f3301dc61d7edd147f540a6e2a6eeb64",
     "source": "NZ Product Safety",
     "date": "9 December",
     "region": "New Zealand",
     "notifying_country": "New Zealand",
     "country_of_origin": "",
-    "product_category": "Motor Vehicles",
-    "product_desc": "koru9 December 2019INDIAN  4, Model years 2014-2016",
+    "product_category": "Electrical & Electronics",
+    "product_desc": "Archived 09 December 20189 December 2016The Warehouse - Living and Co. Stainless Steel and Red Kettles 1.7L",
     "risk_type": "Other",
     "hazard_type": "Other",
     "injury_type": "Not Specified",
@@ -1137,7 +1137,7 @@
     "injury_flag": false,
     "injury_count": 0,
     "corrective_action": "",
-    "reference": "indian-4-model-years-2014-2016"
+    "reference": "the-warehouse-living-and-co-stainless-steel-and-red-kettles-1-7l"
   },
   {
     "id": "a91694da0caf9d6151bc6dc6697a551552d6ee27",
@@ -1159,14 +1159,14 @@
     "reference": "indian-4-model-years-2014-2019"
   },
   {
-    "id": "f3f91999f3301dc61d7edd147f540a6e2a6eeb64",
+    "id": "c3c332e77dbfab09629a614e6beb3ba698e56443",
     "source": "NZ Product Safety",
     "date": "9 December",
     "region": "New Zealand",
     "notifying_country": "New Zealand",
     "country_of_origin": "",
-    "product_category": "Electrical & Electronics",
-    "product_desc": "Archived 09 December 20189 December 2016The Warehouse - Living and Co. Stainless Steel and Red Kettles 1.7L",
+    "product_category": "Motor Vehicles",
+    "product_desc": "koru9 December 2019INDIAN  4, Model years 2014-2016",
     "risk_type": "Other",
     "hazard_type": "Other",
     "injury_type": "Not Specified",
@@ -1175,7 +1175,7 @@
     "injury_flag": false,
     "injury_count": 0,
     "corrective_action": "",
-    "reference": "the-warehouse-living-and-co-stainless-steel-and-red-kettles-1-7l"
+    "reference": "indian-4-model-years-2014-2016"
   },
   {
     "id": "69d2e5c01336f30494408eba52ea50595cd99aaa",
@@ -1273,25 +1273,6 @@
     "reference": "anko-double-walled-coffee-cups-with-lids-sold-at-kmart"
   },
   {
-    "id": "c689446eedcfa64de8646e34c40038f233bfcffe",
-    "source": "NZ Product Safety",
-    "date": "9 April 20",
-    "region": "New Zealand",
-    "notifying_country": "New Zealand",
-    "country_of_origin": "",
-    "product_category": "Electrical & Electronics",
-    "product_desc": "Archived 09 April 20169 April 2014Lenovo ThinkPad® Lithium-ion batteries",
-    "risk_type": "Other",
-    "hazard_type": "Other",
-    "injury_type": "Not Specified",
-    "injury_description": "",
-    "severity": "Not Reported",
-    "injury_flag": false,
-    "injury_count": 0,
-    "corrective_action": "",
-    "reference": "thinkpad-lithium-ion-batteries"
-  },
-  {
     "id": "07a4f19ce5aa9e22798f9ec74f4ba2639ae7fe9a",
     "source": "NZ Product Safety",
     "date": "9 April 20",
@@ -1309,6 +1290,25 @@
     "injury_count": 0,
     "corrective_action": "",
     "reference": "kubota-z100-series-zero-turn-mower"
+  },
+  {
+    "id": "c689446eedcfa64de8646e34c40038f233bfcffe",
+    "source": "NZ Product Safety",
+    "date": "9 April 20",
+    "region": "New Zealand",
+    "notifying_country": "New Zealand",
+    "country_of_origin": "",
+    "product_category": "Electrical & Electronics",
+    "product_desc": "Archived 09 April 20169 April 2014Lenovo ThinkPad® Lithium-ion batteries",
+    "risk_type": "Other",
+    "hazard_type": "Other",
+    "injury_type": "Not Specified",
+    "injury_description": "",
+    "severity": "Not Reported",
+    "injury_flag": false,
+    "injury_count": 0,
+    "corrective_action": "",
+    "reference": "thinkpad-lithium-ion-batteries"
   },
   {
     "id": "6da14647548e695855c5bc26b9880f01fb5d9e17",
@@ -1368,25 +1368,6 @@
     "reference": "kawasaki-kaf1000egf-kaf820bff-kaf820bg-etc-various-years-2015-2017"
   },
   {
-    "id": "4c163d744b9eaa53aa329127513f948425094d0e",
-    "source": "NZ Product Safety",
-    "date": "8 October ",
-    "region": "New Zealand",
-    "notifying_country": "New Zealand",
-    "country_of_origin": "",
-    "product_category": "Toys & Childcare",
-    "product_desc": "8 October 2025Steelcraft One2 V2 and Britax One2 Strollers",
-    "risk_type": "Other",
-    "hazard_type": "Other",
-    "injury_type": "Not Specified",
-    "injury_description": "",
-    "severity": "Not Reported",
-    "injury_flag": false,
-    "injury_count": 0,
-    "corrective_action": "",
-    "reference": "steelcraft-one2-v2-and-britax-one2-strollers"
-  },
-  {
     "id": "7c3a492ab722a002a7f1b13f742b5931065424d7",
     "source": "NZ Product Safety",
     "date": "8 October ",
@@ -1404,6 +1385,44 @@
     "injury_count": 0,
     "corrective_action": "",
     "reference": "kmart-girls-licenced-nighties-barbie-princess-and-monster-high-ghouls-designs"
+  },
+  {
+    "id": "991a0c6163d0847b19865d3d69a8937166ffa228",
+    "source": "NZ Product Safety",
+    "date": "8 October ",
+    "region": "New Zealand",
+    "notifying_country": "New Zealand",
+    "country_of_origin": "",
+    "product_category": "Furniture & Home",
+    "product_desc": "8 October 2024Cummins Diesel Engine",
+    "risk_type": "Other",
+    "hazard_type": "Other",
+    "injury_type": "Not Specified",
+    "injury_description": "",
+    "severity": "Not Reported",
+    "injury_flag": false,
+    "injury_count": 0,
+    "corrective_action": "",
+    "reference": "cummins-diesel-engine"
+  },
+  {
+    "id": "2f45435bcfed988ae0b0be1b52294d13c809601f",
+    "source": "NZ Product Safety",
+    "date": "8 October ",
+    "region": "New Zealand",
+    "notifying_country": "New Zealand",
+    "country_of_origin": "",
+    "product_category": "Motor Vehicles",
+    "product_desc": "8 October 2024Polaris XP Kinetic Ranger",
+    "risk_type": "Other",
+    "hazard_type": "Other",
+    "injury_type": "Not Specified",
+    "injury_description": "",
+    "severity": "Not Reported",
+    "injury_flag": false,
+    "injury_count": 0,
+    "corrective_action": "",
+    "reference": "polaris-xp-kinetic-ranger"
   },
   {
     "id": "594bb9ac8dab806e6f7e131007efd7e5977fecb4",
@@ -1444,14 +1463,14 @@
     "reference": "hot-water-bottles-dolphin-brand"
   },
   {
-    "id": "2f45435bcfed988ae0b0be1b52294d13c809601f",
+    "id": "4c163d744b9eaa53aa329127513f948425094d0e",
     "source": "NZ Product Safety",
     "date": "8 October ",
     "region": "New Zealand",
     "notifying_country": "New Zealand",
     "country_of_origin": "",
-    "product_category": "Motor Vehicles",
-    "product_desc": "8 October 2024Polaris XP Kinetic Ranger",
+    "product_category": "Toys & Childcare",
+    "product_desc": "8 October 2025Steelcraft One2 V2 and Britax One2 Strollers",
     "risk_type": "Other",
     "hazard_type": "Other",
     "injury_type": "Not Specified",
@@ -1460,36 +1479,17 @@
     "injury_flag": false,
     "injury_count": 0,
     "corrective_action": "",
-    "reference": "polaris-xp-kinetic-ranger"
+    "reference": "steelcraft-one2-v2-and-britax-one2-strollers"
   },
   {
-    "id": "991a0c6163d0847b19865d3d69a8937166ffa228",
-    "source": "NZ Product Safety",
-    "date": "8 October ",
-    "region": "New Zealand",
-    "notifying_country": "New Zealand",
-    "country_of_origin": "",
-    "product_category": "Furniture & Home",
-    "product_desc": "8 October 2024Cummins Diesel Engine",
-    "risk_type": "Other",
-    "hazard_type": "Other",
-    "injury_type": "Not Specified",
-    "injury_description": "",
-    "severity": "Not Reported",
-    "injury_flag": false,
-    "injury_count": 0,
-    "corrective_action": "",
-    "reference": "cummins-diesel-engine"
-  },
-  {
-    "id": "8a01da91c749d21316c724790c8f3ec6bfd14880",
+    "id": "c8b1c4d81ead48c30f9ce5a7b729ac894a53719e",
     "source": "NZ Product Safety",
     "date": "8 November",
     "region": "New Zealand",
     "notifying_country": "New Zealand",
     "country_of_origin": "",
     "product_category": "Motor Vehicles",
-    "product_desc": "koru8 November 2017INDIAN 8-BALL, Model years 2010-2017",
+    "product_desc": "8 November 2022BRP - Can-Am Ryker (2019-23)",
     "risk_type": "Other",
     "hazard_type": "Other",
     "injury_type": "Not Specified",
@@ -1498,26 +1498,7 @@
     "injury_flag": false,
     "injury_count": 0,
     "corrective_action": "",
-    "reference": "indian-8-ball-model-years-2010-2017"
-  },
-  {
-    "id": "2ffd031072bd5984f54f4ac7795bff4a73cc35a3",
-    "source": "NZ Product Safety",
-    "date": "8 November",
-    "region": "New Zealand",
-    "notifying_country": "New Zealand",
-    "country_of_origin": "",
-    "product_category": "Motor Vehicles",
-    "product_desc": "koru8 November 2017INDIAN CHIEF, CHIEFTAIN, CLASSIC, ROADMASTER... Model years 2017-2018",
-    "risk_type": "Other",
-    "hazard_type": "Other",
-    "injury_type": "Not Specified",
-    "injury_description": "",
-    "severity": "Not Reported",
-    "injury_flag": false,
-    "injury_count": 0,
-    "corrective_action": "",
-    "reference": "indian-chief-chieftain-classic-roadmaster-etc-model-years-2017-2018"
+    "reference": "brp-can-am-ryker-2019-23"
   },
   {
     "id": "f90d23948a00e27ef4260aee4bc001683e84bf64",
@@ -1539,14 +1520,14 @@
     "reference": "nouveau-christmas-reindeer-56cm"
   },
   {
-    "id": "c8b1c4d81ead48c30f9ce5a7b729ac894a53719e",
+    "id": "2ffd031072bd5984f54f4ac7795bff4a73cc35a3",
     "source": "NZ Product Safety",
     "date": "8 November",
     "region": "New Zealand",
     "notifying_country": "New Zealand",
     "country_of_origin": "",
     "product_category": "Motor Vehicles",
-    "product_desc": "8 November 2022BRP - Can-Am Ryker (2019-23)",
+    "product_desc": "koru8 November 2017INDIAN CHIEF, CHIEFTAIN, CLASSIC, ROADMASTER... Model years 2017-2018",
     "risk_type": "Other",
     "hazard_type": "Other",
     "injury_type": "Not Specified",
@@ -1555,7 +1536,26 @@
     "injury_flag": false,
     "injury_count": 0,
     "corrective_action": "",
-    "reference": "brp-can-am-ryker-2019-23"
+    "reference": "indian-chief-chieftain-classic-roadmaster-etc-model-years-2017-2018"
+  },
+  {
+    "id": "8a01da91c749d21316c724790c8f3ec6bfd14880",
+    "source": "NZ Product Safety",
+    "date": "8 November",
+    "region": "New Zealand",
+    "notifying_country": "New Zealand",
+    "country_of_origin": "",
+    "product_category": "Motor Vehicles",
+    "product_desc": "koru8 November 2017INDIAN 8-BALL, Model years 2010-2017",
+    "risk_type": "Other",
+    "hazard_type": "Other",
+    "injury_type": "Not Specified",
+    "injury_description": "",
+    "severity": "Not Reported",
+    "injury_flag": false,
+    "injury_count": 0,
+    "corrective_action": "",
+    "reference": "indian-8-ball-model-years-2010-2017"
   },
   {
     "id": "a525ff681d415b2a280d13a8e4dd181cc729c074",
@@ -1710,6 +1710,25 @@
     "reference": "beefeater-refrigerators"
   },
   {
+    "id": "5b8c98a7552bcc130dc4b4a78558c4c3503d563f",
+    "source": "NZ Product Safety",
+    "date": "8 March 20",
+    "region": "New Zealand",
+    "notifying_country": "New Zealand",
+    "country_of_origin": "",
+    "product_category": "Furniture & Home",
+    "product_desc": "8 March 2023Kate Reed Silk Pillow Case",
+    "risk_type": "Other",
+    "hazard_type": "Other",
+    "injury_type": "Not Specified",
+    "injury_description": "",
+    "severity": "Not Reported",
+    "injury_flag": false,
+    "injury_count": 0,
+    "corrective_action": "",
+    "reference": "kate-reed-silk-pillow-case"
+  },
+  {
     "id": "33f6e54616fbe240f1005fac297b1d8ea72bece6",
     "source": "NZ Product Safety",
     "date": "8 March 20",
@@ -1746,25 +1765,6 @@
     "injury_count": 0,
     "corrective_action": "",
     "reference": "power-supply-units-sold-with-purpleair-air-quality-sensors"
-  },
-  {
-    "id": "5b8c98a7552bcc130dc4b4a78558c4c3503d563f",
-    "source": "NZ Product Safety",
-    "date": "8 March 20",
-    "region": "New Zealand",
-    "notifying_country": "New Zealand",
-    "country_of_origin": "",
-    "product_category": "Furniture & Home",
-    "product_desc": "8 March 2023Kate Reed Silk Pillow Case",
-    "risk_type": "Other",
-    "hazard_type": "Other",
-    "injury_type": "Not Specified",
-    "injury_description": "",
-    "severity": "Not Reported",
-    "injury_flag": false,
-    "injury_count": 0,
-    "corrective_action": "",
-    "reference": "kate-reed-silk-pillow-case"
   },
   {
     "id": "d66b0184dafc4848e8908c96aaa9bc5ea7142a67",
@@ -1805,14 +1805,14 @@
     "reference": "subaru-legacy-model-years-2004-2005"
   },
   {
-    "id": "a6a72d49c2e446fc20d4ddd8cee2718bc3312f96",
+    "id": "8c77503c2a9170b390a847447dd25e021ad78f49",
     "source": "NZ Product Safety",
     "date": "8 July 202",
     "region": "New Zealand",
     "notifying_country": "New Zealand",
     "country_of_origin": "",
     "product_category": "Toys & Childcare",
-    "product_desc": "8 July 2025Portable Soothing Baby Rocker Bouncer Chair with Toy Bar. Recall updated July 2025. Originally published January 2025.",
+    "product_desc": "8 July 2021Bargain City - Locomotive Train Toy",
     "risk_type": "Other",
     "hazard_type": "Other",
     "injury_type": "Not Specified",
@@ -1821,36 +1821,17 @@
     "injury_flag": false,
     "injury_count": 0,
     "corrective_action": "",
-    "reference": "portable-soothing-baby-rocker-bouncer-chair-with-toy-bar"
+    "reference": "bargain-city-locomotive-train-toy"
   },
   {
-    "id": "5a209e6951879ae2ae6b18f883c8e29ced8b1ef7",
-    "source": "NZ Product Safety",
-    "date": "8 July 202",
-    "region": "New Zealand",
-    "notifying_country": "New Zealand",
-    "country_of_origin": "",
-    "product_category": "Electrical & Electronics",
-    "product_desc": "8 July 2024Zodiac Z400 Swimming Pool Heat Pumps",
-    "risk_type": "Other",
-    "hazard_type": "Other",
-    "injury_type": "Not Specified",
-    "injury_description": "",
-    "severity": "Not Reported",
-    "injury_flag": false,
-    "injury_count": 0,
-    "corrective_action": "",
-    "reference": "zodiac-z400-swimming-pool-heat-pumps"
-  },
-  {
-    "id": "6ef0e2ef2fc258c701940961b0b1db45bcb640be",
+    "id": "365a0338724e00b26f446fa365076796f00d2d4d",
     "source": "NZ Product Safety",
     "date": "8 July 202",
     "region": "New Zealand",
     "notifying_country": "New Zealand",
     "country_of_origin": "",
     "product_category": "Toys & Childcare",
-    "product_desc": "8 July 2024Toy Duckie - sold at Panda Mart",
+    "product_desc": "8 July 2021Bargain City - Musical Bumblebee toy",
     "risk_type": "Other",
     "hazard_type": "Other",
     "injury_type": "Not Specified",
@@ -1859,7 +1840,26 @@
     "injury_flag": false,
     "injury_count": 0,
     "corrective_action": "",
-    "reference": "toy-duckie"
+    "reference": "bargain-city-musical-bumblebee-toy"
+  },
+  {
+    "id": "9ec58c50e8b9e24e5f6e5061bd952db4c0688a8b",
+    "source": "NZ Product Safety",
+    "date": "8 July 202",
+    "region": "New Zealand",
+    "notifying_country": "New Zealand",
+    "country_of_origin": "",
+    "product_category": "Pet Products",
+    "product_desc": "8 July 2022Butcher’s Superior Cuts Bully Sticks",
+    "risk_type": "Other",
+    "hazard_type": "Other",
+    "injury_type": "Laceration / Cut",
+    "injury_description": "",
+    "severity": "Not Reported",
+    "injury_flag": false,
+    "injury_count": 0,
+    "corrective_action": "",
+    "reference": "butchers-superior-cuts-bully-sticks"
   },
   {
     "id": "8f56a367f7b0f7451f45711a35613ce33752c562",
@@ -1881,14 +1881,14 @@
     "reference": "h-and-m-hennes-and-mauritz-pyjama"
   },
   {
-    "id": "c7e08bcfb3f99b54f354659bf1595879b3222e35",
+    "id": "6ef0e2ef2fc258c701940961b0b1db45bcb640be",
     "source": "NZ Product Safety",
     "date": "8 July 202",
     "region": "New Zealand",
     "notifying_country": "New Zealand",
     "country_of_origin": "",
-    "product_category": "Motor Vehicles",
-    "product_desc": "8 July 2024CFMOTO CF110AY Youth All-terrain Vehicle",
+    "product_category": "Toys & Childcare",
+    "product_desc": "8 July 2024Toy Duckie - sold at Panda Mart",
     "risk_type": "Other",
     "hazard_type": "Other",
     "injury_type": "Not Specified",
@@ -1897,6 +1897,6 @@
     "injury_flag": false,
     "injury_count": 0,
     "corrective_action": "",
-    "reference": "cfmoto-cf110ay-youth-all-terrain-vehicle"
+    "reference": "toy-duckie"
   }
 ]

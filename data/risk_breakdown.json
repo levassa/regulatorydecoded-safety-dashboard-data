@@ -1,7 +1,7 @@
 [
   {
     "risk_type": "Other",
-    "count": 15009,
+    "count": 15004,
     "percentage": 29.7
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "risk_type": "Fire",
-    "count": 1698,
+    "count": 1697,
     "percentage": 3.4
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "risk_type": "Injury",
-    "count": 911,
+    "count": 912,
     "percentage": 1.8
   },
   {

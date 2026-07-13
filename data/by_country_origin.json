@@ -1,19 +1,19 @@
 [
   {
     "country": "United States",
-    "count": 3771
+    "count": 3770
   },
   {
     "country": "People's Republic of China",
-    "count": 2465
+    "count": 2464
   },
   {
     "country": "Unknown",
-    "count": 558
+    "count": 557
   },
   {
     "country": "Italy",
-    "count": 445
+    "count": 444
   },
   {
     "country": "Germany",
@@ -52,15 +52,15 @@
     "count": 43
   },
   {
-    "country": "The Netherlands",
-    "count": 39
-  },
-  {
     "country": "Czechia",
     "count": 39
   },
   {
     "country": "India",
+    "count": 38
+  },
+  {
+    "country": "The Netherlands",
     "count": 38
   },
   {

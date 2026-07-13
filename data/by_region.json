@@ -294,7 +294,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 0,
       "Electric Or Gas Productsbuilding Products": 0,
-      "Electrical & Electronics": 9,
+      "Electrical & Electronics": 8,
       "Food & Food Contact": 0,
       "Fresh": 0,
       "Frozen": 0,
@@ -353,7 +353,7 @@
       "Immunology": 0,
       "Jewellery": 0,
       "Kitchen/Cooking Accessories": 0,
-      "Kitchenware And Containers": 1,
+      "Kitchenware And Containers": 2,
       "Kitchenware And Tableware": 0,
       "Koru3 March 2014Tyco, Vigilant Mx4428 And F4000 Fire Indicator Panels": 0,
       "Koruamoxicillin Actavis - Powder For Oral Suspension; Glass Fragments Found In Two Bottles": 0,
@@ -511,11 +511,11 @@
       "Veterinary Drugs": 0
     },
     "by_severity": {
-      "Fatal": 20,
+      "Fatal": 21,
       "Minor": 1,
       "Moderate": 0,
       "Not Reported": 0,
-      "Serious": 4
+      "Serious": 3
     }
   },
   {
@@ -1039,7 +1039,7 @@
   },
   {
     "region": "EU / EEA",
-    "total": 5000,
+    "total": 4995,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -1303,7 +1303,7 @@
       "Consumer Products": 0,
       "Consumer Products - Drugs": 0,
       "Consumer Products - Natural Health Products": 0,
-      "Cosmetics & Personal Care": 1457,
+      "Cosmetics & Personal Care": 1455,
       "Dairy": 0,
       "Dairy - Other": 0,
       "Decorations, Candles And Novelties": 0,
@@ -1439,7 +1439,7 @@
       "Minivan - Suv - Car": 0,
       "Motor Tricycle": 0,
       "Motor Tricycle - Motorcycle": 0,
-      "Motor Vehicles": 508,
+      "Motor Vehicles": 507,
       "Motorcycle": 0,
       "Motorcycle - Motor Tricycle": 0,
       "Natural Health Products": 0,
@@ -1493,7 +1493,7 @@
       "Processed - Frozen": 0,
       "Processed - Fruits And Vegetables": 0,
       "Processed - Fruits And Vegetables - Egg Products": 0,
-      "Pyrotechnic Articles": 52,
+      "Pyrotechnic Articles": 51,
       "Radiology": 0,
       "Radiology - Anaesthesiology": 0,
       "Radiology - Cardiovascular": 0,
@@ -1529,7 +1529,7 @@
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
       "Tools & Machinery": 272,
-      "Toys & Childcare": 1028,
+      "Toys & Childcare": 1027,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
       "Truck - Med. & H.D. - Bus": 0,
@@ -1552,7 +1552,7 @@
       "Fatal": 0,
       "Minor": 0,
       "Moderate": 0,
-      "Not Reported": 5000,
+      "Not Reported": 4995,
       "Serious": 0
     }
   },
