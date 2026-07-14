@@ -1,14 +1,14 @@
 [
   {
     "injury_type": "Not Specified",
-    "total": 45232,
+    "total": 45242,
     "by_source": {
       "ACCC": 1,
       "CPSC": 335,
-      "EU Safety Gate": 4995,
-      "FDA": 3270,
-      "Health Canada": 31510,
-      "NZ Product Safety": 1510,
+      "EU Safety Gate": 5000,
+      "FDA": 3272,
+      "Health Canada": 31512,
+      "NZ Product Safety": 1511,
       "OPSS": 611,
       "RappelConso": 3000
     }
@@ -155,12 +155,12 @@
   },
   {
     "injury_type": "Skin Irritation",
-    "total": 169,
+    "total": 171,
     "by_source": {
-      "ACCC": 1,
+      "ACCC": 2,
       "CPSC": 141,
       "EU Safety Gate": 0,
-      "FDA": 11,
+      "FDA": 12,
       "Health Canada": 16,
       "NZ Product Safety": 0,
       "OPSS": 0,
@@ -169,12 +169,12 @@
   },
   {
     "injury_type": "Respiratory",
-    "total": 148,
+    "total": 144,
     "by_source": {
-      "ACCC": 6,
+      "ACCC": 5,
       "CPSC": 36,
       "EU Safety Gate": 0,
-      "FDA": 38,
+      "FDA": 35,
       "Health Canada": 63,
       "NZ Product Safety": 3,
       "OPSS": 2,
