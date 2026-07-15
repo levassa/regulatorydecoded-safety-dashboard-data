@@ -512,16 +512,16 @@
       "Veterinary Drugs": 0
     },
     "by_severity": {
-      "Fatal": 20,
+      "Fatal": 21,
       "Minor": 2,
       "Moderate": 0,
       "Not Reported": 0,
-      "Serious": 3
+      "Serious": 2
     }
   },
   {
     "region": "Canada",
-    "total": 33771,
+    "total": 33773,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -796,7 +796,7 @@
       "Dental - General Hospital And Personal Use": 2,
       "Dental - Orthopaedics - General And Plastic Surgery": 1,
       "Diving": 0,
-      "Drugs": 2775,
+      "Drugs": 2776,
       "Drugs - Biologic Or Vaccine": 8,
       "Drugs - Cannabis": 1,
       "Drugs - Natural Health Products": 72,
@@ -925,7 +925,7 @@
       "Motor Vehicles": 236,
       "Motorcycle": 518,
       "Motorcycle - Motor Tricycle": 1,
-      "Natural Health Products": 1040,
+      "Natural Health Products": 1041,
       "Neurology": 62,
       "Neurology - Anaesthesiology": 1,
       "Neurology - Cardiovascular - General And Plastic Surgery": 1,
@@ -1034,7 +1034,7 @@
     "by_severity": {
       "Fatal": 0,
       "Minor": 4317,
-      "Moderate": 8575,
+      "Moderate": 8577,
       "Not Reported": 18008,
       "Serious": 2871
     }
