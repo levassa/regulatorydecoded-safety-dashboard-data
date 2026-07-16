@@ -227,7 +227,6 @@
       "Car - Suv - Light Truck & Van": 0,
       "Car - Suv - Light Truck & Van - Minivan": 0,
       "Car - Suv - Minivan": 0,
-      "Car Parts And Accessories": 1,
       "Cardiovascular": 0,
       "Cardiovascular - Anaesthesiology": 0,
       "Cardiovascular - Chemistry": 0,
@@ -257,7 +256,7 @@
       "Chemistry - Immunology": 0,
       "Child Car Seat": 0,
       "Clinical Toxicology": 0,
-      "Clothing & Textiles": 1,
+      "Clothing & Textiles": 0,
       "Communications": 0,
       "Computers, Laptops And Accessories": 1,
       "Condiments": 0,
@@ -300,7 +299,7 @@
       "Frozen": 0,
       "Frozen - Herbs And Spices": 0,
       "Fruits And Vegetables": 0,
-      "Furniture & Home": 0,
+      "Furniture & Home": 1,
       "Gadgets": 0,
       "Games And Puzzles": 1,
       "Gastroenterology And Urology": 0,
@@ -491,7 +490,7 @@
       "Suv - Minivan - Light Truck & Van": 0,
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
-      "Tools & Machinery": 2,
+      "Tools & Machinery": 3,
       "Toys & Childcare": 5,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
@@ -512,16 +511,16 @@
       "Veterinary Drugs": 0
     },
     "by_severity": {
-      "Fatal": 21,
+      "Fatal": 20,
       "Minor": 2,
       "Moderate": 0,
       "Not Reported": 0,
-      "Serious": 2
+      "Serious": 3
     }
   },
   {
     "region": "Canada",
-    "total": 33773,
+    "total": 33775,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -747,7 +746,6 @@
       "Car - Suv - Light Truck & Van": 6,
       "Car - Suv - Light Truck & Van - Minivan": 1,
       "Car - Suv - Minivan": 2,
-      "Car Parts And Accessories": 0,
       "Cardiovascular": 242,
       "Cardiovascular - Anaesthesiology": 1,
       "Cardiovascular - Chemistry": 1,
@@ -796,7 +794,7 @@
       "Dental - General Hospital And Personal Use": 2,
       "Dental - Orthopaedics - General And Plastic Surgery": 1,
       "Diving": 0,
-      "Drugs": 2776,
+      "Drugs": 2777,
       "Drugs - Biologic Or Vaccine": 8,
       "Drugs - Cannabis": 1,
       "Drugs - Natural Health Products": 72,
@@ -1012,7 +1010,7 @@
       "Suv - Truck - Med. & H.D.": 1,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 1,
       "Tools & Machinery": 497,
-      "Toys & Childcare": 743,
+      "Toys & Childcare": 744,
       "Truck - Med. & H.D.": 967,
       "Truck - Med. & H.D. - A.T.V.": 1,
       "Truck - Med. & H.D. - Bus": 5,
@@ -1034,8 +1032,8 @@
     "by_severity": {
       "Fatal": 0,
       "Minor": 4317,
-      "Moderate": 8577,
-      "Not Reported": 18008,
+      "Moderate": 8578,
+      "Not Reported": 18009,
       "Serious": 2871
     }
   },
@@ -1267,7 +1265,6 @@
       "Car - Suv - Light Truck & Van": 0,
       "Car - Suv - Light Truck & Van - Minivan": 0,
       "Car - Suv - Minivan": 0,
-      "Car Parts And Accessories": 0,
       "Cardiovascular": 0,
       "Cardiovascular - Anaesthesiology": 0,
       "Cardiovascular - Chemistry": 0,
@@ -1787,7 +1784,6 @@
       "Car - Suv - Light Truck & Van": 0,
       "Car - Suv - Light Truck & Van - Minivan": 0,
       "Car - Suv - Minivan": 0,
-      "Car Parts And Accessories": 0,
       "Cardiovascular": 0,
       "Cardiovascular - Anaesthesiology": 0,
       "Cardiovascular - Chemistry": 0,
@@ -2081,7 +2077,7 @@
   },
   {
     "region": "New Zealand",
-    "total": 1559,
+    "total": 1560,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 1,
@@ -2307,7 +2303,6 @@
       "Car - Suv - Light Truck & Van": 0,
       "Car - Suv - Light Truck & Van - Minivan": 0,
       "Car - Suv - Minivan": 0,
-      "Car Parts And Accessories": 0,
       "Cardiovascular": 0,
       "Cardiovascular - Anaesthesiology": 0,
       "Cardiovascular - Chemistry": 0,
@@ -2572,7 +2567,7 @@
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
       "Tools & Machinery": 76,
-      "Toys & Childcare": 457,
+      "Toys & Childcare": 458,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
       "Truck - Med. & H.D. - Bus": 0,
@@ -2595,7 +2590,7 @@
       "Fatal": 1,
       "Minor": 8,
       "Moderate": 1,
-      "Not Reported": 1546,
+      "Not Reported": 1547,
       "Serious": 3
     }
   },
@@ -2827,7 +2822,6 @@
       "Car - Suv - Light Truck & Van": 0,
       "Car - Suv - Light Truck & Van - Minivan": 0,
       "Car - Suv - Minivan": 0,
-      "Car Parts And Accessories": 0,
       "Cardiovascular": 0,
       "Cardiovascular - Anaesthesiology": 0,
       "Cardiovascular - Chemistry": 0,
@@ -3347,7 +3341,6 @@
       "Car - Suv - Light Truck & Van": 0,
       "Car - Suv - Light Truck & Van - Minivan": 0,
       "Car - Suv - Minivan": 0,
-      "Car Parts And Accessories": 0,
       "Cardiovascular": 0,
       "Cardiovascular - Anaesthesiology": 0,
       "Cardiovascular - Chemistry": 0,

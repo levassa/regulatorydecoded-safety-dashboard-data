@@ -1,10 +1,10 @@
 [
   {
     "severity": "Fatal",
-    "total": 606,
+    "total": 605,
     "total_injuries": 0,
     "by_region": {
-      "Australia": 21,
+      "Australia": 20,
       "Canada": 0,
       "EU / EEA": 0,
       "France": 0,
@@ -237,7 +237,6 @@
       "Car - Suv - Light Truck & Van": 0,
       "Car - Suv - Light Truck & Van - Minivan": 0,
       "Car - Suv - Minivan": 0,
-      "Car Parts And Accessories": 1,
       "Cardiovascular": 0,
       "Cardiovascular - Anaesthesiology": 0,
       "Cardiovascular - Chemistry": 0,
@@ -267,7 +266,7 @@
       "Chemistry - Immunology": 0,
       "Child Car Seat": 0,
       "Clinical Toxicology": 0,
-      "Clothing & Textiles": 1,
+      "Clothing & Textiles": 0,
       "Communications": 0,
       "Computers, Laptops And Accessories": 1,
       "Condiments": 0,
@@ -310,7 +309,7 @@
       "Frozen": 0,
       "Frozen - Herbs And Spices": 0,
       "Fruits And Vegetables": 0,
-      "Furniture & Home": 0,
+      "Furniture & Home": 1,
       "Gadgets": 0,
       "Games And Puzzles": 1,
       "Gastroenterology And Urology": 0,
@@ -528,22 +527,22 @@
       "Electrical Fault": 25,
       "Entrapment": 145,
       "Explosion": 7,
-      "Flammability / Overheating": 56,
+      "Flammability / Overheating": 57,
       "Instability / Fall Risk": 23,
-      "Mechanical Failure": 37,
+      "Mechanical Failure": 36,
       "Microbiological Contamination": 3,
       "Other": 118,
       "Radiation": 0,
       "Sharp Edges / Points": 20,
-      "Small Parts / Choking Hazard": 95
+      "Small Parts / Choking Hazard": 94
     }
   },
   {
     "severity": "Serious",
-    "total": 6928,
+    "total": 6929,
     "total_injuries": 0,
     "by_region": {
-      "Australia": 2,
+      "Australia": 3,
       "Canada": 2871,
       "EU / EEA": 0,
       "France": 0,
@@ -776,7 +775,6 @@
       "Car - Suv - Light Truck & Van": 0,
       "Car - Suv - Light Truck & Van - Minivan": 0,
       "Car - Suv - Minivan": 0,
-      "Car Parts And Accessories": 0,
       "Cardiovascular": 52,
       "Cardiovascular - Anaesthesiology": 1,
       "Cardiovascular - Chemistry": 0,
@@ -1040,7 +1038,7 @@
       "Suv - Minivan - Light Truck & Van": 0,
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
-      "Tools & Machinery": 2,
+      "Tools & Machinery": 3,
       "Toys & Childcare": 6,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
@@ -1073,17 +1071,17 @@
       "Microbiological Contamination": 1762,
       "Other": 2866,
       "Radiation": 51,
-      "Sharp Edges / Points": 60,
+      "Sharp Edges / Points": 61,
       "Small Parts / Choking Hazard": 11
     }
   },
   {
     "severity": "Moderate",
-    "total": 9202,
+    "total": 9203,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
-      "Canada": 8577,
+      "Canada": 8578,
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 1,
@@ -1315,7 +1313,6 @@
       "Car - Suv - Light Truck & Van": 0,
       "Car - Suv - Light Truck & Van - Minivan": 0,
       "Car - Suv - Minivan": 0,
-      "Car Parts And Accessories": 0,
       "Cardiovascular": 189,
       "Cardiovascular - Anaesthesiology": 0,
       "Cardiovascular - Chemistry": 1,
@@ -1364,7 +1361,7 @@
       "Dental - General Hospital And Personal Use": 2,
       "Dental - Orthopaedics - General And Plastic Surgery": 1,
       "Diving": 0,
-      "Drugs": 555,
+      "Drugs": 556,
       "Drugs - Biologic Or Vaccine": 2,
       "Drugs - Cannabis": 0,
       "Drugs - Natural Health Products": 5,
@@ -1610,7 +1607,7 @@
       "Instability / Fall Risk": 65,
       "Mechanical Failure": 159,
       "Microbiological Contamination": 722,
-      "Other": 6951,
+      "Other": 6952,
       "Radiation": 30,
       "Sharp Edges / Points": 103,
       "Small Parts / Choking Hazard": 63
@@ -1854,7 +1851,6 @@
       "Car - Suv - Light Truck & Van": 0,
       "Car - Suv - Light Truck & Van - Minivan": 0,
       "Car - Suv - Minivan": 0,
-      "Car Parts And Accessories": 0,
       "Cardiovascular": 1,
       "Cardiovascular - Anaesthesiology": 0,
       "Cardiovascular - Chemistry": 0,
@@ -2141,30 +2137,30 @@
     "by_hazard_type": {
       "Allergen": 622,
       "Chemical / Toxic Substance": 77,
-      "Drowning Risk": 62,
-      "Electrical Fault": 157,
+      "Drowning Risk": 63,
+      "Electrical Fault": 156,
       "Entrapment": 25,
       "Explosion": 48,
-      "Flammability / Overheating": 639,
+      "Flammability / Overheating": 638,
       "Instability / Fall Risk": 76,
       "Mechanical Failure": 89,
       "Microbiological Contamination": 146,
-      "Other": 3754,
+      "Other": 3752,
       "Radiation": 10,
       "Sharp Edges / Points": 68,
-      "Small Parts / Choking Hazard": 228
+      "Small Parts / Choking Hazard": 231
     }
   },
   {
     "severity": "Not Reported",
-    "total": 27757,
+    "total": 27759,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
-      "Canada": 18008,
+      "Canada": 18009,
       "EU / EEA": 5000,
       "France": 3000,
-      "New Zealand": 1546,
+      "New Zealand": 1547,
       "USA": 1,
       "United Kingdom": 202
     },
@@ -2393,7 +2389,6 @@
       "Car - Suv - Light Truck & Van": 6,
       "Car - Suv - Light Truck & Van - Minivan": 1,
       "Car - Suv - Minivan": 2,
-      "Car Parts And Accessories": 0,
       "Cardiovascular": 0,
       "Cardiovascular - Anaesthesiology": 0,
       "Cardiovascular - Chemistry": 0,
@@ -2658,7 +2653,7 @@
       "Suv - Truck - Med. & H.D.": 1,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 1,
       "Tools & Machinery": 843,
-      "Toys & Childcare": 2217,
+      "Toys & Childcare": 2219,
       "Truck - Med. & H.D.": 967,
       "Truck - Med. & H.D. - A.T.V.": 1,
       "Truck - Med. & H.D. - Bus": 5,
@@ -2688,10 +2683,10 @@
       "Instability / Fall Risk": 317,
       "Mechanical Failure": 39,
       "Microbiological Contamination": 86,
-      "Other": 21518,
-      "Radiation": 1594,
+      "Other": 21517,
+      "Radiation": 1596,
       "Sharp Edges / Points": 178,
-      "Small Parts / Choking Hazard": 518
+      "Small Parts / Choking Hazard": 519
     }
   }
 ]
