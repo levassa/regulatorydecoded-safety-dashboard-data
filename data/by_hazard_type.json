@@ -1,14 +1,14 @@
 [
   {
     "hazard_type": "Other",
-    "total": 35205,
+    "total": 35212,
     "by_source": {
       "ACCC": 0,
       "CPSC": 376,
       "EU Safety Gate": 5000,
       "FDA": 1895,
-      "Health Canada": 23252,
-      "NZ Product Safety": 1447,
+      "Health Canada": 23258,
+      "NZ Product Safety": 1448,
       "OPSS": 235,
       "RappelConso": 3000
     }
@@ -57,13 +57,13 @@
   },
   {
     "hazard_type": "Radiation",
-    "total": 1687,
+    "total": 1697,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 49,
-      "Health Canada": 1622,
+      "Health Canada": 1632,
       "NZ Product Safety": 16,
       "OPSS": 0,
       "RappelConso": 0
@@ -71,13 +71,13 @@
   },
   {
     "hazard_type": "Electrical Fault",
-    "total": 1654,
+    "total": 1655,
     "by_source": {
       "ACCC": 3,
       "CPSC": 91,
       "EU Safety Gate": 0,
       "FDA": 69,
-      "Health Canada": 1363,
+      "Health Canada": 1364,
       "NZ Product Safety": 6,
       "OPSS": 122,
       "RappelConso": 0
