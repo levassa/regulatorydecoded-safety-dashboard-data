@@ -2580,7 +2580,7 @@
     "Fatal": 17,
     "Minor": 62,
     "Moderate": 50,
-    "Not Reported": 540,
+    "Not Reported": 496,
     "Serious": 16
   },
   {
@@ -2685,14 +2685,14 @@
     "Minor": 68,
     "Moderate": 42,
     "Not Reported": 481,
-    "Serious": 13
+    "Serious": 12
   },
   {
     "month": "2026-07",
-    "Fatal": 10,
-    "Minor": 21,
-    "Moderate": 29,
-    "Not Reported": 156,
-    "Serious": 13
+    "Fatal": 22,
+    "Minor": 22,
+    "Moderate": 35,
+    "Not Reported": 206,
+    "Serious": 14
   }
 ]
