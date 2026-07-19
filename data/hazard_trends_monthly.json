@@ -3691,19 +3691,19 @@
     "Electrical Fault": 13,
     "Flammability / Overheating": 36,
     "Microbiological Contamination": 2,
-    "Other": 491,
-    "Radiation": 18,
+    "Other": 489,
+    "Radiation": 20,
     "Small Parts / Choking Hazard": 26
   },
   {
     "month": "2026-07",
-    "Allergen": 5,
+    "Allergen": 6,
     "Chemical / Toxic Substance": 9,
-    "Electrical Fault": 14,
+    "Electrical Fault": 16,
     "Flammability / Overheating": 16,
-    "Microbiological Contamination": 2,
-    "Other": 212,
-    "Radiation": 12,
+    "Microbiological Contamination": 3,
+    "Other": 221,
+    "Radiation": 13,
     "Small Parts / Choking Hazard": 9
   }
 ]
