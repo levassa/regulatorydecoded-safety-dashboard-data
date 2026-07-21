@@ -521,7 +521,7 @@
   },
   {
     "region": "Canada",
-    "total": 33817,
+    "total": 33820,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -814,7 +814,7 @@
       "Electric Or Gas Products": 0,
       "Electric Or Gas Productsbuilding Products": 0,
       "Electrical & Electronics": 426,
-      "Food & Food Contact": 4390,
+      "Food & Food Contact": 4391,
       "Fresh": 92,
       "Frozen": 73,
       "Frozen - Herbs And Spices": 1,
@@ -997,7 +997,7 @@
       "Specialized Products - Other": 2,
       "Sports & Leisure": 646,
       "Stationery": 0,
-      "Suv": 1436,
+      "Suv": 1438,
       "Suv - Car": 135,
       "Suv - Car - Light Truck & Van": 5,
       "Suv - Car - Minivan - Light Truck & Van": 1,
@@ -1034,8 +1034,8 @@
     "by_severity": {
       "Fatal": 0,
       "Minor": 4317,
-      "Moderate": 8593,
-      "Not Reported": 18034,
+      "Moderate": 8594,
+      "Not Reported": 18036,
       "Serious": 2873
     }
   },
@@ -2081,7 +2081,7 @@
   },
   {
     "region": "New Zealand",
-    "total": 1561,
+    "total": 1562,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 1,
@@ -2373,7 +2373,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 7,
       "Electric Or Gas Productsbuilding Products": 1,
-      "Electrical & Electronics": 240,
+      "Electrical & Electronics": 241,
       "Food & Food Contact": 2,
       "Fresh": 0,
       "Frozen": 0,
@@ -2595,7 +2595,7 @@
       "Fatal": 1,
       "Minor": 8,
       "Moderate": 1,
-      "Not Reported": 1548,
+      "Not Reported": 1549,
       "Serious": 3
     }
   },

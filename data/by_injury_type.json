@@ -1,21 +1,21 @@
 [
   {
     "injury_type": "Not Specified",
-    "total": 45283,
+    "total": 45289,
     "by_source": {
       "ACCC": 1,
       "CPSC": 335,
       "EU Safety Gate": 5000,
       "FDA": 3272,
-      "Health Canada": 31554,
-      "NZ Product Safety": 1513,
-      "OPSS": 608,
+      "Health Canada": 31557,
+      "NZ Product Safety": 1514,
+      "OPSS": 610,
       "RappelConso": 3000
     }
   },
   {
     "injury_type": "Choking / Suffocation",
-    "total": 941,
+    "total": 942,
     "by_source": {
       "ACCC": 8,
       "CPSC": 225,
@@ -23,13 +23,13 @@
       "FDA": 6,
       "Health Canada": 509,
       "NZ Product Safety": 0,
-      "OPSS": 193,
+      "OPSS": 194,
       "RappelConso": 0
     }
   },
   {
     "injury_type": "Burns",
-    "total": 669,
+    "total": 668,
     "by_source": {
       "ACCC": 1,
       "CPSC": 377,
@@ -37,13 +37,13 @@
       "FDA": 21,
       "Health Canada": 235,
       "NZ Product Safety": 12,
-      "OPSS": 23,
+      "OPSS": 22,
       "RappelConso": 0
     }
   },
   {
     "injury_type": "Laceration / Cut",
-    "total": 666,
+    "total": 665,
     "by_source": {
       "ACCC": 0,
       "CPSC": 176,
@@ -51,7 +51,7 @@
       "FDA": 116,
       "Health Canada": 360,
       "NZ Product Safety": 10,
-      "OPSS": 4,
+      "OPSS": 3,
       "RappelConso": 0
     }
   },
@@ -127,7 +127,7 @@
   },
   {
     "injury_type": "Electric Shock",
-    "total": 270,
+    "total": 269,
     "by_source": {
       "ACCC": 3,
       "CPSC": 61,
@@ -135,7 +135,7 @@
       "FDA": 14,
       "Health Canada": 66,
       "NZ Product Safety": 4,
-      "OPSS": 122,
+      "OPSS": 121,
       "RappelConso": 0
     }
   },

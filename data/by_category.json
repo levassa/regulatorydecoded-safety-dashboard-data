@@ -29,13 +29,13 @@
   },
   {
     "product_category": "Food & Food Contact",
-    "total": 6392,
+    "total": 6393,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 2000,
-      "Health Canada": 4390,
+      "Health Canada": 4391,
       "NZ Product Safety": 2,
       "OPSS": 0,
       "RappelConso": 0
@@ -85,14 +85,14 @@
   },
   {
     "product_category": "Electrical & Electronics",
-    "total": 1568,
+    "total": 1569,
     "by_source": {
       "ACCC": 7,
       "CPSC": 0,
       "EU Safety Gate": 895,
       "FDA": 0,
       "Health Canada": 426,
-      "NZ Product Safety": 240,
+      "NZ Product Safety": 241,
       "OPSS": 0,
       "RappelConso": 0
     }
@@ -113,13 +113,13 @@
   },
   {
     "product_category": "Suv",
-    "total": 1436,
+    "total": 1438,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 1436,
+      "Health Canada": 1438,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0

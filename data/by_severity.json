@@ -1079,11 +1079,11 @@
   },
   {
     "severity": "Moderate",
-    "total": 9219,
+    "total": 9220,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
-      "Canada": 8593,
+      "Canada": 8594,
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 1,
@@ -1382,7 +1382,7 @@
       "Electric Or Gas Products": 0,
       "Electric Or Gas Productsbuilding Products": 0,
       "Electrical & Electronics": 0,
-      "Food & Food Contact": 1338,
+      "Food & Food Contact": 1339,
       "Fresh": 48,
       "Frozen": 25,
       "Frozen - Herbs And Spices": 0,
@@ -1600,7 +1600,7 @@
       "Veterinary Drugs": 22
     },
     "by_hazard_type": {
-      "Allergen": 699,
+      "Allergen": 700,
       "Chemical / Toxic Substance": 108,
       "Drowning Risk": 34,
       "Electrical Fault": 48,
@@ -2142,7 +2142,7 @@
       "Allergen": 622,
       "Chemical / Toxic Substance": 77,
       "Drowning Risk": 63,
-      "Electrical Fault": 157,
+      "Electrical Fault": 156,
       "Entrapment": 25,
       "Explosion": 48,
       "Flammability / Overheating": 638,
@@ -2152,19 +2152,19 @@
       "Other": 3752,
       "Radiation": 10,
       "Sharp Edges / Points": 68,
-      "Small Parts / Choking Hazard": 231
+      "Small Parts / Choking Hazard": 232
     }
   },
   {
     "severity": "Not Reported",
-    "total": 27785,
+    "total": 27788,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
-      "Canada": 18034,
+      "Canada": 18036,
       "EU / EEA": 5000,
       "France": 3000,
-      "New Zealand": 1548,
+      "New Zealand": 1549,
       "USA": 1,
       "United Kingdom": 202
     },
@@ -2459,7 +2459,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 7,
       "Electric Or Gas Productsbuilding Products": 1,
-      "Electrical & Electronics": 1561,
+      "Electrical & Electronics": 1562,
       "Food & Food Contact": 201,
       "Fresh": 1,
       "Frozen": 1,
@@ -2643,7 +2643,7 @@
       "Specialized Products - Other": 2,
       "Sports & Leisure": 869,
       "Stationery": 9,
-      "Suv": 1436,
+      "Suv": 1438,
       "Suv - Car": 135,
       "Suv - Car - Light Truck & Van": 5,
       "Suv - Car - Minivan - Light Truck & Van": 1,
@@ -2688,8 +2688,8 @@
       "Instability / Fall Risk": 318,
       "Mechanical Failure": 39,
       "Microbiological Contamination": 86,
-      "Other": 21524,
-      "Radiation": 1608,
+      "Other": 21529,
+      "Radiation": 1606,
       "Sharp Edges / Points": 178,
       "Small Parts / Choking Hazard": 519
     }
