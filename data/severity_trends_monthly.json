@@ -2165,7 +2165,7 @@
     "Minor": 17,
     "Moderate": 52,
     "Not Reported": 24,
-    "Serious": 110
+    "Serious": 109
   },
   {
     "month": "2021-02",
@@ -2357,7 +2357,7 @@
     "Minor": 19,
     "Moderate": 37,
     "Not Reported": 59,
-    "Serious": 126
+    "Serious": 125
   },
   {
     "month": "2023-02",
@@ -2690,9 +2690,9 @@
   {
     "month": "2026-07",
     "Fatal": 22,
-    "Minor": 28,
-    "Moderate": 43,
-    "Not Reported": 232,
+    "Minor": 29,
+    "Moderate": 46,
+    "Not Reported": 244,
     "Serious": 16
   }
 ]

@@ -43,13 +43,13 @@
   },
   {
     "product_category": "Drugs",
-    "total": 2777,
+    "total": 2778,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 2777,
+      "Health Canada": 2778,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -99,13 +99,13 @@
   },
   {
     "product_category": "Car",
-    "total": 1549,
+    "total": 1550,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 1549,
+      "Health Canada": 1550,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -113,13 +113,13 @@
   },
   {
     "product_category": "Suv",
-    "total": 1438,
+    "total": 1443,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 1438,
+      "Health Canada": 1443,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -127,13 +127,13 @@
   },
   {
     "product_category": "Household Items",
-    "total": 1264,
+    "total": 1265,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 1264,
+      "Health Canada": 1265,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -183,13 +183,13 @@
   },
   {
     "product_category": "Truck - Med. & H.D.",
-    "total": 969,
+    "total": 970,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 969,
+      "Health Canada": 970,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -253,13 +253,13 @@
   },
   {
     "product_category": "Chemicals",
-    "total": 596,
+    "total": 597,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 218,
       "FDA": 0,
-      "Health Canada": 368,
+      "Health Canada": 369,
       "NZ Product Safety": 10,
       "OPSS": 0,
       "RappelConso": 0
@@ -267,13 +267,13 @@
   },
   {
     "product_category": "Light Truck & Van",
-    "total": 595,
+    "total": 596,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 595,
+      "Health Canada": 596,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -365,13 +365,13 @@
   },
   {
     "product_category": "Cardiovascular",
-    "total": 243,
+    "total": 245,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 243,
+      "Health Canada": 245,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -519,13 +519,13 @@
   },
   {
     "product_category": "Minivan",
-    "total": 106,
+    "total": 107,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 106,
+      "Health Canada": 107,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -575,13 +575,13 @@
   },
   {
     "product_category": "Cannabis",
-    "total": 96,
+    "total": 97,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 96,
+      "Health Canada": 97,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -715,13 +715,13 @@
   },
   {
     "product_category": "Haematology",
-    "total": 65,
+    "total": 66,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 65,
+      "Health Canada": 66,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0

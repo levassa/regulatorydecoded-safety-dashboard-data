@@ -1,13 +1,13 @@
 [
   {
     "hazard_type": "Other",
-    "total": 35242,
+    "total": 35255,
     "by_source": {
       "ACCC": 0,
       "CPSC": 376,
       "EU Safety Gate": 5000,
       "FDA": 1895,
-      "Health Canada": 23273,
+      "Health Canada": 23286,
       "NZ Product Safety": 1450,
       "OPSS": 248,
       "RappelConso": 3000
@@ -15,13 +15,13 @@
   },
   {
     "hazard_type": "Allergen",
-    "total": 3211,
+    "total": 3214,
     "by_source": {
       "ACCC": 0,
       "CPSC": 2,
       "EU Safety Gate": 0,
-      "FDA": 503,
-      "Health Canada": 2706,
+      "FDA": 505,
+      "Health Canada": 2707,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -29,12 +29,12 @@
   },
   {
     "hazard_type": "Microbiological Contamination",
-    "total": 2720,
+    "total": 2719,
     "by_source": {
       "ACCC": 0,
       "CPSC": 11,
       "EU Safety Gate": 0,
-      "FDA": 832,
+      "FDA": 831,
       "Health Canada": 1870,
       "NZ Product Safety": 1,
       "OPSS": 6,
@@ -57,13 +57,13 @@
   },
   {
     "hazard_type": "Radiation",
-    "total": 1703,
+    "total": 1704,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 49,
-      "Health Canada": 1638,
+      "Health Canada": 1639,
       "NZ Product Safety": 16,
       "OPSS": 0,
       "RappelConso": 0
@@ -71,12 +71,12 @@
   },
   {
     "hazard_type": "Electrical Fault",
-    "total": 1658,
+    "total": 1657,
     "by_source": {
       "ACCC": 3,
       "CPSC": 93,
       "EU Safety Gate": 0,
-      "FDA": 69,
+      "FDA": 68,
       "Health Canada": 1370,
       "NZ Product Safety": 6,
       "OPSS": 117,
@@ -99,13 +99,13 @@
   },
   {
     "hazard_type": "Small Parts / Choking Hazard",
-    "total": 918,
+    "total": 919,
     "by_source": {
       "ACCC": 13,
       "CPSC": 208,
       "EU Safety Gate": 0,
       "FDA": 7,
-      "Health Canada": 504,
+      "Health Canada": 505,
       "NZ Product Safety": 1,
       "OPSS": 185,
       "RappelConso": 0
