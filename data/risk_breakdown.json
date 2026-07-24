@@ -16,12 +16,12 @@
   },
   {
     "risk_type": "Fire",
-    "count": 1694,
-    "percentage": 3.3
+    "count": 1695,
+    "percentage": 3.4
   },
   {
     "risk_type": "Performance",
-    "count": 1385,
+    "count": 1386,
     "percentage": 2.7
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "risk_type": "Injury",
-    "count": 913,
+    "count": 912,
     "percentage": 1.8
   },
   {
@@ -101,7 +101,7 @@
   },
   {
     "risk_type": "Labelling And Packaging",
-    "count": 519,
+    "count": 520,
     "percentage": 1.0
   },
   {
@@ -151,7 +151,7 @@
   },
   {
     "risk_type": "Visual System",
-    "count": 347,
+    "count": 348,
     "percentage": 0.7
   },
   {
@@ -201,7 +201,7 @@
   },
   {
     "risk_type": "Non Harmful (Quality Or Spoilage)",
-    "count": 168,
+    "count": 170,
     "percentage": 0.3
   },
   {

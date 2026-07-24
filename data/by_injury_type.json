@@ -1,13 +1,13 @@
 [
   {
     "injury_type": "Not Specified",
-    "total": 45313,
+    "total": 45319,
     "by_source": {
-      "ACCC": 1,
+      "ACCC": 2,
       "CPSC": 335,
       "EU Safety Gate": 5000,
       "FDA": 3271,
-      "Health Canada": 31574,
+      "Health Canada": 31579,
       "NZ Product Safety": 1515,
       "OPSS": 617,
       "RappelConso": 3000
@@ -15,9 +15,9 @@
   },
   {
     "injury_type": "Choking / Suffocation",
-    "total": 939,
+    "total": 937,
     "by_source": {
-      "ACCC": 6,
+      "ACCC": 4,
       "CPSC": 225,
       "EU Safety Gate": 0,
       "FDA": 6,
@@ -57,9 +57,9 @@
   },
   {
     "injury_type": "Fall Injury",
-    "total": 516,
+    "total": 517,
     "by_source": {
-      "ACCC": 2,
+      "ACCC": 3,
       "CPSC": 162,
       "EU Safety Gate": 0,
       "FDA": 30,

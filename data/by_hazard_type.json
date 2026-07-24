@@ -1,13 +1,13 @@
 [
   {
     "hazard_type": "Other",
-    "total": 35255,
+    "total": 35258,
     "by_source": {
       "ACCC": 0,
       "CPSC": 376,
       "EU Safety Gate": 5000,
       "FDA": 1895,
-      "Health Canada": 23286,
+      "Health Canada": 23289,
       "NZ Product Safety": 1450,
       "OPSS": 248,
       "RappelConso": 3000
@@ -43,9 +43,9 @@
   },
   {
     "hazard_type": "Flammability / Overheating",
-    "total": 1738,
+    "total": 1739,
     "by_source": {
-      "ACCC": 2,
+      "ACCC": 3,
       "CPSC": 508,
       "EU Safety Gate": 0,
       "FDA": 38,
@@ -57,13 +57,13 @@
   },
   {
     "hazard_type": "Radiation",
-    "total": 1704,
+    "total": 1705,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 49,
-      "Health Canada": 1639,
+      "Health Canada": 1640,
       "NZ Product Safety": 16,
       "OPSS": 0,
       "RappelConso": 0
@@ -99,9 +99,9 @@
   },
   {
     "hazard_type": "Small Parts / Choking Hazard",
-    "total": 919,
+    "total": 917,
     "by_source": {
-      "ACCC": 13,
+      "ACCC": 11,
       "CPSC": 208,
       "EU Safety Gate": 0,
       "FDA": 7,
@@ -113,9 +113,9 @@
   },
   {
     "hazard_type": "Mechanical Failure",
-    "total": 551,
+    "total": 552,
     "by_source": {
-      "ACCC": 4,
+      "ACCC": 5,
       "CPSC": 172,
       "EU Safety Gate": 0,
       "FDA": 209,
@@ -169,13 +169,13 @@
   },
   {
     "hazard_type": "Drowning Risk",
-    "total": 298,
+    "total": 299,
     "by_source": {
       "ACCC": 1,
       "CPSC": 40,
       "EU Safety Gate": 0,
       "FDA": 71,
-      "Health Canada": 118,
+      "Health Canada": 119,
       "NZ Product Safety": 35,
       "OPSS": 33,
       "RappelConso": 0

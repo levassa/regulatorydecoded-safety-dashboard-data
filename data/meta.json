@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-23T09:21:16Z",
-  "total_records": 50579,
+  "last_updated": "2026-07-24T09:18:25Z",
+  "total_records": 50584,
   "by_source": {
     "ACCC": 25,
     "CPSC": 2151,
     "EU Safety Gate": 5000,
     "FDA": 4000,
-    "Health Canada": 33840,
+    "Health Canada": 33845,
     "NZ Product Safety": 1563,
     "OPSS": 1000,
     "RappelConso": 3000
@@ -15,9 +15,9 @@
   "total_injuries": 0,
   "by_severity": {
     "Fatal": 617,
-    "Minor": 5990,
-    "Moderate": 9225,
-    "Not Reported": 27816,
+    "Minor": 5992,
+    "Moderate": 9227,
+    "Not Reported": 27817,
     "Serious": 6931
   }
 }

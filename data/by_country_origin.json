@@ -5,23 +5,23 @@
   },
   {
     "country": "People's Republic of China",
-    "count": 2477
+    "count": 2496
   },
   {
     "country": "Unknown",
-    "count": 559
+    "count": 558
   },
   {
     "country": "Italy",
-    "count": 436
+    "count": 420
   },
   {
     "country": "Germany",
-    "count": 318
+    "count": 316
   },
   {
     "country": "France",
-    "count": 291
+    "count": 287
   },
   {
     "country": "Spain",
@@ -33,11 +33,11 @@
   },
   {
     "country": "Poland",
-    "count": 93
+    "count": 94
   },
   {
     "country": "Türkiye",
-    "count": 63
+    "count": 64
   },
   {
     "country": "Sweden",
@@ -49,7 +49,7 @@
   },
   {
     "country": "Hong Kong",
-    "count": 43
+    "count": 46
   },
   {
     "country": "Czechia",
@@ -88,15 +88,19 @@
     "count": 22
   },
   {
-    "country": "Pakistan",
-    "count": 20
+    "country": "Netherlands",
+    "count": 19
   },
   {
     "country": "Belgium",
     "count": 19
   },
   {
-    "country": "Netherlands",
+    "country": "Pakistan",
+    "count": 19
+  },
+  {
+    "country": "Republic of Korea",
     "count": 19
   },
   {
@@ -104,19 +108,15 @@
     "count": 18
   },
   {
-    "country": "Republic of Korea",
-    "count": 18
-  },
-  {
-    "country": "Brazil",
-    "count": 17
+    "country": "Hungary",
+    "count": 16
   },
   {
     "country": "Ireland",
     "count": 16
   },
   {
-    "country": "Hungary",
+    "country": "Brazil",
     "count": 16
   }
 ]
