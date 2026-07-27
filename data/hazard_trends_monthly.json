@@ -3699,11 +3699,11 @@
     "month": "2026-07",
     "Allergen": 9,
     "Chemical / Toxic Substance": 9,
-    "Electrical Fault": 21,
+    "Electrical Fault": 22,
     "Flammability / Overheating": 18,
     "Microbiological Contamination": 3,
-    "Other": 310,
-    "Radiation": 23,
+    "Other": 309,
+    "Radiation": 24,
     "Small Parts / Choking Hazard": 14
   }
 ]

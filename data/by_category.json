@@ -85,14 +85,14 @@
   },
   {
     "product_category": "Electrical & Electronics",
-    "total": 1579,
+    "total": 1580,
     "by_source": {
       "ACCC": 9,
       "CPSC": 0,
       "EU Safety Gate": 903,
       "FDA": 0,
       "Health Canada": 426,
-      "NZ Product Safety": 241,
+      "NZ Product Safety": 242,
       "OPSS": 0,
       "RappelConso": 0
     }
@@ -197,13 +197,13 @@
   },
   {
     "product_category": "Rv Trailer",
-    "total": 949,
+    "total": 950,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 949,
+      "Health Canada": 950,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -225,14 +225,14 @@
   },
   {
     "product_category": "Tools & Machinery",
-    "total": 851,
+    "total": 852,
     "by_source": {
       "ACCC": 3,
       "CPSC": 0,
       "EU Safety Gate": 275,
       "FDA": 0,
       "Health Canada": 497,
-      "NZ Product Safety": 76,
+      "NZ Product Safety": 77,
       "OPSS": 0,
       "RappelConso": 0
     }
