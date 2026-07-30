@@ -265,6 +265,7 @@
       "Chemistry - Haematology": 0,
       "Chemistry - Immunology": 0,
       "Child Car Seat": 0,
+      "Cleaning Products": 1,
       "Clinical Toxicology": 0,
       "Clothing & Textiles": 0,
       "Communications": 0,
@@ -302,7 +303,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 0,
       "Electric Or Gas Productsbuilding Products": 0,
-      "Electrical & Electronics": 9,
+      "Electrical & Electronics": 8,
       "Food & Food Contact": 6,
       "Fresh": 0,
       "Frozen": 0,
@@ -529,12 +530,12 @@
       "Explosion": 7,
       "Flammability / Overheating": 60,
       "Instability / Fall Risk": 25,
-      "Mechanical Failure": 38,
+      "Mechanical Failure": 39,
       "Microbiological Contamination": 3,
       "Other": 118,
       "Radiation": 0,
       "Sharp Edges / Points": 21,
-      "Small Parts / Choking Hazard": 97
+      "Small Parts / Choking Hazard": 96
     }
   },
   {
@@ -803,6 +804,7 @@
       "Chemistry - Haematology": 0,
       "Chemistry - Immunology": 0,
       "Child Car Seat": 0,
+      "Cleaning Products": 0,
       "Clinical Toxicology": 0,
       "Clothing & Textiles": 1,
       "Communications": 0,
@@ -1341,6 +1343,7 @@
       "Chemistry - Haematology": 2,
       "Chemistry - Immunology": 3,
       "Child Car Seat": 0,
+      "Cleaning Products": 0,
       "Clinical Toxicology": 2,
       "Clothing & Textiles": 0,
       "Communications": 0,
@@ -1615,7 +1618,7 @@
   },
   {
     "severity": "Minor",
-    "total": 5997,
+    "total": 5999,
     "total_injuries": 0,
     "by_region": {
       "Australia": 2,
@@ -1624,7 +1627,7 @@
       "France": 0,
       "New Zealand": 8,
       "USA": 884,
-      "United Kingdom": 781
+      "United Kingdom": 783
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
@@ -1879,6 +1882,7 @@
       "Chemistry - Haematology": 0,
       "Chemistry - Immunology": 0,
       "Child Car Seat": 0,
+      "Cleaning Products": 0,
       "Clinical Toxicology": 0,
       "Clothing & Textiles": 0,
       "Communications": 0,
@@ -2046,7 +2050,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 1763,
+      "Other": 1765,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -2137,15 +2141,15 @@
     "by_hazard_type": {
       "Allergen": 622,
       "Chemical / Toxic Substance": 77,
-      "Drowning Risk": 64,
-      "Electrical Fault": 152,
+      "Drowning Risk": 65,
+      "Electrical Fault": 154,
       "Entrapment": 24,
       "Explosion": 48,
       "Flammability / Overheating": 632,
       "Instability / Fall Risk": 76,
       "Mechanical Failure": 89,
       "Microbiological Contamination": 147,
-      "Other": 3757,
+      "Other": 3756,
       "Radiation": 10,
       "Sharp Edges / Points": 68,
       "Small Parts / Choking Hazard": 231
@@ -2153,16 +2157,16 @@
   },
   {
     "severity": "Not Reported",
-    "total": 27824,
+    "total": 27823,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
       "Canada": 18059,
       "EU / EEA": 5000,
       "France": 3000,
-      "New Zealand": 1552,
+      "New Zealand": 1553,
       "USA": 1,
-      "United Kingdom": 212
+      "United Kingdom": 210
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
@@ -2417,8 +2421,9 @@
       "Chemistry - Haematology": 0,
       "Chemistry - Immunology": 0,
       "Child Car Seat": 79,
+      "Cleaning Products": 0,
       "Clinical Toxicology": 0,
-      "Clothing & Textiles": 740,
+      "Clothing & Textiles": 739,
       "Communications": 1,
       "Condiments": 0,
       "Construction Products": 7,
@@ -2563,7 +2568,7 @@
       "Minivan - Suv - Car": 3,
       "Motor Tricycle": 23,
       "Motor Tricycle - Motorcycle": 2,
-      "Motor Vehicles": 997,
+      "Motor Vehicles": 998,
       "Motorcycle": 519,
       "Motorcycle - Motor Tricycle": 1,
       "Natural Health Products": 574,
@@ -2584,7 +2589,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 3532,
+      "Other": 3530,
       "Other -  Herbal Product For Smoking": 1,
       "Other - Back Patch, Recovery Tape": 1,
       "Other - Books": 1,
@@ -2653,7 +2658,7 @@
       "Suv - Truck - Med. & H.D.": 1,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 1,
       "Tools & Machinery": 847,
-      "Toys & Childcare": 2233,
+      "Toys & Childcare": 2234,
       "Truck - Med. & H.D.": 971,
       "Truck - Med. & H.D. - A.T.V.": 1,
       "Truck - Med. & H.D. - Bus": 5,
@@ -2674,7 +2679,7 @@
     },
     "by_hazard_type": {
       "Allergen": 445,
-      "Chemical / Toxic Substance": 583,
+      "Chemical / Toxic Substance": 582,
       "Drowning Risk": 119,
       "Electrical Fault": 1364,
       "Entrapment": 95,
@@ -2683,10 +2688,10 @@
       "Instability / Fall Risk": 318,
       "Mechanical Failure": 39,
       "Microbiological Contamination": 86,
-      "Other": 21553,
+      "Other": 21554,
       "Radiation": 1617,
       "Sharp Edges / Points": 178,
-      "Small Parts / Choking Hazard": 519
+      "Small Parts / Choking Hazard": 518
     }
   }
 ]
