@@ -2499,7 +2499,7 @@
     "month": "2024-07",
     "Fatal": 0,
     "Minor": 18,
-    "Moderate": 74,
+    "Moderate": 73,
     "Not Reported": 110,
     "Serious": 8
   },
@@ -2580,7 +2580,7 @@
     "Fatal": 17,
     "Minor": 42,
     "Moderate": 50,
-    "Not Reported": 436,
+    "Not Reported": 393,
     "Serious": 16
   },
   {
@@ -2668,7 +2668,7 @@
     "Fatal": 48,
     "Minor": 72,
     "Moderate": 53,
-    "Not Reported": 461,
+    "Not Reported": 460,
     "Serious": 27
   },
   {
@@ -2684,15 +2684,15 @@
     "Fatal": 30,
     "Minor": 67,
     "Moderate": 42,
-    "Not Reported": 481,
+    "Not Reported": 480,
     "Serious": 12
   },
   {
     "month": "2026-07",
     "Fatal": 29,
-    "Minor": 48,
-    "Moderate": 51,
-    "Not Reported": 308,
+    "Minor": 51,
+    "Moderate": 56,
+    "Not Reported": 356,
     "Serious": 18
   }
 ]
