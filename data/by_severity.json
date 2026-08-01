@@ -1,7 +1,7 @@
 [
   {
     "severity": "Fatal",
-    "total": 623,
+    "total": 635,
     "total_injuries": 0,
     "by_region": {
       "Australia": 19,
@@ -9,7 +9,7 @@
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 1,
-      "USA": 598,
+      "USA": 610,
       "United Kingdom": 5
     },
     "by_category": {
@@ -432,7 +432,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 578,
+      "Other": 590,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -522,19 +522,19 @@
     },
     "by_hazard_type": {
       "Allergen": 0,
-      "Chemical / Toxic Substance": 76,
+      "Chemical / Toxic Substance": 77,
       "Drowning Risk": 4,
-      "Electrical Fault": 24,
-      "Entrapment": 151,
+      "Electrical Fault": 26,
+      "Entrapment": 155,
       "Explosion": 7,
-      "Flammability / Overheating": 60,
-      "Instability / Fall Risk": 25,
+      "Flammability / Overheating": 62,
+      "Instability / Fall Risk": 26,
       "Mechanical Failure": 38,
       "Microbiological Contamination": 3,
       "Other": 118,
       "Radiation": 0,
       "Sharp Edges / Points": 21,
-      "Small Parts / Choking Hazard": 96
+      "Small Parts / Choking Hazard": 98
     }
   },
   {
@@ -1077,7 +1077,7 @@
   },
   {
     "severity": "Moderate",
-    "total": 9233,
+    "total": 9236,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
@@ -1085,7 +1085,7 @@
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 1,
-      "USA": 625,
+      "USA": 628,
       "United Kingdom": 0
     },
     "by_category": {
@@ -1508,7 +1508,7 @@
       "Ophthalmology": 28,
       "Ophthalmology - General Hospital And Personal Use": 1,
       "Orthopaedics": 95,
-      "Other": 701,
+      "Other": 704,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -1599,13 +1599,13 @@
     "by_hazard_type": {
       "Allergen": 700,
       "Chemical / Toxic Substance": 108,
-      "Drowning Risk": 34,
+      "Drowning Risk": 35,
       "Electrical Fault": 49,
       "Entrapment": 41,
-      "Explosion": 54,
+      "Explosion": 55,
       "Flammability / Overheating": 126,
       "Instability / Fall Risk": 65,
-      "Mechanical Failure": 159,
+      "Mechanical Failure": 160,
       "Microbiological Contamination": 722,
       "Other": 6979,
       "Radiation": 30,

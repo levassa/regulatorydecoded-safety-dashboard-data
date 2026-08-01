@@ -15,10 +15,10 @@
   },
   {
     "injury_type": "Choking / Suffocation",
-    "total": 936,
+    "total": 938,
     "by_source": {
       "ACCC": 3,
-      "CPSC": 226,
+      "CPSC": 228,
       "EU Safety Gate": 0,
       "FDA": 6,
       "Health Canada": 510,
@@ -29,10 +29,10 @@
   },
   {
     "injury_type": "Burns",
-    "total": 670,
+    "total": 674,
     "by_source": {
       "ACCC": 1,
-      "CPSC": 377,
+      "CPSC": 381,
       "EU Safety Gate": 0,
       "FDA": 21,
       "Health Canada": 237,
@@ -43,10 +43,10 @@
   },
   {
     "injury_type": "Laceration / Cut",
-    "total": 665,
+    "total": 666,
     "by_source": {
       "ACCC": 1,
-      "CPSC": 176,
+      "CPSC": 177,
       "EU Safety Gate": 0,
       "FDA": 115,
       "Health Canada": 360,
@@ -57,10 +57,10 @@
   },
   {
     "injury_type": "Fall Injury",
-    "total": 517,
+    "total": 518,
     "by_source": {
       "ACCC": 3,
-      "CPSC": 162,
+      "CPSC": 163,
       "EU Safety Gate": 0,
       "FDA": 30,
       "Health Canada": 322,
@@ -71,10 +71,10 @@
   },
   {
     "injury_type": "Poisoning / Ingestion",
-    "total": 468,
+    "total": 469,
     "by_source": {
       "ACCC": 0,
-      "CPSC": 296,
+      "CPSC": 297,
       "EU Safety Gate": 0,
       "FDA": 12,
       "Health Canada": 149,
@@ -126,30 +126,30 @@
     }
   },
   {
-    "injury_type": "Electric Shock",
-    "total": 265,
-    "by_source": {
-      "ACCC": 1,
-      "CPSC": 61,
-      "EU Safety Gate": 0,
-      "FDA": 14,
-      "Health Canada": 66,
-      "NZ Product Safety": 4,
-      "OPSS": 119,
-      "RappelConso": 0
-    }
-  },
-  {
     "injury_type": "Entrapment",
-    "total": 263,
+    "total": 268,
     "by_source": {
       "ACCC": 0,
-      "CPSC": 170,
+      "CPSC": 175,
       "EU Safety Gate": 0,
       "FDA": 3,
       "Health Canada": 71,
       "NZ Product Safety": 0,
       "OPSS": 19,
+      "RappelConso": 0
+    }
+  },
+  {
+    "injury_type": "Electric Shock",
+    "total": 266,
+    "by_source": {
+      "ACCC": 1,
+      "CPSC": 62,
+      "EU Safety Gate": 0,
+      "FDA": 14,
+      "Health Canada": 66,
+      "NZ Product Safety": 4,
+      "OPSS": 119,
       "RappelConso": 0
     }
   },
