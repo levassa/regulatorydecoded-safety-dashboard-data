@@ -2578,7 +2578,7 @@
   {
     "month": "2025-05",
     "CPSC": 37,
-    "EU Safety Gate": 284,
+    "EU Safety Gate": 0,
     "FDA": 0,
     "Health Canada": 176,
     "OPSS": 21
@@ -2586,7 +2586,7 @@
   {
     "month": "2025-06",
     "CPSC": 38,
-    "EU Safety Gate": 368,
+    "EU Safety Gate": 0,
     "FDA": 0,
     "Health Canada": 141,
     "OPSS": 59
@@ -2594,7 +2594,7 @@
   {
     "month": "2025-07",
     "CPSC": 43,
-    "EU Safety Gate": 390,
+    "EU Safety Gate": 0,
     "FDA": 0,
     "Health Canada": 181,
     "OPSS": 73
@@ -2602,7 +2602,7 @@
   {
     "month": "2025-08",
     "CPSC": 24,
-    "EU Safety Gate": 368,
+    "EU Safety Gate": 0,
     "FDA": 0,
     "Health Canada": 177,
     "OPSS": 78
@@ -2610,7 +2610,7 @@
   {
     "month": "2025-09",
     "CPSC": 20,
-    "EU Safety Gate": 277,
+    "EU Safety Gate": 0,
     "FDA": 0,
     "Health Canada": 127,
     "OPSS": 34
@@ -2618,7 +2618,7 @@
   {
     "month": "2025-10",
     "CPSC": 51,
-    "EU Safety Gate": 459,
+    "EU Safety Gate": 0,
     "FDA": 0,
     "Health Canada": 222,
     "OPSS": 84
@@ -2626,7 +2626,7 @@
   {
     "month": "2025-11",
     "CPSC": 40,
-    "EU Safety Gate": 354,
+    "EU Safety Gate": 299,
     "FDA": 0,
     "Health Canada": 153,
     "OPSS": 87
@@ -2658,7 +2658,7 @@
   {
     "month": "2026-03",
     "CPSC": 29,
-    "EU Safety Gate": 281,
+    "EU Safety Gate": 282,
     "FDA": 0,
     "Health Canada": 151,
     "OPSS": 62
@@ -2668,7 +2668,7 @@
     "CPSC": 75,
     "EU Safety Gate": 329,
     "FDA": 0,
-    "Health Canada": 199,
+    "Health Canada": 198,
     "OPSS": 57
   },
   {
@@ -2684,7 +2684,7 @@
     "CPSC": 44,
     "EU Safety Gate": 392,
     "FDA": 0,
-    "Health Canada": 131,
+    "Health Canada": 130,
     "OPSS": 64
   },
   {
@@ -2692,7 +2692,15 @@
     "CPSC": 55,
     "EU Safety Gate": 238,
     "FDA": 0,
-    "Health Canada": 163,
+    "Health Canada": 173,
     "OPSS": 69
+  },
+  {
+    "month": "2026-08",
+    "CPSC": 0,
+    "EU Safety Gate": 0,
+    "FDA": 0,
+    "Health Canada": 1,
+    "OPSS": 0
   }
 ]

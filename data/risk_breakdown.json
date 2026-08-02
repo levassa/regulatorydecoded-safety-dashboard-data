@@ -1,42 +1,42 @@
 [
   {
     "risk_type": "Other",
-    "count": 15019,
-    "percentage": 29.7
+    "count": 12820,
+    "percentage": 26.5
   },
   {
     "risk_type": "Medical Devices",
     "count": 4796,
-    "percentage": 9.5
+    "percentage": 9.9
   },
   {
     "risk_type": "Product Safety",
     "count": 1820,
-    "percentage": 3.6
+    "percentage": 3.8
   },
   {
     "risk_type": "Fire",
     "count": 1698,
-    "percentage": 3.4
+    "percentage": 3.5
   },
   {
     "risk_type": "Performance",
     "count": 1391,
-    "percentage": 2.7
+    "percentage": 2.9
   },
   {
     "risk_type": "Electric Shock",
-    "count": 1297,
-    "percentage": 2.6
+    "count": 1298,
+    "percentage": 2.7
   },
   {
     "risk_type": "Injury",
     "count": 920,
-    "percentage": 1.8
+    "percentage": 1.9
   },
   {
     "risk_type": "Structure",
-    "count": 893,
+    "count": 895,
     "percentage": 1.8
   },
   {
@@ -47,32 +47,32 @@
   {
     "risk_type": "Health Products",
     "count": 770,
-    "percentage": 1.5
+    "percentage": 1.6
   },
   {
     "risk_type": "Choking",
     "count": 734,
-    "percentage": 1.4
+    "percentage": 1.5
   },
   {
     "risk_type": "Contamination",
     "count": 730,
-    "percentage": 1.4
+    "percentage": 1.5
   },
   {
     "risk_type": "Accessories",
-    "count": 704,
-    "percentage": 1.4
+    "count": 705,
+    "percentage": 1.5
   },
   {
     "risk_type": "Milk",
     "count": 679,
-    "percentage": 1.3
+    "percentage": 1.4
   },
   {
     "risk_type": "Seats And Restraints",
-    "count": 664,
-    "percentage": 1.3
+    "count": 665,
+    "percentage": 1.4
   },
   {
     "risk_type": "Airbag",
@@ -81,8 +81,8 @@
   },
   {
     "risk_type": "Lights And Instruments",
-    "count": 630,
-    "percentage": 1.2
+    "count": 631,
+    "percentage": 1.3
   },
   {
     "risk_type": "Salmonella",
@@ -96,18 +96,18 @@
   },
   {
     "risk_type": "Chemical",
-    "count": 585,
+    "count": 586,
     "percentage": 1.2
   },
   {
     "risk_type": "Labelling And Packaging",
     "count": 521,
-    "percentage": 1.0
+    "percentage": 1.1
   },
   {
     "risk_type": "Engine",
     "count": 511,
-    "percentage": 1.0
+    "percentage": 1.1
   },
   {
     "risk_type": "Steering",
@@ -122,12 +122,12 @@
   {
     "risk_type": "Extraneous Material",
     "count": 467,
-    "percentage": 0.9
+    "percentage": 1.0
   },
   {
     "risk_type": "Falls",
     "count": 416,
-    "percentage": 0.8
+    "percentage": 0.9
   },
   {
     "risk_type": "Suspension",
@@ -142,7 +142,7 @@
   {
     "risk_type": "Physical Hazard",
     "count": 378,
-    "percentage": 0.7
+    "percentage": 0.8
   },
   {
     "risk_type": "Fuel Supply",
@@ -157,12 +157,12 @@
   {
     "risk_type": "Egg",
     "count": 318,
-    "percentage": 0.6
+    "percentage": 0.7
   },
   {
     "risk_type": "Product Quality",
     "count": 316,
-    "percentage": 0.6
+    "percentage": 0.7
   },
   {
     "risk_type": "Undeclared Substance",
@@ -182,7 +182,7 @@
   {
     "risk_type": "E. Coli O157:H7",
     "count": 227,
-    "percentage": 0.4
+    "percentage": 0.5
   },
   {
     "risk_type": "Tires",
@@ -197,12 +197,12 @@
   {
     "risk_type": "Sulphites",
     "count": 171,
-    "percentage": 0.3
+    "percentage": 0.4
   },
   {
     "risk_type": "Non Harmful (Quality Or Spoilage)",
     "count": 170,
-    "percentage": 0.3
+    "percentage": 0.4
   },
   {
     "risk_type": "High Voltage",
@@ -241,7 +241,7 @@
   },
   {
     "risk_type": "Tree Nut",
-    "count": 104,
+    "count": 105,
     "percentage": 0.2
   },
   {
@@ -277,17 +277,17 @@
   {
     "risk_type": "New Safety Information",
     "count": 74,
-    "percentage": 0.1
+    "percentage": 0.2
   },
   {
     "risk_type": "Product Safety - Covid",
     "count": 73,
-    "percentage": 0.1
+    "percentage": 0.2
   },
   {
     "risk_type": "Covid - Medical Devices",
     "count": 73,
-    "percentage": 0.1
+    "percentage": 0.2
   },
   {
     "risk_type": "Device Compatibility",
@@ -412,22 +412,22 @@
   {
     "risk_type": "Covid - Product Safety",
     "count": 25,
-    "percentage": 0.0
+    "percentage": 0.1
   },
   {
     "risk_type": "Due To A Voluntary Recall Of Low Dead Space Syringes, And Luer Slip Tip Syringes Manufactured By Sol-Millennium Medical (Sol-M), Inc. These Syringes  Manufactured By Sol-M Are Present In Some Of Bvi Customeyes Procedure Packs.",
     "count": 25,
-    "percentage": 0.0
+    "percentage": 0.1
   },
   {
     "risk_type": "Quality",
     "count": 25,
-    "percentage": 0.0
+    "percentage": 0.1
   },
   {
     "risk_type": "E. Coli - Non-Pathogenic",
     "count": 25,
-    "percentage": 0.0
+    "percentage": 0.1
   },
   {
     "risk_type": "Milk - Soy",
