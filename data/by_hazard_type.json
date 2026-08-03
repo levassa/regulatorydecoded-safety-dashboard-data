@@ -1,13 +1,13 @@
 [
   {
     "hazard_type": "Other",
-    "total": 33083,
+    "total": 34378,
     "by_source": {
       "ACCC": 0,
       "CPSC": 376,
-      "EU Safety Gate": 2800,
-      "FDA": 1895,
-      "Health Canada": 23309,
+      "EU Safety Gate": 4991,
+      "FDA": 993,
+      "Health Canada": 23315,
       "NZ Product Safety": 1453,
       "OPSS": 250,
       "RappelConso": 3000
@@ -15,12 +15,12 @@
   },
   {
     "hazard_type": "Allergen",
-    "total": 3217,
+    "total": 3210,
     "by_source": {
       "ACCC": 0,
       "CPSC": 2,
       "EU Safety Gate": 0,
-      "FDA": 506,
+      "FDA": 499,
       "Health Canada": 2709,
       "NZ Product Safety": 0,
       "OPSS": 0,
@@ -29,12 +29,12 @@
   },
   {
     "hazard_type": "Microbiological Contamination",
-    "total": 2719,
+    "total": 2691,
     "by_source": {
       "ACCC": 0,
       "CPSC": 11,
       "EU Safety Gate": 0,
-      "FDA": 830,
+      "FDA": 802,
       "Health Canada": 1871,
       "NZ Product Safety": 1,
       "OPSS": 6,
@@ -43,12 +43,12 @@
   },
   {
     "hazard_type": "Flammability / Overheating",
-    "total": 1739,
+    "total": 1715,
     "by_source": {
       "ACCC": 3,
       "CPSC": 510,
       "EU Safety Gate": 0,
-      "FDA": 38,
+      "FDA": 14,
       "Health Canada": 870,
       "NZ Product Safety": 22,
       "OPSS": 296,
@@ -57,13 +57,13 @@
   },
   {
     "hazard_type": "Radiation",
-    "total": 1710,
+    "total": 1672,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
-      "FDA": 49,
-      "Health Canada": 1645,
+      "FDA": 16,
+      "Health Canada": 1640,
       "NZ Product Safety": 16,
       "OPSS": 0,
       "RappelConso": 0
@@ -71,12 +71,12 @@
   },
   {
     "hazard_type": "Electrical Fault",
-    "total": 1662,
+    "total": 1613,
     "by_source": {
       "ACCC": 1,
       "CPSC": 95,
       "EU Safety Gate": 0,
-      "FDA": 68,
+      "FDA": 19,
       "Health Canada": 1373,
       "NZ Product Safety": 6,
       "OPSS": 119,
@@ -85,12 +85,12 @@
   },
   {
     "hazard_type": "Chemical / Toxic Substance",
-    "total": 1043,
+    "total": 939,
     "by_source": {
       "ACCC": 1,
       "CPSC": 171,
       "EU Safety Gate": 0,
-      "FDA": 189,
+      "FDA": 85,
       "Health Canada": 580,
       "NZ Product Safety": 16,
       "OPSS": 86,
@@ -99,12 +99,12 @@
   },
   {
     "hazard_type": "Small Parts / Choking Hazard",
-    "total": 921,
+    "total": 920,
     "by_source": {
       "ACCC": 11,
       "CPSC": 213,
       "EU Safety Gate": 0,
-      "FDA": 7,
+      "FDA": 6,
       "Health Canada": 505,
       "NZ Product Safety": 1,
       "OPSS": 184,
@@ -112,27 +112,13 @@
     }
   },
   {
-    "hazard_type": "Mechanical Failure",
-    "total": 553,
-    "by_source": {
-      "ACCC": 6,
-      "CPSC": 173,
-      "EU Safety Gate": 0,
-      "FDA": 208,
-      "Health Canada": 164,
-      "NZ Product Safety": 2,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
     "hazard_type": "Instability / Fall Risk",
-    "total": 510,
+    "total": 495,
     "by_source": {
       "ACCC": 0,
       "CPSC": 169,
       "EU Safety Gate": 0,
-      "FDA": 23,
+      "FDA": 8,
       "Health Canada": 318,
       "NZ Product Safety": 0,
       "OPSS": 0,
@@ -140,13 +126,27 @@
     }
   },
   {
+    "hazard_type": "Mechanical Failure",
+    "total": 414,
+    "by_source": {
+      "ACCC": 6,
+      "CPSC": 173,
+      "EU Safety Gate": 0,
+      "FDA": 69,
+      "Health Canada": 164,
+      "NZ Product Safety": 2,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
     "hazard_type": "Sharp Edges / Points",
-    "total": 432,
+    "total": 408,
     "by_source": {
       "ACCC": 2,
       "CPSC": 179,
       "EU Safety Gate": 0,
-      "FDA": 39,
+      "FDA": 15,
       "Health Canada": 204,
       "NZ Product Safety": 8,
       "OPSS": 0,
@@ -155,12 +155,12 @@
   },
   {
     "hazard_type": "Entrapment",
-    "total": 329,
+    "total": 322,
     "by_source": {
       "ACCC": 0,
       "CPSC": 202,
       "EU Safety Gate": 0,
-      "FDA": 8,
+      "FDA": 1,
       "Health Canada": 96,
       "NZ Product Safety": 4,
       "OPSS": 19,
@@ -169,12 +169,12 @@
   },
   {
     "hazard_type": "Drowning Risk",
-    "total": 301,
+    "total": 279,
     "by_source": {
       "ACCC": 1,
       "CPSC": 41,
       "EU Safety Gate": 0,
-      "FDA": 71,
+      "FDA": 49,
       "Health Canada": 119,
       "NZ Product Safety": 35,
       "OPSS": 34,
@@ -183,12 +183,12 @@
   },
   {
     "hazard_type": "Explosion",
-    "total": 223,
+    "total": 178,
     "by_source": {
       "ACCC": 0,
       "CPSC": 31,
       "EU Safety Gate": 0,
-      "FDA": 69,
+      "FDA": 24,
       "Health Canada": 115,
       "NZ Product Safety": 2,
       "OPSS": 6,
