@@ -1039,7 +1039,7 @@
   },
   {
     "region": "EU / EEA",
-    "total": 4991,
+    "total": 5000,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -1302,7 +1302,7 @@
       "Consumer Products": 0,
       "Consumer Products - Drugs": 0,
       "Consumer Products - Natural Health Products": 0,
-      "Cosmetics & Personal Care": 1402,
+      "Cosmetics & Personal Care": 1404,
       "Dairy": 0,
       "Dairy - Other": 0,
       "Decorations, Candles And Novelties": 0,
@@ -1330,7 +1330,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 0,
       "Electric Or Gas Productsbuilding Products": 0,
-      "Electrical & Electronics": 904,
+      "Electrical & Electronics": 907,
       "Food & Food Contact": 0,
       "Fresh": 0,
       "Frozen": 0,
@@ -1439,7 +1439,7 @@
       "Minivan - Suv - Car": 0,
       "Motor Tricycle": 0,
       "Motor Tricycle - Motorcycle": 0,
-      "Motor Vehicles": 527,
+      "Motor Vehicles": 528,
       "Motorcycle": 0,
       "Motorcycle - Motor Tricycle": 0,
       "Natural Health Products": 0,
@@ -1528,8 +1528,8 @@
       "Suv - Minivan - Light Truck & Van": 0,
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
-      "Tools & Machinery": 274,
-      "Toys & Childcare": 1032,
+      "Tools & Machinery": 275,
+      "Toys & Childcare": 1034,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
       "Truck - Med. & H.D. - Bus": 0,
@@ -1552,7 +1552,7 @@
       "Fatal": 0,
       "Minor": 0,
       "Moderate": 0,
-      "Not Reported": 4991,
+      "Not Reported": 5000,
       "Serious": 0
     }
   },
@@ -2596,7 +2596,7 @@
   },
   {
     "region": "USA",
-    "total": 4773,
+    "total": 6173,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -2982,7 +2982,7 @@
       "Low Speed Motorcycle": 0,
       "Measuring Instruments": 0,
       "Meat And Poultry": 0,
-      "Medical Devices": 600,
+      "Medical Devices": 2000,
       "Microbiology": 0,
       "Microbiology - Ophthalmology": 0,
       "Minivan": 0,
@@ -3106,11 +3106,11 @@
       "Veterinary Drugs": 0
     },
     "by_severity": {
-      "Fatal": 599,
+      "Fatal": 610,
       "Minor": 884,
       "Moderate": 628,
       "Not Reported": 1,
-      "Serious": 2661
+      "Serious": 4050
     }
   },
   {
@@ -3626,9 +3626,9 @@
     },
     "by_severity": {
       "Fatal": 5,
-      "Minor": 783,
+      "Minor": 782,
       "Moderate": 0,
-      "Not Reported": 210,
+      "Not Reported": 211,
       "Serious": 2
     }
   }

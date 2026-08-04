@@ -1,12 +1,12 @@
 [
   {
     "product_category": "Medical Devices",
-    "total": 7413,
+    "total": 8813,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
-      "FDA": 600,
+      "FDA": 2000,
       "Health Canada": 6801,
       "NZ Product Safety": 12,
       "OPSS": 0,
@@ -57,11 +57,11 @@
   },
   {
     "product_category": "Toys & Childcare",
-    "total": 2238,
+    "total": 2240,
     "by_source": {
       "ACCC": 4,
       "CPSC": 0,
-      "EU Safety Gate": 1032,
+      "EU Safety Gate": 1034,
       "FDA": 0,
       "Health Canada": 744,
       "NZ Product Safety": 458,
@@ -71,11 +71,11 @@
   },
   {
     "product_category": "Cosmetics & Personal Care",
-    "total": 1648,
+    "total": 1650,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
-      "EU Safety Gate": 1402,
+      "EU Safety Gate": 1404,
       "FDA": 0,
       "Health Canada": 198,
       "NZ Product Safety": 48,
@@ -85,11 +85,11 @@
   },
   {
     "product_category": "Electrical & Electronics",
-    "total": 1581,
+    "total": 1584,
     "by_source": {
       "ACCC": 8,
       "CPSC": 0,
-      "EU Safety Gate": 904,
+      "EU Safety Gate": 907,
       "FDA": 0,
       "Health Canada": 427,
       "NZ Product Safety": 242,
@@ -169,11 +169,11 @@
   },
   {
     "product_category": "Motor Vehicles",
-    "total": 1006,
+    "total": 1007,
     "by_source": {
       "ACCC": 1,
       "CPSC": 0,
-      "EU Safety Gate": 527,
+      "EU Safety Gate": 528,
       "FDA": 0,
       "Health Canada": 238,
       "NZ Product Safety": 240,
@@ -225,11 +225,11 @@
   },
   {
     "product_category": "Tools & Machinery",
-    "total": 851,
+    "total": 852,
     "by_source": {
       "ACCC": 2,
       "CPSC": 0,
-      "EU Safety Gate": 274,
+      "EU Safety Gate": 275,
       "FDA": 0,
       "Health Canada": 498,
       "NZ Product Safety": 77,
