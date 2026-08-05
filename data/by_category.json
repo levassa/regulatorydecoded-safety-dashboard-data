@@ -57,14 +57,14 @@
   },
   {
     "product_category": "Toys & Childcare",
-    "total": 2240,
+    "total": 2241,
     "by_source": {
       "ACCC": 4,
       "CPSC": 0,
       "EU Safety Gate": 1034,
       "FDA": 0,
       "Health Canada": 744,
-      "NZ Product Safety": 458,
+      "NZ Product Safety": 459,
       "OPSS": 0,
       "RappelConso": 0
     }
@@ -85,9 +85,9 @@
   },
   {
     "product_category": "Electrical & Electronics",
-    "total": 1584,
+    "total": 1585,
     "by_source": {
-      "ACCC": 8,
+      "ACCC": 9,
       "CPSC": 0,
       "EU Safety Gate": 907,
       "FDA": 0,
@@ -225,9 +225,9 @@
   },
   {
     "product_category": "Tools & Machinery",
-    "total": 852,
+    "total": 851,
     "by_source": {
-      "ACCC": 2,
+      "ACCC": 1,
       "CPSC": 0,
       "EU Safety Gate": 275,
       "FDA": 0,
@@ -253,13 +253,13 @@
   },
   {
     "product_category": "Chemicals",
-    "total": 598,
+    "total": 599,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 218,
       "FDA": 0,
-      "Health Canada": 370,
+      "Health Canada": 371,
       "NZ Product Safety": 10,
       "OPSS": 0,
       "RappelConso": 0
@@ -295,13 +295,13 @@
   },
   {
     "product_category": "Motorcycle",
-    "total": 519,
+    "total": 520,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 519,
+      "Health Canada": 520,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -407,13 +407,13 @@
   },
   {
     "product_category": "General And Plastic Surgery",
-    "total": 188,
+    "total": 189,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 188,
+      "Health Canada": 189,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -631,13 +631,13 @@
   },
   {
     "product_category": "Dairy",
-    "total": 83,
+    "total": 84,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 83,
+      "Health Canada": 84,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0

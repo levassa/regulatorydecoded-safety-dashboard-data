@@ -1,15 +1,15 @@
 [
   {
     "injury_type": "Not Specified",
-    "total": 45352,
+    "total": 45353,
     "by_source": {
       "ACCC": 3,
       "CPSC": 335,
       "EU Safety Gate": 5000,
       "FDA": 3273,
-      "Health Canada": 31612,
-      "NZ Product Safety": 1518,
-      "OPSS": 611,
+      "Health Canada": 31616,
+      "NZ Product Safety": 1519,
+      "OPSS": 607,
       "RappelConso": 3000
     }
   },
@@ -57,9 +57,9 @@
   },
   {
     "injury_type": "Fall Injury",
-    "total": 518,
+    "total": 517,
     "by_source": {
-      "ACCC": 3,
+      "ACCC": 2,
       "CPSC": 163,
       "EU Safety Gate": 0,
       "FDA": 30,
@@ -126,6 +126,20 @@
     }
   },
   {
+    "injury_type": "Electric Shock",
+    "total": 270,
+    "by_source": {
+      "ACCC": 1,
+      "CPSC": 62,
+      "EU Safety Gate": 0,
+      "FDA": 14,
+      "Health Canada": 66,
+      "NZ Product Safety": 4,
+      "OPSS": 123,
+      "RappelConso": 0
+    }
+  },
+  {
     "injury_type": "Entrapment",
     "total": 269,
     "by_source": {
@@ -136,20 +150,6 @@
       "Health Canada": 71,
       "NZ Product Safety": 0,
       "OPSS": 20,
-      "RappelConso": 0
-    }
-  },
-  {
-    "injury_type": "Electric Shock",
-    "total": 266,
-    "by_source": {
-      "ACCC": 1,
-      "CPSC": 62,
-      "EU Safety Gate": 0,
-      "FDA": 14,
-      "Health Canada": 66,
-      "NZ Product Safety": 4,
-      "OPSS": 119,
       "RappelConso": 0
     }
   },
@@ -169,9 +169,9 @@
   },
   {
     "injury_type": "Respiratory",
-    "total": 148,
+    "total": 149,
     "by_source": {
-      "ACCC": 7,
+      "ACCC": 8,
       "CPSC": 38,
       "EU Safety Gate": 0,
       "FDA": 35,
