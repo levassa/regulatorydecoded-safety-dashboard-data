@@ -43,9 +43,9 @@
   },
   {
     "hazard_type": "Flammability / Overheating",
-    "total": 1735,
+    "total": 1736,
     "by_source": {
-      "ACCC": 3,
+      "ACCC": 4,
       "CPSC": 510,
       "EU Safety Gate": 0,
       "FDA": 38,
@@ -99,9 +99,9 @@
   },
   {
     "hazard_type": "Small Parts / Choking Hazard",
-    "total": 924,
+    "total": 923,
     "by_source": {
-      "ACCC": 12,
+      "ACCC": 11,
       "CPSC": 213,
       "EU Safety Gate": 0,
       "FDA": 7,

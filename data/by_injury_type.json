@@ -29,9 +29,9 @@
   },
   {
     "injury_type": "Burns",
-    "total": 674,
+    "total": 675,
     "by_source": {
-      "ACCC": 1,
+      "ACCC": 2,
       "CPSC": 381,
       "EU Safety Gate": 0,
       "FDA": 21,
@@ -169,9 +169,9 @@
   },
   {
     "injury_type": "Respiratory",
-    "total": 149,
+    "total": 148,
     "by_source": {
-      "ACCC": 8,
+      "ACCC": 7,
       "CPSC": 38,
       "EU Safety Gate": 0,
       "FDA": 35,

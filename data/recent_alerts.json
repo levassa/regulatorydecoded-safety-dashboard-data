@@ -1,24 +1,5 @@
 [
   {
-    "id": "8dcf0cd3dd9b26acda9bf9bdb8762eac142ae480",
-    "source": "ACCC",
-    "date": "Wed, 22 Ju",
-    "region": "Australia",
-    "notifying_country": "Australia",
-    "country_of_origin": "",
-    "product_category": "Electrical & Electronics",
-    "product_desc": "Krabooz Temperature Gauge & Hydrometer",
-    "risk_type": "Burns",
-    "hazard_type": "Small Parts / Choking Hazard",
-    "injury_type": "Respiratory",
-    "injury_description": "<div class=\"field field--name-field-psa-recall-published-date field--type-datetime field--label-hidden field__item\"><time datetime=\"2026-07-22T12:00:00Z\" class=\"datetime\">22 Jul 2026</time>\n</div>\n                    <a href=\"https://www.productsafety.gov.au/system/files/Temperature%20gauge%20on%20enclosure.jpg\"><img loading=\"lazy\" src=\"https://www.productsafety.gov.au/system/files/styles/large/private/Temperature%20gauge%20on%20enclosure.jpg?itok=k1MXJuh8\" width=\"480\" height=\"480\" alt=\"Krabooz ",
-    "severity": "Fatal",
-    "injury_flag": false,
-    "injury_count": 0,
-    "corrective_action": "",
-    "reference": "krabooz-temperature-gauge-hydrometer"
-  },
-  {
     "id": "e30cdec56593efbb07b98a7b0eef6abebe47b59a",
     "source": "ACCC",
     "date": "Wed, 22 Ju",
@@ -38,23 +19,23 @@
     "reference": "insectimo-hygrometer"
   },
   {
-    "id": "97a579fd1921593b9a251a9a63b964f95cf52936",
+    "id": "8dcf0cd3dd9b26acda9bf9bdb8762eac142ae480",
     "source": "ACCC",
-    "date": "Wed, 15 Ju",
+    "date": "Wed, 22 Ju",
     "region": "Australia",
     "notifying_country": "Australia",
     "country_of_origin": "",
-    "product_category": "Tools & Machinery",
-    "product_desc": "Galmet ColdGal Brushable Paint",
-    "risk_type": "Chemical",
-    "hazard_type": "Sharp Edges / Points",
-    "injury_type": "Skin Irritation",
-    "injury_description": "<div class=\"field field--name-field-psa-recall-published-date field--type-datetime field--label-hidden field__item\"><time datetime=\"2026-07-15T12:00:00Z\" class=\"datetime\">15 Jul 2026</time>\n</div>\n                    <a href=\"https://www.productsafety.gov.au/system/files/Galmet%20ColdGal%20brushable%20paint.jpg\"><img loading=\"lazy\" src=\"https://www.productsafety.gov.au/system/files/styles/large/private/Galmet%20ColdGal%20brushable%20paint.jpg?itok=d083R7xd\" width=\"480\" height=\"480\" alt=\"photogra",
-    "severity": "Serious",
+    "product_category": "Electrical & Electronics",
+    "product_desc": "Krabooz Temperature Gauge & Hydrometer",
+    "risk_type": "Burns",
+    "hazard_type": "Small Parts / Choking Hazard",
+    "injury_type": "Respiratory",
+    "injury_description": "<div class=\"field field--name-field-psa-recall-published-date field--type-datetime field--label-hidden field__item\"><time datetime=\"2026-07-22T12:00:00Z\" class=\"datetime\">22 Jul 2026</time>\n</div>\n                    <a href=\"https://www.productsafety.gov.au/system/files/Temperature%20gauge%20on%20enclosure.jpg\"><img loading=\"lazy\" src=\"https://www.productsafety.gov.au/system/files/styles/large/private/Temperature%20gauge%20on%20enclosure.jpg?itok=k1MXJuh8\" width=\"480\" height=\"480\" alt=\"Krabooz ",
+    "severity": "Fatal",
     "injury_flag": false,
     "injury_count": 0,
     "corrective_action": "",
-    "reference": "galmet-coldgal-brushable-paint"
+    "reference": "krabooz-temperature-gauge-hydrometer"
   },
   {
     "id": "93a107798130b6478ecdcbed753593904f5f6596",
@@ -95,6 +76,25 @@
     "reference": "essex-maxim-and-sierra-electric-recliners-and-sofas-with-heat-pads-sold-at-harvey-norman"
   },
   {
+    "id": "97a579fd1921593b9a251a9a63b964f95cf52936",
+    "source": "ACCC",
+    "date": "Wed, 15 Ju",
+    "region": "Australia",
+    "notifying_country": "Australia",
+    "country_of_origin": "",
+    "product_category": "Tools & Machinery",
+    "product_desc": "Galmet ColdGal Brushable Paint",
+    "risk_type": "Chemical",
+    "hazard_type": "Sharp Edges / Points",
+    "injury_type": "Skin Irritation",
+    "injury_description": "<div class=\"field field--name-field-psa-recall-published-date field--type-datetime field--label-hidden field__item\"><time datetime=\"2026-07-15T12:00:00Z\" class=\"datetime\">15 Jul 2026</time>\n</div>\n                    <a href=\"https://www.productsafety.gov.au/system/files/Galmet%20ColdGal%20brushable%20paint.jpg\"><img loading=\"lazy\" src=\"https://www.productsafety.gov.au/system/files/styles/large/private/Galmet%20ColdGal%20brushable%20paint.jpg?itok=d083R7xd\" width=\"480\" height=\"480\" alt=\"photogra",
+    "severity": "Serious",
+    "injury_flag": false,
+    "injury_count": 0,
+    "corrective_action": "",
+    "reference": "galmet-coldgal-brushable-paint"
+  },
+  {
     "id": "45590b575543fcfa6a27e5cb9ae5eb902d706be3",
     "source": "ACCC",
     "date": "Wed, 05 Au",
@@ -112,25 +112,6 @@
     "injury_count": 0,
     "corrective_action": "",
     "reference": "secret-diary-pen-with-uv-light"
-  },
-  {
-    "id": "35b89c45c269294ca09c80898255da58de5b90cd",
-    "source": "ACCC",
-    "date": "Tue, 28 Ju",
-    "region": "Australia",
-    "notifying_country": "Australia",
-    "country_of_origin": "",
-    "product_category": "Electrical & Electronics",
-    "product_desc": "Crazer LED light show toy - 5 Images",
-    "risk_type": "Injury",
-    "hazard_type": "Small Parts / Choking Hazard",
-    "injury_type": "Respiratory",
-    "injury_description": "<div class=\"field field--name-field-psa-recall-published-date field--type-datetime field--label-hidden field__item\"><time datetime=\"2026-07-28T12:00:00Z\" class=\"datetime\">28 Jul 2026</time>\n</div>\n                    <a href=\"https://www.productsafety.gov.au/system/files/5-in-1%20Space%20Laser.jpg\"><img loading=\"lazy\" src=\"https://www.productsafety.gov.au/system/files/styles/large/private/5-in-1%20Space%20Laser.jpg?itok=q9-zelux\" width=\"480\" height=\"480\" alt=\"5 in 1 space laser cat toy\" class=\"i",
-    "severity": "Fatal",
-    "injury_flag": false,
-    "injury_count": 0,
-    "corrective_action": "",
-    "reference": "crazer-led-light-show-toy-5-images"
   },
   {
     "id": "6a3853fe8b77e830eb1c51c479f478246f060b7b",
@@ -169,6 +150,25 @@
     "injury_count": 0,
     "corrective_action": "",
     "reference": "arb-bull-bar-mounting-brackets-for-my26-n90-hilux"
+  },
+  {
+    "id": "35b89c45c269294ca09c80898255da58de5b90cd",
+    "source": "ACCC",
+    "date": "Tue, 28 Ju",
+    "region": "Australia",
+    "notifying_country": "Australia",
+    "country_of_origin": "",
+    "product_category": "Electrical & Electronics",
+    "product_desc": "Crazer LED light show toy - 5 Images",
+    "risk_type": "Injury",
+    "hazard_type": "Small Parts / Choking Hazard",
+    "injury_type": "Respiratory",
+    "injury_description": "<div class=\"field field--name-field-psa-recall-published-date field--type-datetime field--label-hidden field__item\"><time datetime=\"2026-07-28T12:00:00Z\" class=\"datetime\">28 Jul 2026</time>\n</div>\n                    <a href=\"https://www.productsafety.gov.au/system/files/5-in-1%20Space%20Laser.jpg\"><img loading=\"lazy\" src=\"https://www.productsafety.gov.au/system/files/styles/large/private/5-in-1%20Space%20Laser.jpg?itok=q9-zelux\" width=\"480\" height=\"480\" alt=\"5 in 1 space laser cat toy\" class=\"i",
+    "severity": "Fatal",
+    "injury_flag": false,
+    "injury_count": 0,
+    "corrective_action": "",
+    "reference": "crazer-led-light-show-toy-5-images"
   },
   {
     "id": "141a6fbe0e91ddb573f9a939f01662a2464b803a",
@@ -266,6 +266,25 @@
     "reference": "think-feel-do-sensory-bear"
   },
   {
+    "id": "e4d27c06e7bfb3343967cdc7bb02407501d1f34f",
+    "source": "ACCC",
+    "date": "Thu, 06 Au",
+    "region": "Australia",
+    "notifying_country": "Australia",
+    "country_of_origin": "",
+    "product_category": "Toys & Childcare",
+    "product_desc": "Findon Light Up Sensory Plush",
+    "risk_type": "Fire",
+    "hazard_type": "Flammability / Overheating",
+    "injury_type": "Burns",
+    "injury_description": "<div class=\"field field--name-field-psa-recall-published-date field--type-datetime field--label-hidden field__item\"><time datetime=\"2026-08-06T12:00:00Z\" class=\"datetime\">6 Aug 2026</time>\n</div>\n                    <a href=\"https://www.productsafety.gov.au/system/files/Sensory%20Toys.jpg\"><img loading=\"lazy\" src=\"https://www.productsafety.gov.au/system/files/styles/large/private/Sensory%20Toys.jpg?itok=FInKgMZs\" width=\"480\" height=\"384\" alt=\"Plush koala, penguin, axolotl and cow plush toys and ",
+    "severity": "Minor",
+    "injury_flag": false,
+    "injury_count": 0,
+    "corrective_action": "",
+    "reference": "findon-light-up-sensory-plush"
+  },
+  {
     "id": "70662e49df95bbf0cf1b15be6cd9bec7d1c9eed8",
     "source": "ACCC",
     "date": "Mon, 13 Ju",
@@ -304,25 +323,6 @@
     "reference": "apeks-xl4-xl4-and-ocea-scuba-diving-second-stage-regulator"
   },
   {
-    "id": "5fe0c52c8730c31c0b943cad5612016bc5fe03a8",
-    "source": "ACCC",
-    "date": "Mon, 06 Ju",
-    "region": "Australia",
-    "notifying_country": "Australia",
-    "country_of_origin": "",
-    "product_category": "Electrical & Electronics",
-    "product_desc": "8.5\" LCD writing tablet",
-    "risk_type": "Burns",
-    "hazard_type": "Small Parts / Choking Hazard",
-    "injury_type": "Respiratory",
-    "injury_description": "<div class=\"field field--name-field-psa-recall-published-date field--type-datetime field--label-hidden field__item\"><time datetime=\"2026-07-06T12:00:00Z\" class=\"datetime\">6 Jul 2026</time>\n</div>\n                    <a href=\"https://www.productsafety.gov.au/system/files/Tablet%20front.jpg\"><img loading=\"lazy\" src=\"https://www.productsafety.gov.au/system/files/styles/large/private/Tablet%20front.jpg?itok=BtqPQMoZ\" width=\"322\" height=\"480\" alt=\"Front of tablet packaging\" class=\"img-fluid image-sty",
-    "severity": "Fatal",
-    "injury_flag": false,
-    "injury_count": 0,
-    "corrective_action": "",
-    "reference": "85-lcd-writing-tablet"
-  },
-  {
     "id": "3eb3161da6a0892193690b9cf5b7fdb6183f427a",
     "source": "ACCC",
     "date": "Mon, 03 Au",
@@ -342,25 +342,6 @@
     "reference": "jollybaby-baby-sensory-pull-string-toy-whale"
   },
   {
-    "id": "2a740a294cbaf5f634a06b564d970346276ae3a2",
-    "source": "ACCC",
-    "date": "Fri, 31 Ju",
-    "region": "Australia",
-    "notifying_country": "Australia",
-    "country_of_origin": "",
-    "product_category": "Kitchenware And Containers",
-    "product_desc": "Pokémon Pikachu Co-BOLT teapot",
-    "risk_type": "Burns",
-    "hazard_type": "Sharp Edges / Points",
-    "injury_type": "Laceration / Cut",
-    "injury_description": "<div class=\"field field--name-field-psa-recall-published-date field--type-datetime field--label-hidden field__item\"><time datetime=\"2026-07-31T12:00:00Z\" class=\"datetime\">31 Jul 2026</time>\n</div>\n                    <a href=\"https://www.productsafety.gov.au/system/files/Pikachu%20Teapot%2C%20lid%20off.jpg\"><img loading=\"lazy\" src=\"https://www.productsafety.gov.au/system/files/styles/large/private/Pikachu%20Teapot%2C%20lid%20off.jpg?itok=EsDgHTvW\" width=\"480\" height=\"480\" alt=\"Blue teapot with P",
-    "severity": "Minor",
-    "injury_flag": false,
-    "injury_count": 0,
-    "corrective_action": "",
-    "reference": "pok%C3%A9mon-pikachu-co-bolt-teapot"
-  },
-  {
     "id": "285d2031c179889c4d9326097fd9bab7db7e2847",
     "source": "ACCC",
     "date": "Fri, 31 Ju",
@@ -378,6 +359,25 @@
     "injury_count": 0,
     "corrective_action": "",
     "reference": "glow-crown-headbands-with-led-battery-pack"
+  },
+  {
+    "id": "2a740a294cbaf5f634a06b564d970346276ae3a2",
+    "source": "ACCC",
+    "date": "Fri, 31 Ju",
+    "region": "Australia",
+    "notifying_country": "Australia",
+    "country_of_origin": "",
+    "product_category": "Kitchenware And Containers",
+    "product_desc": "Pokémon Pikachu Co-BOLT teapot",
+    "risk_type": "Burns",
+    "hazard_type": "Sharp Edges / Points",
+    "injury_type": "Laceration / Cut",
+    "injury_description": "<div class=\"field field--name-field-psa-recall-published-date field--type-datetime field--label-hidden field__item\"><time datetime=\"2026-07-31T12:00:00Z\" class=\"datetime\">31 Jul 2026</time>\n</div>\n                    <a href=\"https://www.productsafety.gov.au/system/files/Pikachu%20Teapot%2C%20lid%20off.jpg\"><img loading=\"lazy\" src=\"https://www.productsafety.gov.au/system/files/styles/large/private/Pikachu%20Teapot%2C%20lid%20off.jpg?itok=EsDgHTvW\" width=\"480\" height=\"480\" alt=\"Blue teapot with P",
+    "severity": "Minor",
+    "injury_flag": false,
+    "injury_count": 0,
+    "corrective_action": "",
+    "reference": "pok%C3%A9mon-pikachu-co-bolt-teapot"
   },
   {
     "id": "052ad9d91fe7ba2cbad24a940c7b2740a76b44c6",
@@ -437,25 +437,6 @@
     "reference": "amara-heel"
   },
   {
-    "id": "57e913d6b91c5fa4195d36b8bac046afa391f947",
-    "source": "ACCC",
-    "date": "Fri, 10 Ju",
-    "region": "Australia",
-    "notifying_country": "Australia",
-    "country_of_origin": "",
-    "product_category": "Electrical & Electronics",
-    "product_desc": "Fotopro Bluetooth smartphone shutter remote",
-    "risk_type": "Burns",
-    "hazard_type": "Small Parts / Choking Hazard",
-    "injury_type": "Respiratory",
-    "injury_description": "<div class=\"field field--name-field-psa-recall-published-date field--type-datetime field--label-hidden field__item\"><time datetime=\"2026-07-10T12:00:00Z\" class=\"datetime\">10 Jul 2026</time>\n</div>\n                    <a href=\"https://www.productsafety.gov.au/system/files/Fotopro%20Bluetooth%20remote.jpg\"><img loading=\"lazy\" src=\"https://www.productsafety.gov.au/system/files/styles/large/private/Fotopro%20Bluetooth%20remote.jpg?itok=ott8pAbe\" width=\"480\" height=\"443\" alt=\"Fotopro bluetooth remote",
-    "severity": "Fatal",
-    "injury_flag": false,
-    "injury_count": 0,
-    "corrective_action": "",
-    "reference": "fotopro-bluetooth-smartphone-shutter-remote"
-  },
-  {
     "id": "ae9a2259821b32a5e95b9a1155ea3740bd37af6e",
     "source": "ACCC",
     "date": "Fri, 10 Ju",
@@ -473,6 +454,25 @@
     "injury_count": 0,
     "corrective_action": "",
     "reference": "nuby-foldable-bathtub-for-babies-and-infants"
+  },
+  {
+    "id": "57e913d6b91c5fa4195d36b8bac046afa391f947",
+    "source": "ACCC",
+    "date": "Fri, 10 Ju",
+    "region": "Australia",
+    "notifying_country": "Australia",
+    "country_of_origin": "",
+    "product_category": "Electrical & Electronics",
+    "product_desc": "Fotopro Bluetooth smartphone shutter remote",
+    "risk_type": "Burns",
+    "hazard_type": "Small Parts / Choking Hazard",
+    "injury_type": "Respiratory",
+    "injury_description": "<div class=\"field field--name-field-psa-recall-published-date field--type-datetime field--label-hidden field__item\"><time datetime=\"2026-07-10T12:00:00Z\" class=\"datetime\">10 Jul 2026</time>\n</div>\n                    <a href=\"https://www.productsafety.gov.au/system/files/Fotopro%20Bluetooth%20remote.jpg\"><img loading=\"lazy\" src=\"https://www.productsafety.gov.au/system/files/styles/large/private/Fotopro%20Bluetooth%20remote.jpg?itok=ott8pAbe\" width=\"480\" height=\"443\" alt=\"Fotopro bluetooth remote",
+    "severity": "Fatal",
+    "injury_flag": false,
+    "injury_count": 0,
+    "corrective_action": "",
+    "reference": "fotopro-bluetooth-smartphone-shutter-remote"
   },
   {
     "id": "608012aba5a065eb28da8e69e9c78d9fe27c3005",
@@ -722,14 +722,14 @@
     "reference": "polaris-ranger-ev-2015-2019"
   },
   {
-    "id": "6d2122b5a6b37d2f6ac5d5e5ee927115ea113dc0",
+    "id": "290bee6110060deaee7f20afbb9a035185e2ffd6",
     "source": "NZ Product Safety",
     "date": "9 May 2019",
     "region": "New Zealand",
     "notifying_country": "New Zealand",
     "country_of_origin": "",
     "product_category": "Motor Vehicles",
-    "product_desc": "9 May 2019Polaris Ranger 150 2018",
+    "product_desc": "9 May 2019Polaris Ranger 500 2018",
     "risk_type": "Other",
     "hazard_type": "Other",
     "injury_type": "Not Specified",
@@ -738,7 +738,7 @@
     "injury_flag": false,
     "injury_count": 0,
     "corrective_action": "",
-    "reference": "polaris-ranger-150-2018"
+    "reference": "polaris-ranger-500-2018"
   },
   {
     "id": "620fd43f65d9b288610098bc607f425c3c07f5de",
@@ -760,14 +760,14 @@
     "reference": "polaris-ranger-ev-li-ion-2018"
   },
   {
-    "id": "290bee6110060deaee7f20afbb9a035185e2ffd6",
+    "id": "6d2122b5a6b37d2f6ac5d5e5ee927115ea113dc0",
     "source": "NZ Product Safety",
     "date": "9 May 2019",
     "region": "New Zealand",
     "notifying_country": "New Zealand",
     "country_of_origin": "",
     "product_category": "Motor Vehicles",
-    "product_desc": "9 May 2019Polaris Ranger 500 2018",
+    "product_desc": "9 May 2019Polaris Ranger 150 2018",
     "risk_type": "Other",
     "hazard_type": "Other",
     "injury_type": "Not Specified",
@@ -776,7 +776,7 @@
     "injury_flag": false,
     "injury_count": 0,
     "corrective_action": "",
-    "reference": "polaris-ranger-500-2018"
+    "reference": "polaris-ranger-150-2018"
   },
   {
     "id": "f47446244acb1a439f65ce89e0c09525d7fec450",

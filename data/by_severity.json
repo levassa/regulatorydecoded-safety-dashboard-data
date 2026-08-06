@@ -1,10 +1,10 @@
 [
   {
     "severity": "Fatal",
-    "total": 635,
+    "total": 634,
     "total_injuries": 0,
     "by_region": {
-      "Australia": 19,
+      "Australia": 18,
       "Canada": 0,
       "EU / EEA": 0,
       "France": 0,
@@ -302,7 +302,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 0,
       "Electric Or Gas Productsbuilding Products": 0,
-      "Electrical & Electronics": 9,
+      "Electrical & Electronics": 8,
       "Food & Food Contact": 6,
       "Fresh": 0,
       "Frozen": 0,
@@ -534,7 +534,7 @@
       "Other": 118,
       "Radiation": 0,
       "Sharp Edges / Points": 21,
-      "Small Parts / Choking Hazard": 99
+      "Small Parts / Choking Hazard": 98
     }
   },
   {
@@ -1615,10 +1615,10 @@
   },
   {
     "severity": "Minor",
-    "total": 6001,
+    "total": 6002,
     "total_injuries": 0,
     "by_region": {
-      "Australia": 3,
+      "Australia": 4,
       "Canada": 4325,
       "EU / EEA": 0,
       "France": 0,
@@ -2115,7 +2115,7 @@
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
       "Tools & Machinery": 0,
-      "Toys & Childcare": 3,
+      "Toys & Childcare": 4,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
       "Truck - Med. & H.D. - Bus": 0,
@@ -2141,7 +2141,7 @@
       "Electrical Fault": 158,
       "Entrapment": 25,
       "Explosion": 48,
-      "Flammability / Overheating": 628,
+      "Flammability / Overheating": 629,
       "Instability / Fall Risk": 76,
       "Mechanical Failure": 89,
       "Microbiological Contamination": 147,

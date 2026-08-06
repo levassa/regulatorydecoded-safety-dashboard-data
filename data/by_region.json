@@ -292,7 +292,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 0,
       "Electric Or Gas Productsbuilding Products": 0,
-      "Electrical & Electronics": 9,
+      "Electrical & Electronics": 8,
       "Food & Food Contact": 0,
       "Fresh": 0,
       "Frozen": 0,
@@ -491,7 +491,7 @@
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
       "Tools & Machinery": 1,
-      "Toys & Childcare": 4,
+      "Toys & Childcare": 5,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
       "Truck - Med. & H.D. - Bus": 0,
@@ -511,8 +511,8 @@
       "Veterinary Drugs": 0
     },
     "by_severity": {
-      "Fatal": 19,
-      "Minor": 3,
+      "Fatal": 18,
+      "Minor": 4,
       "Moderate": 0,
       "Not Reported": 0,
       "Serious": 3
