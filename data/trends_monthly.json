@@ -2578,7 +2578,7 @@
   {
     "month": "2025-05",
     "CPSC": 37,
-    "EU Safety Gate": 284,
+    "EU Safety Gate": 224,
     "FDA": 0,
     "Health Canada": 176,
     "OPSS": 10
@@ -2697,8 +2697,8 @@
   },
   {
     "month": "2026-08",
-    "CPSC": 0,
-    "EU Safety Gate": 0,
+    "CPSC": 17,
+    "EU Safety Gate": 60,
     "FDA": 0,
     "Health Canada": 26,
     "OPSS": 13

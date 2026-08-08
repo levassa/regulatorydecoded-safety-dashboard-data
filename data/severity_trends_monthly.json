@@ -2580,7 +2580,7 @@
     "Fatal": 17,
     "Minor": 31,
     "Moderate": 50,
-    "Not Reported": 393,
+    "Not Reported": 333,
     "Serious": 16
   },
   {
@@ -2697,10 +2697,10 @@
   },
   {
     "month": "2026-08",
-    "Fatal": 0,
-    "Minor": 10,
+    "Fatal": 16,
+    "Minor": 11,
     "Moderate": 8,
-    "Not Reported": 16,
+    "Not Reported": 76,
     "Serious": 5
   }
 ]

@@ -1,10 +1,10 @@
 [
   {
     "hazard_type": "Other",
-    "total": 35296,
+    "total": 35299,
     "by_source": {
       "ACCC": 0,
-      "CPSC": 376,
+      "CPSC": 379,
       "EU Safety Gate": 5000,
       "FDA": 1894,
       "Health Canada": 23327,
@@ -85,10 +85,10 @@
   },
   {
     "hazard_type": "Chemical / Toxic Substance",
-    "total": 1044,
+    "total": 1048,
     "by_source": {
       "ACCC": 1,
-      "CPSC": 171,
+      "CPSC": 175,
       "EU Safety Gate": 0,
       "FDA": 190,
       "Health Canada": 580,
@@ -99,10 +99,10 @@
   },
   {
     "hazard_type": "Small Parts / Choking Hazard",
-    "total": 922,
+    "total": 923,
     "by_source": {
       "ACCC": 10,
-      "CPSC": 213,
+      "CPSC": 214,
       "EU Safety Gate": 0,
       "FDA": 7,
       "Health Canada": 505,
@@ -127,10 +127,10 @@
   },
   {
     "hazard_type": "Instability / Fall Risk",
-    "total": 510,
+    "total": 512,
     "by_source": {
       "ACCC": 0,
-      "CPSC": 169,
+      "CPSC": 171,
       "EU Safety Gate": 0,
       "FDA": 23,
       "Health Canada": 318,
@@ -141,10 +141,10 @@
   },
   {
     "hazard_type": "Sharp Edges / Points",
-    "total": 433,
+    "total": 434,
     "by_source": {
       "ACCC": 2,
-      "CPSC": 179,
+      "CPSC": 180,
       "EU Safety Gate": 0,
       "FDA": 39,
       "Health Canada": 205,
@@ -155,10 +155,10 @@
   },
   {
     "hazard_type": "Entrapment",
-    "total": 330,
+    "total": 335,
     "by_source": {
       "ACCC": 0,
-      "CPSC": 202,
+      "CPSC": 207,
       "EU Safety Gate": 0,
       "FDA": 8,
       "Health Canada": 96,
@@ -169,10 +169,10 @@
   },
   {
     "hazard_type": "Drowning Risk",
-    "total": 302,
+    "total": 303,
     "by_source": {
       "ACCC": 1,
-      "CPSC": 41,
+      "CPSC": 42,
       "EU Safety Gate": 0,
       "FDA": 71,
       "Health Canada": 120,
