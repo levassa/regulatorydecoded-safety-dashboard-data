@@ -519,7 +519,7 @@
   },
   {
     "region": "Canada",
-    "total": 33903,
+    "total": 33909,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -725,7 +725,7 @@
       "Bus - School Bus - Truck - Med. & H.D.": 5,
       "Bus - Truck - Med. & H.D.": 14,
       "Bus - Truck - Med. & H.D. - School Bus": 1,
-      "Candy, Confectionary, Snacks And Sweeteners": 172,
+      "Candy, Confectionary, Snacks And Sweeteners": 173,
       "Candy, Confectionary, Snacks And Sweeteners - Nuts, Grains, And Seeds": 5,
       "Cannabis": 97,
       "Canned": 5,
@@ -815,9 +815,9 @@
       "Frozen": 74,
       "Frozen - Herbs And Spices": 1,
       "Fruits And Vegetables": 27,
-      "Furniture & Home": 939,
+      "Furniture & Home": 940,
       "Gadgets": 0,
-      "Gastroenterology And Urology": 106,
+      "Gastroenterology And Urology": 107,
       "Gastroenterology And Urology - Anaesthesiology - Ear, Nose And Throat": 1,
       "Gastroenterology And Urology - Cardiovascular": 1,
       "Gastroenterology And Urology - Chemistry": 1,
@@ -883,7 +883,7 @@
       "Lawn And Garden Supplies": 1,
       "Light Trailer": 60,
       "Light Trailer - Rv Trailer": 6,
-      "Light Truck & Van": 598,
+      "Light Truck & Van": 599,
       "Light Truck & Van - Car": 4,
       "Light Truck & Van - Car - Suv": 3,
       "Light Truck & Van - Car - Suv - Minivan": 1,
@@ -981,7 +981,7 @@
       "Radiopharmaceuticals": 12,
       "Rv Chassis": 7,
       "Rv Chassis - Truck - Med. & H.D.": 1,
-      "Rv Trailer": 951,
+      "Rv Trailer": 952,
       "Safety, Security And Surveillance": 1,
       "School Bus": 343,
       "School Bus - Truck - Med. & H.D.": 1,
@@ -993,7 +993,7 @@
       "Specialized Products - Other": 2,
       "Sports & Leisure": 648,
       "Stationery": 0,
-      "Suv": 1446,
+      "Suv": 1447,
       "Suv - Car": 136,
       "Suv - Car - Light Truck & Van": 5,
       "Suv - Car - Minivan - Light Truck & Van": 1,
@@ -1030,9 +1030,9 @@
     "by_severity": {
       "Fatal": 0,
       "Minor": 4326,
-      "Moderate": 8615,
-      "Not Reported": 18082,
-      "Serious": 2880
+      "Moderate": 8616,
+      "Not Reported": 18086,
+      "Serious": 2881
     }
   },
   {
