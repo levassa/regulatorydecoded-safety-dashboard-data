@@ -99,13 +99,13 @@
   },
   {
     "product_category": "Car",
-    "total": 1550,
+    "total": 1551,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 1550,
+      "Health Canada": 1551,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -113,13 +113,13 @@
   },
   {
     "product_category": "Suv",
-    "total": 1447,
+    "total": 1448,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 1447,
+      "Health Canada": 1448,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -141,13 +141,13 @@
   },
   {
     "product_category": "Furniture & Home",
-    "total": 1132,
+    "total": 1133,
     "by_source": {
       "ACCC": 1,
       "CPSC": 0,
       "EU Safety Gate": 28,
       "FDA": 0,
-      "Health Canada": 940,
+      "Health Canada": 941,
       "NZ Product Safety": 163,
       "OPSS": 0,
       "RappelConso": 0
@@ -267,13 +267,13 @@
   },
   {
     "product_category": "Light Truck & Van",
-    "total": 599,
+    "total": 601,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 599,
+      "Health Canada": 601,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -295,13 +295,13 @@
   },
   {
     "product_category": "Motorcycle",
-    "total": 520,
+    "total": 521,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 520,
+      "Health Canada": 521,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -421,13 +421,13 @@
   },
   {
     "product_category": "Candy, Confectionary, Snacks And Sweeteners",
-    "total": 173,
+    "total": 174,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 173,
+      "Health Canada": 174,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -477,13 +477,13 @@
   },
   {
     "product_category": "Suv - Car",
-    "total": 136,
+    "total": 137,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 136,
+      "Health Canada": 137,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0

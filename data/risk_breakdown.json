@@ -26,7 +26,7 @@
   },
   {
     "risk_type": "Electric Shock",
-    "count": 1304,
+    "count": 1305,
     "percentage": 2.6
   },
   {
@@ -35,12 +35,12 @@
     "percentage": 1.8
   },
   {
-    "risk_type": "Brakes",
-    "count": 895,
+    "risk_type": "Structure",
+    "count": 896,
     "percentage": 1.8
   },
   {
-    "risk_type": "Structure",
+    "risk_type": "Brakes",
     "count": 895,
     "percentage": 1.8
   },
@@ -66,7 +66,7 @@
   },
   {
     "risk_type": "Milk",
-    "count": 679,
+    "count": 680,
     "percentage": 1.3
   },
   {
@@ -110,12 +110,12 @@
     "percentage": 1.0
   },
   {
-    "risk_type": "Listeria",
-    "count": 504,
+    "risk_type": "Steering",
+    "count": 505,
     "percentage": 1.0
   },
   {
-    "risk_type": "Steering",
+    "risk_type": "Listeria",
     "count": 504,
     "percentage": 1.0
   },
@@ -136,7 +136,7 @@
   },
   {
     "risk_type": "Label",
-    "count": 391,
+    "count": 393,
     "percentage": 0.8
   },
   {
@@ -151,7 +151,7 @@
   },
   {
     "risk_type": "Visual System",
-    "count": 349,
+    "count": 350,
     "percentage": 0.7
   },
   {
@@ -205,12 +205,12 @@
     "percentage": 0.3
   },
   {
-    "risk_type": "Sterility",
-    "count": 157,
+    "risk_type": "High Voltage",
+    "count": 158,
     "percentage": 0.3
   },
   {
-    "risk_type": "High Voltage",
+    "risk_type": "Sterility",
     "count": 157,
     "percentage": 0.3
   },
