@@ -1073,11 +1073,11 @@
   },
   {
     "severity": "Moderate",
-    "total": 9245,
+    "total": 9246,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
-      "Canada": 8616,
+      "Canada": 8617,
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 1,
@@ -1356,7 +1356,7 @@
       "Dental - General And Plastic Surgery - General Hospital And Personal Use": 1,
       "Dental - General Hospital And Personal Use": 2,
       "Dental - Orthopaedics - General And Plastic Surgery": 1,
-      "Drugs": 558,
+      "Drugs": 559,
       "Drugs - Biologic Or Vaccine": 2,
       "Drugs - Cannabis": 0,
       "Drugs - Natural Health Products": 6,
@@ -1601,7 +1601,7 @@
       "Instability / Fall Risk": 65,
       "Mechanical Failure": 160,
       "Microbiological Contamination": 723,
-      "Other": 6985,
+      "Other": 6986,
       "Radiation": 30,
       "Sharp Edges / Points": 103,
       "Small Parts / Choking Hazard": 63
@@ -2130,26 +2130,26 @@
       "Allergen": 622,
       "Chemical / Toxic Substance": 77,
       "Drowning Risk": 66,
-      "Electrical Fault": 157,
+      "Electrical Fault": 155,
       "Entrapment": 25,
       "Explosion": 48,
       "Flammability / Overheating": 628,
       "Instability / Fall Risk": 76,
       "Mechanical Failure": 89,
       "Microbiological Contamination": 148,
-      "Other": 3753,
+      "Other": 3754,
       "Radiation": 10,
       "Sharp Edges / Points": 70,
-      "Small Parts / Choking Hazard": 233
+      "Small Parts / Choking Hazard": 234
     }
   },
   {
     "severity": "Not Reported",
-    "total": 27863,
+    "total": 27864,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
-      "Canada": 18094,
+      "Canada": 18095,
       "EU / EEA": 5000,
       "France": 3000,
       "New Zealand": 1554,
@@ -2499,7 +2499,7 @@
       "Hobby And Craft Items - Household Items - Other": 1,
       "Hobby And Craft Items - Jewellery": 1,
       "Hobby And Craft Items - Other": 5,
-      "Household Items": 1266,
+      "Household Items": 1267,
       "Household Items - Other": 122,
       "Household Items - Specialized Products": 15,
       "Household Items - Veterinary Drugs": 1,
@@ -2673,10 +2673,10 @@
       "Instability / Fall Risk": 318,
       "Mechanical Failure": 39,
       "Microbiological Contamination": 89,
-      "Other": 21577,
-      "Radiation": 1621,
+      "Other": 21579,
+      "Radiation": 1619,
       "Sharp Edges / Points": 179,
-      "Small Parts / Choking Hazard": 518
+      "Small Parts / Choking Hazard": 519
     }
   }
 ]

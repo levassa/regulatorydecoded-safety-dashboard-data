@@ -518,7 +518,7 @@
   },
   {
     "region": "Canada",
-    "total": 33918,
+    "total": 33920,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -791,7 +791,7 @@
       "Dental - General And Plastic Surgery - General Hospital And Personal Use": 1,
       "Dental - General Hospital And Personal Use": 2,
       "Dental - Orthopaedics - General And Plastic Surgery": 1,
-      "Drugs": 2781,
+      "Drugs": 2782,
       "Drugs - Biologic Or Vaccine": 8,
       "Drugs - Cannabis": 1,
       "Drugs - Natural Health Products": 73,
@@ -862,7 +862,7 @@
       "Hobby And Craft Items - Household Items - Other": 1,
       "Hobby And Craft Items - Jewellery": 1,
       "Hobby And Craft Items - Other": 5,
-      "Household Items": 1266,
+      "Household Items": 1267,
       "Household Items - Other": 122,
       "Household Items - Specialized Products": 15,
       "Household Items - Veterinary Drugs": 1,
@@ -1028,8 +1028,8 @@
     "by_severity": {
       "Fatal": 0,
       "Minor": 4326,
-      "Moderate": 8616,
-      "Not Reported": 18094,
+      "Moderate": 8617,
+      "Not Reported": 18095,
       "Serious": 2882
     }
   },

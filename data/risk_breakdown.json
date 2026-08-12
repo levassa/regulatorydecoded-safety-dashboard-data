@@ -26,7 +26,7 @@
   },
   {
     "risk_type": "Electric Shock",
-    "count": 1303,
+    "count": 1301,
     "percentage": 2.6
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "risk_type": "Choking",
-    "count": 738,
+    "count": 740,
     "percentage": 1.5
   },
   {
@@ -195,12 +195,12 @@
     "percentage": 0.4
   },
   {
-    "risk_type": "Sulphites",
+    "risk_type": "Non Harmful (Quality Or Spoilage)",
     "count": 171,
     "percentage": 0.3
   },
   {
-    "risk_type": "Non Harmful (Quality Or Spoilage)",
+    "risk_type": "Sulphites",
     "count": 171,
     "percentage": 0.3
   },
@@ -231,7 +231,7 @@
   },
   {
     "risk_type": "Labelling",
-    "count": 119,
+    "count": 120,
     "percentage": 0.2
   },
   {
@@ -390,11 +390,6 @@
     "percentage": 0.1
   },
   {
-    "risk_type": "Inaccurate Test Or Measurement Results",
-    "count": 27,
-    "percentage": 0.1
-  },
-  {
     "risk_type": "Product May Be Contaminated With Listeria Monocytogenes.",
     "count": 27,
     "percentage": 0.1
@@ -405,9 +400,19 @@
     "percentage": 0.1
   },
   {
+    "risk_type": "Inaccurate Test Or Measurement Results",
+    "count": 27,
+    "percentage": 0.1
+  },
+  {
     "risk_type": "Product Safety - Unauthorized Product",
     "count": 26,
     "percentage": 0.1
+  },
+  {
+    "risk_type": "Quality",
+    "count": 25,
+    "percentage": 0.0
   },
   {
     "risk_type": "Covid - Product Safety",
@@ -416,11 +421,6 @@
   },
   {
     "risk_type": "E. Coli - Non-Pathogenic",
-    "count": 25,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Quality",
     "count": 25,
     "percentage": 0.0
   },
@@ -490,12 +490,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Clostridium Botulinum",
+    "risk_type": "Fish",
     "count": 17,
     "percentage": 0.0
   },
   {
-    "risk_type": "Fish",
+    "risk_type": "Clostridium Botulinum",
     "count": 17,
     "percentage": 0.0
   },
@@ -610,12 +610,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Listeria Monocytogenes",
+    "risk_type": "Labelling And Packaging - Sterility",
     "count": 12,
     "percentage": 0.0
   },
   {
-    "risk_type": "Labelling And Packaging - Sterility",
+    "risk_type": "Listeria Monocytogenes",
     "count": 12,
     "percentage": 0.0
   },
@@ -960,12 +960,17 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Complaints Of Reported Separation Of The Slider Gds Swivel Rod From The Swivel Core And Of A Notable Gap Between The Two Pieces.",
+    "risk_type": "Temperature Abuse Due To Temperature Excursion In One Shipping Trailer",
     "count": 6,
     "percentage": 0.0
   },
   {
-    "risk_type": "There Are Reports Of Inadequate Locking Of The Extended Tab Screws.  Complaints Were Reported Where The Closure Top Backed Out Of The Screw Post-Operatively.",
+    "risk_type": "Products Labeled As Sterile Were Distributed, But May Not Have Been Sterilized.",
+    "count": 6,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Patient Support Table Floor Plate May Be Incorrectly Installed.",
     "count": 6,
     "percentage": 0.0
   },
@@ -980,17 +985,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Patient Support Table Floor Plate May Be Incorrectly Installed.",
+    "risk_type": "There Are Reports Of Inadequate Locking Of The Extended Tab Screws.  Complaints Were Reported Where The Closure Top Backed Out Of The Screw Post-Operatively.",
     "count": 6,
     "percentage": 0.0
   },
   {
-    "risk_type": "Products Labeled As Sterile Were Distributed, But May Not Have Been Sterilized.",
-    "count": 6,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Temperature Abuse Due To Temperature Excursion In One Shipping Trailer",
+    "risk_type": "Complaints Of Reported Separation Of The Slider Gds Swivel Rod From The Swivel Core And Of A Notable Gap Between The Two Pieces.",
     "count": 6,
     "percentage": 0.0
   },
@@ -1030,7 +1030,17 @@
     "percentage": 0.0
   },
   {
+    "risk_type": "Wallflextm Esophageal Stent System And Agiletm Esophageal Over The Wire (Otw) Stent System Due To The Potential For Delivery Catheter Tip Detachment.",
+    "count": 5,
+    "percentage": 0.0
+  },
+  {
     "risk_type": "Complaint Trend Regarding Needle Shaft Gas Leaks.",
+    "count": 5,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Potential For The Backcheck Valve To Malfunction, Resulting In Backflow Of Medication From Secondary (Piggyback) Iv Containers Into Primary Iv Containers And The Inability To Prime, Resulting In Patient Injuries Of Adverse Drug Reaction And/Or Product  Malfunction With Loss Of Medication/Blood.",
     "count": 5,
     "percentage": 0.0
   },
@@ -1055,17 +1065,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Wallflextm Esophageal Stent System And Agiletm Esophageal Over The Wire (Otw) Stent System Due To The Potential For Delivery Catheter Tip Detachment.",
-    "count": 5,
-    "percentage": 0.0
-  },
-  {
     "risk_type": "Lack Of Efficacy",
-    "count": 5,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Potential For The Backcheck Valve To Malfunction, Resulting In Backflow Of Medication From Secondary (Piggyback) Iv Containers Into Primary Iv Containers And The Inability To Prime, Resulting In Patient Injuries Of Adverse Drug Reaction And/Or Product  Malfunction With Loss Of Medication/Blood.",
     "count": 5,
     "percentage": 0.0
   },
@@ -1125,6 +1125,11 @@
     "percentage": 0.0
   },
   {
+    "risk_type": "Possibly Contaminated With Listeria Monocytogenes",
+    "count": 5,
+    "percentage": 0.0
+  },
+  {
     "risk_type": "Cyclospora",
     "count": 5,
     "percentage": 0.0
@@ -1135,18 +1140,8 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Possibly Contaminated With Listeria Monocytogenes",
-    "count": 5,
-    "percentage": 0.0
-  },
-  {
     "risk_type": "Potential For Manufacturing Defect. Weld Crack Led To Devices Failing At The Leak Check Step In Manufacturing.",
     "count": 5,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Unapproved Design Changes To The Products Outside Of The 510(K) Clearance.",
-    "count": 4,
     "percentage": 0.0
   },
   {
@@ -1170,12 +1165,17 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Unauthorised Device - Covid",
+    "risk_type": "It Has Been Determined That Certain Convenience Kits That Were Packaged In Breather Pouch Lot 323080002 May Result In The Potential Of Using Non-Sterile Product If The Vendor Seal Of The Pouch Is Opened/Unsealed.",
     "count": 4,
     "percentage": 0.0
   },
   {
-    "risk_type": "When The Recalled Bed Rails Are Attached To An Adult'S Bed, Users Can Become Entrapped Within The Bed Rail Or Between The Bed Rail And The Side Of The Mattress. This Poses A Serious Entrapment Hazard And Risk Of Death By Asphyxiation.",
+    "risk_type": "Unapproved Design Changes To The Products Outside Of The 510(K) Clearance.",
+    "count": 4,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Unauthorised Device - Covid",
     "count": 4,
     "percentage": 0.0
   },
@@ -1305,12 +1305,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Locking Mechanism Has Been Observed To Disassociate Either Intraoperatively Or Postoperatively Resulting In Replacement/Revision",
+    "risk_type": "Product Packaging Improper Or Incomplete Seal Of The Pouch Surrounding The Sterile Product May Result In A Breach Of The Sterile Barrier Created By The Pouch",
     "count": 4,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Packaging Improper Or Incomplete Seal Of The Pouch Surrounding The Sterile Product May Result In A Breach Of The Sterile Barrier Created By The Pouch",
+    "risk_type": "Locking Mechanism Has Been Observed To Disassociate Either Intraoperatively Or Postoperatively Resulting In Replacement/Revision",
     "count": 4,
     "percentage": 0.0
   },
@@ -1330,7 +1330,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "It Has Been Determined That Certain Convenience Kits That Were Packaged In Breather Pouch Lot 323080002 May Result In The Potential Of Using Non-Sterile Product If The Vendor Seal Of The Pouch Is Opened/Unsealed.",
+    "risk_type": "When The Recalled Bed Rails Are Attached To An Adult'S Bed, Users Can Become Entrapped Within The Bed Rail Or Between The Bed Rail And The Side Of The Mattress. This Poses A Serious Entrapment Hazard And Risk Of Death By Asphyxiation.",
     "count": 4,
     "percentage": 0.0
   },
@@ -1355,11 +1355,6 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Bd Has Determined That The Instructions For Use (Ifu) Provided By Bd Is Missing Certain Content That Is Contained In The Manufacturer'S Ifu. This Missing Content Is Related To The Interface With The Device Power Supply, As Well As Cleaning And Maintenance Instructions. Refer To The Attached V. Mueller\" Bipolar Forcep Ifu.",
-    "count": 4,
-    "percentage": 0.0
-  },
-  {
     "risk_type": "Contains Undeclared Egg.",
     "count": 4,
     "percentage": 0.0
@@ -1370,7 +1365,17 @@
     "percentage": 0.0
   },
   {
+    "risk_type": "Bd Has Determined That The Instructions For Use (Ifu) Provided By Bd Is Missing Certain Content That Is Contained In The Manufacturer'S Ifu. This Missing Content Is Related To The Interface With The Device Power Supply, As Well As Cleaning And Maintenance Instructions. Refer To The Attached V. Mueller\" Bipolar Forcep Ifu.",
+    "count": 4,
+    "percentage": 0.0
+  },
+  {
     "risk_type": "Bd Phoenix Sulfamethoxazole-Trimethoprim (Sxt) Resistance, False Resistant Sxt Result With S. Aureus Could Lead To A Potential Loss Of Access To A Preferred Antibiotic Regimen And Potential Reduction In Effectiveness Of Treatment Of The Infection",
+    "count": 4,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recalled Due To The Presence Of Yellow Oleander And Its Components In The Product.",
     "count": 4,
     "percentage": 0.0
   },
@@ -1390,11 +1395,6 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recalled Due To The Presence Of Yellow Oleander And Its Components In The Product.",
-    "count": 4,
-    "percentage": 0.0
-  },
-  {
     "risk_type": "New Safety Information - Product Withdrawal",
     "count": 4,
     "percentage": 0.0
@@ -1405,12 +1405,17 @@
     "percentage": 0.0
   },
   {
+    "risk_type": "Catheter Center Lumen Was Found To Have An Occlusion In The Tip Of The Catheter; The Source Of The Occlusion An Excessive Mdx, A Silicone-Based Lubricant Which Coats The Catheter Tip. An Occluded, Partially Or Fully, And/Or Uncured Or Excessive Mdx May Dislodge From The Catheter Lead To  Full Catheter Obstruction Resulting In Delay To Treatment And Partial Obstruction Resulting In Reduced Flow, Or Particulate Dislodgement That May Result In Delay To Treatment, Hemolysis, Embolism/Embolus Or Thrombosis/Thrombus",
+    "count": 4,
+    "percentage": 0.0
+  },
+  {
     "risk_type": "Products Contain Onions Purchased From Prosource And Associated With A Salmonella Oranienburg Outbreak.",
     "count": 4,
     "percentage": 0.0
   },
   {
-    "risk_type": "Catheter Center Lumen Was Found To Have An Occlusion In The Tip Of The Catheter; The Source Of The Occlusion An Excessive Mdx, A Silicone-Based Lubricant Which Coats The Catheter Tip. An Occluded, Partially Or Fully, And/Or Uncured Or Excessive Mdx May Dislodge From The Catheter Lead To  Full Catheter Obstruction Resulting In Delay To Treatment And Partial Obstruction Resulting In Reduced Flow, Or Particulate Dislodgement That May Result In Delay To Treatment, Hemolysis, Embolism/Embolus Or Thrombosis/Thrombus",
+    "risk_type": "Products May Be Potentially Contaminated With Salmonella.",
     "count": 4,
     "percentage": 0.0
   },
@@ -1420,7 +1425,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Products May Be Potentially Contaminated With Salmonella.",
+    "risk_type": "The 510(K) Regulatory Clearances For Certain Control Syringes, Guidewires, And/Or High-Pressure Tubing Have Been Rescinded.",
     "count": 4,
     "percentage": 0.0
   },
@@ -1445,11 +1450,6 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "The 510(K) Regulatory Clearances For Certain Control Syringes, Guidewires, And/Or High-Pressure Tubing Have Been Rescinded.",
-    "count": 4,
-    "percentage": 0.0
-  },
-  {
     "risk_type": "There Is Potential For Packaging Defects That May Impact The Sterile Barrier.",
     "count": 3,
     "percentage": 0.0
@@ -1465,22 +1465,22 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Sesame Seeds - Sulphites",
-    "count": 3,
-    "percentage": 0.0
-  },
-  {
     "risk_type": "The Surgical Gowns Were Manufactured In A Facility That Is Not Registered By The Fda.",
     "count": 3,
     "percentage": 0.0
   },
   {
-    "risk_type": "Due To Molding Defect, There Is A Potential That Certain Lots Of Spinning And Non-Spinning Sprios Male Luers May Exhibit Small Amounts Of Leakage In The Inactivated Position.",
+    "risk_type": "Incomplete Seals On The Sterile Package May Compromise The Sterility",
     "count": 3,
     "percentage": 0.0
   },
   {
-    "risk_type": "Incomplete Seals On The Sterile Package May Compromise The Sterility",
+    "risk_type": "Sesame Seeds - Sulphites",
+    "count": 3,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Due To Molding Defect, There Is A Potential That Certain Lots Of Spinning And Non-Spinning Sprios Male Luers May Exhibit Small Amounts Of Leakage In The Inactivated Position.",
     "count": 3,
     "percentage": 0.0
   },
@@ -1530,11 +1530,6 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "The Label Does Not Identify Whey Protein Concentrate,  Contained In The Stabilizer, As Milk.",
-    "count": 3,
-    "percentage": 0.0
-  },
-  {
     "risk_type": "Ge Healthcare Has Become Aware Of A Potential Issue On Certain Discovery, Optima, Revolution Series Ct Systems, And Certain Operator Console Upgrades That Can Result In Rotated Ct Images. Particularly With Helical, Cine, And Cardiac (If Applicable) Scan Modes, After The First Image Of An Exam, Each Subsequent Image Can Be Rotated By An Increasing Amount. The Amount Of Progressive Image Rotation Is Dependent On The Gantry Speed And The Duration Of The Scan. The Final Image In The Exam Can Be Rotated Up To A Maximum Of ~56 Degrees. The Entire Anatomy Rotates As A Whole By Equal Degrees, Without Distortion, And The Anatomical Positioning And Z-Axis Of The Images Remains Correct. Small Degrees Of Image Rotation Might Not Be Noticed. If Image Rotation Is Noticed And Necessitates A Rescan Of The Patient, The Same Image Rotation Will Reoccur.",
     "count": 3,
     "percentage": 0.0
@@ -1545,12 +1540,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Undeclared Milk.",
-    "count": 3,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Scope Ifus Contain A Reprocessing Modalities That Have Not Been Reviewed And/Or Approved For Safety And Efficacy By The Fda.",
+    "risk_type": "The Label Does Not Identify Whey Protein Concentrate,  Contained In The Stabilizer, As Milk.",
     "count": 3,
     "percentage": 0.0
   },
@@ -1561,6 +1551,16 @@
   },
   {
     "risk_type": "Medline Industries, Lp Is Issuing A Recall For Specific Item(S) And Lot(S) Of Medline Kits Containing Cardinal Health Webcol Large Alcohol Prep Pads. Cardinal Health Has Deemed Webcol Large Alcohol Prep Pads To Be Non-Sterile Following The Discovery Of A Contaminant (Paenibacillus Phoenicis) During A Routine Sterilization Dose Audit.",
+    "count": 3,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Undeclared Milk.",
+    "count": 3,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Scope Ifus Contain A Reprocessing Modalities That Have Not Been Reviewed And/Or Approved For Safety And Efficacy By The Fda.",
     "count": 3,
     "percentage": 0.0
   },
@@ -1580,7 +1580,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Packaging - Product Safety - Supply",
+    "risk_type": "A Capacitor Inside The Converter Of The Velara X-Ray Generator May Fail After A Large Number Of Surges In A Short Period Of Time. When This Occurs, No Image Acquisition Is Possible.",
     "count": 3,
     "percentage": 0.0
   },
@@ -1590,7 +1590,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "A Capacitor Inside The Converter Of The Velara X-Ray Generator May Fail After A Large Number Of Surges In A Short Period Of Time. When This Occurs, No Image Acquisition Is Possible.",
+    "risk_type": "Packaging - Product Safety - Supply",
     "count": 3,
     "percentage": 0.0
   },
@@ -1740,52 +1740,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Ventilator May Experience Potential Issues With The Backup Battery Failures: 1) If The Battery Is Allowed To Over Discharge, Or 2) If The Ventilator Is Stored For An Extended Period Of Time Without Being Plugged Into Ac Power.",
-    "count": 3,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "The Required Pre-Market Notifications For These New  Infant Formulas Have Not Been Submitted To The Fda. Some Products Contain Less Than 1 Milligram Of Iron Per 100 Calories And May Not Provide Adequate Iron For Some Infants, Particularly Infants Born Prematurely Or With A Low Birth Weight, Had Low Iron Levels At Birth, Or Are At Risk For Becoming Iron Deficient Due To Illness. All Products Are Not Labeled As Required By 21 Cfr 107 .10 And 107.20 And Do Not Bear Mandatory Labeling Statements In English.",
-    "count": 3,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Food",
-    "count": 3,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "The Needle Surface Deteriorated Due To Unexpected Electrolysis During Procedure.",
-    "count": 3,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Potential For Glass And Metal In Product",
-    "count": 3,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Sulphites - Soy",
-    "count": 3,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Product May Be Contaminated Listeria Monocytogenes.",
-    "count": 3,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Product Contains Undeclared Cyclamates.",
-    "count": 3,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "The Sodium And/Or Calcium Levels In These Concentrates Were Below The Manufacturing Specifications.",
-    "count": 3,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Milk - Sulphites - Soy",
+    "risk_type": "Cook Medical Identified That Devices From The Affected Device Lots May Have A Complete Breach Of The Chevron Seal Of The Packaging. Therefore, The Sterility Of Affected Devices May Be Compromised.",
     "count": 3,
     "percentage": 0.0
   },
@@ -1800,12 +1755,27 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Cook Medical Identified That Devices From The Affected Device Lots May Have A Complete Breach Of The Chevron Seal Of The Packaging. Therefore, The Sterility Of Affected Devices May Be Compromised.",
+    "risk_type": "The Sodium And/Or Calcium Levels In These Concentrates Were Below The Manufacturing Specifications.",
     "count": 3,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product May Be Contaminated With Cesium-137 (Cs-137)",
+    "risk_type": "Milk - Sulphites - Soy",
+    "count": 3,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Contains Undeclared Cyclamates.",
+    "count": 3,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product May Be Contaminated Listeria Monocytogenes.",
+    "count": 3,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Required Pre-Market Notifications For These New  Infant Formulas Have Not Been Submitted To The Fda. Some Products Contain Less Than 1 Milligram Of Iron Per 100 Calories And May Not Provide Adequate Iron For Some Infants, Particularly Infants Born Prematurely Or With A Low Birth Weight, Had Low Iron Levels At Birth, Or Are At Risk For Becoming Iron Deficient Due To Illness. All Products Are Not Labeled As Required By 21 Cfr 107 .10 And 107.20 And Do Not Bear Mandatory Labeling Statements In English.",
     "count": 3,
     "percentage": 0.0
   },
@@ -1815,37 +1785,27 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Kits Contain Swan-Ganz Catheters Recalled By Becton Dickinson (Bd). Bd Has Received Complaints Of Leaks/Breakage Involving Failures Of The (Blue) Proximal Injectate Lumen Hub On These Catheters. This Has Led To Instances Of Leakage, Lumen Damage, And Breakage, And May Lead To Infection, Medication Loss, And/Or Blood Loss.",
+    "risk_type": "Food",
     "count": 3,
     "percentage": 0.0
   },
   {
-    "risk_type": "Deroyal Procedure Packs That Contain The Affected 3M Health Care Steri Drapes Which Have Been Recalled.",
+    "risk_type": "Ventilator May Experience Potential Issues With The Backup Battery Failures: 1) If The Battery Is Allowed To Over Discharge, Or 2) If The Ventilator Is Stored For An Extended Period Of Time Without Being Plugged Into Ac Power.",
     "count": 3,
     "percentage": 0.0
   },
   {
-    "risk_type": "Updated Mri Safety Testing Demonstrates Higher Rf-Induced Temperature Increases Under Certain Mri Conditions Than Previously Reflected In The Instructions For Use (Ifu).",
+    "risk_type": "The Needle Surface Deteriorated Due To Unexpected Electrolysis During Procedure.",
     "count": 3,
     "percentage": 0.0
   },
   {
-    "risk_type": "The Kits Containing Huons Lidocaine Hcl Injection Usp 1% 10Mg/Ml 5Ml Ampules (Lidocaine Ampules)(Oem). A Recall Notice Was Issued By Huons Co., Ltd. For Lidocaine Ampules Due To Quality Issues Identified During A Recent Fda Manufacturing Inspection Of Its Drug Manufacturing Site.",
+    "risk_type": "Sulphites - Soy",
     "count": 3,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product May Be Contaminated With Salmonella.",
-    "count": 3,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "The Recalled Dressers Are Unstable If They Are Not Anchored To The Wall, Posing Serious Tip-Over And Entrapment Hazards That Can Result In Injuries Or Death To Children. The Dressers Violate The Mandatory Standard As Required By The Sturdy Act.",
-    "count": 3,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Device Was Distributed Without A Proper Marketing Authorization. This Event Is An Expansion Of Res 87581, Z-1355-2021 Thru Z-1364-2021.",
+    "risk_type": "Product May Be Contaminated With Cesium-137 (Cs-137)",
     "count": 3,
     "percentage": 0.0
   },
@@ -1855,7 +1815,17 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Foreign Material, Pieces Of Glass May Be In The Product",
+    "risk_type": "Device Was Distributed Without A Proper Marketing Authorization. This Event Is An Expansion Of Res 87581, Z-1355-2021 Thru Z-1364-2021.",
+    "count": 3,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Recalled Dressers Are Unstable If They Are Not Anchored To The Wall, Posing Serious Tip-Over And Entrapment Hazards That Can Result In Injuries Or Death To Children. The Dressers Violate The Mandatory Standard As Required By The Sturdy Act.",
+    "count": 3,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Potential For Glass And Metal In Product",
     "count": 3,
     "percentage": 0.0
   },
@@ -1865,7 +1835,17 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Various Non-Shelf Stable Packaged Vegetables Missing \"Keep Refrigerated\" Statement On Label.",
+    "risk_type": "Foreign Material, Pieces Of Glass May Be In The Product",
+    "count": 3,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Undeclared Egg.",
+    "count": 3,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Potential Issue Where The Intellivue Monitors Did Not Alarm.",
     "count": 3,
     "percentage": 0.0
   },
@@ -1875,7 +1855,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Potential Issue Where The Intellivue Monitors Did Not Alarm.",
+    "risk_type": "Various Non-Shelf Stable Packaged Vegetables Missing \"Keep Refrigerated\" Statement On Label.",
     "count": 3,
     "percentage": 0.0
   },
@@ -1895,12 +1875,37 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Undeclared Egg.",
+    "risk_type": "Kits Contain Swan-Ganz Catheters Recalled By Becton Dickinson (Bd). Bd Has Received Complaints Of Leaks/Breakage Involving Failures Of The (Blue) Proximal Injectate Lumen Hub On These Catheters. This Has Led To Instances Of Leakage, Lumen Damage, And Breakage, And May Lead To Infection, Medication Loss, And/Or Blood Loss.",
     "count": 3,
     "percentage": 0.0
   },
   {
-    "risk_type": "Hepatitis A",
+    "risk_type": "The Kits Containing Huons Lidocaine Hcl Injection Usp 1% 10Mg/Ml 5Ml Ampules (Lidocaine Ampules)(Oem). A Recall Notice Was Issued By Huons Co., Ltd. For Lidocaine Ampules Due To Quality Issues Identified During A Recent Fda Manufacturing Inspection Of Its Drug Manufacturing Site.",
+    "count": 3,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Updated Mri Safety Testing Demonstrates Higher Rf-Induced Temperature Increases Under Certain Mri Conditions Than Previously Reflected In The Instructions For Use (Ifu).",
+    "count": 3,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product May Be Contaminated With Salmonella.",
+    "count": 3,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Deroyal Procedure Packs That Contain The Affected 3M Health Care Steri Drapes Which Have Been Recalled.",
+    "count": 3,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Vehicle Can Move When On An Incline And \"Park\" Is Displayed On The Digital Dash. This Can Allow The Vehicle To Roll Away, Posing A Crash Hazard.",
+    "count": 2,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Foreign Object (Stainless Steel Dust/Flakes Or Shreds Of Plastic)",
     "count": 2,
     "percentage": 0.0
   },
@@ -1910,12 +1915,22 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product May Contain A Foreign Object (Blue Plastic).",
+    "risk_type": "The Rear Brake Line Can Become Punctured Causing The Brakes To Fail, Posing A Collision And Crash Hazard.",
     "count": 2,
     "percentage": 0.0
   },
   {
-    "risk_type": "Foreign Object (Stainless Steel Dust/Flakes Or Shreds Of Plastic)",
+    "risk_type": "Hepatitis A",
+    "count": 2,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Genesis Sterrad Reusable Rigid Sterilization Containers Have Not Consistently Met The Requirements For Aerosol Challenge Testing.",
+    "count": 2,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product May Contain A Foreign Object (Blue Plastic).",
     "count": 2,
     "percentage": 0.0
   },
@@ -1935,6 +1950,11 @@
     "percentage": 0.0
   },
   {
+    "risk_type": "Product May Contain Foreign Objects Of Metal Origin.",
+    "count": 2,
+    "percentage": 0.0
+  },
+  {
     "risk_type": "Surgical Patties & Surgical Strips In Specific Lots Of Custom Convenience Kits Were Found To Contain Higher-Than-Expected Levels Of Endotoxin Within The Raw Material Used To Produce Sterile Codman Surgical Patties And Strips That May Have Resulted In Out-Of-Specification Levels Of Endotoxin In Those Finished Goods",
     "count": 2,
     "percentage": 0.0
@@ -1945,32 +1965,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Genesis Sterrad Reusable Rigid Sterilization Containers Have Not Consistently Met The Requirements For Aerosol Challenge Testing.",
+    "risk_type": "Hole(S) To The Outer Pouch Of The Introducer Kits (Both Trayed And Non-Trayed) May Compromise The Sterile Barrier Of The Introducer Kits. Non-Sterile Product Exposes Patients To The Possibility Of The Introduction Of Micro-Organisms Into The Vasculature And/Or Access Site, Leading To An Infectious Process, Bacteremia Or Sepsis",
     "count": 2,
     "percentage": 0.0
   },
   {
     "risk_type": "The Product Description On The Labeling Includes The Word \"Sterile\" Or Strl\", However The Contents Of The Solution Inside The Foil Sachet Is Non-Sterile.",
-    "count": 2,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Product May Contain Foreign Objects Of Metal Origin.",
-    "count": 2,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "The Company Was Notified By Their Supplier Of Sterilization Services For Airway Products In Italy Of Potential Deviations From Validated Parameters For Ethylene Oxide Sterilization.",
-    "count": 2,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "The Rear Brake Line Can Become Punctured Causing The Brakes To Fail, Posing A Collision And Crash Hazard.",
-    "count": 2,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "The Vehicle Can Move When On An Incline And \"Park\" Is Displayed On The Digital Dash. This Can Allow The Vehicle To Roll Away, Posing A Crash Hazard.",
     "count": 2,
     "percentage": 0.0
   },
@@ -2050,6 +2050,11 @@
     "percentage": 0.0
   },
   {
+    "risk_type": "Potential Metal Fragments From Supplier Raw Material (Downstream Recall)",
+    "count": 2,
+    "percentage": 0.0
+  },
+  {
     "risk_type": "The Weight Plates Can Dislodge From The Handle During Use, Posing An Impact Hazard.",
     "count": 2,
     "percentage": 0.0
@@ -2061,11 +2066,6 @@
   },
   {
     "risk_type": "Potential To Contain Undeclared Egg",
-    "count": 2,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Potential Metal Fragments From Supplier Raw Material (Downstream Recall)",
     "count": 2,
     "percentage": 0.0
   },
@@ -2115,12 +2115,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Povidone-Iodine Swabstick Manufactured By Pdi, Inc. Recalled Due To Out Of Specifications Was Used As A Component In Some Of The Roi Cps, Llc Products.",
+    "risk_type": "Product May Contain Undeclared Peanuts.",
     "count": 2,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product May Contain Undeclared Peanuts.",
+    "risk_type": "Ice Cream Product May Contain Metal (Foreign Objects).",
     "count": 2,
     "percentage": 0.0
   },
@@ -2145,7 +2145,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Label Includes The Ingredient Cream But Does Not Include Milk As The Source.",
+    "risk_type": "Flour Is Declared But Wheat Is Not Declared On Label.",
     "count": 2,
     "percentage": 0.0
   },
@@ -2155,7 +2155,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Flour Is Declared But Wheat Is Not Declared On Label.",
+    "risk_type": "Product Label Includes The Ingredient Cream But Does Not Include Milk As The Source.",
     "count": 2,
     "percentage": 0.0
   },
@@ -2270,17 +2270,17 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Hole(S) To The Outer Pouch Of The Introducer Kits (Both Trayed And Non-Trayed) May Compromise The Sterile Barrier Of The Introducer Kits. Non-Sterile Product Exposes Patients To The Possibility Of The Introduction Of Micro-Organisms Into The Vasculature And/Or Access Site, Leading To An Infectious Process, Bacteremia Or Sepsis",
-    "count": 2,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Surgical Convenience Kits Were Distributed Containing 3M Surgical Drapes Which Were Subsequently Recalled.",
+    "risk_type": "The Company Was Notified By Their Supplier Of Sterilization Services For Airway Products In Italy Of Potential Deviations From Validated Parameters For Ethylene Oxide Sterilization.",
     "count": 2,
     "percentage": 0.0
   },
   {
     "risk_type": "Foreign Material (Plastic Pieces)",
+    "count": 2,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Surgical Convenience Kits Were Distributed Containing 3M Surgical Drapes Which Were Subsequently Recalled.",
     "count": 2,
     "percentage": 0.0
   },
@@ -2320,7 +2320,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Ice Cream Product May Contain Metal (Foreign Objects).",
+    "risk_type": "Povidone-Iodine Swabstick Manufactured By Pdi, Inc. Recalled Due To Out Of Specifications Was Used As A Component In Some Of The Roi Cps, Llc Products.",
     "count": 2,
     "percentage": 0.0
   },
@@ -2405,12 +2405,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Chocolate May Contain Undeclared Peanut Residue.",
+    "risk_type": "Products Were Made With Peanut Butter Contaminated With Salmonella.",
     "count": 2,
     "percentage": 0.0
   },
   {
-    "risk_type": "Products Were Made With Peanut Butter Contaminated With Salmonella.",
+    "risk_type": "Chocolate May Contain Undeclared Peanut Residue.",
     "count": 2,
     "percentage": 0.0
   },
@@ -2445,12 +2445,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For 5M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "risk_type": "Nacl 250 Ml Bag Inj Expired 04/2020 While The Kit Expiration Date Was After 04/2020.",
     "count": 2,
     "percentage": 0.0
   },
   {
-    "risk_type": "Nacl 250 Ml Bag Inj Expired 04/2020 While The Kit Expiration Date Was After 04/2020.",
+    "risk_type": "Product Safety Report For 5M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
     "count": 2,
     "percentage": 0.0
   },
@@ -2745,6 +2745,11 @@
     "percentage": 0.0
   },
   {
+    "risk_type": "1)Error 255-Xx-Xxx Results In Inability To Edit Settings 2)Delay Options Programming May Result In No Kvo Rate/Therapy Interruption 3)Software Errors Results In No Low Battery Alarm/Infusion Stopping 4)Medium Priority Kvo/End Of Infusion Alarms May Result In Unrecognized Infusion Completion 5)Custom Concentration Data Entry Errors Results In Concentrations Being Lower/Higher Than Medication Orders",
+    "count": 2,
+    "percentage": 0.0
+  },
+  {
     "risk_type": "When Two Or More High-Powered Magnets Are Swallowed, Either Intentionally By Younger Children Or Accidentally By Older Children, The Ingested Magnets Can Attract To Each Other, Or To Another Metal Object, And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting And/Or Blockage Of The Intestines, Infection, Blood Poisoning And Death.",
     "count": 2,
     "percentage": 0.0
@@ -2766,11 +2771,6 @@
   },
   {
     "risk_type": "The Firm Was Notified By Their Supplier Of Boiled Eggs That The Eggs My Be Contaminated With Listeria Monocytogenes.",
-    "count": 2,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "1)Error 255-Xx-Xxx Results In Inability To Edit Settings 2)Delay Options Programming May Result In No Kvo Rate/Therapy Interruption 3)Software Errors Results In No Low Battery Alarm/Infusion Stopping 4)Medium Priority Kvo/End Of Infusion Alarms May Result In Unrecognized Infusion Completion 5)Custom Concentration Data Entry Errors Results In Concentrations Being Lower/Higher Than Medication Orders",
     "count": 2,
     "percentage": 0.0
   },
@@ -3115,12 +3115,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Two Software Issues Have Been Identified Related To Pressure Increase In The Device: The First Issue Is Described As \"Infant/Pediatric Efs Calibration Pressure Increase\" And The Second Issue Is Described As \"Pressure Drift (Continuous Usage).",
+    "risk_type": "The Plastic Zip Tie Used With The Recalled Furniture Tip Kits Can Become Brittle Or Break, Which Can Allow A Clothing Storage Unit That Is Anchored To The Wall To Detach During A Furniture Tip-Over Event, Posing A Tip-Over And Entrapment Hazard That Can Result In Death Or Serious Injuries To Children.",
     "count": 2,
     "percentage": 0.0
   },
   {
-    "risk_type": "Due To The Potential Presence Of A Foreign Material (Hard Plastic Pieces) In Baked Good Products.",
+    "risk_type": "Two Software Issues Have Been Identified Related To Pressure Increase In The Device: The First Issue Is Described As \"Infant/Pediatric Efs Calibration Pressure Increase\" And The Second Issue Is Described As \"Pressure Drift (Continuous Usage).",
     "count": 2,
     "percentage": 0.0
   },
@@ -3130,7 +3130,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "The Device Was Delivered With A Preassembled Femoral Augment Screw That Was Missing Its Thread.",
+    "risk_type": "Due To The Potential Presence Of A Foreign Material (Hard Plastic Pieces) In Baked Good Products.",
     "count": 2,
     "percentage": 0.0
   },
@@ -3200,7 +3200,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "The Plastic Zip Tie Used With The Recalled Furniture Tip Kits Can Become Brittle Or Break, Which Can Allow A Clothing Storage Unit That Is Anchored To The Wall To Detach During A Furniture Tip-Over Event, Posing A Tip-Over And Entrapment Hazard That Can Result In Death Or Serious Injuries To Children.",
+    "risk_type": "There Have Been Complaints Of Endobronchial Combustion During Therapeutic Laser Procedures With The Bronchoscope.",
     "count": 2,
     "percentage": 0.0
   },
@@ -3240,12 +3240,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "May Contain Undeclared Peanut Residue.",
+    "risk_type": "There Has Been An Increase In The Number Of Complaints Related To The Separation Of The Female Connector From The Main Body Of The Transfer Set.",
     "count": 2,
     "percentage": 0.0
   },
   {
-    "risk_type": "There Has Been An Increase In The Number Of Complaints Related To The Separation Of The Female Connector From The Main Body Of The Transfer Set.",
+    "risk_type": "May Contain Undeclared Peanut Residue.",
     "count": 2,
     "percentage": 0.0
   },
@@ -3260,7 +3260,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "There Have Been Complaints Of Endobronchial Combustion During Therapeutic Laser Procedures With The Bronchoscope.",
+    "risk_type": "The Device Was Delivered With A Preassembled Femoral Augment Screw That Was Missing Its Thread.",
     "count": 2,
     "percentage": 0.0
   },
@@ -3275,17 +3275,22 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "The Display Screen May Become Frozen And Unresponsive To User Input, Triggering An Alarm That Is Evidenced By A Buzzer Sound And Flashing Red Leds As A Secondary Notification. However, As The Screen Goes Blank It Does Not Indicate An Alarm Condition Or Respond. This Issue Leads To Temporary Cessation Of Flow Of A Medication Or Fluid, Requiring Immediate Intervention By The Clinician.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
     "risk_type": "The Cannula Tubes Do Not Comply With The Specification.  The Water Jet Emerging From The Nozzle Of The Nonconforming Cannulas May Emerge As A Spot Jet Rather Than A Fan-Shaped Spray Jet.",
     "count": 1,
     "percentage": 0.0
   },
   {
     "risk_type": "The Cardiosave Iabp May Unexpectedly Shut Down When The Device Is Running On Ac Power, Only One Battery Is  Installed In The Iabp, And The Battery Is Physically Removed While The Battery Is Being Charged. This Occurs During  A Very Specific Set Of Conditions.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Display Screen May Become Frozen And Unresponsive To User Input, Triggering An Alarm That Is Evidenced By A Buzzer Sound And Flashing Red Leds As A Secondary Notification. However, As The Screen Goes Blank It Does Not Indicate An Alarm Condition Or Respond. This Issue Leads To Temporary Cessation Of Flow Of A Medication Or Fluid, Requiring Immediate Intervention By The Clinician.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Firm Is Recalling Two Lots Of Yellowfin Tuna Loins After Been Notified That Four Persons Became Ill After Consuming The Product.  Symptoms Included Rash, Stomach Cramps, And Diarrhea, Among Others.",
     "count": 1,
     "percentage": 0.0
   },
@@ -3305,17 +3310,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "The Firm Is Recalling Two Lots Of Yellowfin Tuna Loins After Been Notified That Four Persons Became Ill After Consuming The Product.  Symptoms Included Rash, Stomach Cramps, And Diarrhea, Among Others.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
     "risk_type": "The Device Cap Label May Not Adhere To The Sensor, Compromising The Sterility Of The Sensor, And Increasing The Risk Of Infection.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "The Device May Experience Mechanical Interference On The Fluid Valve Pins, Which Will Trigger A Pump Problem Alarm. The Issue May Lead To Delay Or Interruption Of Therapy. Depending On The Therapy And Duration Of Delay/Interruption, The Issue May Lead To Serious Harm Or Death.",
+    "risk_type": "The Firm Was Notified By One Of Their Customers That Their Product Test Positive For Listeria Monocytogenes.",
     "count": 1,
     "percentage": 0.0
   },
@@ -3330,12 +3330,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "The Firm Was Notified By One Of Their Customers That Their Product Test Positive For Listeria Monocytogenes.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "The Brown Paint On The Exterior Of The Recalled Christmas Tree Ornaments Did Not Fully Dry Before Packaging, Causing Mold To Grow On The Exterior Surface Of The Ornament, Posing Risk Of Respiratory Issues To Consumers Due To Mold Exposure.",
+    "risk_type": "The Device May Experience Mechanical Interference On The Fluid Valve Pins, Which Will Trigger A Pump Problem Alarm. The Issue May Lead To Delay Or Interruption Of Therapy. Depending On The Therapy And Duration Of Delay/Interruption, The Issue May Lead To Serious Harm Or Death.",
     "count": 1,
     "percentage": 0.0
   },
@@ -3345,7 +3340,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "The Brown Trim Of The Shaving Kit Bags Contains Levels Of A Regulated Phthalate That Exceed The Prohibition Of Specific Phthalates. Banned Phthalates Are Toxic If Ingested By Young Children And Can Cause Adverse Health Issues.",
+    "risk_type": "The Brown Paint On The Exterior Of The Recalled Christmas Tree Ornaments Did Not Fully Dry Before Packaging, Causing Mold To Grow On The Exterior Surface Of The Ornament, Posing Risk Of Respiratory Issues To Consumers Due To Mold Exposure.",
     "count": 1,
     "percentage": 0.0
   },
@@ -3355,12 +3350,17 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "The Device Was Not Cleared For U.S. Distribution.",
+    "risk_type": "The Brown Trim Of The Shaving Kit Bags Contains Levels Of A Regulated Phthalate That Exceed The Prohibition Of Specific Phthalates. Banned Phthalates Are Toxic If Ingested By Young Children And Can Cause Adverse Health Issues.",
     "count": 1,
     "percentage": 0.0
   },
   {
     "risk_type": "The Firm Was Notified By An Ingredient Supplier Of Medium Chain Triglycerides (Mct) That The Ingredient Potentially Contained Traces Of Milk. This Affected Two Of The Firm'S Products That Are Marketed And Sold As Vegan And Dairy-Free.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "The Device Was Not Cleared For U.S. Distribution.",
     "count": 1,
     "percentage": 0.0
   },
@@ -3475,12 +3475,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "The Firm Found Small Pieces Of Metal In The Bakery Palm Oil Silo Which Were Not Able To Be Detected Every Pass Through The Metal Detector.",
+    "risk_type": "The Encore 26 Inflation Device Is Used With Balloon Dilation Catheters To Create And Monitor Pressure In The Balloon And To Deflate The Balloon. An Internal Investigation Determined That During Use, Foreign Material Particles Could Migrate From Affected Encore 26 Inflation Devices Into A Balloon Dilatation Catheter.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "The Encore 26 Inflation Device Is Used With Balloon Dilation Catheters To Create And Monitor Pressure In The Balloon And To Deflate The Balloon. An Internal Investigation Determined That During Use, Foreign Material Particles Could Migrate From Affected Encore 26 Inflation Devices Into A Balloon Dilatation Catheter.",
+    "risk_type": "The Firm Found Small Pieces Of Metal In The Bakery Palm Oil Silo Which Were Not Able To Be Detected Every Pass Through The Metal Detector.",
     "count": 1,
     "percentage": 0.0
   },
@@ -5970,17 +5970,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Zimmer Natural Nail (Znn) System-Cmn Femoral Nail Potential Commingle Between Ccd Angle 130 Degree And 125 Degree",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
     "risk_type": "19-Gauge X 1\" Inch Filter Needles Showed Appearances Of A Small Fraction Of Non-Preferred Characteristics. A Causal Relationship Has Not Been Established Between The Structural Variations In This 19-Gauge Filter Needle And The Rare Events Of Retinal Vasculitis",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "3.5X11.5Mm Implants Were Mislabeled As 3.5X10Mm Implants. In Borderline Cases Where The Bone Quality Is Low And The Bone Ridge Has A Maximum Indication For The Implant Height (10Mm), If The Incorrect Implant Is Installed, It Could Result In Damage To The Nerve Or Adjacent Bone Structures/Cavities.",
+    "risk_type": "1.8Mm Truss Wires Are Being Removed To Facilitate The Introduction Of 2.0Mm Truss Wires. The Increased Wire Diameter And New Manufacturing Process Are Meant To Provide A Stronger Wire And Reduced Breakage.",
     "count": 1,
     "percentage": 0.0
   },
@@ -5995,12 +5990,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Wheat - Gluten - Mustard",
+    "risk_type": "A Customer Experienced That During Assembly And Load Testing Of The Device, The Bolt For Mounting The Lifting Bar Broke. Upon Further Investigation Of This Customer Complaint, It Became Clear That The Defect Occurs As A Result Of Deformation Of The Materials Involved Between The Lifting Bar And The Arm Of The Device. Such Deformation Can Lead To Limited Mobility In The Joint, Which Prevents Proper Functionality Of The Equipment.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "A Customer Found Product With Incomplete Seals Of P/N 20400161S, Lot #185198 Which Can Lead To Non-Sterile Product And Patient Safety Concerns. Chs Has Validated This Complaint.",
+    "risk_type": "Wheat - Gluten - Mustard",
     "count": 1,
     "percentage": 0.0
   },
@@ -6040,7 +6035,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "A Customer Experienced That During Assembly And Load Testing Of The Device, The Bolt For Mounting The Lifting Bar Broke. Upon Further Investigation Of This Customer Complaint, It Became Clear That The Defect Occurs As A Result Of Deformation Of The Materials Involved Between The Lifting Bar And The Arm Of The Device. Such Deformation Can Lead To Limited Mobility In The Joint, Which Prevents Proper Functionality Of The Equipment.",
+    "risk_type": "A Frozen/ Refrigerated Food Trailer Holding Various Types And Brands Of Frozen/ Refrigerated Foods Were Temperature Abused.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "A Customer Found Product With Incomplete Seals Of P/N 20400161S, Lot #185198 Which Can Lead To Non-Sterile Product And Patient Safety Concerns. Chs Has Validated This Complaint.",
     "count": 1,
     "percentage": 0.0
   },
@@ -6095,7 +6095,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "While Cleaning Or Disinfecting The System, If The Process Is Not Followed As Described In The Manual And Excessive Liquid Is Used Or Sprayed Directly On The System, It Could Cause A Short Circuit Of The Fine Positioning Control Button.  This Would Result In The System Moving On Its Own In A Very Slow Speed Forward Circular Motion.",
+    "risk_type": "Zimmer Natural Nail (Znn) System-Cmn Femoral Nail Potential Commingle Between Ccd Angle 130 Degree And 125 Degree",
     "count": 1,
     "percentage": 0.0
   },
@@ -7950,7 +7950,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Ktl Stretchy Monster Toys Presenting A Risk To Health.",
+    "risk_type": "Product Recall For Ktl Stretchy Poop Toy Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
@@ -9855,12 +9855,22 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "When Processing Microslides, Slides That Utilize Slot 18 In The Cm Rotor May Be Mis-Positioned. As A Result, Certain Vitros Microslides May Produce Erroneous Results.",
+    "risk_type": "While Cleaning Or Disinfecting The System, If The Process Is Not Followed As Described In The Manual And Excessive Liquid Is Used Or Sprayed Directly On The System, It Could Cause A Short Circuit Of The Fine Positioning Control Button.  This Would Result In The System Moving On Its Own In A Very Slow Speed Forward Circular Motion.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "A Frozen/ Refrigerated Food Trailer Holding Various Types And Brands Of Frozen/ Refrigerated Foods Were Temperature Abused.",
+    "risk_type": "When Using Those Products You May Experience Difficulties To Extend Or Retract The Laser Fiber, And In Some Occasions May Also Have Difficulties To Direct The  Laser Fiber Tip Precisely.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "3.5X11.5Mm Implants Were Mislabeled As 3.5X10Mm Implants. In Borderline Cases Where The Bone Quality Is Low And The Bone Ridge Has A Maximum Indication For The Implant Height (10Mm), If The Incorrect Implant Is Installed, It Could Result In Damage To The Nerve Or Adjacent Bone Structures/Cavities.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "When Processing Microslides, Slides That Utilize Slot 18 In The Cm Rotor May Be Mis-Positioned. As A Result, Certain Vitros Microslides May Produce Erroneous Results.",
     "count": 1,
     "percentage": 0.0
   },
@@ -9885,7 +9895,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "When The Display Of Inflow Volume To The Uterus Reaches 32450 Ml, The Fluid Management System Control Unit Display Will Freeze Because The Internal Software Calculation Threshold Is Reached. The Outflow Measurement Will Continue, And So The Deficit Accumulated Up To This Point Will Start Counting Backwards To 0 Ml. There Is A Risk Of Distention Fluid Reaching The Soft Tissue Circulatory System.",
+    "risk_type": "A Manufacturing Error Resulted In Out Of Specification R3 Acetabular Shells",
     "count": 1,
     "percentage": 0.0
   },
@@ -9895,7 +9905,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "A Manufacturing Error Resulted In Out Of Specification R3 Acetabular Shells",
+    "risk_type": "When The Recalled Dog Eyelid Wipes Are Opened And In Use, Bacteria And Fungi, Which Are Organisms Found Widely In The Environment, Soil, And Water, Can Be Introduced And Grow In The Container, Posing A Risk Of Serious Infection To People With Weakened Immune Systems. Individuals With Wounds May Also Be At Higher Risk Of Infection. People With Healthy Immune Systems Are Not Typically Affected.",
     "count": 1,
     "percentage": 0.0
   },
@@ -9925,16 +9935,6 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "When Using Those Products You May Experience Difficulties To Extend Or Retract The Laser Fiber, And In Some Occasions May Also Have Difficulties To Direct The  Laser Fiber Tip Precisely.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "A Full Lot Swap Between Volt Locking Screw Tap 03.424.124 Lot 68900P9 And Cortical Screw Tap 03.424.126 Lot 68982P8, Resulting In The Bones Taps Having An Incorrect Thread.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
     "risk_type": "A Lot Of Avalon Elite Vascular Access Kits (Vak) Are Being Recalled Due To A Material Mix-Up With The Needle Portion Of The Kit; 81 Of 255 Kits Were Assembled With An Incorrect Arterial Access Needle Instead Of A  Multi-Purpose Procedure Needle.",
     "count": 1,
     "percentage": 0.0
@@ -9945,7 +9945,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "When The Recalled Dog Eyelid Wipes Are Opened And In Use, Bacteria And Fungi, Which Are Organisms Found Widely In The Environment, Soil, And Water, Can Be Introduced And Grow In The Container, Posing A Risk Of Serious Infection To People With Weakened Immune Systems. Individuals With Wounds May Also Be At Higher Risk Of Infection. People With Healthy Immune Systems Are Not Typically Affected.",
+    "risk_type": "When The Display Of Inflow Volume To The Uterus Reaches 32450 Ml, The Fluid Management System Control Unit Display Will Freeze Because The Internal Software Calculation Threshold Is Reached. The Outflow Measurement Will Continue, And So The Deficit Accumulated Up To This Point Will Start Counting Backwards To 0 Ml. There Is A Risk Of Distention Fluid Reaching The Soft Tissue Circulatory System.",
     "count": 1,
     "percentage": 0.0
   },
@@ -10880,11 +10880,6 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Joie Serina Elephant Duo Swivel Baby Swing Presenting A Risk Of Injuries.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
     "risk_type": "Product Recall For Joolz Aer2 Car Seat Adapter Set Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
@@ -10920,12 +10915,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Listeria Monocytogenes.",
+    "risk_type": "Product Recall For Ktl Decorative Glass Bottle Of Sand Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Ktl Glitter And Glow Magical Sand Art Kit Presenting A Risk To Health.",
+    "risk_type": "Listeria Monocytogenes.",
     "count": 1,
     "percentage": 0.0
   },
@@ -10955,22 +10950,22 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "1.8Mm Truss Wires Are Being Removed To Facilitate The Introduction Of 2.0Mm Truss Wires. The Increased Wire Diameter And New Manufacturing Process Are Meant To Provide A Stronger Wire And Reduced Breakage.",
+    "risk_type": "Product Recall For Ktl Stretchy Monster Toys Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Ktl Stretchy Poop Toy Presenting A Risk To Health.",
+    "risk_type": "A Full Lot Swap Between Volt Locking Screw Tap 03.424.124 Lot 68900P9 And Cortical Screw Tap 03.424.126 Lot 68982P8, Resulting In The Bones Taps Having An Incorrect Thread.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Ktl Decorative Glass Bottle Of Sand Presenting A Risk To Health.",
+    "risk_type": "Product Recall For Kukoo Automatic Bubble Tea Shaker Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Handlebar Stem On Mirider 24 Bicycles Presenting A Risk Of Injuries.",
+    "risk_type": "Product Recall For Ktl Glitter And Glow Magical Sand Art Kit Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11010,12 +11005,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For John Lewis & Partners Doorstops & Draught Excluders Presenting A Risk To Health.",
+    "risk_type": "Product Recall For Hobbycraft Easter Bumper Craft Kit Presenting A Health Risk.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Hobbycraft Giant Box Of Craft Presenting A Health Risk.",
+    "risk_type": "Product Recall For Joie Serina Elephant Duo Swivel Baby Swing Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11060,7 +11055,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Hobbycraft Easter Bumper Craft Kit Presenting A Health Risk.",
+    "risk_type": "Product Recall For John Lewis & Partners Doorstops & Draught Excluders Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Hobbycraft Giant Box Of Craft Presenting A Health Risk.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11105,7 +11105,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Kukoo Automatic Bubble Tea Shaker Presenting A Risk Of Injuries.",
+    "risk_type": "Product Recall For Large Water Beads Presenting A High Risk Of Asphyxiation.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11116,6 +11116,11 @@
   },
   {
     "risk_type": "Product Recall For Seven Smyths Toys Dig Products Containing Sand, Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Simond Alpinism & Vertika Quickdraws  Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11145,17 +11150,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Specialized E-Bike Chain Guards Presenting A Risk Of Injuries.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
     "risk_type": "Product Recall For Sand Art Activity Kit Presenting A Risk To Health.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Product Recall For Large Water Beads Presenting A High Risk Of Asphyxiation.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11195,12 +11190,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Orbea Avant Bicycles Presenting A Risk Of Injuries.",
+    "risk_type": "Product Recall For Maxi-Cosi Family Fix Slide Pro Base Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Mercury Marine Gen 2 Dts And Avator Controls. \r\n\r\nProducts Fitted To Boats With The Specified Hin Numbers Present A Risk Of Non-Compliance Due To An Operating Fault.",
+    "risk_type": "Product Recall For Orbea Optima My 2019 And 2020 E-Bike Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11245,12 +11240,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Maxi-Cosi Family Fix Slide Pro Base Presenting A Risk Of Injuries.",
+    "risk_type": "Product Recall For Orbea Avant Bicycles Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Mislabeled.  The Back Label States Organic Cashews.  The Front Product Label States Wegmans Organic Unsalted Dry Roasted Almonds. The Front Label Is Correct Label For This Product.",
+    "risk_type": "Product Recall For Mercury Marine Gen 2 Dts And Avator Controls. \r\n\r\nProducts Fitted To Boats With The Specified Hin Numbers Present A Risk Of Non-Compliance Due To An Operating Fault.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11290,12 +11285,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Halfords Essentials Nyala R129 Car Seat Presenting A Risk Of Injuries.",
+    "risk_type": "Product Quality - Supply",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For  Next X25 Gingerbread Serveboard Presenting A Risk Of Injuries.",
+    "risk_type": "Product Recall For Handlebar Stem On Mirider 24 Bicycles Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11335,12 +11330,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Quality - Supply",
+    "risk_type": "Product Recall For Acer Electric Scooter Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product May Be Contaminated With Rodent Hair And Parts",
+    "risk_type": "Product Recall For  Next X25 Gingerbread Serveboard Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11380,12 +11375,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Mislabeled On The Outer Bag And Inner Kit Tyvek Header Bag",
+    "risk_type": "Product May Contain Salmonella.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product May Contain Spoilage Organisms.",
+    "risk_type": "Product Mislabeled.  The Back Label States Organic Cashews.  The Front Product Label States Wegmans Organic Unsalted Dry Roasted Almonds. The Front Label Is Correct Label For This Product.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11430,12 +11425,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product May Contain Salmonella.",
+    "risk_type": "Product Mislabeled On The Outer Bag And Inner Kit Tyvek Header Bag",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Croydex Devoke Mirror And Croydex Rydal Mirror Presenting A Low Risk Of Injuries.",
+    "risk_type": "Product May Contain Spoilage Organisms.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11475,12 +11470,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Acer Electric Scooter Presenting A Serious Risk Of Injuries.",
+    "risk_type": "Product Recall For Emerson Sempell Gmbh Valve Fastener Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Endless Pools Retractable Pool Cover Presenting A Risk Of Entrapment.",
+    "risk_type": "Product Recall For Addo Play Limited Out To Impress Creative Candles Kit Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11520,12 +11515,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Emerson Sempell Gmbh Valve Fastener Presenting A Serious Risk Of Injuries.",
+    "risk_type": "Product Recall For Halfords Essentials Nyala R129 Car Seat Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Addo Play Limited Out To Impress Creative Candles Kit Presenting A Risk To Health.",
+    "risk_type": "Product Recall For Endless Pools Retractable Pool Cover Presenting A Risk Of Entrapment.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11565,12 +11560,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Craftplay Sand Art Bottles (10) Presenting A Risk To Health.",
+    "risk_type": "Product Recall For Boden Girls Wide Leg Trousers Presenting A Risk Of Cuts.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Bondi Sands Zinc Mineral Sunscreen Spf50+ Body Lotion And Face Lotion Presenting A Health Risk.",
+    "risk_type": "Product Recall For Croydex Devoke Mirror And Croydex Rydal Mirror Presenting A Low Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11615,7 +11610,17 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Boden Girls Wide Leg Trousers Presenting A Risk Of Cuts.",
+    "risk_type": "Product Recall For Craftplay Sand Art Bottles (10) Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Bondi Sands Zinc Mineral Sunscreen Spf50+ Body Lotion And Face Lotion Presenting A Health Risk.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Eisenkolb B.V. / Automatic Roman Blinds Pocket Tape Stitching Machine Presenting A Risk Of Entrapment.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11655,12 +11660,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Goodak Co Ltd Magnetic Chess Game Presenting A Risk Of Injuries.",
+    "risk_type": "Product Recall For Specialized E-Bike Chain Guards Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Spooktacular Creations Brown Zombie Costume Presenting A Risk Of Injuries.",
+    "risk_type": "Product Safety Report For Green Lawn Trimmer Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11700,12 +11705,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Ihoverboard H8Pro Presenting A Serious Risk Of Injuries.",
+    "risk_type": "Product Safety Report For Goodak Co Ltd Magnetic Chess Game Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Green Lawn Trimmer Presenting A Serious Risk Of Injuries.",
+    "risk_type": "Product Safety Report For Baby Walker Ky-088 Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11745,12 +11750,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Climbing Safety Belt Presenting A Serious Risk Of Injuries.",
+    "risk_type": "Product Safety Report For Efi Cretaprint Nozomi 14000 Led Industrial Single Pass Digital Ink Jet Printer Presenting A Risk Of Entrapment.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Eisenkolb B.V. / Automatic Roman Blinds Pocket Tape Stitching Machine Presenting A Risk Of Entrapment.",
+    "risk_type": "Product Safety Report For Comforder Water Beads Presenting A Serious Risk Of Asphyxiation.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11795,12 +11800,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Efi Cretaprint Nozomi 14000 Led Industrial Single Pass Digital Ink Jet Printer Presenting A Risk Of Entrapment.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Product Safety Report For Comforder Water Beads Presenting A Serious Risk Of Asphyxiation.",
+    "risk_type": "Product Safety Report For Climbing Safety Belt Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11845,7 +11845,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Inflatable Hammer Toys Presenting A Serious Risk Of Asphyxiation.",
+    "risk_type": "Product Safety Report For Ihoverboard H8Pro Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11895,6 +11895,11 @@
     "percentage": 0.0
   },
   {
+    "risk_type": "Product Safety Report For Inflatable Hammer Toys Presenting A Serious Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
     "risk_type": "Product Safety Report For Iscooter Electric Scooter Ix6 Presenting A High Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
@@ -11916,11 +11921,6 @@
   },
   {
     "risk_type": "Product Safety Report For Jovant Pneumatic Push Out Nail Gun Sold Via Amazon Presenting A Serious Risk Of Injuries.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Product Safety Report For Joycat Baby Float Sold Via Amazon Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11990,6 +11990,11 @@
     "percentage": 0.0
   },
   {
+    "risk_type": "Product Recall For Wave Builder Hair Products Presenting A Risk Of Non-Compliance.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
     "risk_type": "Product Recall For Westmark Gmbh Gallant Spatula Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
@@ -12025,12 +12030,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Wizz Toys Jumbo Mr Splat Stretch Men Presenting A Risk To Health.",
+    "risk_type": "Product Safety Report For Baby Stroller Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Baby Walker Ky-088 Presenting A Serious Risk Of Injuries.",
+    "risk_type": "Product Recall For Wizz Toys Squishy Puppies Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
@@ -12070,12 +12075,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall Of Various Matalan Bikini Tops Presenting A Risk Of Injuries.",
+    "risk_type": "Product Recall For Wizz Toys Jumbo Mr Splat Stretch Men Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Wizz Toys Squishy Puppies Presenting A Risk To Health.",
+    "risk_type": "Product Recall For Spooktacular Creations Brown Zombie Costume Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -12115,12 +12120,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For The Original Factory Shop Novelty Doorstops Presenting A Risk To Health.",
+    "risk_type": "Product Recall For Waterproof Front Seat Cover Set Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Wave Builder Hair Products Presenting A Risk Of Non-Compliance.",
+    "risk_type": "Product Recall For Thekiddospace Magnetic Reusable Water Balloons Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -12165,12 +12170,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Waterproof Front Seat Cover Set Presenting A Risk Of Injuries.",
+    "risk_type": "Product Recall For The Original Factory Shop Novelty Doorstops Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Thekiddospace Magnetic Reusable Water Balloons Presenting A Serious Risk Of Injuries.",
+    "risk_type": "Product Safety Report For 50 Big Jumbo Half Dry Water Beads Presenting A High Risk Of Asphyxiation.",
     "count": 1,
     "percentage": 0.0
   },
@@ -12210,12 +12215,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For A Supatool 4 Step Aluminium Step Ladder Presenting A High Risk Of Injuries.",
+    "risk_type": "Product Recall Of Various Matalan Bikini Tops Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall Of Xiangtai Safety Belt Sold Via Tiktok Presenting A Serious Risk Of Injuries.",
+    "risk_type": "Product Safety Report For A4R Water Beads Presenting A High Risk Of Asphyxiation.",
     "count": 1,
     "percentage": 0.0
   },
@@ -12260,12 +12265,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Baby Stroller Presenting A Serious Risk Of Injuries.",
+    "risk_type": "Product Safety Report For A Supatool 4 Step Aluminium Step Ladder Presenting A High Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For A4R Water Beads Presenting A High Risk Of Asphyxiation.",
+    "risk_type": "Product Recall Of Xiangtai Safety Belt Sold Via Tiktok Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -12305,12 +12310,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety - Supply - Labelling",
+    "risk_type": "Product Safety Report For 3000Pcs Water Gel Beads Presenting A High Risk Of Asphyxiation.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For 50 Big Jumbo Half Dry Water Beads Presenting A High Risk Of Asphyxiation.",
+    "risk_type": "Product Safety - Unauthorised Device",
     "count": 1,
     "percentage": 0.0
   },
@@ -12355,17 +12360,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For 3000Pcs Water Gel Beads Presenting A High Risk Of Asphyxiation.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Product Safety - Unauthorised Device",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Notification By Supplier Of A Recall Of Starch Ingredient Due To Metal Fragments. Ingredient Was Used In The Manufacture Of Finished Products.",
+    "risk_type": "Product Safety - Supply - Labelling",
     "count": 1,
     "percentage": 0.0
   },
@@ -12405,12 +12400,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product May Be Contaminated With Foreign Objects (Metal Fragments).",
+    "risk_type": "One Lot Of Ala 300 Mg Cap-50 Were Labeled At Melatonin 3 Mg Tab-60.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Onions Included Various Meal Kits Delivered The Week Of July 27, 2020 May Be Contaminated With Salmonella.",
+    "risk_type": "Product May Be Contaminated With Rodent Hair And Parts",
     "count": 1,
     "percentage": 0.0
   },
@@ -12450,12 +12445,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "One Lot Of Ala 300 Mg Cap-50 Were Labeled At Melatonin 3 Mg Tab-60.",
+    "risk_type": "Oyster Product Potentially Contaminated With Norovirus",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Needle-Free Connector Valves, Either Standalone Or Attached To Extension Sets, May Have Issues Including Difficulty To Flush, Flow Issues, And Partial Or Total Occlusions, Which Could Lead To Therapy Delay. Follow-Up Activates Not Required If Product Has Already Been Used Or Was Safely Connected To The Female Luer Of Connecting Device.",
+    "risk_type": "Onions Included Various Meal Kits Delivered The Week Of July 27, 2020 May Be Contaminated With Salmonella.",
     "count": 1,
     "percentage": 0.0
   },
@@ -12495,12 +12490,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Not Manufactured To Specification",
+    "risk_type": "No Label On Packaged Product",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "No Labeling. Undeclared Wheat And Colors: Yellow#5, Yellow#6.",
+    "risk_type": "Notification By Supplier Of A Recall Of Starch Ingredient Due To Metal Fragments. Ingredient Was Used In The Manufacture Of Finished Products.",
     "count": 1,
     "percentage": 0.0
   },
@@ -12545,12 +12540,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "No Label On Packaged Product",
+    "risk_type": "Not Manufactured To Specification",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Philips Has Identified That Some Ceiling Suspension Telescopic Carriages Manufactured From July 2024  Through June 2025 May Be Difficult To Move Vertically (I.E. Additional Force/Physical Exertion Required  For Manual Movement) Due To Potential Manufacturing Issues.",
+    "risk_type": "No Labeling. Undeclared Wheat And Colors: Yellow#5, Yellow#6.",
     "count": 1,
     "percentage": 0.0
   },
@@ -12590,12 +12585,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Oyster Product Potentially Contaminated With Norovirus",
+    "risk_type": "Plastic Fragments.  There Is Potential For Lexan Plastic To Be In The Product.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Plastic Fragments. Pieces Of Semi-Rigid Plastic Embedded In The Recalled Tater Gems Product.",
+    "risk_type": "Package Has Incorrect Use By Date.",
     "count": 1,
     "percentage": 0.0
   },
@@ -12635,12 +12630,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Plastic Fragments.  There Is Potential For Lexan Plastic To Be In The Product.",
+    "risk_type": "Positive Rainwater Test For Listeria Monocytogenes.  The Rainwater Came In Contact With Product.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Package Has Incorrect Use By Date.",
+    "risk_type": "Plastic Fragments. Pieces Of Semi-Rigid Plastic Embedded In The Recalled Tater Gems Product.",
     "count": 1,
     "percentage": 0.0
   },
@@ -12680,12 +12675,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Perkinelmer 226 Sample Collection Devices Lot Number 40020001 Had Serial Numbers Printed On The Pack Labels That Did Not Match The Serial Number Range Of The Devices Contained Within The Pack.",
+    "risk_type": "Paint On The Zippers And Zipper Pulls Contains Levels Of Lead That Exceed The Federal Lead Paint Ban. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Effects.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Parsley Imported From Mexico Was Found To Be Contaminated With Salmonella",
+    "risk_type": "Philips Has Identified That Some Ceiling Suspension Telescopic Carriages Manufactured From July 2024  Through June 2025 May Be Difficult To Move Vertically (I.E. Additional Force/Physical Exertion Required  For Manual Movement) Due To Potential Manufacturing Issues.",
     "count": 1,
     "percentage": 0.0
   },
@@ -12730,7 +12725,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Paint On The Zippers And Zipper Pulls Contains Levels Of Lead That Exceed The Federal Lead Paint Ban. Lead Is Toxic If Ingested By Young Children And Can Cause Adverse Health Effects.",
+    "risk_type": "Perkinelmer 226 Sample Collection Devices Lot Number 40020001 Had Serial Numbers Printed On The Pack Labels That Did Not Match The Serial Number Range Of The Devices Contained Within The Pack.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Parsley Imported From Mexico Was Found To Be Contaminated With Salmonella",
     "count": 1,
     "percentage": 0.0
   },
@@ -12775,7 +12775,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Multiple Reasons:  1) Due To Wear And Tear Of Pump Motor Block Mechanism - May Cause Under Infusion Situations Without The Pump Alarm Being Generated.  2) Due To Cracks, Pump Hardware May Be Damaged By Fluid Used During The Cleaning Process.",
+    "risk_type": "Needle-Free Connector Valves, Either Standalone Or Attached To Extension Sets, May Have Issues Including Difficulty To Flush, Flow Issues, And Partial Or Total Occlusions, Which Could Lead To Therapy Delay. Follow-Up Activates Not Required If Product Has Already Been Used Or Was Safely Connected To The Female Luer Of Connecting Device.",
     "count": 1,
     "percentage": 0.0
   },
@@ -13005,6 +13005,11 @@
     "percentage": 0.0
   },
   {
+    "risk_type": "Multiple Reasons:  1) Due To Wear And Tear Of Pump Motor Block Mechanism - May Cause Under Infusion Situations Without The Pump Alarm Being Generated.  2) Due To Cracks, Pump Hardware May Be Damaged By Fluid Used During The Cleaning Process.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
     "risk_type": "Model Wfb-01 Sold To Us Customers Before Aug 23, 2022 Has Been Found To Have A Software Bug (6 Units). All Wfb-01 Models Sold To Us Customers Found To Have Labeling Non-Compliances (22 Units)",
     "count": 1,
     "percentage": 0.0
@@ -13105,11 +13110,6 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Potentially Undeclared Peanut",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
     "risk_type": "Pre-Op Skin Prep Component Chloraprep Included Within Kits May Allow The Growth Of Aspergillus Penicillioides, Which May Penetrate The Packaging Resulting In A Breach Of The Package Integrity.",
     "count": 1,
     "percentage": 0.0
@@ -13145,12 +13145,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Positive Rainwater Test For Listeria Monocytogenes.  The Rainwater Came In Contact With Product.",
+    "risk_type": "Problems Related To The Sterilization Of The Medical Devices; Possible Missing Sterility Of The Medical Device",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Contained An Ingredient That May Be Contaminated With Small Pieces Of Plastic.",
+    "risk_type": "Possibility For The Obturator To Break (Separate).",
     "count": 1,
     "percentage": 0.0
   },
@@ -13190,12 +13190,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Problems Related To The Sterilization Of The Medical Devices; Possible Missing Sterility Of The Medical Device",
+    "risk_type": "Product Contains Undeclared Fd&C Yellow 5 And Fd&C Yellow 6.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Potential Risk Of Reporting Erroneous Creatinine Patient Results Associated With The Initial Start-Up Of A New Bun/Creatinine Sensor Cartridge. The Potential Risk Is Within The First 2-4 Hours After Cartridge Installation That May Not Be Identified By Traditional Quality Control Practices.",
+    "risk_type": "Product Contained An Ingredient That May Be Contaminated With Small Pieces Of Plastic.",
     "count": 1,
     "percentage": 0.0
   },
@@ -13235,12 +13235,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Potentially Contaminated With E. Coli",
+    "risk_type": "Potential To Be Contaminated With Listeria Monocytogenes.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Potential To Contain Foreign Material",
+    "risk_type": "Potentially Undeclared Peanut",
     "count": 1,
     "percentage": 0.0
   },
@@ -13285,12 +13285,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Potential To Be Contaminated With Listeria Monocytogenes.",
+    "risk_type": "Potentially Contaminated With E. Coli",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Is Labeled \"Gluten Free\" But May Contain Undeclared Wheat.",
+    "risk_type": "Potential To Contain Foreign Material",
     "count": 1,
     "percentage": 0.0
   },
@@ -13330,12 +13330,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Contains Undeclared Fd&C Yellow 5 And Fd&C Yellow 6.",
+    "risk_type": "Product Is Sub-Potent For Vitamins A, B12,  B5 (Pantothenic Acid), C, And E Not Meeting Label Claims.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Labeled To Be \"Zero Sugar\" May Contain Sugar Due To An Incorrect Label Being Used.",
+    "risk_type": "Product Contains Undeclared Fish (Anchovy) And Soy.",
     "count": 1,
     "percentage": 0.0
   },
@@ -13375,12 +13375,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Is Sub-Potent For Vitamins A, B12,  B5 (Pantothenic Acid), C, And E Not Meeting Label Claims.",
+    "risk_type": "Product May Be Contaminated With Foreign Objects (Metal Fragments).",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Contains Undeclared Fish (Anchovy) And Soy.",
+    "risk_type": "Product Labeled To Be \"Zero Sugar\" May Contain Sugar Due To An Incorrect Label Being Used.",
     "count": 1,
     "percentage": 0.0
   },
@@ -13420,12 +13420,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Has The Potential To Be Contaminated With Salmonella.",
+    "risk_type": "Product Contains Undeclared Wheat.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Contaminated With Elevated Levels Of Coliform.",
+    "risk_type": "Product Is Labeled \"Gluten Free\" But May Contain Undeclared Wheat.",
     "count": 1,
     "percentage": 0.0
   },
@@ -13470,12 +13470,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Contains Undeclared Wheat.",
+    "risk_type": "Product Has The Potential To Be Contaminated With Salmonella.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Potential For Detachment Of A Distal Tip Component Of The Device During Use.",
+    "risk_type": "Product Contaminated With Elevated Levels Of Coliform.",
     "count": 1,
     "percentage": 0.0
   },
@@ -13515,12 +13515,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Potential Risk Of Quality Control Failures And/Or False Resistant Antibiotic Results When Testing Isolates Of Enterobacterales/Enterobacteriaceae Species And/Or Pseudomonas Aeruginosa With The Identified Antibiotic Formulations. Issue May Lead To Qc Failure Or False Resistant Results.",
+    "risk_type": "Potential For Incomplete Scan Due To Unstable Connection Inside Of Floating Sensor.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Potential For Leakage At The Catheter Hub.",
+    "risk_type": "Potential Risk Of Reporting Erroneous Creatinine Patient Results Associated With The Initial Start-Up Of A New Bun/Creatinine Sensor Cartridge. The Potential Risk Is Within The First 2-4 Hours After Cartridge Installation That May Not Be Identified By Traditional Quality Control Practices.",
     "count": 1,
     "percentage": 0.0
   },
@@ -13560,12 +13560,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Potential For Incomplete Scan Due To Unstable Connection Inside Of Floating Sensor.",
+    "risk_type": "Potential For Reported Ssd To Be Too High.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Possibility For The Obturator To Break (Separate).",
+    "risk_type": "Potential For Leakage At The Catheter Hub.",
     "count": 1,
     "percentage": 0.0
   },
@@ -13605,12 +13605,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Potential For Corrosion On The Pins Of The Ultima Activator Ii Reusable Drive Mechanism. Harms May Include Allergic Reaction, Metal Toxicity, And Other Delayed Responses.",
+    "risk_type": "Potential Corrosion Stains On The Surface Of The 14-Gauge Tuohy Needle That Is Included In The Microsensor And Cerelink Icp Kits.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Potential Crack In The Female Connector Located On The Heat Exchanger/Patient Line Set, Which Will Lead To A Fluid Leak Through The Crack During Priming Of The Rapid Infuser.",
+    "risk_type": "Potential For Detachment Of A Distal Tip Component Of The Device During Use.",
     "count": 1,
     "percentage": 0.0
   },
@@ -13655,12 +13655,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Potential Corrosion Stains On The Surface Of The 14-Gauge Tuohy Needle That Is Included In The Microsensor And Cerelink Icp Kits.",
+    "risk_type": "Potential For Corrosion On The Pins Of The Ultima Activator Ii Reusable Drive Mechanism. Harms May Include Allergic Reaction, Metal Toxicity, And Other Delayed Responses.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Potential L. Monocytogenes",
+    "risk_type": "Potential Crack In The Female Connector Located On The Heat Exchanger/Patient Line Set, Which Will Lead To A Fluid Leak Through The Crack During Priming Of The Rapid Infuser.",
     "count": 1,
     "percentage": 0.0
   },
@@ -13700,12 +13700,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Potential For Reported Ssd To Be Too High.",
+    "risk_type": "Potential Peanut Protein Cross-Contact.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Potential Presence Of A Metallic Mesh Material In Products.",
+    "risk_type": "Potential For Sterile Packaging To Be Compromised¿",
     "count": 1,
     "percentage": 0.0
   },
@@ -13750,12 +13750,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Potential Peanut Protein Cross-Contact.",
+    "risk_type": "Potential Risk Of Quality Control Failures And/Or False Resistant Antibiotic Results When Testing Isolates Of Enterobacterales/Enterobacteriaceae Species And/Or Pseudomonas Aeruginosa With The Identified Antibiotic Formulations. Issue May Lead To Qc Failure Or False Resistant Results.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Potential For Sterile Packaging To Be Compromised¿",
+    "risk_type": "Potential Presence Of A Metallic Mesh Material In Products.",
     "count": 1,
     "percentage": 0.0
   },
@@ -13795,12 +13795,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Potential Issue With The Manufacture And Inspection Of U-Channel Sheaths In Implantation Instruments Sets. Affected U-Channel Sheaths May Be More Likely To Cause Damage To Proact Implant Devices When Passes Through The Sheaths.",
+    "risk_type": "Potential For Transcatheter Aortic Valve (Tav) Leaflet Damage When Performing A Post-Implant Balloon Dilatation (Pid).",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Potential Foreign Material",
+    "risk_type": "Potential L. Monocytogenes",
     "count": 1,
     "percentage": 0.0
   },
@@ -13845,7 +13845,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Potential For Transcatheter Aortic Valve (Tav) Leaflet Damage When Performing A Post-Implant Balloon Dilatation (Pid).",
+    "risk_type": "Potential Issue With The Manufacture And Inspection Of U-Channel Sheaths In Implantation Instruments Sets. Affected U-Channel Sheaths May Be More Likely To Cause Damage To Proact Implant Devices When Passes Through The Sheaths.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Potential Foreign Material",
     "count": 1,
     "percentage": 0.0
   }

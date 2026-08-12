@@ -43,13 +43,13 @@
   },
   {
     "product_category": "Drugs",
-    "total": 2781,
+    "total": 2782,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 2781,
+      "Health Canada": 2782,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -127,13 +127,13 @@
   },
   {
     "product_category": "Household Items",
-    "total": 1266,
+    "total": 1267,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 1266,
+      "Health Canada": 1267,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
