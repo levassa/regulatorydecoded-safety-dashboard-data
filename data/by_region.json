@@ -509,8 +509,8 @@
       "Veterinary Drugs": 0
     },
     "by_severity": {
-      "Fatal": 18,
-      "Minor": 4,
+      "Fatal": 19,
+      "Minor": 3,
       "Moderate": 0,
       "Not Reported": 0,
       "Serious": 3
@@ -2069,7 +2069,7 @@
   },
   {
     "region": "New Zealand",
-    "total": 1567,
+    "total": 1573,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 1,
@@ -2557,7 +2557,7 @@
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
       "Tools & Machinery": 77,
-      "Toys & Childcare": 459,
+      "Toys & Childcare": 465,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
       "Truck - Med. & H.D. - Bus": 0,
@@ -2580,7 +2580,7 @@
       "Fatal": 1,
       "Minor": 8,
       "Moderate": 1,
-      "Not Reported": 1554,
+      "Not Reported": 1560,
       "Serious": 3
     }
   },

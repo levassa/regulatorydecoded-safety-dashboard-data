@@ -1,10 +1,10 @@
 [
   {
     "severity": "Fatal",
-    "total": 649,
+    "total": 650,
     "total_injuries": 0,
     "by_region": {
-      "Australia": 18,
+      "Australia": 19,
       "Canada": 0,
       "EU / EEA": 0,
       "France": 0,
@@ -499,7 +499,7 @@
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
       "Tools & Machinery": 0,
-      "Toys & Childcare": 3,
+      "Toys & Childcare": 4,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
       "Truck - Med. & H.D. - Bus": 0,
@@ -532,7 +532,7 @@
       "Other": 121,
       "Radiation": 0,
       "Sharp Edges / Points": 21,
-      "Small Parts / Choking Hazard": 98
+      "Small Parts / Choking Hazard": 99
     }
   },
   {
@@ -1609,10 +1609,10 @@
   },
   {
     "severity": "Minor",
-    "total": 6002,
+    "total": 6001,
     "total_injuries": 0,
     "by_region": {
-      "Australia": 4,
+      "Australia": 3,
       "Canada": 4326,
       "EU / EEA": 0,
       "France": 0,
@@ -2107,7 +2107,7 @@
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
       "Tools & Machinery": 0,
-      "Toys & Childcare": 4,
+      "Toys & Childcare": 3,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
       "Truck - Med. & H.D. - Bus": 0,
@@ -2128,7 +2128,7 @@
     },
     "by_hazard_type": {
       "Allergen": 622,
-      "Chemical / Toxic Substance": 77,
+      "Chemical / Toxic Substance": 76,
       "Drowning Risk": 66,
       "Electrical Fault": 155,
       "Entrapment": 25,
@@ -2145,14 +2145,14 @@
   },
   {
     "severity": "Not Reported",
-    "total": 27864,
+    "total": 27870,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
       "Canada": 18095,
       "EU / EEA": 5000,
       "France": 3000,
-      "New Zealand": 1554,
+      "New Zealand": 1560,
       "USA": 1,
       "United Kingdom": 214
     },
@@ -2643,7 +2643,7 @@
       "Suv - Truck - Med. & H.D.": 1,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 1,
       "Tools & Machinery": 847,
-      "Toys & Childcare": 2224,
+      "Toys & Childcare": 2230,
       "Truck - Med. & H.D.": 973,
       "Truck - Med. & H.D. - A.T.V.": 1,
       "Truck - Med. & H.D. - Bus": 5,
@@ -2664,16 +2664,16 @@
     },
     "by_hazard_type": {
       "Allergen": 445,
-      "Chemical / Toxic Substance": 583,
-      "Drowning Risk": 120,
+      "Chemical / Toxic Substance": 582,
+      "Drowning Risk": 121,
       "Electrical Fault": 1370,
       "Entrapment": 95,
       "Explosion": 40,
-      "Flammability / Overheating": 869,
+      "Flammability / Overheating": 870,
       "Instability / Fall Risk": 318,
       "Mechanical Failure": 39,
       "Microbiological Contamination": 89,
-      "Other": 21579,
+      "Other": 21584,
       "Radiation": 1619,
       "Sharp Edges / Points": 179,
       "Small Parts / Choking Hazard": 519

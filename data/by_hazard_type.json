@@ -1,14 +1,14 @@
 [
   {
     "hazard_type": "Other",
-    "total": 35311,
+    "total": 35316,
     "by_source": {
       "ACCC": 0,
       "CPSC": 379,
       "EU Safety Gate": 5000,
       "FDA": 1896,
       "Health Canada": 23337,
-      "NZ Product Safety": 1453,
+      "NZ Product Safety": 1458,
       "OPSS": 246,
       "RappelConso": 3000
     }
@@ -43,7 +43,7 @@
   },
   {
     "hazard_type": "Flammability / Overheating",
-    "total": 1736,
+    "total": 1737,
     "by_source": {
       "ACCC": 5,
       "CPSC": 510,
@@ -51,7 +51,7 @@
       "FDA": 38,
       "Health Canada": 870,
       "NZ Product Safety": 22,
-      "OPSS": 291,
+      "OPSS": 292,
       "RappelConso": 0
     }
   },
@@ -85,23 +85,23 @@
   },
   {
     "hazard_type": "Chemical / Toxic Substance",
-    "total": 1047,
+    "total": 1045,
     "by_source": {
-      "ACCC": 1,
+      "ACCC": 0,
       "CPSC": 175,
       "EU Safety Gate": 0,
       "FDA": 189,
       "Health Canada": 580,
       "NZ Product Safety": 16,
-      "OPSS": 86,
+      "OPSS": 85,
       "RappelConso": 0
     }
   },
   {
     "hazard_type": "Small Parts / Choking Hazard",
-    "total": 925,
+    "total": 926,
     "by_source": {
-      "ACCC": 10,
+      "ACCC": 11,
       "CPSC": 214,
       "EU Safety Gate": 0,
       "FDA": 7,
@@ -169,14 +169,14 @@
   },
   {
     "hazard_type": "Drowning Risk",
-    "total": 304,
+    "total": 305,
     "by_source": {
       "ACCC": 1,
       "CPSC": 42,
       "EU Safety Gate": 0,
       "FDA": 71,
       "Health Canada": 120,
-      "NZ Product Safety": 35,
+      "NZ Product Safety": 36,
       "OPSS": 35,
       "RappelConso": 0
     }
