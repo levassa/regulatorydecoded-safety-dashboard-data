@@ -3711,9 +3711,9 @@
     "Allergen": 4,
     "Chemical / Toxic Substance": 5,
     "Electrical Fault": 14,
-    "Flammability / Overheating": 7,
-    "Microbiological Contamination": 7,
-    "Other": 39,
+    "Flammability / Overheating": 8,
+    "Microbiological Contamination": 8,
+    "Other": 44,
     "Radiation": 2,
     "Small Parts / Choking Hazard": 8
   }

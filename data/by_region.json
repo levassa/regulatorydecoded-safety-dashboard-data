@@ -518,7 +518,7 @@
   },
   {
     "region": "Canada",
-    "total": 33920,
+    "total": 33926,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -791,7 +791,7 @@
       "Dental - General And Plastic Surgery - General Hospital And Personal Use": 1,
       "Dental - General Hospital And Personal Use": 2,
       "Dental - Orthopaedics - General And Plastic Surgery": 1,
-      "Drugs": 2782,
+      "Drugs": 2784,
       "Drugs - Biologic Or Vaccine": 8,
       "Drugs - Cannabis": 1,
       "Drugs - Natural Health Products": 73,
@@ -847,7 +847,7 @@
       "General Hospital And Personal Use - Ophthalmology": 1,
       "General Hospital And Personal Use - Orthopaedics": 2,
       "General Hospital And Personal Use - Radiology": 6,
-      "Grain Products": 29,
+      "Grain Products": 30,
       "Grain Products - Cereal": 1,
       "Haematology": 66,
       "Haematology - Pathology": 2,
@@ -862,7 +862,7 @@
       "Hobby And Craft Items - Household Items - Other": 1,
       "Hobby And Craft Items - Jewellery": 1,
       "Hobby And Craft Items - Other": 5,
-      "Household Items": 1267,
+      "Household Items": 1268,
       "Household Items - Other": 122,
       "Household Items - Specialized Products": 15,
       "Household Items - Veterinary Drugs": 1,
@@ -903,7 +903,7 @@
       "Low Speed Motorcycle": 2,
       "Measuring Instruments": 0,
       "Meat And Poultry": 22,
-      "Medical Devices": 6801,
+      "Medical Devices": 6802,
       "Microbiology": 29,
       "Microbiology - Ophthalmology": 1,
       "Minivan": 107,
@@ -1023,13 +1023,13 @@
       "Truck - Med. & H.D. - Suv - Light Truck & Van - Car": 1,
       "Truck - Med. & H.D. - Suv - Light Truck & Van - Chassis Cab": 1,
       "Vaping And Tobacco Products": 11,
-      "Veterinary Drugs": 54
+      "Veterinary Drugs": 55
     },
     "by_severity": {
       "Fatal": 0,
-      "Minor": 4326,
-      "Moderate": 8617,
-      "Not Reported": 18095,
+      "Minor": 4328,
+      "Moderate": 8619,
+      "Not Reported": 18097,
       "Serious": 2882
     }
   },

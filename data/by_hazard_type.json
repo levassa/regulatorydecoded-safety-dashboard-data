@@ -1,15 +1,15 @@
 [
   {
     "hazard_type": "Other",
-    "total": 35316,
+    "total": 35321,
     "by_source": {
       "ACCC": 0,
       "CPSC": 379,
       "EU Safety Gate": 5000,
       "FDA": 1896,
-      "Health Canada": 23337,
+      "Health Canada": 23341,
       "NZ Product Safety": 1458,
-      "OPSS": 246,
+      "OPSS": 247,
       "RappelConso": 3000
     }
   },
@@ -29,13 +29,13 @@
   },
   {
     "hazard_type": "Microbiological Contamination",
-    "total": 2723,
+    "total": 2724,
     "by_source": {
       "ACCC": 0,
       "CPSC": 11,
       "EU Safety Gate": 0,
       "FDA": 827,
-      "Health Canada": 1875,
+      "Health Canada": 1876,
       "NZ Product Safety": 1,
       "OPSS": 9,
       "RappelConso": 0
@@ -43,13 +43,13 @@
   },
   {
     "hazard_type": "Flammability / Overheating",
-    "total": 1737,
+    "total": 1738,
     "by_source": {
       "ACCC": 5,
       "CPSC": 510,
       "EU Safety Gate": 0,
       "FDA": 38,
-      "Health Canada": 870,
+      "Health Canada": 871,
       "NZ Product Safety": 22,
       "OPSS": 292,
       "RappelConso": 0
@@ -155,7 +155,7 @@
   },
   {
     "hazard_type": "Entrapment",
-    "total": 335,
+    "total": 334,
     "by_source": {
       "ACCC": 0,
       "CPSC": 207,
@@ -163,7 +163,7 @@
       "FDA": 8,
       "Health Canada": 96,
       "NZ Product Safety": 4,
-      "OPSS": 20,
+      "OPSS": 19,
       "RappelConso": 0
     }
   },
