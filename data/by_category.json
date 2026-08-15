@@ -15,13 +15,13 @@
   },
   {
     "product_category": "Other",
-    "total": 6738,
+    "total": 6758,
     "by_source": {
       "ACCC": 0,
-      "CPSC": 2190,
+      "CPSC": 2208,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 548,
+      "Health Canada": 550,
       "NZ Product Safety": 0,
       "OPSS": 1000,
       "RappelConso": 3000
@@ -29,13 +29,13 @@
   },
   {
     "product_category": "Food & Food Contact",
-    "total": 6393,
+    "total": 6394,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 2000,
-      "Health Canada": 4391,
+      "Health Canada": 4392,
       "NZ Product Safety": 2,
       "OPSS": 0,
       "RappelConso": 0
@@ -127,13 +127,13 @@
   },
   {
     "product_category": "Household Items",
-    "total": 1268,
+    "total": 1270,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 1268,
+      "Health Canada": 1270,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -309,13 +309,13 @@
   },
   {
     "product_category": "General Hospital And Personal Use",
-    "total": 398,
+    "total": 399,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 398,
+      "Health Canada": 399,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -365,13 +365,13 @@
   },
   {
     "product_category": "Cardiovascular",
-    "total": 248,
+    "total": 249,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 248,
+      "Health Canada": 249,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -631,13 +631,13 @@
   },
   {
     "product_category": "Dairy",
-    "total": 84,
+    "total": 85,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 84,
+      "Health Canada": 85,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -687,13 +687,13 @@
   },
   {
     "product_category": "Processed",
-    "total": 69,
+    "total": 70,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 69,
+      "Health Canada": 70,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0

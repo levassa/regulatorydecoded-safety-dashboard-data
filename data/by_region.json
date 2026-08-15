@@ -518,7 +518,7 @@
   },
   {
     "region": "Canada",
-    "total": 33926,
+    "total": 33935,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -745,7 +745,7 @@
       "Car - Suv - Light Truck & Van - Minivan": 1,
       "Car - Suv - Minivan": 2,
       "Car Parts And Accessories": 0,
-      "Cardiovascular": 248,
+      "Cardiovascular": 249,
       "Cardiovascular - Anaesthesiology": 1,
       "Cardiovascular - Chemistry": 1,
       "Cardiovascular - Gastroenterology And Urology": 2,
@@ -782,7 +782,7 @@
       "Consumer Products - Drugs": 7,
       "Consumer Products - Natural Health Products": 1,
       "Cosmetics & Personal Care": 199,
-      "Dairy": 84,
+      "Dairy": 85,
       "Dairy - Other": 1,
       "Decorations, Candles And Novelties": 0,
       "Decorative Articles": 0,
@@ -809,7 +809,7 @@
       "Electric Or Gas Products": 0,
       "Electric Or Gas Productsbuilding Products": 0,
       "Electrical & Electronics": 427,
-      "Food & Food Contact": 4391,
+      "Food & Food Contact": 4392,
       "Fresh": 93,
       "Frozen": 74,
       "Frozen - Herbs And Spices": 1,
@@ -834,7 +834,7 @@
       "General And Plastic Surgery - General Hospital And Personal Use": 12,
       "General And Plastic Surgery - Obstetrics And Gynaecology": 1,
       "General And Plastic Surgery - Orthopaedics": 1,
-      "General Hospital And Personal Use": 398,
+      "General Hospital And Personal Use": 399,
       "General Hospital And Personal Use - Cardiovascular": 5,
       "General Hospital And Personal Use - Cardiovascular - General And Plastic Surgery": 1,
       "General Hospital And Personal Use - Chemistry - Microbiology - Ophthalmology - Haematology": 1,
@@ -862,7 +862,7 @@
       "Hobby And Craft Items - Household Items - Other": 1,
       "Hobby And Craft Items - Jewellery": 1,
       "Hobby And Craft Items - Other": 5,
-      "Household Items": 1268,
+      "Household Items": 1270,
       "Household Items - Other": 122,
       "Household Items - Specialized Products": 15,
       "Household Items - Veterinary Drugs": 1,
@@ -938,7 +938,7 @@
       "Ophthalmology": 30,
       "Ophthalmology - General Hospital And Personal Use": 1,
       "Orthopaedics": 98,
-      "Other": 548,
+      "Other": 550,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -965,7 +965,7 @@
       "Pathology": 22,
       "Pet Products": 0,
       "Physical Medicine": 44,
-      "Processed": 69,
+      "Processed": 70,
       "Processed - Canned": 2,
       "Processed - Frozen": 2,
       "Processed - Fruits And Vegetables": 1,
@@ -1027,9 +1027,9 @@
     },
     "by_severity": {
       "Fatal": 0,
-      "Minor": 4328,
-      "Moderate": 8619,
-      "Not Reported": 18097,
+      "Minor": 4329,
+      "Moderate": 8624,
+      "Not Reported": 18100,
       "Serious": 2882
     }
   },
@@ -2586,7 +2586,7 @@
   },
   {
     "region": "USA",
-    "total": 6190,
+    "total": 6208,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -3006,7 +3006,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 2190,
+      "Other": 2208,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -3094,9 +3094,9 @@
       "Veterinary Drugs": 0
     },
     "by_severity": {
-      "Fatal": 625,
-      "Minor": 885,
-      "Moderate": 628,
+      "Fatal": 638,
+      "Minor": 888,
+      "Moderate": 630,
       "Not Reported": 1,
       "Serious": 4051
     }
@@ -3612,9 +3612,9 @@
     },
     "by_severity": {
       "Fatal": 5,
-      "Minor": 779,
+      "Minor": 780,
       "Moderate": 0,
-      "Not Reported": 214,
+      "Not Reported": 213,
       "Serious": 2
     }
   }

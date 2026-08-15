@@ -1,7 +1,7 @@
 [
   {
     "severity": "Fatal",
-    "total": 650,
+    "total": 663,
     "total_injuries": 0,
     "by_region": {
       "Australia": 19,
@@ -9,7 +9,7 @@
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 1,
-      "USA": 625,
+      "USA": 638,
       "United Kingdom": 5
     },
     "by_category": {
@@ -431,7 +431,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 606,
+      "Other": 619,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -520,19 +520,19 @@
     },
     "by_hazard_type": {
       "Allergen": 0,
-      "Chemical / Toxic Substance": 81,
+      "Chemical / Toxic Substance": 82,
       "Drowning Risk": 5,
-      "Electrical Fault": 26,
-      "Entrapment": 160,
+      "Electrical Fault": 28,
+      "Entrapment": 161,
       "Explosion": 7,
-      "Flammability / Overheating": 63,
-      "Instability / Fall Risk": 28,
+      "Flammability / Overheating": 66,
+      "Instability / Fall Risk": 29,
       "Mechanical Failure": 37,
       "Microbiological Contamination": 2,
-      "Other": 121,
+      "Other": 124,
       "Radiation": 0,
-      "Sharp Edges / Points": 21,
-      "Small Parts / Choking Hazard": 99
+      "Sharp Edges / Points": 22,
+      "Small Parts / Choking Hazard": 100
     }
   },
   {
@@ -1073,15 +1073,15 @@
   },
   {
     "severity": "Moderate",
-    "total": 9248,
+    "total": 9255,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
-      "Canada": 8619,
+      "Canada": 8624,
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 1,
-      "USA": 628,
+      "USA": 630,
       "United Kingdom": 0
     },
     "by_category": {
@@ -1310,7 +1310,7 @@
       "Car - Suv - Light Truck & Van - Minivan": 0,
       "Car - Suv - Minivan": 0,
       "Car Parts And Accessories": 0,
-      "Cardiovascular": 194,
+      "Cardiovascular": 195,
       "Cardiovascular - Anaesthesiology": 0,
       "Cardiovascular - Chemistry": 1,
       "Cardiovascular - Gastroenterology And Urology": 2,
@@ -1374,7 +1374,7 @@
       "Electric Or Gas Products": 0,
       "Electric Or Gas Productsbuilding Products": 0,
       "Electrical & Electronics": 0,
-      "Food & Food Contact": 1339,
+      "Food & Food Contact": 1340,
       "Fresh": 48,
       "Frozen": 25,
       "Frozen - Herbs And Spices": 0,
@@ -1399,7 +1399,7 @@
       "General And Plastic Surgery - General Hospital And Personal Use": 11,
       "General And Plastic Surgery - Obstetrics And Gynaecology": 1,
       "General And Plastic Surgery - Orthopaedics": 1,
-      "General Hospital And Personal Use": 347,
+      "General Hospital And Personal Use": 348,
       "General Hospital And Personal Use - Cardiovascular": 2,
       "General Hospital And Personal Use - Cardiovascular - General And Plastic Surgery": 1,
       "General Hospital And Personal Use - Chemistry - Microbiology - Ophthalmology - Haematology": 1,
@@ -1503,7 +1503,7 @@
       "Ophthalmology": 29,
       "Ophthalmology - General Hospital And Personal Use": 1,
       "Orthopaedics": 95,
-      "Other": 704,
+      "Other": 707,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -1530,7 +1530,7 @@
       "Pathology": 21,
       "Pet Products": 0,
       "Physical Medicine": 40,
-      "Processed": 26,
+      "Processed": 27,
       "Processed - Canned": 0,
       "Processed - Frozen": 2,
       "Processed - Fruits And Vegetables": 0,
@@ -1591,34 +1591,34 @@
       "Veterinary Drugs": 22
     },
     "by_hazard_type": {
-      "Allergen": 702,
+      "Allergen": 704,
       "Chemical / Toxic Substance": 108,
       "Drowning Risk": 35,
-      "Electrical Fault": 49,
+      "Electrical Fault": 50,
       "Entrapment": 41,
       "Explosion": 55,
       "Flammability / Overheating": 126,
       "Instability / Fall Risk": 65,
       "Mechanical Failure": 160,
-      "Microbiological Contamination": 723,
-      "Other": 6988,
+      "Microbiological Contamination": 724,
+      "Other": 6990,
       "Radiation": 30,
       "Sharp Edges / Points": 103,
-      "Small Parts / Choking Hazard": 63
+      "Small Parts / Choking Hazard": 64
     }
   },
   {
     "severity": "Minor",
-    "total": 6003,
+    "total": 6008,
     "total_injuries": 0,
     "by_region": {
       "Australia": 3,
-      "Canada": 4328,
+      "Canada": 4329,
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 8,
-      "USA": 885,
-      "United Kingdom": 779
+      "USA": 888,
+      "United Kingdom": 780
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
@@ -1883,7 +1883,7 @@
       "Consumer Products - Drugs": 0,
       "Consumer Products - Natural Health Products": 0,
       "Cosmetics & Personal Care": 0,
-      "Dairy": 14,
+      "Dairy": 15,
       "Dairy - Other": 0,
       "Decorations, Candles And Novelties": 0,
       "Decorative Articles": 0,
@@ -2039,7 +2039,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 1762,
+      "Other": 1766,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -2130,31 +2130,31 @@
       "Allergen": 622,
       "Chemical / Toxic Substance": 76,
       "Drowning Risk": 66,
-      "Electrical Fault": 155,
+      "Electrical Fault": 152,
       "Entrapment": 25,
       "Explosion": 48,
-      "Flammability / Overheating": 628,
+      "Flammability / Overheating": 629,
       "Instability / Fall Risk": 76,
       "Mechanical Failure": 89,
-      "Microbiological Contamination": 149,
-      "Other": 3755,
+      "Microbiological Contamination": 150,
+      "Other": 3757,
       "Radiation": 10,
-      "Sharp Edges / Points": 70,
-      "Small Parts / Choking Hazard": 234
+      "Sharp Edges / Points": 71,
+      "Small Parts / Choking Hazard": 237
     }
   },
   {
     "severity": "Not Reported",
-    "total": 27872,
+    "total": 27874,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
-      "Canada": 18097,
+      "Canada": 18100,
       "EU / EEA": 5000,
       "France": 3000,
       "New Zealand": 1560,
       "USA": 1,
-      "United Kingdom": 214
+      "United Kingdom": 213
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
@@ -2499,7 +2499,7 @@
       "Hobby And Craft Items - Household Items - Other": 1,
       "Hobby And Craft Items - Jewellery": 1,
       "Hobby And Craft Items - Other": 5,
-      "Household Items": 1268,
+      "Household Items": 1270,
       "Household Items - Other": 122,
       "Household Items - Specialized Products": 15,
       "Household Items - Veterinary Drugs": 1,
@@ -2669,14 +2669,14 @@
       "Electrical Fault": 1370,
       "Entrapment": 94,
       "Explosion": 40,
-      "Flammability / Overheating": 871,
+      "Flammability / Overheating": 870,
       "Instability / Fall Risk": 318,
       "Mechanical Failure": 39,
-      "Microbiological Contamination": 89,
-      "Other": 21586,
+      "Microbiological Contamination": 90,
+      "Other": 21587,
       "Radiation": 1619,
       "Sharp Edges / Points": 179,
-      "Small Parts / Choking Hazard": 519
+      "Small Parts / Choking Hazard": 520
     }
   }
 ]
