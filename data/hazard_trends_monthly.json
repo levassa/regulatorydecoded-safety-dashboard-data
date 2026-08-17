@@ -3712,8 +3712,8 @@
     "Chemical / Toxic Substance": 7,
     "Electrical Fault": 17,
     "Flammability / Overheating": 14,
-    "Microbiological Contamination": 12,
-    "Other": 61,
+    "Microbiological Contamination": 13,
+    "Other": 62,
     "Radiation": 2,
     "Small Parts / Choking Hazard": 17
   }

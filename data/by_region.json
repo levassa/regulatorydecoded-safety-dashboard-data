@@ -291,7 +291,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 0,
       "Electric Or Gas Productsbuilding Products": 0,
-      "Electrical & Electronics": 9,
+      "Electrical & Electronics": 10,
       "Food & Food Contact": 0,
       "Fresh": 0,
       "Frozen": 0,
@@ -490,7 +490,7 @@
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
       "Tools & Machinery": 1,
-      "Toys & Childcare": 5,
+      "Toys & Childcare": 4,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
       "Truck - Med. & H.D. - Bus": 0,
@@ -519,7 +519,7 @@
   },
   {
     "region": "Canada",
-    "total": 33942,
+    "total": 33944,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -792,7 +792,7 @@
       "Dental - General And Plastic Surgery - General Hospital And Personal Use": 1,
       "Dental - General Hospital And Personal Use": 2,
       "Dental - Orthopaedics - General And Plastic Surgery": 1,
-      "Drugs": 2784,
+      "Drugs": 2785,
       "Drugs - Biologic Or Vaccine": 8,
       "Drugs - Cannabis": 1,
       "Drugs - Natural Health Products": 73,
@@ -967,7 +967,7 @@
       "Pathology": 22,
       "Pet Products": 0,
       "Physical Medicine": 44,
-      "Processed": 70,
+      "Processed": 71,
       "Processed - Canned": 2,
       "Processed - Frozen": 2,
       "Processed - Fruits And Vegetables": 1,
@@ -1032,7 +1032,7 @@
       "Minor": 4329,
       "Moderate": 8626,
       "Not Reported": 18102,
-      "Serious": 2885
+      "Serious": 2887
     }
   },
   {
