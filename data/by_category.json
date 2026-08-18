@@ -43,13 +43,13 @@
   },
   {
     "product_category": "Drugs",
-    "total": 2785,
+    "total": 2786,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 2785,
+      "Health Canada": 2786,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -57,9 +57,9 @@
   },
   {
     "product_category": "Toys & Childcare",
-    "total": 2245,
+    "total": 2246,
     "by_source": {
-      "ACCC": 4,
+      "ACCC": 5,
       "CPSC": 0,
       "EU Safety Gate": 1032,
       "FDA": 0,
@@ -85,9 +85,9 @@
   },
   {
     "product_category": "Electrical & Electronics",
-    "total": 1578,
+    "total": 1577,
     "by_source": {
-      "ACCC": 10,
+      "ACCC": 9,
       "CPSC": 0,
       "EU Safety Gate": 899,
       "FDA": 0,
@@ -519,13 +519,13 @@
   },
   {
     "product_category": "Gastroenterology And Urology",
-    "total": 107,
+    "total": 108,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 107,
+      "Health Canada": 108,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -631,13 +631,13 @@
   },
   {
     "product_category": "Dairy",
-    "total": 86,
+    "total": 87,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 86,
+      "Health Canada": 87,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -1036,6 +1036,20 @@
     }
   },
   {
+    "product_category": "Meat And Poultry",
+    "total": 23,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 23,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
     "product_category": "Motor Tricycle",
     "total": 23,
     "by_source": {
@@ -1065,20 +1079,6 @@
   },
   {
     "product_category": "Pathology",
-    "total": 22,
-    "by_source": {
-      "ACCC": 0,
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 22,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Meat And Poultry",
     "total": 22,
     "by_source": {
       "ACCC": 0,

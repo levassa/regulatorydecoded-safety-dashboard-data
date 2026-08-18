@@ -1,29 +1,29 @@
 [
   {
     "injury_type": "Not Specified",
-    "total": 45417,
+    "total": 45424,
     "by_source": {
       "ACCC": 4,
       "CPSC": 336,
       "EU Safety Gate": 5000,
-      "FDA": 3273,
-      "Health Canada": 31670,
+      "FDA": 3274,
+      "Health Canada": 31674,
       "NZ Product Safety": 1525,
-      "OPSS": 609,
+      "OPSS": 611,
       "RappelConso": 3000
     }
   },
   {
     "injury_type": "Choking / Suffocation",
-    "total": 951,
+    "total": 948,
     "by_source": {
-      "ACCC": 4,
+      "ACCC": 6,
       "CPSC": 231,
       "EU Safety Gate": 0,
       "FDA": 6,
       "Health Canada": 513,
       "NZ Product Safety": 0,
-      "OPSS": 197,
+      "OPSS": 192,
       "RappelConso": 0
     }
   },
@@ -85,12 +85,12 @@
   },
   {
     "injury_type": "Fracture / Blunt Trauma",
-    "total": 365,
+    "total": 364,
     "by_source": {
       "ACCC": 0,
       "CPSC": 138,
       "EU Safety Gate": 0,
-      "FDA": 141,
+      "FDA": 140,
       "Health Canada": 83,
       "NZ Product Safety": 3,
       "OPSS": 0,
@@ -126,22 +126,8 @@
     }
   },
   {
-    "injury_type": "Entrapment",
-    "total": 273,
-    "by_source": {
-      "ACCC": 0,
-      "CPSC": 180,
-      "EU Safety Gate": 0,
-      "FDA": 3,
-      "Health Canada": 71,
-      "NZ Product Safety": 0,
-      "OPSS": 19,
-      "RappelConso": 0
-    }
-  },
-  {
     "injury_type": "Electric Shock",
-    "total": 266,
+    "total": 273,
     "by_source": {
       "ACCC": 1,
       "CPSC": 64,
@@ -149,7 +135,21 @@
       "FDA": 14,
       "Health Canada": 66,
       "NZ Product Safety": 4,
-      "OPSS": 117,
+      "OPSS": 124,
+      "RappelConso": 0
+    }
+  },
+  {
+    "injury_type": "Entrapment",
+    "total": 269,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 180,
+      "EU Safety Gate": 0,
+      "FDA": 3,
+      "Health Canada": 71,
+      "NZ Product Safety": 0,
+      "OPSS": 15,
       "RappelConso": 0
     }
   },
@@ -169,9 +169,9 @@
   },
   {
     "injury_type": "Respiratory",
-    "total": 150,
+    "total": 149,
     "by_source": {
-      "ACCC": 7,
+      "ACCC": 6,
       "CPSC": 40,
       "EU Safety Gate": 0,
       "FDA": 35,
@@ -197,9 +197,9 @@
   },
   {
     "injury_type": "Drowning",
-    "total": 68,
+    "total": 67,
     "by_source": {
-      "ACCC": 1,
+      "ACCC": 0,
       "CPSC": 30,
       "EU Safety Gate": 0,
       "FDA": 0,

@@ -301,7 +301,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 0,
       "Electric Or Gas Productsbuilding Products": 0,
-      "Electrical & Electronics": 10,
+      "Electrical & Electronics": 9,
       "Food & Food Contact": 5,
       "Fresh": 0,
       "Frozen": 0,
@@ -500,7 +500,7 @@
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
       "Tools & Machinery": 0,
-      "Toys & Childcare": 3,
+      "Toys & Childcare": 4,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
       "Truck - Med. & H.D. - Bus": 0,
@@ -522,7 +522,7 @@
     "by_hazard_type": {
       "Allergen": 0,
       "Chemical / Toxic Substance": 82,
-      "Drowning Risk": 5,
+      "Drowning Risk": 4,
       "Electrical Fault": 28,
       "Entrapment": 161,
       "Explosion": 8,
@@ -533,16 +533,16 @@
       "Other": 124,
       "Radiation": 0,
       "Sharp Edges / Points": 22,
-      "Small Parts / Choking Hazard": 99
+      "Small Parts / Choking Hazard": 100
     }
   },
   {
     "severity": "Serious",
-    "total": 6946,
+    "total": 6949,
     "total_injuries": 0,
     "by_region": {
       "Australia": 3,
-      "Canada": 2887,
+      "Canada": 2890,
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 3,
@@ -821,7 +821,7 @@
       "Dental - General And Plastic Surgery - General Hospital And Personal Use": 0,
       "Dental - General Hospital And Personal Use": 0,
       "Dental - Orthopaedics - General And Plastic Surgery": 0,
-      "Drugs": 377,
+      "Drugs": 378,
       "Drugs - Biologic Or Vaccine": 1,
       "Drugs - Cannabis": 0,
       "Drugs - Natural Health Products": 0,
@@ -846,7 +846,7 @@
       "Fruits And Vegetables": 7,
       "Furniture & Home": 1,
       "Gadgets": 0,
-      "Gastroenterology And Urology": 13,
+      "Gastroenterology And Urology": 14,
       "Gastroenterology And Urology - Anaesthesiology - Ear, Nose And Throat": 0,
       "Gastroenterology And Urology - Cardiovascular": 0,
       "Gastroenterology And Urology - Chemistry": 0,
@@ -933,7 +933,7 @@
       "Lighters": 0,
       "Low Speed Motorcycle": 0,
       "Measuring Instruments": 0,
-      "Meat And Poultry": 1,
+      "Meat And Poultry": 2,
       "Medical Devices": 2256,
       "Microbiology": 0,
       "Microbiology - Ophthalmology": 0,
@@ -1057,17 +1057,17 @@
       "Veterinary Drugs": 5
     },
     "by_hazard_type": {
-      "Allergen": 1454,
-      "Chemical / Toxic Substance": 198,
+      "Allergen": 1453,
+      "Chemical / Toxic Substance": 200,
       "Drowning Risk": 78,
       "Electrical Fault": 68,
       "Entrapment": 14,
       "Explosion": 72,
-      "Flammability / Overheating": 50,
+      "Flammability / Overheating": 51,
       "Instability / Fall Risk": 25,
-      "Mechanical Failure": 229,
-      "Microbiological Contamination": 1763,
-      "Other": 2873,
+      "Mechanical Failure": 228,
+      "Microbiological Contamination": 1766,
+      "Other": 2872,
       "Radiation": 50,
       "Sharp Edges / Points": 61,
       "Small Parts / Choking Hazard": 11
@@ -1075,11 +1075,11 @@
   },
   {
     "severity": "Moderate",
-    "total": 9257,
+    "total": 9258,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
-      "Canada": 8626,
+      "Canada": 8627,
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 1,
@@ -1349,7 +1349,7 @@
       "Consumer Products - Drugs": 0,
       "Consumer Products - Natural Health Products": 0,
       "Cosmetics & Personal Care": 0,
-      "Dairy": 31,
+      "Dairy": 32,
       "Dairy - Other": 0,
       "Decorations, Candles And Novelties": 0,
       "Decorative Articles": 0,
@@ -1603,7 +1603,7 @@
       "Flammability / Overheating": 126,
       "Instability / Fall Risk": 65,
       "Mechanical Failure": 160,
-      "Microbiological Contamination": 724,
+      "Microbiological Contamination": 725,
       "Other": 6991,
       "Radiation": 30,
       "Sharp Edges / Points": 103,
@@ -1612,7 +1612,7 @@
   },
   {
     "severity": "Minor",
-    "total": 6008,
+    "total": 6015,
     "total_injuries": 0,
     "by_region": {
       "Australia": 3,
@@ -1621,7 +1621,7 @@
       "France": 0,
       "New Zealand": 8,
       "USA": 888,
-      "United Kingdom": 780
+      "United Kingdom": 787
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
@@ -2043,7 +2043,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 1766,
+      "Other": 1773,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -2134,22 +2134,22 @@
       "Allergen": 622,
       "Chemical / Toxic Substance": 76,
       "Drowning Risk": 66,
-      "Electrical Fault": 152,
+      "Electrical Fault": 159,
       "Entrapment": 25,
-      "Explosion": 48,
-      "Flammability / Overheating": 629,
+      "Explosion": 49,
+      "Flammability / Overheating": 633,
       "Instability / Fall Risk": 76,
       "Mechanical Failure": 89,
       "Microbiological Contamination": 150,
       "Other": 3757,
       "Radiation": 10,
       "Sharp Edges / Points": 71,
-      "Small Parts / Choking Hazard": 237
+      "Small Parts / Choking Hazard": 232
     }
   },
   {
     "severity": "Not Reported",
-    "total": 27876,
+    "total": 27869,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
@@ -2158,7 +2158,7 @@
       "France": 3000,
       "New Zealand": 1560,
       "USA": 1,
-      "United Kingdom": 213
+      "United Kingdom": 206
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
@@ -2580,7 +2580,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 3534,
+      "Other": 3527,
       "Other -  Herbal Product For Smoking": 1,
       "Other - Back Patch, Recovery Tape": 1,
       "Other - Books": 1,
@@ -2669,16 +2669,16 @@
     },
     "by_hazard_type": {
       "Allergen": 445,
-      "Chemical / Toxic Substance": 582,
+      "Chemical / Toxic Substance": 579,
       "Drowning Risk": 121,
       "Electrical Fault": 1370,
-      "Entrapment": 94,
+      "Entrapment": 90,
       "Explosion": 40,
-      "Flammability / Overheating": 871,
+      "Flammability / Overheating": 870,
       "Instability / Fall Risk": 318,
       "Mechanical Failure": 39,
       "Microbiological Contamination": 90,
-      "Other": 21588,
+      "Other": 21589,
       "Radiation": 1619,
       "Sharp Edges / Points": 179,
       "Small Parts / Choking Hazard": 520

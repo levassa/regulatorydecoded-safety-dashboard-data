@@ -291,7 +291,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 0,
       "Electric Or Gas Productsbuilding Products": 0,
-      "Electrical & Electronics": 10,
+      "Electrical & Electronics": 9,
       "Food & Food Contact": 0,
       "Fresh": 0,
       "Frozen": 0,
@@ -490,7 +490,7 @@
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
       "Tools & Machinery": 1,
-      "Toys & Childcare": 4,
+      "Toys & Childcare": 5,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
       "Truck - Med. & H.D. - Bus": 0,
@@ -519,7 +519,7 @@
   },
   {
     "region": "Canada",
-    "total": 33944,
+    "total": 33948,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -783,7 +783,7 @@
       "Consumer Products - Drugs": 7,
       "Consumer Products - Natural Health Products": 1,
       "Cosmetics & Personal Care": 199,
-      "Dairy": 86,
+      "Dairy": 87,
       "Dairy - Other": 1,
       "Decorations, Candles And Novelties": 0,
       "Decorative Articles": 0,
@@ -792,7 +792,7 @@
       "Dental - General And Plastic Surgery - General Hospital And Personal Use": 1,
       "Dental - General Hospital And Personal Use": 2,
       "Dental - Orthopaedics - General And Plastic Surgery": 1,
-      "Drugs": 2785,
+      "Drugs": 2786,
       "Drugs - Biologic Or Vaccine": 8,
       "Drugs - Cannabis": 1,
       "Drugs - Natural Health Products": 73,
@@ -817,7 +817,7 @@
       "Fruits And Vegetables": 27,
       "Furniture & Home": 941,
       "Gadgets": 0,
-      "Gastroenterology And Urology": 107,
+      "Gastroenterology And Urology": 108,
       "Gastroenterology And Urology - Anaesthesiology - Ear, Nose And Throat": 1,
       "Gastroenterology And Urology - Cardiovascular": 1,
       "Gastroenterology And Urology - Chemistry": 1,
@@ -904,7 +904,7 @@
       "Lighters": 0,
       "Low Speed Motorcycle": 2,
       "Measuring Instruments": 0,
-      "Meat And Poultry": 22,
+      "Meat And Poultry": 23,
       "Medical Devices": 6802,
       "Microbiology": 29,
       "Microbiology - Ophthalmology": 1,
@@ -1030,9 +1030,9 @@
     "by_severity": {
       "Fatal": 0,
       "Minor": 4329,
-      "Moderate": 8626,
+      "Moderate": 8627,
       "Not Reported": 18102,
-      "Serious": 2887
+      "Serious": 2890
     }
   },
   {
@@ -3619,9 +3619,9 @@
     },
     "by_severity": {
       "Fatal": 5,
-      "Minor": 780,
+      "Minor": 787,
       "Moderate": 0,
-      "Not Reported": 213,
+      "Not Reported": 206,
       "Serious": 2
     }
   }
