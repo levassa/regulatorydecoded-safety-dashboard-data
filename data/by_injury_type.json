@@ -15,7 +15,7 @@
   },
   {
     "injury_type": "Choking / Suffocation",
-    "total": 948,
+    "total": 947,
     "by_source": {
       "ACCC": 6,
       "CPSC": 231,
@@ -23,7 +23,7 @@
       "FDA": 6,
       "Health Canada": 513,
       "NZ Product Safety": 0,
-      "OPSS": 192,
+      "OPSS": 191,
       "RappelConso": 0
     }
   },
@@ -43,7 +43,7 @@
   },
   {
     "injury_type": "Laceration / Cut",
-    "total": 670,
+    "total": 671,
     "by_source": {
       "ACCC": 1,
       "CPSC": 179,
@@ -51,7 +51,7 @@
       "FDA": 115,
       "Health Canada": 362,
       "NZ Product Safety": 10,
-      "OPSS": 3,
+      "OPSS": 4,
       "RappelConso": 0
     }
   },

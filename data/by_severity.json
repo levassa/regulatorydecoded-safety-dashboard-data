@@ -1612,7 +1612,7 @@
   },
   {
     "severity": "Minor",
-    "total": 6015,
+    "total": 6019,
     "total_injuries": 0,
     "by_region": {
       "Australia": 3,
@@ -1621,7 +1621,7 @@
       "France": 0,
       "New Zealand": 8,
       "USA": 888,
-      "United Kingdom": 787
+      "United Kingdom": 791
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
@@ -2043,7 +2043,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 1773,
+      "Other": 1777,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -2136,12 +2136,12 @@
       "Drowning Risk": 66,
       "Electrical Fault": 159,
       "Entrapment": 25,
-      "Explosion": 49,
-      "Flammability / Overheating": 633,
+      "Explosion": 50,
+      "Flammability / Overheating": 635,
       "Instability / Fall Risk": 76,
       "Mechanical Failure": 89,
       "Microbiological Contamination": 150,
-      "Other": 3757,
+      "Other": 3758,
       "Radiation": 10,
       "Sharp Edges / Points": 71,
       "Small Parts / Choking Hazard": 232
@@ -2149,7 +2149,7 @@
   },
   {
     "severity": "Not Reported",
-    "total": 27869,
+    "total": 27865,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
@@ -2158,7 +2158,7 @@
       "France": 3000,
       "New Zealand": 1560,
       "USA": 1,
-      "United Kingdom": 206
+      "United Kingdom": 202
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
@@ -2580,7 +2580,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 3527,
+      "Other": 3523,
       "Other -  Herbal Product For Smoking": 1,
       "Other - Back Patch, Recovery Tape": 1,
       "Other - Books": 1,
@@ -2674,14 +2674,14 @@
       "Electrical Fault": 1370,
       "Entrapment": 90,
       "Explosion": 40,
-      "Flammability / Overheating": 870,
+      "Flammability / Overheating": 869,
       "Instability / Fall Risk": 318,
       "Mechanical Failure": 39,
       "Microbiological Contamination": 90,
-      "Other": 21589,
+      "Other": 21587,
       "Radiation": 1619,
       "Sharp Edges / Points": 179,
-      "Small Parts / Choking Hazard": 520
+      "Small Parts / Choking Hazard": 519
     }
   }
 ]

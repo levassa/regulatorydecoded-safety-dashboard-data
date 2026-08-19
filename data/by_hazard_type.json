@@ -1,7 +1,7 @@
 [
   {
     "hazard_type": "Other",
-    "total": 35333,
+    "total": 35332,
     "by_source": {
       "ACCC": 0,
       "CPSC": 384,
@@ -9,7 +9,7 @@
       "FDA": 1893,
       "Health Canada": 23350,
       "NZ Product Safety": 1458,
-      "OPSS": 248,
+      "OPSS": 247,
       "RappelConso": 3000
     }
   },
@@ -43,7 +43,7 @@
   },
   {
     "hazard_type": "Flammability / Overheating",
-    "total": 1746,
+    "total": 1747,
     "by_source": {
       "ACCC": 5,
       "CPSC": 513,
@@ -51,7 +51,7 @@
       "FDA": 39,
       "Health Canada": 872,
       "NZ Product Safety": 22,
-      "OPSS": 295,
+      "OPSS": 296,
       "RappelConso": 0
     }
   },
@@ -99,7 +99,7 @@
   },
   {
     "hazard_type": "Small Parts / Choking Hazard",
-    "total": 927,
+    "total": 926,
     "by_source": {
       "ACCC": 11,
       "CPSC": 216,
@@ -107,7 +107,7 @@
       "FDA": 7,
       "Health Canada": 508,
       "NZ Product Safety": 1,
-      "OPSS": 184,
+      "OPSS": 183,
       "RappelConso": 0
     }
   },
@@ -183,7 +183,7 @@
   },
   {
     "hazard_type": "Explosion",
-    "total": 224,
+    "total": 225,
     "by_source": {
       "ACCC": 1,
       "CPSC": 31,
@@ -191,7 +191,7 @@
       "FDA": 68,
       "Health Canada": 115,
       "NZ Product Safety": 2,
-      "OPSS": 7,
+      "OPSS": 8,
       "RappelConso": 0
     }
   }
