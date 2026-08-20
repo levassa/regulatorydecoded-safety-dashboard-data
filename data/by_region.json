@@ -353,7 +353,7 @@
       "Immunology": 0,
       "Jewellery": 0,
       "Kitchen/Cooking Accessories": 0,
-      "Kitchenware And Containers": 2,
+      "Kitchenware And Containers": 1,
       "Kitchenware And Tableware": 0,
       "Koru3 March 2014Tyco, Vigilant Mx4428 And F4000 Fire Indicator Panels": 0,
       "Koruamoxicillin Actavis - Powder For Oral Suspension; Glass Fragments Found In Two Bottles": 0,
@@ -401,7 +401,7 @@
       "Minivan - Suv - Car": 0,
       "Motor Tricycle": 0,
       "Motor Tricycle - Motorcycle": 0,
-      "Motor Vehicles": 1,
+      "Motor Vehicles": 2,
       "Motorcycle": 0,
       "Motorcycle - Motor Tricycle": 0,
       "Natural Health Products": 0,
@@ -519,7 +519,7 @@
   },
   {
     "region": "Canada",
-    "total": 33948,
+    "total": 33949,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -792,7 +792,7 @@
       "Dental - General And Plastic Surgery - General Hospital And Personal Use": 1,
       "Dental - General Hospital And Personal Use": 2,
       "Dental - Orthopaedics - General And Plastic Surgery": 1,
-      "Drugs": 2786,
+      "Drugs": 2787,
       "Drugs - Biologic Or Vaccine": 8,
       "Drugs - Cannabis": 1,
       "Drugs - Natural Health Products": 73,
@@ -1031,7 +1031,7 @@
       "Fatal": 0,
       "Minor": 4329,
       "Moderate": 8627,
-      "Not Reported": 18102,
+      "Not Reported": 18103,
       "Serious": 2890
     }
   },
@@ -3619,9 +3619,9 @@
     },
     "by_severity": {
       "Fatal": 5,
-      "Minor": 791,
+      "Minor": 793,
       "Moderate": 0,
-      "Not Reported": 202,
+      "Not Reported": 200,
       "Serious": 2
     }
   }

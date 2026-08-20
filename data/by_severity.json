@@ -363,7 +363,7 @@
       "Immunology": 0,
       "Jewellery": 0,
       "Kitchen/Cooking Accessories": 0,
-      "Kitchenware And Containers": 1,
+      "Kitchenware And Containers": 0,
       "Kitchenware And Tableware": 0,
       "Koru3 March 2014Tyco, Vigilant Mx4428 And F4000 Fire Indicator Panels": 0,
       "Koruamoxicillin Actavis - Powder For Oral Suspension; Glass Fragments Found In Two Bottles": 0,
@@ -411,7 +411,7 @@
       "Minivan - Suv - Car": 0,
       "Motor Tricycle": 0,
       "Motor Tricycle - Motorcycle": 0,
-      "Motor Vehicles": 1,
+      "Motor Vehicles": 2,
       "Motorcycle": 0,
       "Motorcycle - Motor Tricycle": 0,
       "Natural Health Products": 0,
@@ -528,12 +528,12 @@
       "Explosion": 8,
       "Flammability / Overheating": 66,
       "Instability / Fall Risk": 29,
-      "Mechanical Failure": 37,
+      "Mechanical Failure": 38,
       "Microbiological Contamination": 2,
       "Other": 124,
       "Radiation": 0,
       "Sharp Edges / Points": 22,
-      "Small Parts / Choking Hazard": 100
+      "Small Parts / Choking Hazard": 99
     }
   },
   {
@@ -1612,7 +1612,7 @@
   },
   {
     "severity": "Minor",
-    "total": 6019,
+    "total": 6021,
     "total_injuries": 0,
     "by_region": {
       "Australia": 3,
@@ -1621,7 +1621,7 @@
       "France": 0,
       "New Zealand": 8,
       "USA": 888,
-      "United Kingdom": 791
+      "United Kingdom": 793
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
@@ -2043,7 +2043,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 1777,
+      "Other": 1779,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -2134,31 +2134,31 @@
       "Allergen": 622,
       "Chemical / Toxic Substance": 76,
       "Drowning Risk": 66,
-      "Electrical Fault": 159,
+      "Electrical Fault": 162,
       "Entrapment": 25,
       "Explosion": 50,
-      "Flammability / Overheating": 635,
+      "Flammability / Overheating": 633,
       "Instability / Fall Risk": 76,
       "Mechanical Failure": 89,
       "Microbiological Contamination": 150,
-      "Other": 3758,
+      "Other": 3757,
       "Radiation": 10,
       "Sharp Edges / Points": 71,
-      "Small Parts / Choking Hazard": 232
+      "Small Parts / Choking Hazard": 234
     }
   },
   {
     "severity": "Not Reported",
-    "total": 27865,
+    "total": 27864,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
-      "Canada": 18102,
+      "Canada": 18103,
       "EU / EEA": 5000,
       "France": 3000,
       "New Zealand": 1560,
       "USA": 1,
-      "United Kingdom": 202
+      "United Kingdom": 200
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
@@ -2432,7 +2432,7 @@
       "Dental - General And Plastic Surgery - General Hospital And Personal Use": 0,
       "Dental - General Hospital And Personal Use": 0,
       "Dental - Orthopaedics - General And Plastic Surgery": 0,
-      "Drugs": 1406,
+      "Drugs": 1407,
       "Drugs - Biologic Or Vaccine": 5,
       "Drugs - Cannabis": 1,
       "Drugs - Natural Health Products": 66,
@@ -2580,7 +2580,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 3523,
+      "Other": 3521,
       "Other -  Herbal Product For Smoking": 1,
       "Other - Back Patch, Recovery Tape": 1,
       "Other - Books": 1,
@@ -2669,16 +2669,16 @@
     },
     "by_hazard_type": {
       "Allergen": 445,
-      "Chemical / Toxic Substance": 579,
+      "Chemical / Toxic Substance": 578,
       "Drowning Risk": 121,
       "Electrical Fault": 1370,
       "Entrapment": 90,
       "Explosion": 40,
-      "Flammability / Overheating": 869,
+      "Flammability / Overheating": 868,
       "Instability / Fall Risk": 318,
       "Mechanical Failure": 39,
       "Microbiological Contamination": 90,
-      "Other": 21587,
+      "Other": 21588,
       "Radiation": 1619,
       "Sharp Edges / Points": 179,
       "Small Parts / Choking Hazard": 519
