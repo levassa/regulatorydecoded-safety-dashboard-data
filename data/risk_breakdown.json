@@ -1,7 +1,7 @@
 [
   {
     "risk_type": "Other",
-    "count": 15028,
+    "count": 15030,
     "percentage": 29.6
   },
   {
@@ -16,12 +16,12 @@
   },
   {
     "risk_type": "Fire",
-    "count": 1715,
+    "count": 1717,
     "percentage": 3.4
   },
   {
     "risk_type": "Performance",
-    "count": 1401,
+    "count": 1403,
     "percentage": 2.8
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "risk_type": "Injury",
-    "count": 933,
+    "count": 937,
     "percentage": 1.8
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "risk_type": "Choking",
-    "count": 741,
+    "count": 742,
     "percentage": 1.5
   },
   {
@@ -96,7 +96,7 @@
   },
   {
     "risk_type": "Chemical",
-    "count": 585,
+    "count": 587,
     "percentage": 1.2
   },
   {
@@ -155,13 +155,13 @@
     "percentage": 0.7
   },
   {
-    "risk_type": "Egg",
+    "risk_type": "Product Quality",
     "count": 320,
     "percentage": 0.6
   },
   {
-    "risk_type": "Product Quality",
-    "count": 319,
+    "risk_type": "Egg",
+    "count": 320,
     "percentage": 0.6
   },
   {
@@ -176,7 +176,7 @@
   },
   {
     "risk_type": "Burns",
-    "count": 252,
+    "count": 251,
     "percentage": 0.5
   },
   {
@@ -205,17 +205,17 @@
     "percentage": 0.3
   },
   {
+    "risk_type": "Sterility",
+    "count": 158,
+    "percentage": 0.3
+  },
+  {
     "risk_type": "High Voltage",
     "count": 158,
     "percentage": 0.3
   },
   {
     "risk_type": "Mustard",
-    "count": 157,
-    "percentage": 0.3
-  },
-  {
-    "risk_type": "Sterility",
     "count": 157,
     "percentage": 0.3
   },
@@ -236,7 +236,7 @@
   },
   {
     "risk_type": "Wheat",
-    "count": 113,
+    "count": 114,
     "percentage": 0.2
   },
   {
