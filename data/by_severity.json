@@ -2149,14 +2149,14 @@
   },
   {
     "severity": "Not Reported",
-    "total": 27873,
+    "total": 27874,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
       "Canada": 18109,
       "EU / EEA": 5000,
       "France": 3000,
-      "New Zealand": 1562,
+      "New Zealand": 1563,
       "USA": 1,
       "United Kingdom": 201
     },
@@ -2558,7 +2558,7 @@
       "Minivan - Suv - Car": 3,
       "Motor Tricycle": 23,
       "Motor Tricycle - Motorcycle": 2,
-      "Motor Vehicles": 1003,
+      "Motor Vehicles": 1004,
       "Motorcycle": 521,
       "Motorcycle - Motor Tricycle": 1,
       "Natural Health Products": 575,
@@ -2678,7 +2678,7 @@
       "Instability / Fall Risk": 319,
       "Mechanical Failure": 39,
       "Microbiological Contamination": 90,
-      "Other": 21593,
+      "Other": 21594,
       "Radiation": 1619,
       "Sharp Edges / Points": 179,
       "Small Parts / Choking Hazard": 520
