@@ -1,27 +1,27 @@
 [
   {
     "hazard_type": "Other",
-    "total": 35350,
+    "total": 35353,
     "by_source": {
       "ACCC": 0,
       "CPSC": 385,
       "EU Safety Gate": 5000,
-      "FDA": 1893,
-      "Health Canada": 23366,
-      "NZ Product Safety": 1461,
-      "OPSS": 245,
+      "FDA": 1894,
+      "Health Canada": 23368,
+      "NZ Product Safety": 1462,
+      "OPSS": 244,
       "RappelConso": 3000
     }
   },
   {
     "hazard_type": "Allergen",
-    "total": 3228,
+    "total": 3227,
     "by_source": {
       "ACCC": 0,
       "CPSC": 2,
       "EU Safety Gate": 0,
-      "FDA": 506,
-      "Health Canada": 2720,
+      "FDA": 504,
+      "Health Canada": 2721,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -29,12 +29,12 @@
   },
   {
     "hazard_type": "Microbiological Contamination",
-    "total": 2734,
+    "total": 2736,
     "by_source": {
       "ACCC": 0,
       "CPSC": 11,
       "EU Safety Gate": 0,
-      "FDA": 830,
+      "FDA": 832,
       "Health Canada": 1882,
       "NZ Product Safety": 1,
       "OPSS": 10,
@@ -99,15 +99,15 @@
   },
   {
     "hazard_type": "Small Parts / Choking Hazard",
-    "total": 927,
+    "total": 929,
     "by_source": {
       "ACCC": 10,
       "CPSC": 216,
       "EU Safety Gate": 0,
       "FDA": 7,
-      "Health Canada": 509,
+      "Health Canada": 510,
       "NZ Product Safety": 1,
-      "OPSS": 184,
+      "OPSS": 185,
       "RappelConso": 0
     }
   },
@@ -183,12 +183,12 @@
   },
   {
     "hazard_type": "Explosion",
-    "total": 225,
+    "total": 224,
     "by_source": {
       "ACCC": 1,
       "CPSC": 31,
       "EU Safety Gate": 0,
-      "FDA": 68,
+      "FDA": 67,
       "Health Canada": 115,
       "NZ Product Safety": 2,
       "OPSS": 8,

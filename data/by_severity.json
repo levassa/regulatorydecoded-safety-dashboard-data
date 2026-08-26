@@ -528,8 +528,8 @@
       "Explosion": 8,
       "Flammability / Overheating": 66,
       "Instability / Fall Risk": 29,
-      "Mechanical Failure": 38,
-      "Microbiological Contamination": 2,
+      "Mechanical Failure": 37,
+      "Microbiological Contamination": 3,
       "Other": 125,
       "Radiation": 0,
       "Sharp Edges / Points": 22,
@@ -538,11 +538,11 @@
   },
   {
     "severity": "Serious",
-    "total": 6954,
+    "total": 6956,
     "total_injuries": 0,
     "by_region": {
       "Australia": 4,
-      "Canada": 2893,
+      "Canada": 2895,
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 3,
@@ -597,7 +597,7 @@
       "A.T.V. - Motorcycle": 0,
       "A.T.V. - Truck - Med. & H.D.": 0,
       "Alcoholic": 3,
-      "Anaesthesiology": 30,
+      "Anaesthesiology": 31,
       "Anaesthesiology - Cardiovascular": 0,
       "Anaesthesiology - Cardiovascular - General And Plastic Surgery - General Hospital And Personal Use - Obstetrics And Gynaecology - Orthopaedics": 0,
       "Anaesthesiology - Cardiovascular - General Hospital And Personal Use": 0,
@@ -821,7 +821,7 @@
       "Dental - General And Plastic Surgery - General Hospital And Personal Use": 0,
       "Dental - General Hospital And Personal Use": 0,
       "Dental - Orthopaedics - General And Plastic Surgery": 0,
-      "Drugs": 378,
+      "Drugs": 379,
       "Drugs - Biologic Or Vaccine": 1,
       "Drugs - Cannabis": 0,
       "Drugs - Natural Health Products": 0,
@@ -1057,17 +1057,17 @@
       "Veterinary Drugs": 5
     },
     "by_hazard_type": {
-      "Allergen": 1456,
+      "Allergen": 1455,
       "Chemical / Toxic Substance": 200,
       "Drowning Risk": 78,
       "Electrical Fault": 68,
       "Entrapment": 14,
-      "Explosion": 72,
+      "Explosion": 71,
       "Flammability / Overheating": 52,
       "Instability / Fall Risk": 25,
-      "Mechanical Failure": 229,
-      "Microbiological Contamination": 1766,
-      "Other": 2872,
+      "Mechanical Failure": 230,
+      "Microbiological Contamination": 1767,
+      "Other": 2874,
       "Radiation": 50,
       "Sharp Edges / Points": 61,
       "Small Parts / Choking Hazard": 11
@@ -1612,7 +1612,7 @@
   },
   {
     "severity": "Minor",
-    "total": 6024,
+    "total": 6025,
     "total_injuries": 0,
     "by_region": {
       "Australia": 4,
@@ -1621,7 +1621,7 @@
       "France": 0,
       "New Zealand": 8,
       "USA": 890,
-      "United Kingdom": 791
+      "United Kingdom": 792
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
@@ -2042,7 +2042,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 1779,
+      "Other": 1780,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -2144,21 +2144,21 @@
       "Other": 3758,
       "Radiation": 10,
       "Sharp Edges / Points": 72,
-      "Small Parts / Choking Hazard": 233
+      "Small Parts / Choking Hazard": 234
     }
   },
   {
     "severity": "Not Reported",
-    "total": 27874,
+    "total": 27876,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
-      "Canada": 18109,
+      "Canada": 18111,
       "EU / EEA": 5000,
       "France": 3000,
-      "New Zealand": 1563,
+      "New Zealand": 1564,
       "USA": 1,
-      "United Kingdom": 201
+      "United Kingdom": 200
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
@@ -2432,7 +2432,7 @@
       "Dental - General And Plastic Surgery - General Hospital And Personal Use": 0,
       "Dental - General Hospital And Personal Use": 0,
       "Dental - Orthopaedics - General And Plastic Surgery": 0,
-      "Drugs": 1407,
+      "Drugs": 1408,
       "Drugs - Biologic Or Vaccine": 5,
       "Drugs - Cannabis": 1,
       "Drugs - Natural Health Products": 66,
@@ -2503,7 +2503,7 @@
       "Hobby And Craft Items - Household Items - Other": 1,
       "Hobby And Craft Items - Jewellery": 1,
       "Hobby And Craft Items - Other": 5,
-      "Household Items": 1274,
+      "Household Items": 1275,
       "Household Items - Other": 122,
       "Household Items - Specialized Products": 15,
       "Household Items - Veterinary Drugs": 1,
@@ -2579,7 +2579,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 3523,
+      "Other": 3522,
       "Other -  Herbal Product For Smoking": 1,
       "Other - Back Patch, Recovery Tape": 1,
       "Other - Books": 1,
@@ -2648,7 +2648,7 @@
       "Suv - Truck - Med. & H.D.": 1,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 1,
       "Tools & Machinery": 849,
-      "Toys & Childcare": 2231,
+      "Toys & Childcare": 2232,
       "Truck - Med. & H.D.": 973,
       "Truck - Med. & H.D. - A.T.V.": 1,
       "Truck - Med. & H.D. - Bus": 5,
@@ -2678,10 +2678,10 @@
       "Instability / Fall Risk": 319,
       "Mechanical Failure": 39,
       "Microbiological Contamination": 90,
-      "Other": 21594,
+      "Other": 21595,
       "Radiation": 1619,
       "Sharp Edges / Points": 179,
-      "Small Parts / Choking Hazard": 520
+      "Small Parts / Choking Hazard": 521
     }
   }
 ]

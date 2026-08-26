@@ -519,7 +519,7 @@
   },
   {
     "region": "Canada",
-    "total": 33971,
+    "total": 33975,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -568,7 +568,7 @@
       "A.T.V. - Motorcycle": 1,
       "A.T.V. - Truck - Med. & H.D.": 1,
       "Alcoholic": 22,
-      "Anaesthesiology": 152,
+      "Anaesthesiology": 153,
       "Anaesthesiology - Cardiovascular": 5,
       "Anaesthesiology - Cardiovascular - General And Plastic Surgery - General Hospital And Personal Use - Obstetrics And Gynaecology - Orthopaedics": 1,
       "Anaesthesiology - Cardiovascular - General Hospital And Personal Use": 1,
@@ -792,7 +792,7 @@
       "Dental - General And Plastic Surgery - General Hospital And Personal Use": 1,
       "Dental - General Hospital And Personal Use": 2,
       "Dental - Orthopaedics - General And Plastic Surgery": 1,
-      "Drugs": 2788,
+      "Drugs": 2790,
       "Drugs - Biologic Or Vaccine": 8,
       "Drugs - Cannabis": 1,
       "Drugs - Natural Health Products": 73,
@@ -863,7 +863,7 @@
       "Hobby And Craft Items - Household Items - Other": 1,
       "Hobby And Craft Items - Jewellery": 1,
       "Hobby And Craft Items - Other": 5,
-      "Household Items": 1274,
+      "Household Items": 1275,
       "Household Items - Other": 122,
       "Household Items - Specialized Products": 15,
       "Household Items - Veterinary Drugs": 1,
@@ -1031,8 +1031,8 @@
       "Fatal": 0,
       "Minor": 4331,
       "Moderate": 8638,
-      "Not Reported": 18109,
-      "Serious": 2893
+      "Not Reported": 18111,
+      "Serious": 2895
     }
   },
   {
@@ -2073,7 +2073,7 @@
   },
   {
     "region": "New Zealand",
-    "total": 1576,
+    "total": 1577,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 1,
@@ -2562,7 +2562,7 @@
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
       "Tools & Machinery": 77,
-      "Toys & Childcare": 466,
+      "Toys & Childcare": 467,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
       "Truck - Med. & H.D. - Bus": 0,
@@ -2585,7 +2585,7 @@
       "Fatal": 1,
       "Minor": 8,
       "Moderate": 1,
-      "Not Reported": 1563,
+      "Not Reported": 1564,
       "Serious": 3
     }
   },
@@ -3619,9 +3619,9 @@
     },
     "by_severity": {
       "Fatal": 6,
-      "Minor": 791,
+      "Minor": 792,
       "Moderate": 0,
-      "Not Reported": 201,
+      "Not Reported": 200,
       "Serious": 2
     }
   }
