@@ -520,7 +520,7 @@
   },
   {
     "region": "Canada",
-    "total": 33982,
+    "total": 33990,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -747,7 +747,7 @@
       "Car - Suv - Light Truck & Van - Minivan": 1,
       "Car - Suv - Minivan": 2,
       "Car Parts And Accessories": 0,
-      "Cardiovascular": 251,
+      "Cardiovascular": 252,
       "Cardiovascular - Anaesthesiology": 1,
       "Cardiovascular - Chemistry": 1,
       "Cardiovascular - Gastroenterology And Urology": 2,
@@ -794,7 +794,7 @@
       "Dental - General Hospital And Personal Use": 2,
       "Dental - Orthopaedics - General And Plastic Surgery": 1,
       "Dirt Bikes And Miniature Motorbikes": 0,
-      "Drugs": 2790,
+      "Drugs": 2792,
       "Drugs - Biologic Or Vaccine": 8,
       "Drugs - Cannabis": 1,
       "Drugs - Natural Health Products": 73,
@@ -837,14 +837,14 @@
       "General And Plastic Surgery - General Hospital And Personal Use": 12,
       "General And Plastic Surgery - Obstetrics And Gynaecology": 1,
       "General And Plastic Surgery - Orthopaedics": 1,
-      "General Hospital And Personal Use": 402,
+      "General Hospital And Personal Use": 403,
       "General Hospital And Personal Use - Cardiovascular": 5,
       "General Hospital And Personal Use - Cardiovascular - General And Plastic Surgery": 1,
       "General Hospital And Personal Use - Chemistry - Microbiology - Ophthalmology - Haematology": 1,
       "General Hospital And Personal Use - Ear, Nose And Throat": 1,
       "General Hospital And Personal Use - Ear, Nose And Throat - Cardiovascular - General And Plastic Surgery": 1,
       "General Hospital And Personal Use - Gastroenterology And Urology": 5,
-      "General Hospital And Personal Use - General And Plastic Surgery": 6,
+      "General Hospital And Personal Use - General And Plastic Surgery": 7,
       "General Hospital And Personal Use - General And Plastic Surgery - Cardiovascular - Anaesthesiology": 1,
       "General Hospital And Personal Use - General And Plastic Surgery - Orthopaedics": 1,
       "General Hospital And Personal Use - Ophthalmology": 1,
@@ -941,7 +941,7 @@
       "Ophthalmology": 31,
       "Ophthalmology - General Hospital And Personal Use": 1,
       "Orthopaedics": 99,
-      "Other": 551,
+      "Other": 552,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -993,7 +993,7 @@
       "Specialized Products - Drugs - Biologic Or Vaccine": 1,
       "Specialized Products - Natural Health Products": 8,
       "Specialized Products - Other": 2,
-      "Sports & Leisure": 648,
+      "Sports & Leisure": 649,
       "Stationery": 0,
       "Suv": 1448,
       "Suv - Car": 137,
@@ -1009,7 +1009,7 @@
       "Suv - Minivan - Light Truck & Van": 2,
       "Suv - Truck - Med. & H.D.": 1,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 1,
-      "Tools & Machinery": 501,
+      "Tools & Machinery": 502,
       "Toys & Childcare": 744,
       "Truck - Med. & H.D.": 973,
       "Truck - Med. & H.D. - A.T.V.": 1,
@@ -1032,8 +1032,8 @@
     "by_severity": {
       "Fatal": 0,
       "Minor": 4331,
-      "Moderate": 8643,
-      "Not Reported": 18113,
+      "Moderate": 8649,
+      "Not Reported": 18115,
       "Serious": 2895
     }
   },
@@ -2596,7 +2596,7 @@
   },
   {
     "region": "USA",
-    "total": 6215,
+    "total": 4000,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -3017,7 +3017,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 2215,
+      "Other": 0,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -3106,11 +3106,11 @@
       "Veterinary Drugs": 0
     },
     "by_severity": {
-      "Fatal": 642,
-      "Minor": 890,
-      "Moderate": 630,
-      "Not Reported": 1,
-      "Serious": 4052
+      "Fatal": 24,
+      "Minor": 0,
+      "Moderate": 0,
+      "Not Reported": 0,
+      "Serious": 3976
     }
   },
   {
