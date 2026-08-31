@@ -1,7 +1,7 @@
 [
   {
     "severity": "Fatal",
-    "total": 668,
+    "total": 50,
     "total_injuries": 0,
     "by_region": {
       "Australia": 19,
@@ -9,7 +9,7 @@
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 1,
-      "USA": 642,
+      "USA": 24,
       "United Kingdom": 6
     },
     "by_category": {
@@ -434,7 +434,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 624,
+      "Other": 6,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -525,24 +525,24 @@
     },
     "by_hazard_type": {
       "Allergen": 0,
-      "Chemical / Toxic Substance": 83,
-      "Drowning Risk": 4,
-      "Electrical Fault": 29,
-      "Entrapment": 161,
-      "Explosion": 8,
-      "Flammability / Overheating": 66,
-      "Instability / Fall Risk": 29,
-      "Mechanical Failure": 40,
-      "Microbiological Contamination": 3,
-      "Other": 125,
+      "Chemical / Toxic Substance": 5,
+      "Drowning Risk": 0,
+      "Electrical Fault": 4,
+      "Entrapment": 0,
+      "Explosion": 6,
+      "Flammability / Overheating": 3,
+      "Instability / Fall Risk": 0,
+      "Mechanical Failure": 10,
+      "Microbiological Contamination": 2,
+      "Other": 10,
       "Radiation": 0,
-      "Sharp Edges / Points": 22,
-      "Small Parts / Choking Hazard": 98
+      "Sharp Edges / Points": 0,
+      "Small Parts / Choking Hazard": 10
     }
   },
   {
     "severity": "Serious",
-    "total": 6954,
+    "total": 6878,
     "total_injuries": 0,
     "by_region": {
       "Australia": 2,
@@ -550,7 +550,7 @@
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 3,
-      "USA": 4052,
+      "USA": 3976,
       "United Kingdom": 2
     },
     "by_category": {
@@ -975,7 +975,7 @@
       "Ophthalmology": 1,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 3,
-      "Other": 133,
+      "Other": 57,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -1066,24 +1066,24 @@
     },
     "by_hazard_type": {
       "Allergen": 1455,
-      "Chemical / Toxic Substance": 200,
-      "Drowning Risk": 78,
-      "Electrical Fault": 68,
-      "Entrapment": 14,
-      "Explosion": 71,
-      "Flammability / Overheating": 52,
-      "Instability / Fall Risk": 25,
-      "Mechanical Failure": 229,
+      "Chemical / Toxic Substance": 199,
+      "Drowning Risk": 74,
+      "Electrical Fault": 67,
+      "Entrapment": 9,
+      "Explosion": 69,
+      "Flammability / Overheating": 41,
+      "Instability / Fall Risk": 23,
+      "Mechanical Failure": 216,
       "Microbiological Contamination": 1767,
-      "Other": 2874,
+      "Other": 2859,
       "Radiation": 50,
-      "Sharp Edges / Points": 60,
-      "Small Parts / Choking Hazard": 11
+      "Sharp Edges / Points": 40,
+      "Small Parts / Choking Hazard": 9
     }
   },
   {
     "severity": "Moderate",
-    "total": 9281,
+    "total": 8651,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
@@ -1091,7 +1091,7 @@
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 1,
-      "USA": 630,
+      "USA": 0,
       "United Kingdom": 0
     },
     "by_category": {
@@ -1516,7 +1516,7 @@
       "Ophthalmology": 30,
       "Ophthalmology - General Hospital And Personal Use": 1,
       "Orthopaedics": 96,
-      "Other": 708,
+      "Other": 78,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -1607,24 +1607,24 @@
     },
     "by_hazard_type": {
       "Allergen": 705,
-      "Chemical / Toxic Substance": 108,
-      "Drowning Risk": 35,
-      "Electrical Fault": 50,
-      "Entrapment": 41,
-      "Explosion": 55,
-      "Flammability / Overheating": 127,
-      "Instability / Fall Risk": 65,
-      "Mechanical Failure": 160,
-      "Microbiological Contamination": 726,
-      "Other": 7012,
+      "Chemical / Toxic Substance": 39,
+      "Drowning Risk": 16,
+      "Electrical Fault": 11,
+      "Entrapment": 8,
+      "Explosion": 40,
+      "Flammability / Overheating": 17,
+      "Instability / Fall Risk": 0,
+      "Mechanical Failure": 98,
+      "Microbiological Contamination": 718,
+      "Other": 6946,
       "Radiation": 30,
-      "Sharp Edges / Points": 103,
-      "Small Parts / Choking Hazard": 64
+      "Sharp Edges / Points": 23,
+      "Small Parts / Choking Hazard": 0
     }
   },
   {
     "severity": "Minor",
-    "total": 6025,
+    "total": 5135,
     "total_injuries": 0,
     "by_region": {
       "Australia": 4,
@@ -1632,7 +1632,7 @@
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 8,
-      "USA": 890,
+      "USA": 0,
       "United Kingdom": 792
     },
     "by_category": {
@@ -2057,7 +2057,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 1780,
+      "Other": 890,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -2147,29 +2147,29 @@
       "Veterinary Drugs": 26
     },
     "by_hazard_type": {
-      "Allergen": 622,
-      "Chemical / Toxic Substance": 76,
-      "Drowning Risk": 66,
-      "Electrical Fault": 166,
-      "Entrapment": 24,
-      "Explosion": 50,
-      "Flammability / Overheating": 629,
-      "Instability / Fall Risk": 76,
-      "Mechanical Failure": 91,
-      "Microbiological Contamination": 150,
-      "Other": 3759,
+      "Allergen": 620,
+      "Chemical / Toxic Substance": 47,
+      "Drowning Risk": 51,
+      "Electrical Fault": 131,
+      "Entrapment": 15,
+      "Explosion": 38,
+      "Flammability / Overheating": 299,
+      "Instability / Fall Risk": 0,
+      "Mechanical Failure": 23,
+      "Microbiological Contamination": 148,
+      "Other": 3570,
       "Radiation": 10,
-      "Sharp Edges / Points": 72,
-      "Small Parts / Choking Hazard": 234
+      "Sharp Edges / Points": 11,
+      "Small Parts / Choking Hazard": 172
     }
   },
   {
     "severity": "Not Reported",
-    "total": 27914,
+    "total": 27915,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
-      "Canada": 18149,
+      "Canada": 18150,
       "EU / EEA": 5000,
       "France": 3000,
       "New Zealand": 1564,
@@ -2640,7 +2640,7 @@
       "Radiopharmaceuticals": 1,
       "Rv Chassis": 7,
       "Rv Chassis - Truck - Med. & H.D.": 1,
-      "Rv Trailer": 953,
+      "Rv Trailer": 954,
       "Safety, Security And Surveillance": 1,
       "School Bus": 345,
       "School Bus - Bus": 1,
@@ -2694,11 +2694,11 @@
       "Electrical Fault": 1377,
       "Entrapment": 90,
       "Explosion": 40,
-      "Flammability / Overheating": 870,
+      "Flammability / Overheating": 869,
       "Instability / Fall Risk": 319,
       "Mechanical Failure": 39,
       "Microbiological Contamination": 90,
-      "Other": 21620,
+      "Other": 21622,
       "Radiation": 1624,
       "Sharp Edges / Points": 179,
       "Small Parts / Choking Hazard": 521
