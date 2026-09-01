@@ -257,6 +257,7 @@
       "Chemistry - Immunology": 0,
       "Child Car Seat": 0,
       "Cleaning Products": 1,
+      "Climbing And Abseiling": 1,
       "Clinical Toxicology": 0,
       "Clothing & Textiles": 1,
       "Communications": 0,
@@ -293,7 +294,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 0,
       "Electric Or Gas Productsbuilding Products": 0,
-      "Electrical & Electronics": 7,
+      "Electrical & Electronics": 6,
       "Food & Food Contact": 0,
       "Fresh": 0,
       "Frozen": 0,
@@ -779,6 +780,7 @@
       "Chemistry - Immunology": 3,
       "Child Car Seat": 81,
       "Cleaning Products": 0,
+      "Climbing And Abseiling": 0,
       "Clinical Toxicology": 2,
       "Clothing & Textiles": 564,
       "Communications": 1,
@@ -1301,6 +1303,7 @@
       "Chemistry - Immunology": 0,
       "Child Car Seat": 0,
       "Cleaning Products": 0,
+      "Climbing And Abseiling": 0,
       "Clinical Toxicology": 0,
       "Clothing & Textiles": 158,
       "Communications": 0,
@@ -1823,6 +1826,7 @@
       "Chemistry - Immunology": 0,
       "Child Car Seat": 0,
       "Cleaning Products": 0,
+      "Climbing And Abseiling": 0,
       "Clinical Toxicology": 0,
       "Clothing & Textiles": 0,
       "Communications": 0,
@@ -2345,6 +2349,7 @@
       "Chemistry - Immunology": 0,
       "Child Car Seat": 0,
       "Cleaning Products": 0,
+      "Climbing And Abseiling": 0,
       "Clinical Toxicology": 0,
       "Clothing & Textiles": 24,
       "Communications": 0,
@@ -2611,7 +2616,7 @@
   },
   {
     "region": "USA",
-    "total": 4001,
+    "total": 6215,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -2867,6 +2872,7 @@
       "Chemistry - Immunology": 0,
       "Child Car Seat": 0,
       "Cleaning Products": 0,
+      "Climbing And Abseiling": 0,
       "Clinical Toxicology": 0,
       "Clothing & Textiles": 0,
       "Communications": 0,
@@ -3034,7 +3040,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 1,
+      "Other": 2215,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -3124,11 +3130,11 @@
       "Veterinary Drugs": 0
     },
     "by_severity": {
-      "Fatal": 24,
-      "Minor": 0,
-      "Moderate": 0,
+      "Fatal": 642,
+      "Minor": 890,
+      "Moderate": 630,
       "Not Reported": 1,
-      "Serious": 3976
+      "Serious": 4052
     }
   },
   {
@@ -3389,6 +3395,7 @@
       "Chemistry - Immunology": 0,
       "Child Car Seat": 0,
       "Cleaning Products": 0,
+      "Climbing And Abseiling": 0,
       "Clinical Toxicology": 0,
       "Clothing & Textiles": 0,
       "Communications": 0,
