@@ -3708,12 +3708,12 @@
   },
   {
     "month": "2026-08",
-    "Allergen": 13,
+    "Allergen": 14,
     "Chemical / Toxic Substance": 10,
     "Electrical Fault": 48,
     "Flammability / Overheating": 35,
     "Microbiological Contamination": 15,
-    "Other": 134,
+    "Other": 135,
     "Radiation": 10,
     "Small Parts / Choking Hazard": 26
   }
