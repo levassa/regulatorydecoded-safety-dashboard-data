@@ -16,7 +16,7 @@
   },
   {
     "risk_type": "Fire",
-    "count": 1713,
+    "count": 1711,
     "percentage": 3.4
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "risk_type": "Injury",
-    "count": 925,
+    "count": 926,
     "percentage": 1.8
   },
   {
@@ -96,7 +96,7 @@
   },
   {
     "risk_type": "Chemical",
-    "count": 586,
+    "count": 588,
     "percentage": 1.2
   },
   {
@@ -111,7 +111,7 @@
   },
   {
     "risk_type": "Listeria",
-    "count": 507,
+    "count": 508,
     "percentage": 1.0
   },
   {

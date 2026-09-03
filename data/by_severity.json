@@ -535,10 +535,10 @@
   },
   {
     "severity": "Serious",
-    "total": 6952,
+    "total": 6953,
     "total_injuries": 0,
     "by_region": {
-      "Canada": 2895,
+      "Canada": 2896,
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 3,
@@ -807,7 +807,7 @@
       "Consumer Products - Drugs": 0,
       "Consumer Products - Natural Health Products": 0,
       "Cosmetics & Personal Care": 0,
-      "Dairy": 40,
+      "Dairy": 41,
       "Dairy - Other": 1,
       "Decorative Articles": 0,
       "Dental": 1,
@@ -1060,7 +1060,7 @@
       "Flammability / Overheating": 52,
       "Instability / Fall Risk": 25,
       "Mechanical Failure": 227,
-      "Microbiological Contamination": 1767,
+      "Microbiological Contamination": 1768,
       "Other": 2874,
       "Radiation": 50,
       "Sharp Edges / Points": 60,
@@ -1603,7 +1603,7 @@
   },
   {
     "severity": "Minor",
-    "total": 6021,
+    "total": 6019,
     "total_injuries": 0,
     "by_region": {
       "Canada": 4331,
@@ -1611,7 +1611,7 @@
       "France": 0,
       "New Zealand": 8,
       "USA": 890,
-      "United Kingdom": 792
+      "United Kingdom": 790
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
@@ -2030,7 +2030,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 1780,
+      "Other": 1778,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -2125,7 +2125,7 @@
       "Electrical Fault": 166,
       "Entrapment": 24,
       "Explosion": 50,
-      "Flammability / Overheating": 628,
+      "Flammability / Overheating": 626,
       "Instability / Fall Risk": 76,
       "Mechanical Failure": 89,
       "Microbiological Contamination": 150,
@@ -2137,15 +2137,15 @@
   },
   {
     "severity": "Not Reported",
-    "total": 27915,
+    "total": 27918,
     "total_injuries": 0,
     "by_region": {
-      "Canada": 18150,
+      "Canada": 18151,
       "EU / EEA": 5000,
       "France": 3000,
       "New Zealand": 1564,
       "USA": 1,
-      "United Kingdom": 200
+      "United Kingdom": 202
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
@@ -2488,7 +2488,7 @@
       "Hobby And Craft Items - Household Items - Other": 1,
       "Hobby And Craft Items - Jewellery": 1,
       "Hobby And Craft Items - Other": 5,
-      "Household Items": 1275,
+      "Household Items": 1276,
       "Household Items - Other": 122,
       "Household Items - Specialized Products": 15,
       "Household Items - Veterinary Drugs": 1,
@@ -2564,7 +2564,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 3522,
+      "Other": 3524,
       "Other -  Herbal Product For Smoking": 1,
       "Other - Back Patch, Recovery Tape": 1,
       "Other - Books": 1,
@@ -2654,7 +2654,7 @@
     },
     "by_hazard_type": {
       "Allergen": 445,
-      "Chemical / Toxic Substance": 579,
+      "Chemical / Toxic Substance": 581,
       "Drowning Risk": 121,
       "Electrical Fault": 1377,
       "Entrapment": 90,
@@ -2664,7 +2664,7 @@
       "Mechanical Failure": 39,
       "Microbiological Contamination": 90,
       "Other": 21621,
-      "Radiation": 1624,
+      "Radiation": 1625,
       "Sharp Edges / Points": 179,
       "Small Parts / Choking Hazard": 521
     }

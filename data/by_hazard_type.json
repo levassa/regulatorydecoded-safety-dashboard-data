@@ -27,12 +27,12 @@
   },
   {
     "hazard_type": "Microbiological Contamination",
-    "total": 2736,
+    "total": 2737,
     "by_source": {
       "CPSC": 11,
       "EU Safety Gate": 0,
       "FDA": 832,
-      "Health Canada": 1882,
+      "Health Canada": 1883,
       "NZ Product Safety": 1,
       "OPSS": 10,
       "RappelConso": 0
@@ -40,25 +40,25 @@
   },
   {
     "hazard_type": "Flammability / Overheating",
-    "total": 1741,
+    "total": 1739,
     "by_source": {
       "CPSC": 515,
       "EU Safety Gate": 0,
       "FDA": 39,
       "Health Canada": 875,
       "NZ Product Safety": 22,
-      "OPSS": 290,
+      "OPSS": 288,
       "RappelConso": 0
     }
   },
   {
     "hazard_type": "Radiation",
-    "total": 1714,
+    "total": 1715,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 48,
-      "Health Canada": 1649,
+      "Health Canada": 1650,
       "NZ Product Safety": 17,
       "OPSS": 0,
       "RappelConso": 0
@@ -79,14 +79,14 @@
   },
   {
     "hazard_type": "Chemical / Toxic Substance",
-    "total": 1046,
+    "total": 1048,
     "by_source": {
       "CPSC": 177,
       "EU Safety Gate": 0,
       "FDA": 191,
       "Health Canada": 580,
       "NZ Product Safety": 16,
-      "OPSS": 82,
+      "OPSS": 84,
       "RappelConso": 0
     }
   },

@@ -118,12 +118,12 @@
   },
   {
     "product_category": "Household Items",
-    "total": 1275,
+    "total": 1276,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 1275,
+      "Health Canada": 1276,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -586,12 +586,12 @@
   },
   {
     "product_category": "Dairy",
-    "total": 87,
+    "total": 88,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 87,
+      "Health Canada": 88,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
