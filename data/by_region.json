@@ -1,7 +1,7 @@
 [
   {
     "region": "Canada",
-    "total": 34030,
+    "total": 34036,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -211,7 +211,7 @@
       "Candy, Confectionary, Snacks And Sweeteners - Nuts, Grains, And Seeds": 6,
       "Cannabis": 97,
       "Canned": 5,
-      "Car": 1556,
+      "Car": 1557,
       "Car - A.T.V. - Suv": 1,
       "Car - Chassis Cab - Light Truck & Van - Suv - Minivan - Truck - Med. & H.D.": 1,
       "Car - Chassis Cab - Light Truck & Van - Truck - Med. & H.D.": 1,
@@ -228,7 +228,7 @@
       "Car - Suv - Light Truck & Van": 6,
       "Car - Suv - Light Truck & Van - Minivan": 1,
       "Car - Suv - Minivan": 2,
-      "Cardiovascular": 252,
+      "Cardiovascular": 253,
       "Cardiovascular - Anaesthesiology": 1,
       "Cardiovascular - Chemistry": 1,
       "Cardiovascular - Gastroenterology And Urology": 2,
@@ -307,7 +307,7 @@
       "Gastroenterology And Urology - General Hospital And Personal Use": 7,
       "Gastroenterology And Urology - Haematology": 2,
       "Gastroenterology And Urology - Orthopaedics": 1,
-      "General And Plastic Surgery": 190,
+      "General And Plastic Surgery": 192,
       "General And Plastic Surgery - Anaesthesiology - Gastroenterology And Urology": 1,
       "General And Plastic Surgery - Gastroenterology And Urology": 2,
       "General And Plastic Surgery - Gastroenterology And Urology - General Hospital And Personal Use": 1,
@@ -363,7 +363,7 @@
       "Light Trailer": 61,
       "Light Trailer - Heavy Trailer": 1,
       "Light Trailer - Rv Trailer": 6,
-      "Light Truck & Van": 603,
+      "Light Truck & Van": 604,
       "Light Truck & Van - Car": 4,
       "Light Truck & Van - Car - Suv": 3,
       "Light Truck & Van - Car - Suv - Minivan": 1,
@@ -473,7 +473,7 @@
       "Specialized Products - Other": 2,
       "Sports & Leisure": 649,
       "Stationery": 0,
-      "Suv": 1452,
+      "Suv": 1453,
       "Suv - Car": 138,
       "Suv - Car - Light Truck & Van": 5,
       "Suv - Car - Minivan - Light Truck & Van": 1,
@@ -510,8 +510,8 @@
     "by_severity": {
       "Fatal": 0,
       "Minor": 4331,
-      "Moderate": 8652,
-      "Not Reported": 18151,
+      "Moderate": 8655,
+      "Not Reported": 18154,
       "Serious": 2896
     }
   },
@@ -1549,7 +1549,7 @@
   },
   {
     "region": "New Zealand",
-    "total": 1577,
+    "total": 1580,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 1,
@@ -1837,7 +1837,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 8,
       "Electric Or Gas Productsbuilding Products": 1,
-      "Electrical & Electronics": 242,
+      "Electrical & Electronics": 243,
       "Food & Food Contact": 2,
       "Fresh": 0,
       "Frozen": 0,
@@ -2036,7 +2036,7 @@
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
       "Tools & Machinery": 77,
-      "Toys & Childcare": 467,
+      "Toys & Childcare": 469,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
       "Truck - Med. & H.D. - Bus": 0,
@@ -2059,13 +2059,13 @@
       "Fatal": 1,
       "Minor": 8,
       "Moderate": 1,
-      "Not Reported": 1564,
+      "Not Reported": 1567,
       "Serious": 3
     }
   },
   {
     "region": "USA",
-    "total": 6215,
+    "total": 6239,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -2483,7 +2483,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 2215,
+      "Other": 2239,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -2572,11 +2572,11 @@
       "Veterinary Drugs": 0
     },
     "by_severity": {
-      "Fatal": 642,
-      "Minor": 890,
-      "Moderate": 630,
+      "Fatal": 659,
+      "Minor": 892,
+      "Moderate": 632,
       "Not Reported": 1,
-      "Serious": 4052
+      "Serious": 4055
     }
   },
   {

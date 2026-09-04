@@ -2692,23 +2692,23 @@
     "Fatal": 41,
     "Minor": 49,
     "Moderate": 57,
-    "Not Reported": 310,
+    "Not Reported": 309,
     "Serious": 18
   },
   {
     "month": "2026-08",
-    "Fatal": 34,
+    "Fatal": 43,
     "Minor": 100,
     "Moderate": 49,
-    "Not Reported": 111,
-    "Serious": 21
+    "Not Reported": 115,
+    "Serious": 23
   },
   {
     "month": "2026-09",
-    "Fatal": 0,
-    "Minor": 1,
-    "Moderate": 0,
+    "Fatal": 8,
+    "Minor": 3,
+    "Moderate": 5,
     "Not Reported": 3,
-    "Serious": 1
+    "Serious": 2
   }
 ]

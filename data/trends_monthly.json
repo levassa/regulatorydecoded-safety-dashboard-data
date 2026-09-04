@@ -2692,23 +2692,23 @@
     "CPSC": 55,
     "EU Safety Gate": 186,
     "FDA": 0,
-    "Health Canada": 169,
+    "Health Canada": 168,
     "OPSS": 65
   },
   {
     "month": "2026-08",
-    "CPSC": 42,
+    "CPSC": 53,
     "EU Safety Gate": 0,
     "FDA": 0,
-    "Health Canada": 165,
+    "Health Canada": 169,
     "OPSS": 108
   },
   {
     "month": "2026-09",
-    "CPSC": 0,
+    "CPSC": 13,
     "EU Safety Gate": 0,
     "FDA": 0,
-    "Health Canada": 2,
+    "Health Canada": 5,
     "OPSS": 3
   }
 ]
