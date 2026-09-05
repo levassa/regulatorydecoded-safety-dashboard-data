@@ -14,12 +14,12 @@
   },
   {
     "product_category": "Other",
-    "total": 6791,
+    "total": 6792,
     "by_source": {
       "CPSC": 2239,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 552,
+      "Health Canada": 553,
       "NZ Product Safety": 0,
       "OPSS": 1000,
       "RappelConso": 3000
@@ -79,12 +79,12 @@
   },
   {
     "product_category": "Electrical & Electronics",
-    "total": 1570,
+    "total": 1571,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 899,
       "FDA": 0,
-      "Health Canada": 428,
+      "Health Canada": 429,
       "NZ Product Safety": 243,
       "OPSS": 0,
       "RappelConso": 0
@@ -105,12 +105,12 @@
   },
   {
     "product_category": "Suv",
-    "total": 1453,
+    "total": 1454,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 1453,
+      "Health Canada": 1454,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -131,12 +131,12 @@
   },
   {
     "product_category": "Furniture & Home",
-    "total": 1133,
+    "total": 1134,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 27,
       "FDA": 0,
-      "Health Canada": 943,
+      "Health Canada": 944,
       "NZ Product Safety": 163,
       "OPSS": 0,
       "RappelConso": 0
@@ -222,12 +222,12 @@
   },
   {
     "product_category": "Clothing & Textiles",
-    "total": 746,
+    "total": 747,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 158,
       "FDA": 0,
-      "Health Canada": 564,
+      "Health Canada": 565,
       "NZ Product Safety": 24,
       "OPSS": 0,
       "RappelConso": 0
@@ -235,12 +235,12 @@
   },
   {
     "product_category": "Light Truck & Van",
-    "total": 604,
+    "total": 605,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 604,
+      "Health Canada": 605,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -677,12 +677,12 @@
   },
   {
     "product_category": "Neurology",
-    "total": 63,
+    "total": 64,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 63,
+      "Health Canada": 64,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -768,12 +768,12 @@
   },
   {
     "product_category": "Specialized Products",
-    "total": 46,
+    "total": 47,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 46,
+      "Health Canada": 47,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -1508,7 +1508,7 @@
     }
   },
   {
-    "product_category": "Light Trailer - Rv Trailer",
+    "product_category": "Suv - Car - Light Truck & Van",
     "total": 6,
     "by_source": {
       "CPSC": 0,
@@ -1521,13 +1521,13 @@
     }
   },
   {
-    "product_category": "Suv - Car - Light Truck & Van",
-    "total": 5,
+    "product_category": "Light Trailer - Rv Trailer",
+    "total": 6,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 5,
+      "Health Canada": 6,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0

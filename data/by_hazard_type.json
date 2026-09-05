@@ -1,14 +1,14 @@
 [
   {
     "hazard_type": "Other",
-    "total": 35399,
+    "total": 35400,
     "by_source": {
       "CPSC": 386,
       "EU Safety Gate": 5000,
       "FDA": 1894,
-      "Health Canada": 23409,
+      "Health Canada": 23412,
       "NZ Product Safety": 1465,
-      "OPSS": 245,
+      "OPSS": 243,
       "RappelConso": 3000
     }
   },
@@ -40,25 +40,25 @@
   },
   {
     "hazard_type": "Flammability / Overheating",
-    "total": 1742,
+    "total": 1746,
     "by_source": {
       "CPSC": 519,
       "EU Safety Gate": 0,
       "FDA": 39,
-      "Health Canada": 875,
+      "Health Canada": 877,
       "NZ Product Safety": 22,
-      "OPSS": 287,
+      "OPSS": 289,
       "RappelConso": 0
     }
   },
   {
     "hazard_type": "Radiation",
-    "total": 1717,
+    "total": 1718,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 48,
-      "Health Canada": 1652,
+      "Health Canada": 1653,
       "NZ Product Safety": 17,
       "OPSS": 0,
       "RappelConso": 0
@@ -66,14 +66,14 @@
   },
   {
     "hazard_type": "Electrical Fault",
-    "total": 1695,
+    "total": 1693,
     "by_source": {
       "CPSC": 103,
       "EU Safety Gate": 0,
       "FDA": 68,
-      "Health Canada": 1386,
+      "Health Canada": 1387,
       "NZ Product Safety": 6,
-      "OPSS": 132,
+      "OPSS": 129,
       "RappelConso": 0
     }
   },
@@ -92,14 +92,14 @@
   },
   {
     "hazard_type": "Small Parts / Choking Hazard",
-    "total": 925,
+    "total": 929,
     "by_source": {
       "CPSC": 222,
       "EU Safety Gate": 0,
       "FDA": 7,
-      "Health Canada": 510,
+      "Health Canada": 511,
       "NZ Product Safety": 1,
-      "OPSS": 185,
+      "OPSS": 188,
       "RappelConso": 0
     }
   },
@@ -118,12 +118,12 @@
   },
   {
     "hazard_type": "Instability / Fall Risk",
-    "total": 515,
+    "total": 516,
     "by_source": {
       "CPSC": 173,
       "EU Safety Gate": 0,
       "FDA": 23,
-      "Health Canada": 319,
+      "Health Canada": 320,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
