@@ -1,14 +1,14 @@
 [
   {
     "severity": "Fatal",
-    "total": 666,
+    "total": 664,
     "total_injuries": 0,
     "by_region": {
       "Canada": 0,
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 1,
-      "USA": 659,
+      "USA": 657,
       "United Kingdom": 6
     },
     "by_category": {
@@ -393,7 +393,7 @@
       "Low Speed Motorcycle": 0,
       "Measuring Instruments": 0,
       "Meat And Poultry": 0,
-      "Medical Devices": 19,
+      "Medical Devices": 17,
       "Microbiology": 0,
       "Microbiology - Ophthalmology": 0,
       "Minivan": 0,
@@ -522,10 +522,10 @@
       "Drowning Risk": 4,
       "Electrical Fault": 32,
       "Entrapment": 165,
-      "Explosion": 7,
+      "Explosion": 6,
       "Flammability / Overheating": 64,
       "Instability / Fall Risk": 30,
-      "Mechanical Failure": 34,
+      "Mechanical Failure": 33,
       "Microbiological Contamination": 3,
       "Other": 126,
       "Radiation": 0,
@@ -535,14 +535,14 @@
   },
   {
     "severity": "Serious",
-    "total": 6957,
+    "total": 6959,
     "total_injuries": 0,
     "by_region": {
       "Canada": 2897,
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 3,
-      "USA": 4055,
+      "USA": 4057,
       "United Kingdom": 2
     },
     "by_category": {
@@ -927,7 +927,7 @@
       "Low Speed Motorcycle": 0,
       "Measuring Instruments": 0,
       "Meat And Poultry": 2,
-      "Medical Devices": 2256,
+      "Medical Devices": 2258,
       "Microbiology": 0,
       "Microbiology - Ophthalmology": 0,
       "Minivan": 0,
@@ -1052,17 +1052,17 @@
     },
     "by_hazard_type": {
       "Allergen": 1456,
-      "Chemical / Toxic Substance": 200,
-      "Drowning Risk": 78,
+      "Chemical / Toxic Substance": 201,
+      "Drowning Risk": 79,
       "Electrical Fault": 68,
       "Entrapment": 14,
-      "Explosion": 71,
-      "Flammability / Overheating": 54,
+      "Explosion": 72,
+      "Flammability / Overheating": 55,
       "Instability / Fall Risk": 25,
       "Mechanical Failure": 228,
-      "Microbiological Contamination": 1768,
-      "Other": 2874,
-      "Radiation": 50,
+      "Microbiological Contamination": 1762,
+      "Other": 2879,
+      "Radiation": 49,
       "Sharp Edges / Points": 60,
       "Small Parts / Choking Hazard": 11
     }
@@ -2137,13 +2137,13 @@
   },
   {
     "severity": "Not Reported",
-    "total": 27938,
+    "total": 27941,
     "total_injuries": 0,
     "by_region": {
       "Canada": 18166,
       "EU / EEA": 5000,
       "France": 3000,
-      "New Zealand": 1568,
+      "New Zealand": 1571,
       "USA": 1,
       "United Kingdom": 203
     },
@@ -2543,7 +2543,7 @@
       "Minivan - Suv - Car": 3,
       "Motor Tricycle": 23,
       "Motor Tricycle - Motorcycle": 2,
-      "Motor Vehicles": 1006,
+      "Motor Vehicles": 1008,
       "Motorcycle": 521,
       "Motorcycle - Motor Tricycle": 1,
       "Natural Health Products": 575,
@@ -2633,7 +2633,7 @@
       "Suv - Truck - Med. & H.D.": 1,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 1,
       "Tools & Machinery": 851,
-      "Toys & Childcare": 2235,
+      "Toys & Childcare": 2236,
       "Truck - Med. & H.D.": 979,
       "Truck - Med. & H.D. - A.T.V.": 1,
       "Truck - Med. & H.D. - Bus": 5,
@@ -2655,7 +2655,7 @@
     "by_hazard_type": {
       "Allergen": 445,
       "Chemical / Toxic Substance": 582,
-      "Drowning Risk": 121,
+      "Drowning Risk": 122,
       "Electrical Fault": 1379,
       "Entrapment": 90,
       "Explosion": 40,
@@ -2663,7 +2663,7 @@
       "Instability / Fall Risk": 320,
       "Mechanical Failure": 39,
       "Microbiological Contamination": 90,
-      "Other": 21626,
+      "Other": 21628,
       "Radiation": 1631,
       "Sharp Edges / Points": 179,
       "Small Parts / Choking Hazard": 524

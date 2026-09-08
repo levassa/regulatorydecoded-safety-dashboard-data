@@ -1,13 +1,13 @@
 [
   {
     "injury_type": "Not Specified",
-    "total": 45519,
+    "total": 45523,
     "by_source": {
       "CPSC": 341,
       "EU Safety Gate": 5000,
-      "FDA": 3275,
+      "FDA": 3276,
       "Health Canada": 31768,
-      "NZ Product Safety": 1533,
+      "NZ Product Safety": 1536,
       "OPSS": 602,
       "RappelConso": 3000
     }
@@ -27,11 +27,11 @@
   },
   {
     "injury_type": "Burns",
-    "total": 679,
+    "total": 680,
     "by_source": {
       "CPSC": 387,
       "EU Safety Gate": 0,
-      "FDA": 21,
+      "FDA": 22,
       "Health Canada": 237,
       "NZ Product Safety": 12,
       "OPSS": 22,
@@ -40,11 +40,11 @@
   },
   {
     "injury_type": "Laceration / Cut",
-    "total": 673,
+    "total": 672,
     "by_source": {
       "CPSC": 181,
       "EU Safety Gate": 0,
-      "FDA": 115,
+      "FDA": 114,
       "Health Canada": 363,
       "NZ Product Safety": 10,
       "OPSS": 4,
@@ -79,11 +79,11 @@
   },
   {
     "injury_type": "Fracture / Blunt Trauma",
-    "total": 363,
+    "total": 362,
     "by_source": {
       "CPSC": 138,
       "EU Safety Gate": 0,
-      "FDA": 139,
+      "FDA": 138,
       "Health Canada": 83,
       "NZ Product Safety": 3,
       "OPSS": 0,
@@ -157,11 +157,11 @@
   },
   {
     "injury_type": "Respiratory",
-    "total": 144,
+    "total": 145,
     "by_source": {
       "CPSC": 41,
       "EU Safety Gate": 0,
-      "FDA": 35,
+      "FDA": 36,
       "Health Canada": 63,
       "NZ Product Safety": 3,
       "OPSS": 2,
@@ -170,11 +170,11 @@
   },
   {
     "injury_type": "Radiation Exposure",
-    "total": 124,
+    "total": 123,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
-      "FDA": 63,
+      "FDA": 62,
       "Health Canada": 60,
       "NZ Product Safety": 1,
       "OPSS": 0,
