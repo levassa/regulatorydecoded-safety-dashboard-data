@@ -1,12 +1,12 @@
 [
   {
     "hazard_type": "Other",
-    "total": 35411,
+    "total": 35414,
     "by_source": {
       "CPSC": 386,
       "EU Safety Gate": 5000,
       "FDA": 1899,
-      "Health Canada": 23415,
+      "Health Canada": 23418,
       "NZ Product Safety": 1468,
       "OPSS": 243,
       "RappelConso": 3000
@@ -53,12 +53,12 @@
   },
   {
     "hazard_type": "Radiation",
-    "total": 1720,
+    "total": 1717,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 47,
-      "Health Canada": 1656,
+      "Health Canada": 1653,
       "NZ Product Safety": 17,
       "OPSS": 0,
       "RappelConso": 0
