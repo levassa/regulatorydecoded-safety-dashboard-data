@@ -53,13 +53,13 @@
   },
   {
     "product_category": "Toys & Childcare",
-    "total": 2247,
+    "total": 2249,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 1032,
       "FDA": 0,
       "Health Canada": 745,
-      "NZ Product Safety": 470,
+      "NZ Product Safety": 472,
       "OPSS": 0,
       "RappelConso": 0
     }
@@ -157,13 +157,13 @@
   },
   {
     "product_category": "Motor Vehicles",
-    "total": 1009,
+    "total": 1010,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 525,
       "FDA": 0,
       "Health Canada": 241,
-      "NZ Product Safety": 243,
+      "NZ Product Safety": 244,
       "OPSS": 0,
       "RappelConso": 0
     }
@@ -807,12 +807,12 @@
   },
   {
     "product_category": "Condiments",
-    "total": 39,
+    "total": 40,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 39,
+      "Health Canada": 40,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0

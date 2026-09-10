@@ -1,7 +1,7 @@
 [
   {
     "risk_type": "Other",
-    "count": 15039,
+    "count": 15042,
     "percentage": 29.6
   },
   {
@@ -82,7 +82,7 @@
   {
     "risk_type": "Airbag",
     "count": 636,
-    "percentage": 1.3
+    "percentage": 1.2
   },
   {
     "risk_type": "Powertrain",
@@ -215,13 +215,13 @@
     "percentage": 0.3
   },
   {
-    "risk_type": "Mustard",
+    "risk_type": "Peanut",
     "count": 157,
     "percentage": 0.3
   },
   {
-    "risk_type": "Peanut",
-    "count": 156,
+    "risk_type": "Mustard",
+    "count": 157,
     "percentage": 0.3
   },
   {
