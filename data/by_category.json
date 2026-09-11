@@ -14,9 +14,9 @@
   },
   {
     "product_category": "Other",
-    "total": 6792,
+    "total": 6804,
     "by_source": {
-      "CPSC": 2239,
+      "CPSC": 2251,
       "EU Safety Gate": 0,
       "FDA": 0,
       "Health Canada": 553,
@@ -53,39 +53,39 @@
   },
   {
     "product_category": "Toys & Childcare",
-    "total": 2249,
+    "total": 2253,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 1032,
       "FDA": 0,
       "Health Canada": 745,
-      "NZ Product Safety": 472,
+      "NZ Product Safety": 476,
       "OPSS": 0,
       "RappelConso": 0
     }
   },
   {
     "product_category": "Cosmetics & Personal Care",
-    "total": 1661,
+    "total": 1662,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 1413,
       "FDA": 0,
       "Health Canada": 200,
-      "NZ Product Safety": 48,
+      "NZ Product Safety": 49,
       "OPSS": 0,
       "RappelConso": 0
     }
   },
   {
     "product_category": "Electrical & Electronics",
-    "total": 1572,
+    "total": 1573,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 899,
       "FDA": 0,
       "Health Canada": 429,
-      "NZ Product Safety": 244,
+      "NZ Product Safety": 245,
       "OPSS": 0,
       "RappelConso": 0
     }
@@ -131,13 +131,13 @@
   },
   {
     "product_category": "Furniture & Home",
-    "total": 1135,
+    "total": 1137,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 27,
       "FDA": 0,
-      "Health Canada": 945,
-      "NZ Product Safety": 163,
+      "Health Canada": 946,
+      "NZ Product Safety": 164,
       "OPSS": 0,
       "RappelConso": 0
     }
@@ -352,12 +352,12 @@
   },
   {
     "product_category": "Radiology",
-    "total": 241,
+    "total": 243,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 241,
+      "Health Canada": 243,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
