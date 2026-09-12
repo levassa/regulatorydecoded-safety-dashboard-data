@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-09-11T11:56:53Z",
-  "total_records": 50902,
+  "last_updated": "2026-09-12T11:23:28Z",
+  "total_records": 50911,
   "by_source": {
     "CPSC": 2251,
     "EU Safety Gate": 5000,
     "FDA": 4000,
-    "Health Canada": 34057,
+    "Health Canada": 34066,
     "NZ Product Safety": 1594,
     "OPSS": 1000,
     "RappelConso": 3000
@@ -15,8 +15,8 @@
   "by_severity": {
     "Fatal": 675,
     "Minor": 6023,
-    "Moderate": 9293,
-    "Not Reported": 27951,
-    "Serious": 6960
+    "Moderate": 9298,
+    "Not Reported": 27954,
+    "Serious": 6961
   }
 }

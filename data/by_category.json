@@ -40,12 +40,12 @@
   },
   {
     "product_category": "Drugs",
-    "total": 2793,
+    "total": 2794,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 2793,
+      "Health Canada": 2794,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -79,12 +79,12 @@
   },
   {
     "product_category": "Electrical & Electronics",
-    "total": 1573,
+    "total": 1575,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 899,
       "FDA": 0,
-      "Health Canada": 429,
+      "Health Canada": 431,
       "NZ Product Safety": 245,
       "OPSS": 0,
       "RappelConso": 0
@@ -287,12 +287,12 @@
   },
   {
     "product_category": "General Hospital And Personal Use",
-    "total": 403,
+    "total": 404,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 403,
+      "Health Canada": 404,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -429,6 +429,19 @@
     }
   },
   {
+    "product_category": "Chemistry",
+    "total": 138,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 138,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
     "product_category": "Heavy Trailer",
     "total": 138,
     "by_source": {
@@ -449,19 +462,6 @@
       "EU Safety Gate": 0,
       "FDA": 0,
       "Health Canada": 138,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Chemistry",
-    "total": 137,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 137,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -508,12 +508,12 @@
   },
   {
     "product_category": "Nuts, Grains, And Seeds",
-    "total": 100,
+    "total": 101,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 100,
+      "Health Canada": 101,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -521,12 +521,12 @@
   },
   {
     "product_category": "Orthopaedics",
-    "total": 99,
+    "total": 100,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 99,
+      "Health Canada": 100,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -625,12 +625,12 @@
   },
   {
     "product_category": "Processed",
-    "total": 73,
+    "total": 74,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 73,
+      "Health Canada": 74,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -950,12 +950,12 @@
   },
   {
     "product_category": "Meat And Poultry",
-    "total": 24,
+    "total": 25,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 24,
+      "Health Canada": 25,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0

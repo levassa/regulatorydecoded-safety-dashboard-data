@@ -16,12 +16,12 @@
   },
   {
     "risk_type": "Fire",
-    "count": 1723,
+    "count": 1725,
     "percentage": 3.4
   },
   {
     "risk_type": "Performance",
-    "count": 1425,
+    "count": 1427,
     "percentage": 2.8
   },
   {
@@ -56,7 +56,7 @@
   },
   {
     "risk_type": "Contamination",
-    "count": 735,
+    "count": 736,
     "percentage": 1.4
   },
   {
@@ -85,12 +85,12 @@
     "percentage": 1.2
   },
   {
-    "risk_type": "Powertrain",
-    "count": 601,
+    "risk_type": "Salmonella",
+    "count": 602,
     "percentage": 1.2
   },
   {
-    "risk_type": "Salmonella",
+    "risk_type": "Powertrain",
     "count": 601,
     "percentage": 1.2
   },
@@ -111,7 +111,7 @@
   },
   {
     "risk_type": "Listeria",
-    "count": 508,
+    "count": 509,
     "percentage": 1.0
   },
   {
@@ -215,12 +215,12 @@
     "percentage": 0.3
   },
   {
-    "risk_type": "Peanut",
+    "risk_type": "Mustard",
     "count": 157,
     "percentage": 0.3
   },
   {
-    "risk_type": "Mustard",
+    "risk_type": "Peanut",
     "count": 157,
     "percentage": 0.3
   },
@@ -246,7 +246,7 @@
   },
   {
     "risk_type": "Soy",
-    "count": 94,
+    "count": 95,
     "percentage": 0.2
   },
   {
@@ -276,7 +276,7 @@
   },
   {
     "risk_type": "Device Compatibility",
-    "count": 74,
+    "count": 75,
     "percentage": 0.1
   },
   {
@@ -295,17 +295,17 @@
     "percentage": 0.1
   },
   {
-    "risk_type": "Sesame Seeds",
-    "count": 71,
-    "percentage": 0.1
-  },
-  {
     "risk_type": "Drowning",
     "count": 71,
     "percentage": 0.1
   },
   {
     "risk_type": "Heater And Defroster",
+    "count": 71,
+    "percentage": 0.1
+  },
+  {
+    "risk_type": "Sesame Seeds",
     "count": 71,
     "percentage": 0.1
   },
@@ -340,12 +340,12 @@
     "percentage": 0.1
   },
   {
-    "risk_type": "Potential To Be Contaminated With Listeria Monocytogenes",
+    "risk_type": "Unauthorized Products",
     "count": 36,
     "percentage": 0.1
   },
   {
-    "risk_type": "Unauthorized Products",
+    "risk_type": "Potential To Be Contaminated With Listeria Monocytogenes",
     "count": 36,
     "percentage": 0.1
   },

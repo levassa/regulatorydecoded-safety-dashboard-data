@@ -1,7 +1,7 @@
 [
   {
     "region": "Canada",
-    "total": 34057,
+    "total": 34066,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -249,7 +249,7 @@
       "Chassis Cab - Truck - Med. & H.D.": 19,
       "Chassis Cab - Truck - Med. & H.D. - Light Truck & Van": 2,
       "Chemicals": 372,
-      "Chemistry": 137,
+      "Chemistry": 138,
       "Chemistry - Gastroenterology And Urology": 2,
       "Chemistry - General Hospital And Personal Use": 3,
       "Chemistry - Haematology": 2,
@@ -272,7 +272,7 @@
       "Dental - General And Plastic Surgery - General Hospital And Personal Use": 1,
       "Dental - General Hospital And Personal Use": 2,
       "Dental - Orthopaedics - General And Plastic Surgery": 1,
-      "Drugs": 2793,
+      "Drugs": 2794,
       "Drugs - Biologic Or Vaccine": 8,
       "Drugs - Cannabis": 1,
       "Drugs - Natural Health Products": 73,
@@ -289,7 +289,7 @@
       "Eggs": 2,
       "Electric Or Gas Products": 0,
       "Electric Or Gas Productsbuilding Products": 0,
-      "Electrical & Electronics": 429,
+      "Electrical & Electronics": 431,
       "Food & Food Contact": 4393,
       "Fresh": 93,
       "Frozen": 75,
@@ -315,7 +315,7 @@
       "General And Plastic Surgery - General Hospital And Personal Use": 12,
       "General And Plastic Surgery - Obstetrics And Gynaecology": 1,
       "General And Plastic Surgery - Orthopaedics": 1,
-      "General Hospital And Personal Use": 403,
+      "General Hospital And Personal Use": 404,
       "General Hospital And Personal Use - Cardiovascular": 5,
       "General Hospital And Personal Use - Cardiovascular - General And Plastic Surgery": 1,
       "General Hospital And Personal Use - Chemistry - Microbiology - Ophthalmology - Haematology": 1,
@@ -383,7 +383,7 @@
       "Lighters": 0,
       "Low Speed Motorcycle": 2,
       "Measuring Instruments": 0,
-      "Meat And Poultry": 24,
+      "Meat And Poultry": 25,
       "Medical Devices": 6802,
       "Microbiology": 29,
       "Microbiology - Ophthalmology": 1,
@@ -407,7 +407,7 @@
       "Neurology - Cardiovascular - General And Plastic Surgery": 1,
       "Neurology - General Hospital And Personal Use": 1,
       "Non-Alcoholic": 49,
-      "Nuts, Grains, And Seeds": 100,
+      "Nuts, Grains, And Seeds": 101,
       "Nuts, Grains, And Seeds - Candy, Confectionary, Snacks And Sweeteners": 4,
       "Nuts, Grains, And Seeds - Candy, Confectionary, Snacks And Sweeteners - Dairy": 1,
       "Oatmeal - Other": 1,
@@ -418,7 +418,7 @@
       "Office Supplies And Stationeryrecalled Sand Products": 0,
       "Ophthalmology": 31,
       "Ophthalmology - General Hospital And Personal Use": 1,
-      "Orthopaedics": 99,
+      "Orthopaedics": 100,
       "Other": 553,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
@@ -446,7 +446,7 @@
       "Pathology": 23,
       "Pet Products": 0,
       "Physical Medicine": 45,
-      "Processed": 73,
+      "Processed": 74,
       "Processed - Canned": 2,
       "Processed - Frozen": 2,
       "Processed - Fruits And Vegetables": 1,
@@ -510,9 +510,9 @@
     "by_severity": {
       "Fatal": 0,
       "Minor": 4333,
-      "Moderate": 8659,
-      "Not Reported": 18167,
-      "Serious": 2898
+      "Moderate": 8664,
+      "Not Reported": 18170,
+      "Serious": 2899
     }
   },
   {
