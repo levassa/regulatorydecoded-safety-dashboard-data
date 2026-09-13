@@ -105,12 +105,12 @@
   },
   {
     "product_category": "Suv",
-    "total": 1454,
+    "total": 1455,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 1454,
+      "Health Canada": 1455,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -183,12 +183,12 @@
   },
   {
     "product_category": "Rv Trailer",
-    "total": 954,
+    "total": 955,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 954,
+      "Health Canada": 955,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -235,12 +235,12 @@
   },
   {
     "product_category": "Light Truck & Van",
-    "total": 605,
+    "total": 606,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 605,
+      "Health Canada": 606,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -495,12 +495,12 @@
   },
   {
     "product_category": "Minivan",
-    "total": 107,
+    "total": 108,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 107,
+      "Health Canada": 108,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0

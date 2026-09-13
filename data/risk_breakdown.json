@@ -41,7 +41,7 @@
   },
   {
     "risk_type": "Brakes",
-    "count": 895,
+    "count": 896,
     "percentage": 1.8
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "risk_type": "Accessories",
-    "count": 707,
+    "count": 708,
     "percentage": 1.4
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "risk_type": "Seats And Restraints",
-    "count": 668,
+    "count": 669,
     "percentage": 1.3
   },
   {
@@ -146,7 +146,7 @@
   },
   {
     "risk_type": "Visual System",
-    "count": 357,
+    "count": 358,
     "percentage": 0.7
   },
   {

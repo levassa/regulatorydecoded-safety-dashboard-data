@@ -2660,7 +2660,7 @@
     "Fatal": 19,
     "Minor": 50,
     "Moderate": 39,
-    "Not Reported": 398,
+    "Not Reported": 397,
     "Serious": 12
   },
   {
@@ -2708,7 +2708,7 @@
     "Fatal": 19,
     "Minor": 22,
     "Moderate": 18,
-    "Not Reported": 27,
+    "Not Reported": 32,
     "Serious": 5
   }
 ]
