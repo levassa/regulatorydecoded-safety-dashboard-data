@@ -79,13 +79,13 @@
   },
   {
     "hazard_type": "Chemical / Toxic Substance",
-    "total": 1052,
+    "total": 1053,
     "by_source": {
       "CPSC": 180,
       "EU Safety Gate": 0,
       "FDA": 192,
       "Health Canada": 581,
-      "NZ Product Safety": 16,
+      "NZ Product Safety": 17,
       "OPSS": 83,
       "RappelConso": 0
     }

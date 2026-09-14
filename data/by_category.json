@@ -79,13 +79,13 @@
   },
   {
     "product_category": "Electrical & Electronics",
-    "total": 1575,
+    "total": 1576,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 899,
       "FDA": 0,
       "Health Canada": 431,
-      "NZ Product Safety": 245,
+      "NZ Product Safety": 246,
       "OPSS": 0,
       "RappelConso": 0
     }

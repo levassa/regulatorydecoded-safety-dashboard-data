@@ -2137,13 +2137,13 @@
   },
   {
     "severity": "Not Reported",
-    "total": 27958,
+    "total": 27959,
     "total_injuries": 0,
     "by_region": {
       "Canada": 18174,
       "EU / EEA": 5000,
       "France": 3000,
-      "New Zealand": 1581,
+      "New Zealand": 1582,
       "USA": 1,
       "United Kingdom": 202
     },
@@ -2434,7 +2434,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 8,
       "Electric Or Gas Productsbuilding Products": 1,
-      "Electrical & Electronics": 1575,
+      "Electrical & Electronics": 1576,
       "Food & Food Contact": 201,
       "Fresh": 1,
       "Frozen": 1,
@@ -2654,7 +2654,7 @@
     },
     "by_hazard_type": {
       "Allergen": 445,
-      "Chemical / Toxic Substance": 581,
+      "Chemical / Toxic Substance": 582,
       "Drowning Risk": 123,
       "Electrical Fault": 1379,
       "Entrapment": 91,
