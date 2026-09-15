@@ -1,12 +1,12 @@
 [
   {
     "hazard_type": "Other",
-    "total": 35434,
+    "total": 35430,
     "by_source": {
       "CPSC": 388,
       "EU Safety Gate": 5000,
-      "FDA": 1899,
-      "Health Canada": 23429,
+      "FDA": 1897,
+      "Health Canada": 23427,
       "NZ Product Safety": 1476,
       "OPSS": 242,
       "RappelConso": 3000
@@ -14,12 +14,12 @@
   },
   {
     "hazard_type": "Allergen",
-    "total": 3231,
+    "total": 3235,
     "by_source": {
       "CPSC": 2,
       "EU Safety Gate": 0,
-      "FDA": 504,
-      "Health Canada": 2725,
+      "FDA": 507,
+      "Health Canada": 2726,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -27,11 +27,11 @@
   },
   {
     "hazard_type": "Microbiological Contamination",
-    "total": 2732,
+    "total": 2730,
     "by_source": {
       "CPSC": 12,
       "EU Safety Gate": 0,
-      "FDA": 826,
+      "FDA": 824,
       "Health Canada": 1883,
       "NZ Product Safety": 1,
       "OPSS": 10,
@@ -53,12 +53,12 @@
   },
   {
     "hazard_type": "Radiation",
-    "total": 1717,
+    "total": 1720,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 47,
-      "Health Canada": 1653,
+      "Health Canada": 1656,
       "NZ Product Safety": 17,
       "OPSS": 0,
       "RappelConso": 0
@@ -105,11 +105,11 @@
   },
   {
     "hazard_type": "Mechanical Failure",
-    "total": 550,
+    "total": 551,
     "by_source": {
       "CPSC": 176,
       "EU Safety Gate": 0,
-      "FDA": 208,
+      "FDA": 209,
       "Health Canada": 164,
       "NZ Product Safety": 2,
       "OPSS": 0,
@@ -131,11 +131,11 @@
   },
   {
     "hazard_type": "Sharp Edges / Points",
-    "total": 436,
+    "total": 435,
     "by_source": {
       "CPSC": 184,
       "EU Safety Gate": 0,
-      "FDA": 39,
+      "FDA": 38,
       "Health Canada": 205,
       "NZ Product Safety": 8,
       "OPSS": 0,
@@ -157,11 +157,11 @@
   },
   {
     "hazard_type": "Drowning Risk",
-    "total": 307,
+    "total": 308,
     "by_source": {
       "CPSC": 42,
       "EU Safety Gate": 0,
-      "FDA": 72,
+      "FDA": 73,
       "Health Canada": 120,
       "NZ Product Safety": 38,
       "OPSS": 35,

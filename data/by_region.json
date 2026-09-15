@@ -1,7 +1,7 @@
 [
   {
     "region": "Canada",
-    "total": 34070,
+    "total": 34072,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -189,7 +189,7 @@
       "Archived 31 January 201931 January 2017Trade Tested - Scaffolding": 0,
       "Audio Visual And Photography": 2,
       "Beverages": 4,
-      "Biologic Or Vaccine": 255,
+      "Biologic Or Vaccine": 256,
       "Boat": 1,
       "Booster Seat": 7,
       "Booster Seat - Child Car Seat": 4,
@@ -292,7 +292,7 @@
       "Electrical & Electronics": 431,
       "Food & Food Contact": 4393,
       "Fresh": 93,
-      "Frozen": 75,
+      "Frozen": 76,
       "Frozen - Herbs And Spices": 1,
       "Fruits And Vegetables": 27,
       "Furniture & Home": 946,
@@ -510,8 +510,8 @@
     "by_severity": {
       "Fatal": 0,
       "Minor": 4333,
-      "Moderate": 8664,
-      "Not Reported": 18174,
+      "Moderate": 8665,
+      "Not Reported": 18175,
       "Serious": 2899
     }
   },

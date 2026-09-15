@@ -1,12 +1,12 @@
 [
   {
     "injury_type": "Not Specified",
-    "total": 45549,
+    "total": 45548,
     "by_source": {
       "CPSC": 342,
       "EU Safety Gate": 5000,
-      "FDA": 3276,
-      "Health Canada": 31783,
+      "FDA": 3273,
+      "Health Canada": 31785,
       "NZ Product Safety": 1547,
       "OPSS": 601,
       "RappelConso": 3000
@@ -40,11 +40,11 @@
   },
   {
     "injury_type": "Laceration / Cut",
-    "total": 672,
+    "total": 673,
     "by_source": {
       "CPSC": 181,
       "EU Safety Gate": 0,
-      "FDA": 114,
+      "FDA": 115,
       "Health Canada": 363,
       "NZ Product Safety": 10,
       "OPSS": 4,
@@ -79,11 +79,11 @@
   },
   {
     "injury_type": "Fracture / Blunt Trauma",
-    "total": 363,
+    "total": 362,
     "by_source": {
       "CPSC": 139,
       "EU Safety Gate": 0,
-      "FDA": 138,
+      "FDA": 137,
       "Health Canada": 83,
       "NZ Product Safety": 3,
       "OPSS": 0,
@@ -144,11 +144,11 @@
   },
   {
     "injury_type": "Skin Irritation",
-    "total": 174,
+    "total": 177,
     "by_source": {
       "CPSC": 146,
       "EU Safety Gate": 0,
-      "FDA": 12,
+      "FDA": 15,
       "Health Canada": 16,
       "NZ Product Safety": 0,
       "OPSS": 0,

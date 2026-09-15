@@ -1051,28 +1051,28 @@
       "Veterinary Drugs": 5
     },
     "by_hazard_type": {
-      "Allergen": 1456,
+      "Allergen": 1459,
       "Chemical / Toxic Substance": 201,
-      "Drowning Risk": 79,
+      "Drowning Risk": 80,
       "Electrical Fault": 68,
       "Entrapment": 14,
       "Explosion": 72,
       "Flammability / Overheating": 55,
       "Instability / Fall Risk": 25,
-      "Mechanical Failure": 228,
-      "Microbiological Contamination": 1763,
-      "Other": 2880,
+      "Mechanical Failure": 229,
+      "Microbiological Contamination": 1761,
+      "Other": 2878,
       "Radiation": 49,
-      "Sharp Edges / Points": 60,
+      "Sharp Edges / Points": 59,
       "Small Parts / Choking Hazard": 11
     }
   },
   {
     "severity": "Moderate",
-    "total": 9298,
+    "total": 9299,
     "total_injuries": 0,
     "by_region": {
-      "Canada": 8664,
+      "Canada": 8665,
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 1,
@@ -1369,7 +1369,7 @@
       "Electrical & Electronics": 0,
       "Food & Food Contact": 1340,
       "Fresh": 48,
-      "Frozen": 25,
+      "Frozen": 26,
       "Frozen - Herbs And Spices": 0,
       "Fruits And Vegetables": 11,
       "Furniture & Home": 1,
@@ -1585,7 +1585,7 @@
       "Veterinary Drugs": 22
     },
     "by_hazard_type": {
-      "Allergen": 707,
+      "Allergen": 708,
       "Chemical / Toxic Substance": 109,
       "Drowning Risk": 35,
       "Electrical Fault": 50,
@@ -2137,10 +2137,10 @@
   },
   {
     "severity": "Not Reported",
-    "total": 27959,
+    "total": 27960,
     "total_injuries": 0,
     "by_region": {
-      "Canada": 18174,
+      "Canada": 18175,
       "EU / EEA": 5000,
       "France": 3000,
       "New Zealand": 1582,
@@ -2334,7 +2334,7 @@
       "Archived 31 January 201931 January 2017Trade Tested - Scaffolding": 1,
       "Audio Visual And Photography": 2,
       "Beverages": 0,
-      "Biologic Or Vaccine": 240,
+      "Biologic Or Vaccine": 241,
       "Boat": 1,
       "Booster Seat": 7,
       "Booster Seat - Child Car Seat": 4,
@@ -2663,8 +2663,8 @@
       "Instability / Fall Risk": 320,
       "Mechanical Failure": 39,
       "Microbiological Contamination": 90,
-      "Other": 21644,
-      "Radiation": 1628,
+      "Other": 21642,
+      "Radiation": 1631,
       "Sharp Edges / Points": 179,
       "Small Parts / Choking Hazard": 524
     }
