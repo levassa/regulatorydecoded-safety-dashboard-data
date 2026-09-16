@@ -535,10 +535,10 @@
   },
   {
     "severity": "Serious",
-    "total": 6961,
+    "total": 6962,
     "total_injuries": 0,
     "by_region": {
-      "Canada": 2899,
+      "Canada": 2900,
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 3,
@@ -835,7 +835,7 @@
       "Electrical & Electronics": 0,
       "Food & Food Contact": 3631,
       "Fresh": 39,
-      "Frozen": 34,
+      "Frozen": 35,
       "Frozen - Herbs And Spices": 1,
       "Fruits And Vegetables": 7,
       "Furniture & Home": 1,
@@ -1061,7 +1061,7 @@
       "Instability / Fall Risk": 25,
       "Mechanical Failure": 229,
       "Microbiological Contamination": 1761,
-      "Other": 2878,
+      "Other": 2879,
       "Radiation": 49,
       "Sharp Edges / Points": 59,
       "Small Parts / Choking Hazard": 11
@@ -1069,10 +1069,10 @@
   },
   {
     "severity": "Moderate",
-    "total": 9299,
+    "total": 9300,
     "total_injuries": 0,
     "by_region": {
-      "Canada": 8665,
+      "Canada": 8666,
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 1,
@@ -1484,7 +1484,7 @@
       "Neurology - Cardiovascular - General And Plastic Surgery": 0,
       "Neurology - General Hospital And Personal Use": 1,
       "Non-Alcoholic": 16,
-      "Nuts, Grains, And Seeds": 89,
+      "Nuts, Grains, And Seeds": 90,
       "Nuts, Grains, And Seeds - Candy, Confectionary, Snacks And Sweeteners": 4,
       "Nuts, Grains, And Seeds - Candy, Confectionary, Snacks And Sweeteners - Dairy": 1,
       "Oatmeal - Other": 1,
@@ -1595,7 +1595,7 @@
       "Instability / Fall Risk": 65,
       "Mechanical Failure": 160,
       "Microbiological Contamination": 726,
-      "Other": 7025,
+      "Other": 7026,
       "Radiation": 30,
       "Sharp Edges / Points": 103,
       "Small Parts / Choking Hazard": 64
@@ -1603,15 +1603,15 @@
   },
   {
     "severity": "Minor",
-    "total": 6023,
+    "total": 6021,
     "total_injuries": 0,
     "by_region": {
-      "Canada": 4333,
+      "Canada": 4334,
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 8,
       "USA": 892,
-      "United Kingdom": 790
+      "United Kingdom": 787
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
@@ -2012,7 +2012,7 @@
       "Motor Vehicles": 1,
       "Motorcycle": 0,
       "Motorcycle - Motor Tricycle": 0,
-      "Natural Health Products": 118,
+      "Natural Health Products": 119,
       "Neurology": 0,
       "Neurology - Anaesthesiology": 0,
       "Neurology - Cardiovascular - General And Plastic Surgery": 0,
@@ -2030,7 +2030,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 1780,
+      "Other": 1777,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -2121,7 +2121,7 @@
     "by_hazard_type": {
       "Allergen": 623,
       "Chemical / Toxic Substance": 76,
-      "Drowning Risk": 66,
+      "Drowning Risk": 67,
       "Electrical Fault": 167,
       "Entrapment": 24,
       "Explosion": 50,
@@ -2129,23 +2129,23 @@
       "Instability / Fall Risk": 76,
       "Mechanical Failure": 90,
       "Microbiological Contamination": 150,
-      "Other": 3757,
+      "Other": 3756,
       "Radiation": 10,
       "Sharp Edges / Points": 71,
-      "Small Parts / Choking Hazard": 234
+      "Small Parts / Choking Hazard": 232
     }
   },
   {
     "severity": "Not Reported",
-    "total": 27960,
+    "total": 27965,
     "total_injuries": 0,
     "by_region": {
-      "Canada": 18175,
+      "Canada": 18177,
       "EU / EEA": 5000,
       "France": 3000,
       "New Zealand": 1582,
       "USA": 1,
-      "United Kingdom": 202
+      "United Kingdom": 205
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
@@ -2354,7 +2354,7 @@
       "Bus - Truck - Med. & H.D. - School Bus": 1,
       "Candy, Confectionary, Snacks And Sweeteners": 2,
       "Candy, Confectionary, Snacks And Sweeteners - Nuts, Grains, And Seeds": 0,
-      "Cannabis": 97,
+      "Cannabis": 98,
       "Canned": 0,
       "Car": 1557,
       "Car - A.T.V. - Suv": 1,
@@ -2564,7 +2564,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 3525,
+      "Other": 3528,
       "Other -  Herbal Product For Smoking": 1,
       "Other - Back Patch, Recovery Tape": 1,
       "Other - Books": 1,
@@ -2616,7 +2616,7 @@
       "Specialized Products - Drugs - Biologic Or Vaccine": 1,
       "Specialized Products - Natural Health Products": 8,
       "Specialized Products - Other": 2,
-      "Sports & Leisure": 873,
+      "Sports & Leisure": 874,
       "Stationery": 9,
       "Suv": 1455,
       "Suv - Car": 138,
@@ -2654,7 +2654,7 @@
     },
     "by_hazard_type": {
       "Allergen": 445,
-      "Chemical / Toxic Substance": 582,
+      "Chemical / Toxic Substance": 585,
       "Drowning Risk": 123,
       "Electrical Fault": 1379,
       "Entrapment": 91,
@@ -2663,8 +2663,8 @@
       "Instability / Fall Risk": 320,
       "Mechanical Failure": 39,
       "Microbiological Contamination": 90,
-      "Other": 21642,
-      "Radiation": 1631,
+      "Other": 21645,
+      "Radiation": 1630,
       "Sharp Edges / Points": 179,
       "Small Parts / Choking Hazard": 524
     }

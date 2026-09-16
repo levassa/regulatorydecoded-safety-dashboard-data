@@ -1,7 +1,7 @@
 [
   {
     "region": "Canada",
-    "total": 34072,
+    "total": 34077,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -209,7 +209,7 @@
       "Bus - Truck - Med. & H.D. - School Bus": 1,
       "Candy, Confectionary, Snacks And Sweeteners": 177,
       "Candy, Confectionary, Snacks And Sweeteners - Nuts, Grains, And Seeds": 5,
-      "Cannabis": 97,
+      "Cannabis": 98,
       "Canned": 5,
       "Car": 1557,
       "Car - A.T.V. - Suv": 1,
@@ -292,7 +292,7 @@
       "Electrical & Electronics": 431,
       "Food & Food Contact": 4393,
       "Fresh": 93,
-      "Frozen": 76,
+      "Frozen": 77,
       "Frozen - Herbs And Spices": 1,
       "Fruits And Vegetables": 27,
       "Furniture & Home": 946,
@@ -401,13 +401,13 @@
       "Motor Vehicles": 241,
       "Motorcycle": 521,
       "Motorcycle - Motor Tricycle": 1,
-      "Natural Health Products": 1044,
+      "Natural Health Products": 1045,
       "Neurology": 64,
       "Neurology - Anaesthesiology": 1,
       "Neurology - Cardiovascular - General And Plastic Surgery": 1,
       "Neurology - General Hospital And Personal Use": 1,
       "Non-Alcoholic": 49,
-      "Nuts, Grains, And Seeds": 101,
+      "Nuts, Grains, And Seeds": 102,
       "Nuts, Grains, And Seeds - Candy, Confectionary, Snacks And Sweeteners": 4,
       "Nuts, Grains, And Seeds - Candy, Confectionary, Snacks And Sweeteners - Dairy": 1,
       "Oatmeal - Other": 1,
@@ -471,7 +471,7 @@
       "Specialized Products - Drugs - Biologic Or Vaccine": 1,
       "Specialized Products - Natural Health Products": 8,
       "Specialized Products - Other": 2,
-      "Sports & Leisure": 649,
+      "Sports & Leisure": 650,
       "Stationery": 0,
       "Suv": 1455,
       "Suv - Car": 138,
@@ -509,10 +509,10 @@
     },
     "by_severity": {
       "Fatal": 0,
-      "Minor": 4333,
-      "Moderate": 8665,
-      "Not Reported": 18175,
-      "Serious": 2899
+      "Minor": 4334,
+      "Moderate": 8666,
+      "Not Reported": 18177,
+      "Serious": 2900
     }
   },
   {
@@ -3089,9 +3089,9 @@
     },
     "by_severity": {
       "Fatal": 6,
-      "Minor": 790,
+      "Minor": 787,
       "Moderate": 0,
-      "Not Reported": 202,
+      "Not Reported": 205,
       "Serious": 2
     }
   }
