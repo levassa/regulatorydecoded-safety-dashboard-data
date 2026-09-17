@@ -1,7 +1,7 @@
 [
   {
     "region": "Canada",
-    "total": 34077,
+    "total": 34081,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -50,7 +50,7 @@
       "A.T.V. - Motorcycle": 1,
       "A.T.V. - Truck - Med. & H.D.": 1,
       "Alcoholic": 22,
-      "Anaesthesiology": 154,
+      "Anaesthesiology": 155,
       "Anaesthesiology - Cardiovascular": 5,
       "Anaesthesiology - Cardiovascular - General And Plastic Surgery - General Hospital And Personal Use - Obstetrics And Gynaecology - Orthopaedics": 1,
       "Anaesthesiology - Cardiovascular - General Hospital And Personal Use": 1,
@@ -207,7 +207,7 @@
       "Bus - School Bus - Truck - Med. & H.D.": 5,
       "Bus - Truck - Med. & H.D.": 14,
       "Bus - Truck - Med. & H.D. - School Bus": 1,
-      "Candy, Confectionary, Snacks And Sweeteners": 177,
+      "Candy, Confectionary, Snacks And Sweeteners": 178,
       "Candy, Confectionary, Snacks And Sweeteners - Nuts, Grains, And Seeds": 5,
       "Cannabis": 98,
       "Canned": 5,
@@ -401,8 +401,8 @@
       "Motor Vehicles": 241,
       "Motorcycle": 521,
       "Motorcycle - Motor Tricycle": 1,
-      "Natural Health Products": 1045,
-      "Neurology": 64,
+      "Natural Health Products": 1046,
+      "Neurology": 65,
       "Neurology - Anaesthesiology": 1,
       "Neurology - Cardiovascular - General And Plastic Surgery": 1,
       "Neurology - General Hospital And Personal Use": 1,
@@ -509,10 +509,10 @@
     },
     "by_severity": {
       "Fatal": 0,
-      "Minor": 4334,
-      "Moderate": 8666,
-      "Not Reported": 18177,
-      "Serious": 2900
+      "Minor": 4335,
+      "Moderate": 8669,
+      "Not Reported": 18176,
+      "Serious": 2901
     }
   },
   {
@@ -3089,9 +3089,9 @@
     },
     "by_severity": {
       "Fatal": 6,
-      "Minor": 787,
+      "Minor": 786,
       "Moderate": 0,
-      "Not Reported": 205,
+      "Not Reported": 206,
       "Serious": 2
     }
   }

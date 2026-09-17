@@ -535,10 +535,10 @@
   },
   {
     "severity": "Serious",
-    "total": 6962,
+    "total": 6963,
     "total_injuries": 0,
     "by_region": {
-      "Canada": 2900,
+      "Canada": 2901,
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 3,
@@ -815,7 +815,7 @@
       "Dental - General And Plastic Surgery - General Hospital And Personal Use": 0,
       "Dental - General Hospital And Personal Use": 0,
       "Dental - Orthopaedics - General And Plastic Surgery": 0,
-      "Drugs": 379,
+      "Drugs": 380,
       "Drugs - Biologic Or Vaccine": 1,
       "Drugs - Cannabis": 0,
       "Drugs - Natural Health Products": 0,
@@ -1061,7 +1061,7 @@
       "Instability / Fall Risk": 25,
       "Mechanical Failure": 229,
       "Microbiological Contamination": 1761,
-      "Other": 2879,
+      "Other": 2880,
       "Radiation": 49,
       "Sharp Edges / Points": 59,
       "Small Parts / Choking Hazard": 11
@@ -1069,10 +1069,10 @@
   },
   {
     "severity": "Moderate",
-    "total": 9300,
+    "total": 9303,
     "total_injuries": 0,
     "by_region": {
-      "Canada": 8666,
+      "Canada": 8669,
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 1,
@@ -1127,7 +1127,7 @@
       "A.T.V. - Motorcycle": 0,
       "A.T.V. - Truck - Med. & H.D.": 0,
       "Alcoholic": 8,
-      "Anaesthesiology": 123,
+      "Anaesthesiology": 124,
       "Anaesthesiology - Cardiovascular": 5,
       "Anaesthesiology - Cardiovascular - General And Plastic Surgery - General Hospital And Personal Use - Obstetrics And Gynaecology - Orthopaedics": 1,
       "Anaesthesiology - Cardiovascular - General Hospital And Personal Use": 1,
@@ -1284,7 +1284,7 @@
       "Bus - School Bus - Truck - Med. & H.D.": 0,
       "Bus - Truck - Med. & H.D.": 0,
       "Bus - Truck - Med. & H.D. - School Bus": 0,
-      "Candy, Confectionary, Snacks And Sweeteners": 92,
+      "Candy, Confectionary, Snacks And Sweeteners": 93,
       "Candy, Confectionary, Snacks And Sweeteners - Nuts, Grains, And Seeds": 4,
       "Cannabis": 0,
       "Canned": 3,
@@ -1479,7 +1479,7 @@
       "Motorcycle": 0,
       "Motorcycle - Motor Tricycle": 0,
       "Natural Health Products": 296,
-      "Neurology": 58,
+      "Neurology": 59,
       "Neurology - Anaesthesiology": 1,
       "Neurology - Cardiovascular - General And Plastic Surgery": 0,
       "Neurology - General Hospital And Personal Use": 1,
@@ -1585,7 +1585,7 @@
       "Veterinary Drugs": 22
     },
     "by_hazard_type": {
-      "Allergen": 708,
+      "Allergen": 709,
       "Chemical / Toxic Substance": 109,
       "Drowning Risk": 35,
       "Electrical Fault": 50,
@@ -1595,7 +1595,7 @@
       "Instability / Fall Risk": 65,
       "Mechanical Failure": 160,
       "Microbiological Contamination": 726,
-      "Other": 7026,
+      "Other": 7028,
       "Radiation": 30,
       "Sharp Edges / Points": 103,
       "Small Parts / Choking Hazard": 64
@@ -1606,12 +1606,12 @@
     "total": 6021,
     "total_injuries": 0,
     "by_region": {
-      "Canada": 4334,
+      "Canada": 4335,
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 8,
       "USA": 892,
-      "United Kingdom": 787
+      "United Kingdom": 786
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
@@ -2012,7 +2012,7 @@
       "Motor Vehicles": 1,
       "Motorcycle": 0,
       "Motorcycle - Motor Tricycle": 0,
-      "Natural Health Products": 119,
+      "Natural Health Products": 120,
       "Neurology": 0,
       "Neurology - Anaesthesiology": 0,
       "Neurology - Cardiovascular - General And Plastic Surgery": 0,
@@ -2030,7 +2030,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 1777,
+      "Other": 1776,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -2125,11 +2125,11 @@
       "Electrical Fault": 167,
       "Entrapment": 24,
       "Explosion": 50,
-      "Flammability / Overheating": 629,
+      "Flammability / Overheating": 628,
       "Instability / Fall Risk": 76,
       "Mechanical Failure": 90,
       "Microbiological Contamination": 150,
-      "Other": 3756,
+      "Other": 3757,
       "Radiation": 10,
       "Sharp Edges / Points": 71,
       "Small Parts / Choking Hazard": 232
@@ -2140,12 +2140,12 @@
     "total": 27965,
     "total_injuries": 0,
     "by_region": {
-      "Canada": 18177,
+      "Canada": 18176,
       "EU / EEA": 5000,
       "France": 3000,
       "New Zealand": 1582,
       "USA": 1,
-      "United Kingdom": 205
+      "United Kingdom": 206
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
@@ -2417,7 +2417,7 @@
       "Dental - General And Plastic Surgery - General Hospital And Personal Use": 0,
       "Dental - General Hospital And Personal Use": 0,
       "Dental - Orthopaedics - General And Plastic Surgery": 0,
-      "Drugs": 1409,
+      "Drugs": 1408,
       "Drugs - Biologic Or Vaccine": 5,
       "Drugs - Cannabis": 1,
       "Drugs - Natural Health Products": 66,
@@ -2564,7 +2564,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 3528,
+      "Other": 3529,
       "Other -  Herbal Product For Smoking": 1,
       "Other - Back Patch, Recovery Tape": 1,
       "Other - Books": 1,
@@ -2662,9 +2662,9 @@
       "Flammability / Overheating": 874,
       "Instability / Fall Risk": 320,
       "Mechanical Failure": 39,
-      "Microbiological Contamination": 90,
-      "Other": 21645,
-      "Radiation": 1630,
+      "Microbiological Contamination": 91,
+      "Other": 21643,
+      "Radiation": 1631,
       "Sharp Edges / Points": 179,
       "Small Parts / Choking Hazard": 524
     }
