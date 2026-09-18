@@ -14,9 +14,9 @@
   },
   {
     "product_category": "Other",
-    "total": 6804,
+    "total": 6818,
     "by_source": {
-      "CPSC": 2251,
+      "CPSC": 2265,
       "EU Safety Gate": 0,
       "FDA": 0,
       "Health Canada": 553,
@@ -27,12 +27,12 @@
   },
   {
     "product_category": "Food & Food Contact",
-    "total": 6395,
+    "total": 6396,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 2000,
-      "Health Canada": 4393,
+      "Health Canada": 4394,
       "NZ Product Safety": 2,
       "OPSS": 0,
       "RappelConso": 0
@@ -53,13 +53,13 @@
   },
   {
     "product_category": "Toys & Childcare",
-    "total": 2253,
+    "total": 2255,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 1032,
       "FDA": 0,
-      "Health Canada": 745,
-      "NZ Product Safety": 476,
+      "Health Canada": 746,
+      "NZ Product Safety": 477,
       "OPSS": 0,
       "RappelConso": 0
     }
@@ -79,12 +79,12 @@
   },
   {
     "product_category": "Electrical & Electronics",
-    "total": 1576,
+    "total": 1577,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 899,
       "FDA": 0,
-      "Health Canada": 431,
+      "Health Canada": 432,
       "NZ Product Safety": 246,
       "OPSS": 0,
       "RappelConso": 0
@@ -105,12 +105,12 @@
   },
   {
     "product_category": "Suv",
-    "total": 1455,
+    "total": 1456,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 1455,
+      "Health Canada": 1456,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -118,12 +118,12 @@
   },
   {
     "product_category": "Household Items",
-    "total": 1276,
+    "total": 1277,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 1276,
+      "Health Canada": 1277,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -209,13 +209,13 @@
   },
   {
     "product_category": "Tools & Machinery",
-    "total": 853,
+    "total": 854,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 273,
       "FDA": 0,
       "Health Canada": 503,
-      "NZ Product Safety": 77,
+      "NZ Product Safety": 78,
       "OPSS": 0,
       "RappelConso": 0
     }
@@ -235,12 +235,12 @@
   },
   {
     "product_category": "Light Truck & Van",
-    "total": 606,
+    "total": 607,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 606,
+      "Health Canada": 607,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -287,12 +287,12 @@
   },
   {
     "product_category": "General Hospital And Personal Use",
-    "total": 404,
+    "total": 405,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 404,
+      "Health Canada": 405,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -352,12 +352,12 @@
   },
   {
     "product_category": "Radiology",
-    "total": 243,
+    "total": 244,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 243,
+      "Health Canada": 244,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -429,13 +429,13 @@
     }
   },
   {
-    "product_category": "Heavy Trailer",
-    "total": 138,
+    "product_category": "Chemistry",
+    "total": 139,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 138,
+      "Health Canada": 139,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -455,7 +455,7 @@
     }
   },
   {
-    "product_category": "Chemistry",
+    "product_category": "Heavy Trailer",
     "total": 138,
     "by_source": {
       "CPSC": 0,
@@ -793,6 +793,19 @@
     }
   },
   {
+    "product_category": "Condiments",
+    "total": 42,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 42,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
     "product_category": "Decorative Articles",
     "total": 42,
     "by_source": {
@@ -800,19 +813,6 @@
       "EU Safety Gate": 42,
       "FDA": 0,
       "Health Canada": 0,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Condiments",
-    "total": 40,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 40,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0

@@ -2705,10 +2705,10 @@
   },
   {
     "month": "2026-09",
-    "Fatal": 19,
-    "Minor": 39,
-    "Moderate": 23,
-    "Not Reported": 42,
-    "Serious": 7
+    "Fatal": 28,
+    "Minor": 41,
+    "Moderate": 28,
+    "Not Reported": 48,
+    "Serious": 10
   }
 ]

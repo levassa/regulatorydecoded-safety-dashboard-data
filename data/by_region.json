@@ -1,7 +1,7 @@
 [
   {
     "region": "Canada",
-    "total": 34081,
+    "total": 34092,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -249,7 +249,7 @@
       "Chassis Cab - Truck - Med. & H.D.": 19,
       "Chassis Cab - Truck - Med. & H.D. - Light Truck & Van": 2,
       "Chemicals": 372,
-      "Chemistry": 138,
+      "Chemistry": 139,
       "Chemistry - Gastroenterology And Urology": 2,
       "Chemistry - General Hospital And Personal Use": 3,
       "Chemistry - Haematology": 2,
@@ -258,7 +258,7 @@
       "Clinical Toxicology": 2,
       "Clothing & Textiles": 565,
       "Communications": 1,
-      "Condiments": 40,
+      "Condiments": 42,
       "Construction Products": 0,
       "Consumer Products": 30,
       "Consumer Products - Drugs": 7,
@@ -289,8 +289,8 @@
       "Eggs": 2,
       "Electric Or Gas Products": 0,
       "Electric Or Gas Productsbuilding Products": 0,
-      "Electrical & Electronics": 431,
-      "Food & Food Contact": 4393,
+      "Electrical & Electronics": 432,
+      "Food & Food Contact": 4394,
       "Fresh": 93,
       "Frozen": 77,
       "Frozen - Herbs And Spices": 1,
@@ -315,7 +315,7 @@
       "General And Plastic Surgery - General Hospital And Personal Use": 12,
       "General And Plastic Surgery - Obstetrics And Gynaecology": 1,
       "General And Plastic Surgery - Orthopaedics": 1,
-      "General Hospital And Personal Use": 404,
+      "General Hospital And Personal Use": 405,
       "General Hospital And Personal Use - Cardiovascular": 5,
       "General Hospital And Personal Use - Cardiovascular - General And Plastic Surgery": 1,
       "General Hospital And Personal Use - Chemistry - Microbiology - Ophthalmology - Haematology": 1,
@@ -343,7 +343,7 @@
       "Hobby And Craft Items - Household Items - Other": 1,
       "Hobby And Craft Items - Jewellery": 1,
       "Hobby And Craft Items - Other": 5,
-      "Household Items": 1276,
+      "Household Items": 1277,
       "Household Items - Other": 122,
       "Household Items - Specialized Products": 15,
       "Household Items - Veterinary Drugs": 1,
@@ -363,7 +363,7 @@
       "Light Trailer": 61,
       "Light Trailer - Heavy Trailer": 1,
       "Light Trailer - Rv Trailer": 6,
-      "Light Truck & Van": 606,
+      "Light Truck & Van": 607,
       "Light Truck & Van - Car": 4,
       "Light Truck & Van - Car - Suv": 3,
       "Light Truck & Van - Car - Suv - Minivan": 1,
@@ -452,7 +452,7 @@
       "Processed - Fruits And Vegetables": 1,
       "Processed - Fruits And Vegetables - Egg Products": 1,
       "Pyrotechnic Articles": 0,
-      "Radiology": 243,
+      "Radiology": 244,
       "Radiology - Anaesthesiology": 2,
       "Radiology - Cardiovascular": 1,
       "Radiology - General Hospital And Personal Use": 1,
@@ -473,7 +473,7 @@
       "Specialized Products - Other": 2,
       "Sports & Leisure": 650,
       "Stationery": 0,
-      "Suv": 1455,
+      "Suv": 1456,
       "Suv - Car": 138,
       "Suv - Car - Light Truck & Van": 6,
       "Suv - Car - Minivan - Light Truck & Van": 1,
@@ -488,7 +488,7 @@
       "Suv - Truck - Med. & H.D.": 1,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 1,
       "Tools & Machinery": 503,
-      "Toys & Childcare": 745,
+      "Toys & Childcare": 746,
       "Truck - Med. & H.D.": 979,
       "Truck - Med. & H.D. - A.T.V.": 1,
       "Truck - Med. & H.D. - Bus": 5,
@@ -509,10 +509,10 @@
     },
     "by_severity": {
       "Fatal": 0,
-      "Minor": 4335,
-      "Moderate": 8669,
-      "Not Reported": 18176,
-      "Serious": 2901
+      "Minor": 4336,
+      "Moderate": 8673,
+      "Not Reported": 18181,
+      "Serious": 2902
     }
   },
   {
@@ -1549,7 +1549,7 @@
   },
   {
     "region": "New Zealand",
-    "total": 1595,
+    "total": 1597,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 1,
@@ -2035,8 +2035,8 @@
       "Suv - Minivan - Light Truck & Van": 0,
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
-      "Tools & Machinery": 77,
-      "Toys & Childcare": 476,
+      "Tools & Machinery": 78,
+      "Toys & Childcare": 477,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
       "Truck - Med. & H.D. - Bus": 0,
@@ -2059,13 +2059,13 @@
       "Fatal": 1,
       "Minor": 8,
       "Moderate": 1,
-      "Not Reported": 1582,
+      "Not Reported": 1584,
       "Serious": 3
     }
   },
   {
     "region": "USA",
-    "total": 6251,
+    "total": 6265,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -2483,7 +2483,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 2251,
+      "Other": 2265,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -2572,11 +2572,11 @@
       "Veterinary Drugs": 0
     },
     "by_severity": {
-      "Fatal": 668,
-      "Minor": 892,
-      "Moderate": 633,
-      "Not Reported": 1,
-      "Serious": 4057
+      "Fatal": 677,
+      "Minor": 893,
+      "Moderate": 634,
+      "Not Reported": 2,
+      "Serious": 4059
     }
   },
   {
