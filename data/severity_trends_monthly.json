@@ -2706,9 +2706,9 @@
   {
     "month": "2026-09",
     "Fatal": 28,
-    "Minor": 41,
-    "Moderate": 28,
-    "Not Reported": 48,
+    "Minor": 40,
+    "Moderate": 30,
+    "Not Reported": 47,
     "Serious": 10
   }
 ]

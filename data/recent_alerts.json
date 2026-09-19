@@ -1,13 +1,13 @@
 [
   {
-    "id": "608012aba5a065eb28da8e69e9c78d9fe27c3005",
+    "id": "74e1c2f673fc5a8597af8000215f9fc5047aa9bd",
     "source": "NZ Product Safety",
     "date": "9 Septembe",
     "region": "New Zealand",
     "notifying_country": "New Zealand",
     "country_of_origin": "",
-    "product_category": "9 September 2020Honda Sxs700 (2017-20) Steering Universal Joint",
-    "product_desc": "9 September 2020Honda SXS700 (2017-20) Steering Universal Joint",
+    "product_category": "9 September 2020Honda Sxs1000 (2016-20) Steering Universal Joint",
+    "product_desc": "9 September 2020Honda SXS1000 (2016-20) Steering Universal Joint",
     "risk_type": "Other",
     "hazard_type": "Other",
     "injury_type": "Not Specified",
@@ -16,7 +16,7 @@
     "injury_flag": false,
     "injury_count": 0,
     "corrective_action": "",
-    "reference": "honda-sxs700-2017-20-steering-universal-joint"
+    "reference": "honda-sxs1000-2016-20-steering-universal-joint"
   },
   {
     "id": "4adf81a840302362f8ad60d79e2a53fd012f9482",
@@ -38,14 +38,14 @@
     "reference": "zero-dusky-steel-cable-retractor-model-cr-30"
   },
   {
-    "id": "74e1c2f673fc5a8597af8000215f9fc5047aa9bd",
+    "id": "608012aba5a065eb28da8e69e9c78d9fe27c3005",
     "source": "NZ Product Safety",
     "date": "9 Septembe",
     "region": "New Zealand",
     "notifying_country": "New Zealand",
     "country_of_origin": "",
-    "product_category": "9 September 2020Honda Sxs1000 (2016-20) Steering Universal Joint",
-    "product_desc": "9 September 2020Honda SXS1000 (2016-20) Steering Universal Joint",
+    "product_category": "9 September 2020Honda Sxs700 (2017-20) Steering Universal Joint",
+    "product_desc": "9 September 2020Honda SXS700 (2017-20) Steering Universal Joint",
     "risk_type": "Other",
     "hazard_type": "Other",
     "injury_type": "Not Specified",
@@ -54,7 +54,7 @@
     "injury_flag": false,
     "injury_count": 0,
     "corrective_action": "",
-    "reference": "honda-sxs1000-2016-20-steering-universal-joint"
+    "reference": "honda-sxs700-2017-20-steering-universal-joint"
   },
   {
     "id": "6d3be61d00098606451f0149c5f46a6d0f2d5f2e",

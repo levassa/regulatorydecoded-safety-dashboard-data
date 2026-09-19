@@ -3722,9 +3722,9 @@
     "Allergen": 7,
     "Chemical / Toxic Substance": 13,
     "Electrical Fault": 18,
-    "Flammability / Overheating": 27,
+    "Flammability / Overheating": 26,
     "Microbiological Contamination": 7,
-    "Other": 44,
+    "Other": 45,
     "Radiation": 8,
     "Small Parts / Choking Hazard": 20
   }

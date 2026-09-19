@@ -2573,9 +2573,9 @@
     },
     "by_severity": {
       "Fatal": 677,
-      "Minor": 893,
-      "Moderate": 634,
-      "Not Reported": 2,
+      "Minor": 892,
+      "Moderate": 636,
+      "Not Reported": 1,
       "Serious": 4059
     }
   },

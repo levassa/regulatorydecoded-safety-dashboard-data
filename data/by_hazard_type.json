@@ -1,9 +1,9 @@
 [
   {
     "hazard_type": "Other",
-    "total": 35444,
+    "total": 35445,
     "by_source": {
-      "CPSC": 389,
+      "CPSC": 390,
       "EU Safety Gate": 5000,
       "FDA": 1897,
       "Health Canada": 23440,
@@ -40,9 +40,9 @@
   },
   {
     "hazard_type": "Flammability / Overheating",
-    "total": 1756,
+    "total": 1755,
     "by_source": {
-      "CPSC": 525,
+      "CPSC": 524,
       "EU Safety Gate": 0,
       "FDA": 40,
       "Health Canada": 880,
