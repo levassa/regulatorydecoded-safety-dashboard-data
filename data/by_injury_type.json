@@ -1,12 +1,12 @@
 [
   {
     "injury_type": "Not Specified",
-    "total": 45569,
+    "total": 45578,
     "by_source": {
       "CPSC": 343,
       "EU Safety Gate": 5000,
       "FDA": 3273,
-      "Health Canada": 31802,
+      "Health Canada": 31811,
       "NZ Product Safety": 1549,
       "OPSS": 602,
       "RappelConso": 3000
@@ -170,12 +170,12 @@
   },
   {
     "injury_type": "Radiation Exposure",
-    "total": 123,
+    "total": 124,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 62,
-      "Health Canada": 60,
+      "Health Canada": 61,
       "NZ Product Safety": 1,
       "OPSS": 0,
       "RappelConso": 0

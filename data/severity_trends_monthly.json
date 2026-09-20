@@ -2707,8 +2707,8 @@
     "month": "2026-09",
     "Fatal": 28,
     "Minor": 40,
-    "Moderate": 30,
-    "Not Reported": 47,
+    "Moderate": 32,
+    "Not Reported": 55,
     "Serious": 10
   }
 ]
