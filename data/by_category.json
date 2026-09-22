@@ -66,12 +66,12 @@
   },
   {
     "product_category": "Cosmetics & Personal Care",
-    "total": 1662,
+    "total": 1663,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 1413,
       "FDA": 0,
-      "Health Canada": 200,
+      "Health Canada": 201,
       "NZ Product Safety": 49,
       "OPSS": 0,
       "RappelConso": 0
@@ -157,13 +157,13 @@
   },
   {
     "product_category": "Motor Vehicles",
-    "total": 1010,
+    "total": 1011,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 525,
       "FDA": 0,
       "Health Canada": 241,
-      "NZ Product Safety": 244,
+      "NZ Product Safety": 245,
       "OPSS": 0,
       "RappelConso": 0
     }

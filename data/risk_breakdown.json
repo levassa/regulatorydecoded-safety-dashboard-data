@@ -1,7 +1,7 @@
 [
   {
     "risk_type": "Other",
-    "count": 15052,
+    "count": 15053,
     "percentage": 29.5
   },
   {
@@ -26,12 +26,12 @@
   },
   {
     "risk_type": "Electric Shock",
-    "count": 1322,
+    "count": 1321,
     "percentage": 2.6
   },
   {
     "risk_type": "Injury",
-    "count": 939,
+    "count": 940,
     "percentage": 1.8
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "risk_type": "Choking",
-    "count": 749,
+    "count": 750,
     "percentage": 1.5
   },
   {
@@ -11750,6 +11750,11 @@
     "percentage": 0.0
   },
   {
+    "risk_type": "Product Safety Report For Freeboy Electric Scooter Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
     "risk_type": "Product Safety Report For Gel Water Beads Presenting A Serious Risk Of Asphyxiation.",
     "count": 1,
     "percentage": 0.0
@@ -11770,17 +11775,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Hb Tower 5 Step Ladder Presenting A Serious Risk Of Injuries.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
-    "risk_type": "Product Safety Report For Hb Tower 5 Step Ladder With Handrails Presenting A Serious Risk Of Injuries.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
     "risk_type": "Product Safety Report For Hbtower 2.6M Telescopic Ladder Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Heimerdinger Angle Grinder Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11885,11 +11885,6 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Multi-Functional Blender Presenting A Serious Risk Of Injuries.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
     "risk_type": "Product Safety Report For Multicoloured Magnetic Tiles Presenting A Serious Risk Of Asphyxiation.",
     "count": 1,
     "percentage": 0.0
@@ -11901,6 +11896,11 @@
   },
   {
     "risk_type": "Product Safety Report For New Mummy Crib Backpack Presenting A Serious Risk Of Injuries.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Ningbo Foreign Trade Co Ltd 5M Telescopic Steel Ladder Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11925,7 +11925,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Heimerdinger Angle Grinder Presenting A Serious Risk Of Injuries.",
+    "risk_type": "Product Safety Report For Heybike Ec Compact City E-Bike Presenting A High Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11980,11 +11980,6 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Heybike Ec Compact City E-Bike Presenting A High Risk Of Injuries.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
     "risk_type": "Product Safety Report For Hinsinc Brushless Angle Grinder Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
@@ -12020,12 +12015,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Mr. Pen Water Beads Presenting A High Risk Of Asphyxiation.",
+    "risk_type": "Product Safety Report For Kidwill Multifunction Wooden Frame Abacus Toy Presenting A Serious Risk Of Asphyxiation.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Leeche Water Beads Presenting A Serious Risk Of Asphyxiation.",
+    "risk_type": "Product Safety Report For Multi-Functional Blender Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -12070,7 +12065,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Safety Report For Kidwill Multifunction Wooden Frame Abacus Toy Presenting A Serious Risk Of Asphyxiation.",
+    "risk_type": "Product Safety Report For Mr. Pen Water Beads Presenting A High Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Safety Report For Leeche Water Beads Presenting A Serious Risk Of Asphyxiation.",
     "count": 1,
     "percentage": 0.0
   },

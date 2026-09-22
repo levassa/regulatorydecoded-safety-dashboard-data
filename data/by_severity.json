@@ -2122,7 +2122,7 @@
       "Allergen": 624,
       "Chemical / Toxic Substance": 76,
       "Drowning Risk": 67,
-      "Electrical Fault": 167,
+      "Electrical Fault": 166,
       "Entrapment": 24,
       "Explosion": 50,
       "Flammability / Overheating": 628,
@@ -2132,18 +2132,18 @@
       "Other": 3757,
       "Radiation": 10,
       "Sharp Edges / Points": 71,
-      "Small Parts / Choking Hazard": 232
+      "Small Parts / Choking Hazard": 233
     }
   },
   {
     "severity": "Not Reported",
-    "total": 27980,
+    "total": 27982,
     "total_injuries": 0,
     "by_region": {
-      "Canada": 18189,
+      "Canada": 18190,
       "EU / EEA": 5000,
       "France": 3000,
-      "New Zealand": 1584,
+      "New Zealand": 1585,
       "USA": 1,
       "United Kingdom": 206
     },
@@ -2408,7 +2408,7 @@
       "Consumer Products": 30,
       "Consumer Products - Drugs": 7,
       "Consumer Products - Natural Health Products": 1,
-      "Cosmetics & Personal Care": 1662,
+      "Cosmetics & Personal Care": 1663,
       "Dairy": 0,
       "Dairy - Other": 0,
       "Decorative Articles": 42,
@@ -2543,7 +2543,7 @@
       "Minivan - Suv - Car": 3,
       "Motor Tricycle": 23,
       "Motor Tricycle - Motorcycle": 2,
-      "Motor Vehicles": 1009,
+      "Motor Vehicles": 1010,
       "Motorcycle": 521,
       "Motorcycle - Motor Tricycle": 1,
       "Natural Health Products": 575,
@@ -2663,7 +2663,7 @@
       "Instability / Fall Risk": 320,
       "Mechanical Failure": 39,
       "Microbiological Contamination": 91,
-      "Other": 21650,
+      "Other": 21652,
       "Radiation": 1634,
       "Sharp Edges / Points": 179,
       "Small Parts / Choking Hazard": 525
