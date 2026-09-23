@@ -1051,7 +1051,7 @@
       "Veterinary Drugs": 5
     },
     "by_hazard_type": {
-      "Allergen": 1459,
+      "Allergen": 1458,
       "Chemical / Toxic Substance": 201,
       "Drowning Risk": 80,
       "Electrical Fault": 69,
@@ -1061,7 +1061,7 @@
       "Instability / Fall Risk": 25,
       "Mechanical Failure": 229,
       "Microbiological Contamination": 1762,
-      "Other": 2880,
+      "Other": 2881,
       "Radiation": 49,
       "Sharp Edges / Points": 59,
       "Small Parts / Choking Hazard": 12

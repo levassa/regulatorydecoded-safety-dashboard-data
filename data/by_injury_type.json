@@ -92,11 +92,11 @@
   },
   {
     "injury_type": "Allergic Reaction",
-    "total": 326,
+    "total": 325,
     "by_source": {
       "CPSC": 1,
       "EU Safety Gate": 0,
-      "FDA": 189,
+      "FDA": 188,
       "Health Canada": 135,
       "NZ Product Safety": 1,
       "OPSS": 0,
@@ -170,11 +170,11 @@
   },
   {
     "injury_type": "Radiation Exposure",
-    "total": 124,
+    "total": 125,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
-      "FDA": 62,
+      "FDA": 63,
       "Health Canada": 61,
       "NZ Product Safety": 1,
       "OPSS": 0,
