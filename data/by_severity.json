@@ -1069,10 +1069,10 @@
   },
   {
     "severity": "Moderate",
-    "total": 9312,
+    "total": 9314,
     "total_injuries": 0,
     "by_region": {
-      "Canada": 8675,
+      "Canada": 8677,
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 1,
@@ -1284,7 +1284,7 @@
       "Bus - School Bus - Truck - Med. & H.D.": 0,
       "Bus - Truck - Med. & H.D.": 0,
       "Bus - Truck - Med. & H.D. - School Bus": 0,
-      "Candy, Confectionary, Snacks And Sweeteners": 93,
+      "Candy, Confectionary, Snacks And Sweeteners": 94,
       "Candy, Confectionary, Snacks And Sweeteners - Nuts, Grains, And Seeds": 4,
       "Cannabis": 0,
       "Canned": 3,
@@ -1369,7 +1369,7 @@
       "Electrical & Electronics": 0,
       "Food & Food Contact": 1340,
       "Fresh": 48,
-      "Frozen": 26,
+      "Frozen": 27,
       "Frozen - Herbs And Spices": 0,
       "Fruits And Vegetables": 11,
       "Furniture & Home": 1,
@@ -1595,7 +1595,7 @@
       "Instability / Fall Risk": 65,
       "Mechanical Failure": 161,
       "Microbiological Contamination": 726,
-      "Other": 7033,
+      "Other": 7035,
       "Radiation": 30,
       "Sharp Edges / Points": 103,
       "Small Parts / Choking Hazard": 64
@@ -2137,10 +2137,10 @@
   },
   {
     "severity": "Not Reported",
-    "total": 27982,
+    "total": 27984,
     "total_injuries": 0,
     "by_region": {
-      "Canada": 18190,
+      "Canada": 18192,
       "EU / EEA": 5000,
       "France": 3000,
       "New Zealand": 1585,
@@ -2434,7 +2434,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 8,
       "Electric Or Gas Productsbuilding Products": 1,
-      "Electrical & Electronics": 1577,
+      "Electrical & Electronics": 1578,
       "Food & Food Contact": 201,
       "Fresh": 1,
       "Frozen": 1,
@@ -2633,7 +2633,7 @@
       "Suv - Truck - Med. & H.D.": 1,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 1,
       "Tools & Machinery": 852,
-      "Toys & Childcare": 2244,
+      "Toys & Childcare": 2245,
       "Truck - Med. & H.D.": 981,
       "Truck - Med. & H.D. - A.T.V.": 1,
       "Truck - Med. & H.D. - Bus": 5,
@@ -2659,14 +2659,14 @@
       "Electrical Fault": 1382,
       "Entrapment": 91,
       "Explosion": 41,
-      "Flammability / Overheating": 875,
+      "Flammability / Overheating": 876,
       "Instability / Fall Risk": 320,
       "Mechanical Failure": 39,
       "Microbiological Contamination": 91,
-      "Other": 21652,
-      "Radiation": 1634,
+      "Other": 21653,
+      "Radiation": 1633,
       "Sharp Edges / Points": 179,
-      "Small Parts / Choking Hazard": 525
+      "Small Parts / Choking Hazard": 526
     }
   }
 ]

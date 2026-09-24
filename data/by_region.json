@@ -1,7 +1,7 @@
 [
   {
     "region": "Canada",
-    "total": 34103,
+    "total": 34107,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -207,7 +207,7 @@
       "Bus - School Bus - Truck - Med. & H.D.": 5,
       "Bus - Truck - Med. & H.D.": 14,
       "Bus - Truck - Med. & H.D. - School Bus": 1,
-      "Candy, Confectionary, Snacks And Sweeteners": 178,
+      "Candy, Confectionary, Snacks And Sweeteners": 179,
       "Candy, Confectionary, Snacks And Sweeteners - Nuts, Grains, And Seeds": 5,
       "Cannabis": 98,
       "Canned": 5,
@@ -289,10 +289,10 @@
       "Eggs": 2,
       "Electric Or Gas Products": 0,
       "Electric Or Gas Productsbuilding Products": 0,
-      "Electrical & Electronics": 432,
+      "Electrical & Electronics": 433,
       "Food & Food Contact": 4394,
       "Fresh": 93,
-      "Frozen": 77,
+      "Frozen": 78,
       "Frozen - Herbs And Spices": 1,
       "Fruits And Vegetables": 27,
       "Furniture & Home": 948,
@@ -488,7 +488,7 @@
       "Suv - Truck - Med. & H.D.": 1,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 1,
       "Tools & Machinery": 503,
-      "Toys & Childcare": 746,
+      "Toys & Childcare": 747,
       "Truck - Med. & H.D.": 981,
       "Truck - Med. & H.D. - A.T.V.": 1,
       "Truck - Med. & H.D. - Bus": 5,
@@ -510,8 +510,8 @@
     "by_severity": {
       "Fatal": 0,
       "Minor": 4336,
-      "Moderate": 8675,
-      "Not Reported": 18190,
+      "Moderate": 8677,
+      "Not Reported": 18192,
       "Serious": 2902
     }
   },
