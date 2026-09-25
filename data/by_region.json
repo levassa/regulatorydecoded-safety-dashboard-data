@@ -1,7 +1,7 @@
 [
   {
     "region": "Canada",
-    "total": 34107,
+    "total": 34113,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -189,7 +189,7 @@
       "Archived 31 January 201931 January 2017Trade Tested - Scaffolding": 0,
       "Audio Visual And Photography": 2,
       "Beverages": 4,
-      "Biologic Or Vaccine": 256,
+      "Biologic Or Vaccine": 257,
       "Boat": 1,
       "Booster Seat": 7,
       "Booster Seat - Child Car Seat": 4,
@@ -197,7 +197,7 @@
       "Building Materials And Supplies": 3,
       "Building Products": 0,
       "Building Productselectric Or Gas Products": 0,
-      "Bus": 543,
+      "Bus": 544,
       "Bus - Chassis Cab - Light Truck & Van": 1,
       "Bus - Chassis Cab - Truck - Med. & H.D.": 1,
       "Bus - Light Truck & Van - Chassis Cab": 1,
@@ -228,7 +228,7 @@
       "Car - Suv - Light Truck & Van": 6,
       "Car - Suv - Light Truck & Van - Minivan": 1,
       "Car - Suv - Minivan": 2,
-      "Cardiovascular": 256,
+      "Cardiovascular": 257,
       "Cardiovascular - Anaesthesiology": 1,
       "Cardiovascular - Chemistry": 1,
       "Cardiovascular - Gastroenterology And Urology": 2,
@@ -258,7 +258,7 @@
       "Clinical Toxicology": 2,
       "Clothing & Textiles": 565,
       "Communications": 1,
-      "Condiments": 42,
+      "Condiments": 43,
       "Construction Products": 0,
       "Consumer Products": 30,
       "Consumer Products - Drugs": 7,
@@ -297,7 +297,7 @@
       "Fruits And Vegetables": 27,
       "Furniture & Home": 948,
       "Gadgets": 0,
-      "Gastroenterology And Urology": 108,
+      "Gastroenterology And Urology": 109,
       "Gastroenterology And Urology - Anaesthesiology - Ear, Nose And Throat": 1,
       "Gastroenterology And Urology - Cardiovascular": 1,
       "Gastroenterology And Urology - Chemistry": 1,
@@ -336,7 +336,7 @@
       "Health Products - Cardiovascular - General Hospital And Personal Use - Orthopaedics": 1,
       "Heavy Trailer": 138,
       "Heavy Trailer - Light Trailer": 1,
-      "Herbs And Spices": 38,
+      "Herbs And Spices": 39,
       "Herbs And Spices - Other": 1,
       "Hobby And Craft Items": 20,
       "Hobby And Craft Items - Household Items": 7,
@@ -509,9 +509,9 @@
     },
     "by_severity": {
       "Fatal": 0,
-      "Minor": 4336,
-      "Moderate": 8677,
-      "Not Reported": 18192,
+      "Minor": 4337,
+      "Moderate": 8681,
+      "Not Reported": 18193,
       "Serious": 2902
     }
   },
@@ -1549,7 +1549,7 @@
   },
   {
     "region": "New Zealand",
-    "total": 1598,
+    "total": 1599,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 1,
@@ -2019,7 +2019,7 @@
       "Specialized Products - Drugs - Biologic Or Vaccine": 0,
       "Specialized Products - Natural Health Products": 0,
       "Specialized Products - Other": 0,
-      "Sports & Leisure": 97,
+      "Sports & Leisure": 98,
       "Stationery": 0,
       "Suv": 0,
       "Suv - Car": 0,
@@ -2059,13 +2059,13 @@
       "Fatal": 1,
       "Minor": 8,
       "Moderate": 1,
-      "Not Reported": 1585,
+      "Not Reported": 1586,
       "Serious": 3
     }
   },
   {
     "region": "USA",
-    "total": 6265,
+    "total": 6276,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -2483,7 +2483,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 2265,
+      "Other": 2276,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -2572,9 +2572,9 @@
       "Veterinary Drugs": 0
     },
     "by_severity": {
-      "Fatal": 677,
-      "Minor": 892,
-      "Moderate": 636,
+      "Fatal": 685,
+      "Minor": 893,
+      "Moderate": 638,
       "Not Reported": 1,
       "Serious": 4059
     }
