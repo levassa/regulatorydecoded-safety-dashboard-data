@@ -40,12 +40,12 @@
   },
   {
     "product_category": "Drugs",
-    "total": 2794,
+    "total": 2795,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 2794,
+      "Health Canada": 2795,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -79,12 +79,12 @@
   },
   {
     "product_category": "Electrical & Electronics",
-    "total": 1578,
+    "total": 1580,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 899,
       "FDA": 0,
-      "Health Canada": 433,
+      "Health Canada": 435,
       "NZ Product Safety": 246,
       "OPSS": 0,
       "RappelConso": 0
@@ -105,12 +105,12 @@
   },
   {
     "product_category": "Suv",
-    "total": 1458,
+    "total": 1462,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 1458,
+      "Health Canada": 1462,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -235,12 +235,12 @@
   },
   {
     "product_category": "Light Truck & Van",
-    "total": 607,
+    "total": 609,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 607,
+      "Health Canada": 609,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -261,12 +261,12 @@
   },
   {
     "product_category": "Bus",
-    "total": 544,
+    "total": 545,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 544,
+      "Health Canada": 545,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -287,12 +287,12 @@
   },
   {
     "product_category": "General Hospital And Personal Use",
-    "total": 405,
+    "total": 406,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 405,
+      "Health Canada": 406,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -325,26 +325,26 @@
     }
   },
   {
-    "product_category": "Cardiovascular",
-    "total": 257,
+    "product_category": "Biologic Or Vaccine",
+    "total": 259,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 257,
+      "Health Canada": 259,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
     }
   },
   {
-    "product_category": "Biologic Or Vaccine",
-    "total": 257,
+    "product_category": "Cardiovascular",
+    "total": 258,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 257,
+      "Health Canada": 258,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -378,12 +378,12 @@
   },
   {
     "product_category": "General And Plastic Surgery",
-    "total": 192,
+    "total": 193,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 192,
+      "Health Canada": 193,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -391,12 +391,12 @@
   },
   {
     "product_category": "Candy, Confectionary, Snacks And Sweeteners",
-    "total": 179,
+    "total": 180,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 179,
+      "Health Canada": 180,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -482,12 +482,12 @@
   },
   {
     "product_category": "Gastroenterology And Urology",
-    "total": 109,
+    "total": 110,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 109,
+      "Health Canada": 110,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -663,7 +663,7 @@
     }
   },
   {
-    "product_category": "Haematology",
+    "product_category": "Neurology",
     "total": 66,
     "by_source": {
       "CPSC": 0,
@@ -676,13 +676,13 @@
     }
   },
   {
-    "product_category": "Neurology",
-    "total": 65,
+    "product_category": "Haematology",
+    "total": 66,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 65,
+      "Health Canada": 66,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0

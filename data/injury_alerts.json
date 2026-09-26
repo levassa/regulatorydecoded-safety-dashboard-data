@@ -91,7 +91,7 @@
     "severity": "Fatal",
     "injury_flag": true,
     "injury_count": 0,
-    "corrective_action": "Repair",
+    "corrective_action": "Consumers should stop using the recalled mattresses immediately and contact Style Homeware to receive a free fitted cover to put over their mattress, which will bring the mattress into compliance with mandatory flammability standards.",
     "reference": "26796"
   },
   {
@@ -10420,7 +10420,7 @@
     "country_of_origin": "",
     "product_category": "Other",
     "product_desc": "Magnetic DIY Balls Magic Cube, 5mm",
-    "risk_type": "The Magnetic Ball Sets Do Not Comply With The Requirements Of The Mandatory Federal Toy Regulation Because They Contain One Or More Magnets That Fit Within Cpsc'S Small Parts Cylinder And The Magnets Are Stronger Than Permitted. When High-Powered Magnets Are Swallowed, The Ingested Magnets Can Attract To Each Other Or To Another Metal Object And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting And/Or Blockage Of The Intestines, Infection, Blood Poisoning And Death.",
+    "risk_type": "The Magnetic Ball Sets Do Not Comply With The Requirements Of The Mandatory Federal Toy Regulation Because They Contain One Or More Magnets That Fit Within Cpsc'S Small Parts Cylinder And The Magnets Are Stronger Than Permitted. When High-Powered Magnets Are Swallowed, The Ingested Magnets Can Attract Each Other Or Another Metal Object And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting And/Or Blockage Of The Intestines, Infection, Blood Poisoning And Death.",
     "hazard_type": "Small Parts / Choking Hazard",
     "injury_type": "Poisoning / Ingestion",
     "injury_description": "None reported. CPSC estimates 2,400 magnet ingestions were treated in hospital emergency departments from 2017 through 2021. CPSC is aware of seven deaths since 2005 involving the ingestion of hazardous magnets, including two outside of the United States.",
@@ -14153,25 +14153,6 @@
     "injury_count": 0,
     "corrective_action": "Consumers should stop using the recalled power banks immediately and contact NEWDERY for instructions on how to receive a full refund. To receive a refund, consumers will be required to submit a photo of their recalled power bank showing the model number, serial number and the word “recalled” and the consumer’s last name written on the power bank in permanent marker. Consumers will also be required to confirm disposal of the power bank in accordance with applicable laws and regulations before receiving a refund. \n\nNote: Do not throw this lithium-ion battery or device in the trash, the general recycling stream (e.g., street-level or curbside recycling bins), or in used battery recycling boxes found at various retail and home improvement stores. Recalled lithium-ion batteries must be disposed of differently than other batteries, because they present a greater risk of fire. Your municipal household hazardous waste (HHW) collection center may accept this lithium-ion battery or device for disposal. Before taking your battery or device to a HHW collection center, contact it ahead of time and ask whether it accepts recalled lithium-ion batteries. If it does not, contact your municipality for further guidance.",
     "reference": "26792"
-  },
-  {
-    "id": "773595d02f2e713cd0a92e5211da8494bcc289d8",
-    "source": "CPSC",
-    "date": "2026-09-24",
-    "region": "USA",
-    "notifying_country": "United States",
-    "country_of_origin": "",
-    "product_category": "Other",
-    "product_desc": "The Blue Cactus Company 2500 mAh Battery Packs for Reclining Chairs",
-    "risk_type": "Fire",
-    "hazard_type": "Flammability / Overheating",
-    "injury_type": "Burns",
-    "injury_description": "CPSC is aware of four reports of the batteries overheating, smoking, or igniting.",
-    "severity": "Moderate",
-    "injury_flag": true,
-    "injury_count": 0,
-    "corrective_action": "Consumers should stop using the recalled battery packs immediately and contact The Blue Cactus Company for a replacement battery pack.",
-    "reference": "26791"
   },
   {
     "id": "aa291d3a97360d92de8f605b9aee0fa81a56f3cf",

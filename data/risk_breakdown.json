@@ -11,17 +11,17 @@
   },
   {
     "risk_type": "Product Safety",
-    "count": 1821,
+    "count": 1822,
     "percentage": 3.6
   },
   {
     "risk_type": "Fire",
-    "count": 1737,
+    "count": 1738,
     "percentage": 3.4
   },
   {
     "risk_type": "Performance",
-    "count": 1435,
+    "count": 1438,
     "percentage": 2.8
   },
   {
@@ -66,12 +66,12 @@
   },
   {
     "risk_type": "Milk",
-    "count": 682,
+    "count": 683,
     "percentage": 1.3
   },
   {
     "risk_type": "Seats And Restraints",
-    "count": 669,
+    "count": 670,
     "percentage": 1.3
   },
   {
@@ -81,17 +81,17 @@
   },
   {
     "risk_type": "Airbag",
-    "count": 637,
+    "count": 638,
+    "percentage": 1.3
+  },
+  {
+    "risk_type": "Powertrain",
+    "count": 602,
     "percentage": 1.2
   },
   {
     "risk_type": "Salmonella",
     "count": 602,
-    "percentage": 1.2
-  },
-  {
-    "risk_type": "Powertrain",
-    "count": 601,
     "percentage": 1.2
   },
   {
@@ -101,7 +101,7 @@
   },
   {
     "risk_type": "Labelling And Packaging",
-    "count": 526,
+    "count": 527,
     "percentage": 1.0
   },
   {
@@ -156,7 +156,7 @@
   },
   {
     "risk_type": "Product Quality",
-    "count": 324,
+    "count": 326,
     "percentage": 0.6
   },
   {
@@ -171,12 +171,12 @@
   },
   {
     "risk_type": "Fuel System",
-    "count": 260,
+    "count": 261,
     "percentage": 0.5
   },
   {
     "risk_type": "Burns",
-    "count": 251,
+    "count": 252,
     "percentage": 0.5
   },
   {
@@ -205,13 +205,13 @@
     "percentage": 0.3
   },
   {
-    "risk_type": "Sterility",
-    "count": 160,
+    "risk_type": "High Voltage",
+    "count": 162,
     "percentage": 0.3
   },
   {
-    "risk_type": "High Voltage",
-    "count": 159,
+    "risk_type": "Sterility",
+    "count": 160,
     "percentage": 0.3
   },
   {
@@ -276,7 +276,7 @@
   },
   {
     "risk_type": "Device Compatibility",
-    "count": 75,
+    "count": 76,
     "percentage": 0.1
   },
   {
@@ -7230,7 +7230,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "The Magnetic Ball Sets Do Not Comply With The Requirements Of The Mandatory Federal Toy Regulation Because They Contain One Or More Magnets That Fit Within Cpsc'S Small Parts Cylinder And The Magnets Are Stronger Than Permitted. When High-Powered Magnets Are Swallowed, The Ingested Magnets Can Attract To Each Other Or To Another Metal Object And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting And/Or Blockage Of The Intestines, Infection, Blood Poisoning And Death.",
+    "risk_type": "The Magnetic Ball Sets Do Not Comply With The Requirements Of The Mandatory Federal Toy Regulation Because They Contain One Or More Magnets That Fit Within Cpsc'S Small Parts Cylinder And The Magnets Are Stronger Than Permitted. When High-Powered Magnets Are Swallowed, The Ingested Magnets Can Attract Each Other Or Another Metal Object And Become Lodged In The Digestive System. This Can Result In Perforations, Twisting And/Or Blockage Of The Intestines, Infection, Blood Poisoning And Death.",
     "count": 1,
     "percentage": 0.0
   },
