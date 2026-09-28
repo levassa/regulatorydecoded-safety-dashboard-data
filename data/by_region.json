@@ -1,7 +1,7 @@
 [
   {
     "region": "Canada",
-    "total": 34133,
+    "total": 34135,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -474,7 +474,7 @@
       "Specialized Products - Other": 2,
       "Sports & Leisure": 650,
       "Stationery": 0,
-      "Suv": 1462,
+      "Suv": 1464,
       "Suv - Car": 138,
       "Suv - Car - Light Truck & Van": 6,
       "Suv - Car - Minivan - Light Truck & Van": 1,
@@ -512,7 +512,7 @@
       "Fatal": 0,
       "Minor": 4338,
       "Moderate": 8687,
-      "Not Reported": 18203,
+      "Not Reported": 18205,
       "Serious": 2905
     }
   },
@@ -2069,7 +2069,7 @@
   },
   {
     "region": "USA",
-    "total": 4000,
+    "total": 6276,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -2488,7 +2488,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 0,
+      "Other": 2276,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -2577,11 +2577,11 @@
       "Veterinary Drugs": 0
     },
     "by_severity": {
-      "Fatal": 22,
-      "Minor": 0,
-      "Moderate": 0,
-      "Not Reported": 0,
-      "Serious": 3978
+      "Fatal": 685,
+      "Minor": 893,
+      "Moderate": 637,
+      "Not Reported": 2,
+      "Serious": 4059
     }
   },
   {
