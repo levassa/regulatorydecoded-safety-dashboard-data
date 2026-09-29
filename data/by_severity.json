@@ -1,14 +1,14 @@
 [
   {
     "severity": "Fatal",
-    "total": 692,
+    "total": 693,
     "total_injuries": 0,
     "by_region": {
       "Canada": 0,
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 1,
-      "USA": 685,
+      "USA": 686,
       "United Kingdom": 6
     },
     "by_category": {
@@ -393,7 +393,7 @@
       "Low Speed Motorcycle": 0,
       "Measuring Instruments": 0,
       "Meat And Poultry": 0,
-      "Medical Devices": 17,
+      "Medical Devices": 18,
       "Microbiology": 0,
       "Microbiology - Ophthalmology": 0,
       "Minivan": 0,
@@ -519,7 +519,7 @@
     },
     "by_hazard_type": {
       "Allergen": 0,
-      "Chemical / Toxic Substance": 88,
+      "Chemical / Toxic Substance": 89,
       "Drowning Risk": 4,
       "Electrical Fault": 35,
       "Entrapment": 167,
@@ -536,14 +536,14 @@
   },
   {
     "severity": "Serious",
-    "total": 6969,
+    "total": 6968,
     "total_injuries": 0,
     "by_region": {
       "Canada": 2905,
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 3,
-      "USA": 4059,
+      "USA": 4058,
       "United Kingdom": 2
     },
     "by_category": {
@@ -928,7 +928,7 @@
       "Low Speed Motorcycle": 0,
       "Measuring Instruments": 0,
       "Meat And Poultry": 2,
-      "Medical Devices": 2258,
+      "Medical Devices": 2257,
       "Microbiology": 0,
       "Microbiology - Ophthalmology": 0,
       "Minivan": 0,
@@ -1053,19 +1053,19 @@
       "Veterinary Drugs": 5
     },
     "by_hazard_type": {
-      "Allergen": 1459,
-      "Chemical / Toxic Substance": 201,
-      "Drowning Risk": 80,
+      "Allergen": 1454,
+      "Chemical / Toxic Substance": 203,
+      "Drowning Risk": 81,
       "Electrical Fault": 69,
       "Entrapment": 14,
       "Explosion": 72,
       "Flammability / Overheating": 55,
       "Instability / Fall Risk": 25,
       "Mechanical Failure": 229,
-      "Microbiological Contamination": 1762,
-      "Other": 2883,
+      "Microbiological Contamination": 1767,
+      "Other": 2878,
       "Radiation": 49,
-      "Sharp Edges / Points": 59,
+      "Sharp Edges / Points": 60,
       "Small Parts / Choking Hazard": 12
     }
   },
@@ -1606,7 +1606,7 @@
   },
   {
     "severity": "Minor",
-    "total": 6025,
+    "total": 6024,
     "total_injuries": 0,
     "by_region": {
       "Canada": 4338,
@@ -1614,7 +1614,7 @@
       "France": 0,
       "New Zealand": 8,
       "USA": 893,
-      "United Kingdom": 786
+      "United Kingdom": 785
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
@@ -2034,7 +2034,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 1777,
+      "Other": 1776,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -2129,7 +2129,7 @@
       "Electrical Fault": 166,
       "Entrapment": 24,
       "Explosion": 50,
-      "Flammability / Overheating": 629,
+      "Flammability / Overheating": 628,
       "Instability / Fall Risk": 76,
       "Mechanical Failure": 90,
       "Microbiological Contamination": 150,
@@ -2141,7 +2141,7 @@
   },
   {
     "severity": "Not Reported",
-    "total": 27999,
+    "total": 28000,
     "total_injuries": 0,
     "by_region": {
       "Canada": 18205,
@@ -2149,7 +2149,7 @@
       "France": 3000,
       "New Zealand": 1586,
       "USA": 2,
-      "United Kingdom": 206
+      "United Kingdom": 207
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
@@ -2569,7 +2569,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 3530,
+      "Other": 3531,
       "Other -  Herbal Product For Smoking": 1,
       "Other - Back Patch, Recovery Tape": 1,
       "Other - Books": 1,
@@ -2659,7 +2659,7 @@
     },
     "by_hazard_type": {
       "Allergen": 445,
-      "Chemical / Toxic Substance": 585,
+      "Chemical / Toxic Substance": 586,
       "Drowning Risk": 123,
       "Electrical Fault": 1387,
       "Entrapment": 91,

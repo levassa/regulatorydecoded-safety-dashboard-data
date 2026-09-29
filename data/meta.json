@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T14:41:33Z",
+  "last_updated": "2026-09-29T13:32:29Z",
   "total_records": 51010,
   "by_source": {
     "CPSC": 2276,
@@ -13,10 +13,10 @@
   "injury_reports": 2273,
   "total_injuries": 0,
   "by_severity": {
-    "Fatal": 692,
-    "Minor": 6025,
+    "Fatal": 693,
+    "Minor": 6024,
     "Moderate": 9325,
-    "Not Reported": 27999,
-    "Serious": 6969
+    "Not Reported": 28000,
+    "Serious": 6968
   }
 }

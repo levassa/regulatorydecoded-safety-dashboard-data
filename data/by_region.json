@@ -2577,11 +2577,11 @@
       "Veterinary Drugs": 0
     },
     "by_severity": {
-      "Fatal": 685,
+      "Fatal": 686,
       "Minor": 893,
       "Moderate": 637,
       "Not Reported": 2,
-      "Serious": 4059
+      "Serious": 4058
     }
   },
   {
@@ -3095,9 +3095,9 @@
     },
     "by_severity": {
       "Fatal": 6,
-      "Minor": 786,
+      "Minor": 785,
       "Moderate": 0,
-      "Not Reported": 206,
+      "Not Reported": 207,
       "Serious": 2
     }
   }

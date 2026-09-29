@@ -79,11 +79,11 @@
   },
   {
     "injury_type": "Fracture / Blunt Trauma",
-    "total": 364,
+    "total": 363,
     "by_source": {
       "CPSC": 141,
       "EU Safety Gate": 0,
-      "FDA": 137,
+      "FDA": 136,
       "Health Canada": 83,
       "NZ Product Safety": 3,
       "OPSS": 0,
@@ -92,11 +92,11 @@
   },
   {
     "injury_type": "Allergic Reaction",
-    "total": 325,
+    "total": 324,
     "by_source": {
       "CPSC": 1,
       "EU Safety Gate": 0,
-      "FDA": 188,
+      "FDA": 187,
       "Health Canada": 135,
       "NZ Product Safety": 1,
       "OPSS": 0,
@@ -157,11 +157,11 @@
   },
   {
     "injury_type": "Respiratory",
-    "total": 146,
+    "total": 148,
     "by_source": {
       "CPSC": 42,
       "EU Safety Gate": 0,
-      "FDA": 36,
+      "FDA": 38,
       "Health Canada": 63,
       "NZ Product Safety": 3,
       "OPSS": 2,

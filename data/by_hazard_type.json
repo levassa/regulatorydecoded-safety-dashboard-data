@@ -1,11 +1,11 @@
 [
   {
     "hazard_type": "Other",
-    "total": 35475,
+    "total": 35470,
     "by_source": {
       "CPSC": 391,
       "EU Safety Gate": 5000,
-      "FDA": 1898,
+      "FDA": 1893,
       "Health Canada": 23467,
       "NZ Product Safety": 1479,
       "OPSS": 240,
@@ -14,11 +14,11 @@
   },
   {
     "hazard_type": "Allergen",
-    "total": 3240,
+    "total": 3235,
     "by_source": {
       "CPSC": 2,
       "EU Safety Gate": 0,
-      "FDA": 506,
+      "FDA": 501,
       "Health Canada": 2732,
       "NZ Product Safety": 0,
       "OPSS": 0,
@@ -27,11 +27,11 @@
   },
   {
     "hazard_type": "Microbiological Contamination",
-    "total": 2732,
+    "total": 2737,
     "by_source": {
       "CPSC": 12,
       "EU Safety Gate": 0,
-      "FDA": 824,
+      "FDA": 829,
       "Health Canada": 1884,
       "NZ Product Safety": 1,
       "OPSS": 11,
@@ -40,14 +40,14 @@
   },
   {
     "hazard_type": "Flammability / Overheating",
-    "total": 1764,
+    "total": 1763,
     "by_source": {
       "CPSC": 531,
       "EU Safety Gate": 0,
       "FDA": 40,
       "Health Canada": 882,
       "NZ Product Safety": 22,
-      "OPSS": 289,
+      "OPSS": 288,
       "RappelConso": 0
     }
   },
@@ -79,14 +79,14 @@
   },
   {
     "hazard_type": "Chemical / Toxic Substance",
-    "total": 1059,
+    "total": 1063,
     "by_source": {
       "CPSC": 183,
       "EU Safety Gate": 0,
-      "FDA": 192,
+      "FDA": 195,
       "Health Canada": 581,
       "NZ Product Safety": 17,
-      "OPSS": 86,
+      "OPSS": 87,
       "RappelConso": 0
     }
   },
@@ -131,11 +131,11 @@
   },
   {
     "hazard_type": "Sharp Edges / Points",
-    "total": 435,
+    "total": 436,
     "by_source": {
       "CPSC": 184,
       "EU Safety Gate": 0,
-      "FDA": 38,
+      "FDA": 39,
       "Health Canada": 205,
       "NZ Product Safety": 8,
       "OPSS": 0,
@@ -157,11 +157,11 @@
   },
   {
     "hazard_type": "Drowning Risk",
-    "total": 309,
+    "total": 310,
     "by_source": {
       "CPSC": 42,
       "EU Safety Gate": 0,
-      "FDA": 73,
+      "FDA": 74,
       "Health Canada": 120,
       "NZ Product Safety": 38,
       "OPSS": 36,
