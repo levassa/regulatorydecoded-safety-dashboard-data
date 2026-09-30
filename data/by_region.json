@@ -1,7 +1,7 @@
 [
   {
     "region": "Canada",
-    "total": 34135,
+    "total": 34140,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -207,7 +207,7 @@
       "Bus - School Bus - Truck - Med. & H.D.": 5,
       "Bus - Truck - Med. & H.D.": 14,
       "Bus - Truck - Med. & H.D. - School Bus": 1,
-      "Candy, Confectionary, Snacks And Sweeteners": 181,
+      "Candy, Confectionary, Snacks And Sweeteners": 183,
       "Candy, Confectionary, Snacks And Sweeteners - Nuts, Grains, And Seeds": 5,
       "Cannabis": 98,
       "Canned": 5,
@@ -272,7 +272,7 @@
       "Dental - General And Plastic Surgery - General Hospital And Personal Use": 1,
       "Dental - General Hospital And Personal Use": 2,
       "Dental - Orthopaedics - General And Plastic Surgery": 1,
-      "Drugs": 2795,
+      "Drugs": 2796,
       "Drugs - Biologic Or Vaccine": 8,
       "Drugs - Cannabis": 1,
       "Drugs - Natural Health Products": 73,
@@ -294,6 +294,7 @@
       "Fresh": 93,
       "Frozen": 78,
       "Frozen - Herbs And Spices": 1,
+      "Frozen - Other": 1,
       "Fruits And Vegetables": 27,
       "Furniture & Home": 948,
       "Gadgets": 0,
@@ -420,7 +421,7 @@
       "Ophthalmology": 31,
       "Ophthalmology - General Hospital And Personal Use": 1,
       "Orthopaedics": 100,
-      "Other": 553,
+      "Other": 554,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -511,8 +512,8 @@
     "by_severity": {
       "Fatal": 0,
       "Minor": 4338,
-      "Moderate": 8687,
-      "Not Reported": 18205,
+      "Moderate": 8690,
+      "Not Reported": 18207,
       "Serious": 2905
     }
   },
@@ -811,6 +812,7 @@
       "Fresh": 0,
       "Frozen": 0,
       "Frozen - Herbs And Spices": 0,
+      "Frozen - Other": 0,
       "Fruits And Vegetables": 0,
       "Furniture & Home": 27,
       "Gadgets": 13,
@@ -1328,6 +1330,7 @@
       "Fresh": 0,
       "Frozen": 0,
       "Frozen - Herbs And Spices": 0,
+      "Frozen - Other": 0,
       "Fruits And Vegetables": 0,
       "Furniture & Home": 0,
       "Gadgets": 0,
@@ -1845,6 +1848,7 @@
       "Fresh": 0,
       "Frozen": 0,
       "Frozen - Herbs And Spices": 0,
+      "Frozen - Other": 0,
       "Fruits And Vegetables": 0,
       "Furniture & Home": 164,
       "Gadgets": 0,
@@ -2069,7 +2073,7 @@
   },
   {
     "region": "USA",
-    "total": 6276,
+    "total": 4001,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -2362,6 +2366,7 @@
       "Fresh": 0,
       "Frozen": 0,
       "Frozen - Herbs And Spices": 0,
+      "Frozen - Other": 0,
       "Fruits And Vegetables": 0,
       "Furniture & Home": 0,
       "Gadgets": 0,
@@ -2488,7 +2493,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 2276,
+      "Other": 1,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -2577,11 +2582,11 @@
       "Veterinary Drugs": 0
     },
     "by_severity": {
-      "Fatal": 686,
-      "Minor": 893,
-      "Moderate": 637,
-      "Not Reported": 2,
-      "Serious": 4058
+      "Fatal": 23,
+      "Minor": 0,
+      "Moderate": 0,
+      "Not Reported": 1,
+      "Serious": 3977
     }
   },
   {
@@ -2879,6 +2884,7 @@
       "Fresh": 0,
       "Frozen": 0,
       "Frozen - Herbs And Spices": 0,
+      "Frozen - Other": 0,
       "Fruits And Vegetables": 0,
       "Furniture & Home": 0,
       "Gadgets": 0,

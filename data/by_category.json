@@ -13,19 +13,6 @@
     }
   },
   {
-    "product_category": "Other",
-    "total": 6829,
-    "by_source": {
-      "CPSC": 2276,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 553,
-      "NZ Product Safety": 0,
-      "OPSS": 1000,
-      "RappelConso": 3000
-    }
-  },
-  {
     "product_category": "Food & Food Contact",
     "total": 6396,
     "by_source": {
@@ -39,13 +26,26 @@
     }
   },
   {
+    "product_category": "Other",
+    "total": 4555,
+    "by_source": {
+      "CPSC": 1,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 554,
+      "NZ Product Safety": 0,
+      "OPSS": 1000,
+      "RappelConso": 3000
+    }
+  },
+  {
     "product_category": "Drugs",
-    "total": 2795,
+    "total": 2796,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 2795,
+      "Health Canada": 2796,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -391,12 +391,12 @@
   },
   {
     "product_category": "Candy, Confectionary, Snacks And Sweeteners",
-    "total": 181,
+    "total": 183,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 181,
+      "Health Canada": 183,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -728,7 +728,7 @@
     }
   },
   {
-    "product_category": "Suv - Light Truck & Van",
+    "product_category": "Non-Alcoholic",
     "total": 49,
     "by_source": {
       "CPSC": 0,
@@ -741,7 +741,7 @@
     }
   },
   {
-    "product_category": "Non-Alcoholic",
+    "product_category": "Suv - Light Truck & Van",
     "total": 49,
     "by_source": {
       "CPSC": 0,
@@ -871,19 +871,6 @@
     }
   },
   {
-    "product_category": "Consumer Products",
-    "total": 30,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 30,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
     "product_category": "Grain Products",
     "total": 30,
     "by_source": {
@@ -897,7 +884,20 @@
     }
   },
   {
-    "product_category": "Microbiology",
+    "product_category": "Consumer Products",
+    "total": 30,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 30,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Light Truck & Van - Truck - Med. & H.D.",
     "total": 29,
     "by_source": {
       "CPSC": 0,
@@ -910,7 +910,7 @@
     }
   },
   {
-    "product_category": "Light Truck & Van - Truck - Med. & H.D.",
+    "product_category": "Microbiology",
     "total": 29,
     "by_source": {
       "CPSC": 0,
@@ -1118,19 +1118,6 @@
     }
   },
   {
-    "product_category": "Gadgets",
-    "total": 13,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 13,
-      "FDA": 0,
-      "Health Canada": 0,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
     "product_category": "Truck - Med. & H.D. - Light Truck & Van",
     "total": 13,
     "by_source": {
@@ -1144,13 +1131,13 @@
     }
   },
   {
-    "product_category": "Chassis Cab - Light Truck & Van",
-    "total": 12,
+    "product_category": "Gadgets",
+    "total": 13,
     "by_source": {
       "CPSC": 0,
-      "EU Safety Gate": 0,
+      "EU Safety Gate": 13,
       "FDA": 0,
-      "Health Canada": 12,
+      "Health Canada": 0,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -1183,6 +1170,19 @@
     }
   },
   {
+    "product_category": "Chassis Cab - Light Truck & Van",
+    "total": 12,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 12,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
     "product_category": "Vaping And Tobacco Products",
     "total": 11,
     "by_source": {
@@ -1190,32 +1190,6 @@
       "EU Safety Gate": 0,
       "FDA": 0,
       "Health Canada": 11,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Stationery",
-    "total": 9,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 9,
-      "FDA": 0,
-      "Health Canada": 0,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Light Truck & Van - Chassis Cab",
-    "total": 9,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 9,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -1235,7 +1209,33 @@
     }
   },
   {
-    "product_category": "Specialized Products - Natural Health Products",
+    "product_category": "Light Truck & Van - Chassis Cab",
+    "total": 9,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 9,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Stationery",
+    "total": 9,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 9,
+      "FDA": 0,
+      "Health Canada": 0,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Suv - Minivan",
     "total": 8,
     "by_source": {
       "CPSC": 0,
@@ -1243,19 +1243,6 @@
       "FDA": 0,
       "Health Canada": 8,
       "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Electric Or Gas Products",
-    "total": 8,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 0,
-      "NZ Product Safety": 8,
       "OPSS": 0,
       "RappelConso": 0
     }
@@ -1300,7 +1287,20 @@
     }
   },
   {
-    "product_category": "Suv - Minivan",
+    "product_category": "Electric Or Gas Products",
+    "total": 8,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 0,
+      "NZ Product Safety": 8,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Specialized Products - Natural Health Products",
     "total": 8,
     "by_source": {
       "CPSC": 0,
@@ -1326,7 +1326,7 @@
     }
   },
   {
-    "product_category": "Gastroenterology And Urology - General Hospital And Personal Use",
+    "product_category": "Car - Minivan - Suv",
     "total": 7,
     "by_source": {
       "CPSC": 0,
@@ -1365,19 +1365,6 @@
     }
   },
   {
-    "product_category": "Car - Minivan",
-    "total": 7,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 7,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
     "product_category": "Chassis Cab",
     "total": 7,
     "by_source": {
@@ -1391,20 +1378,20 @@
     }
   },
   {
-    "product_category": "Hobby And Craft Items - Household Items",
+    "product_category": "Construction Products",
     "total": 7,
     "by_source": {
       "CPSC": 0,
-      "EU Safety Gate": 0,
+      "EU Safety Gate": 7,
       "FDA": 0,
-      "Health Canada": 7,
+      "Health Canada": 0,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
     }
   },
   {
-    "product_category": "Consumer Products - Drugs",
+    "product_category": "Hobby And Craft Items - Household Items",
     "total": 7,
     "by_source": {
       "CPSC": 0,
@@ -1443,7 +1430,7 @@
     }
   },
   {
-    "product_category": "Car - Minivan - Suv",
+    "product_category": "Gastroenterology And Urology - General Hospital And Personal Use",
     "total": 7,
     "by_source": {
       "CPSC": 0,
@@ -1456,20 +1443,33 @@
     }
   },
   {
-    "product_category": "Construction Products",
+    "product_category": "Car - Minivan",
     "total": 7,
     "by_source": {
       "CPSC": 0,
-      "EU Safety Gate": 7,
+      "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 0,
+      "Health Canada": 7,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
     }
   },
   {
-    "product_category": "Light Trailer - Rv Trailer",
+    "product_category": "Consumer Products - Drugs",
+    "total": 7,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 7,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Car - Suv - Light Truck & Van",
     "total": 6,
     "by_source": {
       "CPSC": 0,
@@ -1495,19 +1495,6 @@
     }
   },
   {
-    "product_category": "Car - Suv - Light Truck & Van",
-    "total": 6,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 6,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
     "product_category": "Suv - Car - Light Truck & Van",
     "total": 6,
     "by_source": {
@@ -1521,20 +1508,20 @@
     }
   },
   {
-    "product_category": "Egg Products",
-    "total": 5,
+    "product_category": "Light Trailer - Rv Trailer",
+    "total": 6,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 5,
+      "Health Canada": 6,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
     }
   },
   {
-    "product_category": "General Hospital And Personal Use - Gastroenterology And Urology",
+    "product_category": "General Hospital And Personal Use - Cardiovascular",
     "total": 5,
     "by_source": {
       "CPSC": 0,
@@ -1560,72 +1547,20 @@
     }
   },
   {
+    "product_category": "General Hospital And Personal Use - Gastroenterology And Urology",
+    "total": 5,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 5,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
     "product_category": "Hobby And Craft Items - Other",
-    "total": 5,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 5,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "General Hospital And Personal Use - Cardiovascular",
-    "total": 5,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 5,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Canned",
-    "total": 5,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 5,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Anaesthesiology - Cardiovascular",
-    "total": 5,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 5,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Bus - School Bus - Truck - Med. & H.D.",
-    "total": 5,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 5,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Truck - Med. & H.D. - Bus",
     "total": 5,
     "by_source": {
       "CPSC": 0,
@@ -1651,6 +1586,58 @@
     }
   },
   {
+    "product_category": "Anaesthesiology - Cardiovascular",
+    "total": 5,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 5,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Egg Products",
+    "total": 5,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 5,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Bus - School Bus - Truck - Med. & H.D.",
+    "total": 5,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 5,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Canned",
+    "total": 5,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 5,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
     "product_category": "Building Products",
     "total": 5,
     "by_source": {
@@ -1664,20 +1651,20 @@
     }
   },
   {
-    "product_category": "Anaesthesiology - General Hospital And Personal Use",
-    "total": 4,
+    "product_category": "Truck - Med. & H.D. - Bus",
+    "total": 5,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 4,
+      "Health Canada": 5,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
     }
   },
   {
-    "product_category": "Suv - Light Truck & Van - Car",
+    "product_category": "Anaesthesiology - General Hospital And Personal Use",
     "total": 4,
     "by_source": {
       "CPSC": 0,
@@ -1716,59 +1703,20 @@
     }
   },
   {
+    "product_category": "Suv - Light Truck & Van - Car",
+    "total": 4,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 4,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
     "product_category": "Beverages",
-    "total": 4,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 4,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Booster Seat - Child Car Seat",
-    "total": 4,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 4,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Light Truck & Van - Car",
-    "total": 4,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 4,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Drugs - Veterinary Drugs",
-    "total": 4,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 4,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Chassis Cab - Light Truck & Van - Truck - Med. & H.D.",
     "total": 4,
     "by_source": {
       "CPSC": 0,
@@ -1794,13 +1742,52 @@
     }
   },
   {
-    "product_category": "Cardiovascular - Neurology",
-    "total": 3,
+    "product_category": "Drugs - Veterinary Drugs",
+    "total": 4,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 3,
+      "Health Canada": 4,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Booster Seat - Child Car Seat",
+    "total": 4,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 4,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Chassis Cab - Light Truck & Van - Truck - Med. & H.D.",
+    "total": 4,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 4,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Light Truck & Van - Car",
+    "total": 4,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 4,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -1820,7 +1807,7 @@
     }
   },
   {
-    "product_category": "Ear, Nose And Throat - Gastroenterology And Urology",
+    "product_category": "Cardiovascular - General And Plastic Surgery",
     "total": 3,
     "by_source": {
       "CPSC": 0,
@@ -1885,7 +1872,7 @@
     }
   },
   {
-    "product_category": "Chemistry - General Hospital And Personal Use",
+    "product_category": "Ear, Nose And Throat - Gastroenterology And Urology",
     "total": 3,
     "by_source": {
       "CPSC": 0,
@@ -1898,7 +1885,20 @@
     }
   },
   {
-    "product_category": "Cardiovascular - General And Plastic Surgery",
+    "product_category": "Cardiovascular - Neurology",
+    "total": 3,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 3,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Chemistry - General Hospital And Personal Use",
     "total": 3,
     "by_source": {
       "CPSC": 0,
@@ -1937,13 +1937,26 @@
     }
   },
   {
-    "product_category": "Suv - Minivan - Light Truck & Van",
+    "product_category": "Other - Telescopic Ladder",
     "total": 2,
     "by_source": {
       "CPSC": 0,
-      "EU Safety Gate": 0,
+      "EU Safety Gate": 2,
       "FDA": 0,
-      "Health Canada": 2,
+      "Health Canada": 0,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Other - Telescopic Ladders",
+    "total": 2,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 2,
+      "FDA": 0,
+      "Health Canada": 0,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -1963,7 +1976,7 @@
     }
   },
   {
-    "product_category": "Processed - Canned",
+    "product_category": "Suv - Light Truck & Van - Truck - Med. & H.D.",
     "total": 2,
     "by_source": {
       "CPSC": 0,
@@ -1977,19 +1990,6 @@
   },
   {
     "product_category": "Suv - Minivan - Car",
-    "total": 2,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 2,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Suv - Light Truck & Van - Truck - Med. & H.D.",
     "total": 2,
     "by_source": {
       "CPSC": 0,
@@ -2080,33 +2080,7 @@
     }
   },
   {
-    "product_category": "Other - Pet Accessories",
-    "total": 2,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 2,
-      "FDA": 0,
-      "Health Canada": 0,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Anaesthesiology - Chemistry",
-    "total": 2,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 2,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Anaesthesiology - Neurology",
+    "product_category": "Processed - Canned",
     "total": 2,
     "by_source": {
       "CPSC": 0,
@@ -2132,33 +2106,7 @@
     }
   },
   {
-    "product_category": "Other - Telescopic Ladder",
-    "total": 2,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 2,
-      "FDA": 0,
-      "Health Canada": 0,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Other - Telescopic Ladders",
-    "total": 2,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 2,
-      "FDA": 0,
-      "Health Canada": 0,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Light Truck & Van - Truck - Med. & H.D. - Chassis Cab",
+    "product_category": "Anaesthesiology - Neurology",
     "total": 2,
     "by_source": {
       "CPSC": 0,
@@ -2171,7 +2119,20 @@
     }
   },
   {
-    "product_category": "Measuring Instruments",
+    "product_category": "Anaesthesiology - Chemistry",
+    "total": 2,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 2,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Other - Pet Accessories",
     "total": 2,
     "by_source": {
       "CPSC": 0,
@@ -2197,19 +2158,6 @@
     }
   },
   {
-    "product_category": "Haematology - Pathology",
-    "total": 2,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 2,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
     "product_category": "Low Speed Motorcycle",
     "total": 2,
     "by_source": {
@@ -2223,59 +2171,7 @@
     }
   },
   {
-    "product_category": "Korus&N Birmingham Hip Resurfacing (Bhr) Head, Acetabular Cup, Dysplasia Cup",
-    "total": 2,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 0,
-      "NZ Product Safety": 2,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Eggs",
-    "total": 2,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 2,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Ear, Nose And Throat - General And Plastic Surgery - General Hospital And Personal Use",
-    "total": 2,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 2,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "General And Plastic Surgery - Gastroenterology And Urology",
-    "total": 2,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 2,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Gastroenterology And Urology - Haematology",
+    "product_category": "Light Truck & Van - Truck - Med. & H.D. - Chassis Cab",
     "total": 2,
     "by_source": {
       "CPSC": 0,
@@ -2301,7 +2197,111 @@
     }
   },
   {
+    "product_category": "Measuring Instruments",
+    "total": 2,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 2,
+      "FDA": 0,
+      "Health Canada": 0,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Korus&N Birmingham Hip Resurfacing (Bhr) Head, Acetabular Cup, Dysplasia Cup",
+    "total": 2,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 0,
+      "NZ Product Safety": 2,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Haematology - Pathology",
+    "total": 2,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 2,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Ear, Nose And Throat - General And Plastic Surgery - General Hospital And Personal Use",
+    "total": 2,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 2,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Eggs",
+    "total": 2,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 2,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Gastroenterology And Urology - Haematology",
+    "total": 2,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 2,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "General And Plastic Surgery - Gastroenterology And Urology",
+    "total": 2,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 2,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
     "product_category": "Dental - General And Plastic Surgery",
+    "total": 2,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 2,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Dental - General Hospital And Personal Use",
     "total": 2,
     "by_source": {
       "CPSC": 0,
@@ -2366,19 +2366,6 @@
     }
   },
   {
-    "product_category": "Chemistry - Gastroenterology And Urology",
-    "total": 2,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 2,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
     "product_category": "Chassis Cab - Truck - Med. & H.D. - Light Truck & Van",
     "total": 2,
     "by_source": {
@@ -2392,20 +2379,7 @@
     }
   },
   {
-    "product_category": "Dental - General Hospital And Personal Use",
-    "total": 2,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 2,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Car - Light Truck & Van - Suv - Truck - Med. & H.D.",
+    "product_category": "Chemistry - Gastroenterology And Urology",
     "total": 2,
     "by_source": {
       "CPSC": 0,
@@ -2431,7 +2405,33 @@
     }
   },
   {
+    "product_category": "Car - Light Truck & Van - Suv - Truck - Med. & H.D.",
+    "total": 2,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 2,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
     "product_category": "Audio Visual And Photography",
+    "total": 2,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 2,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Suv - Minivan - Light Truck & Van",
     "total": 2,
     "by_source": {
       "CPSC": 0,
@@ -2600,6 +2600,45 @@
     }
   },
   {
+    "product_category": "24 January 2018Ravin Crossbow Nocks (Recall Complete)",
+    "total": 1,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 0,
+      "NZ Product Safety": 1,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "31 May 2021Farmers - Teeny Weeny Sleepsuits",
+    "total": 1,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 0,
+      "NZ Product Safety": 1,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "31 August 2016Dbi-Sala Lad-Saf™ Sleeve",
+    "total": 1,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 0,
+      "NZ Product Safety": 1,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
     "product_category": "30 October 2019Kmart - 4 Pack Flashing Rings",
     "total": 1,
     "by_source": {
@@ -2704,19 +2743,6 @@
     }
   },
   {
-    "product_category": "Specialized Products - Drugs - Biologic Or Vaccine",
-    "total": 1,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 1,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
     "product_category": "Specialized Products - Drugs",
     "total": 1,
     "by_source": {
@@ -2795,7 +2821,20 @@
     }
   },
   {
-    "product_category": "Radiology - General Hospital And Personal Use",
+    "product_category": "Archived 24 July 201724 July 20152015 Focus - Whistler 27R 5.0 Mountain Bikes",
+    "total": 1,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 0,
+      "NZ Product Safety": 1,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Cardiovascular - Anaesthesiology",
     "total": 1,
     "by_source": {
       "CPSC": 0,
@@ -2990,20 +3029,20 @@
     }
   },
   {
-    "product_category": "Archived 31 January 201931 January 2017Trade Tested - Scaffolding",
+    "product_category": "Cardiovascular - Chemistry",
     "total": 1,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 0,
-      "NZ Product Safety": 1,
+      "Health Canada": 1,
+      "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
     }
   },
   {
-    "product_category": "Archived 30 October 201630 October 2014Universal Plug Adaptors",
+    "product_category": "Archived 29 January 201829 January 2016Apple Ac Wall Plug Adapters",
     "total": 1,
     "by_source": {
       "CPSC": 0,
@@ -3198,7 +3237,7 @@
     }
   },
   {
-    "product_category": "Archived 24 July 201724 July 20152015 Focus - Whistler 27R 5.0 Mountain Bikes",
+    "product_category": "Archived 23 February 201723 February 2015Heller 2000W Fan Heaters",
     "total": 1,
     "by_source": {
       "CPSC": 0,
@@ -3211,14 +3250,14 @@
     }
   },
   {
-    "product_category": "Cardiovascular - Anaesthesiology",
+    "product_category": "Archived 22 October 201622 October 2014Kmart Apple Cutter Slicers",
     "total": 1,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 1,
-      "NZ Product Safety": 0,
+      "Health Canada": 0,
+      "NZ Product Safety": 1,
       "OPSS": 0,
       "RappelConso": 0
     }
@@ -3406,20 +3445,20 @@
     }
   },
   {
-    "product_category": "Cardiovascular - Chemistry",
+    "product_category": "Archived 17 April 201617 April 2014Just Jeans Junior Girls Jeans Andomm Junior Boys Cargo Pants And Shorts",
     "total": 1,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 1,
-      "NZ Product Safety": 0,
+      "Health Canada": 0,
+      "NZ Product Safety": 1,
       "OPSS": 0,
       "RappelConso": 0
     }
   },
   {
-    "product_category": "Archived 29 January 201829 January 2016Apple Ac Wall Plug Adapters",
+    "product_category": "Archived 16 October 201616 October 2014Farmers, 3-In-1 Safety Swing",
     "total": 1,
     "by_source": {
       "CPSC": 0,
@@ -3614,27 +3653,27 @@
     }
   },
   {
-    "product_category": "Archived 23 February 201723 February 2015Heller 2000W Fan Heaters",
+    "product_category": "Ear, Nose And Throat - Gastroenterology And Urology - General And Plastic Surgery - Obstetrics And Gynaecology",
     "total": 1,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 0,
-      "NZ Product Safety": 1,
+      "Health Canada": 1,
+      "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
     }
   },
   {
-    "product_category": "Archived 22 October 201622 October 2014Kmart Apple Cutter Slicers",
+    "product_category": "Ear, Nose And Throat - Gastroenterology And Urology - General And Plastic Surgery",
     "total": 1,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 0,
-      "NZ Product Safety": 1,
+      "Health Canada": 1,
+      "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
     }
@@ -3822,20 +3861,7 @@
     }
   },
   {
-    "product_category": "Archived 17 April 201617 April 2014Just Jeans Junior Girls Jeans Andomm Junior Boys Cargo Pants And Shorts",
-    "total": 1,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 0,
-      "NZ Product Safety": 1,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Archived 16 October 201616 October 2014Farmers, 3-In-1 Safety Swing",
+    "product_category": "Archived 12 February 201712 February 2015Grabone And Kmall, Bubble Party Machines",
     "total": 1,
     "by_source": {
       "CPSC": 0,
@@ -3965,6 +3991,19 @@
     }
   },
   {
+    "product_category": "Frozen - Other",
+    "total": 1,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 1,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
     "product_category": "Frozen - Herbs And Spices",
     "total": 1,
     "by_source": {
@@ -4030,20 +4069,7 @@
     }
   },
   {
-    "product_category": "Ear, Nose And Throat - Gastroenterology And Urology - General And Plastic Surgery - Obstetrics And Gynaecology",
-    "total": 1,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 1,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Ear, Nose And Throat - Gastroenterology And Urology - General And Plastic Surgery",
+    "product_category": "General And Plastic Surgery - Obstetrics And Gynaecology",
     "total": 1,
     "by_source": {
       "CPSC": 0,
@@ -4251,7 +4277,20 @@
     }
   },
   {
-    "product_category": "Archived 12 February 201712 February 2015Grabone And Kmall, Bubble Party Machines",
+    "product_category": "Archived 07 May 20177 May 2015Ryobi Tri Arc® Brush Cutter Blade",
+    "total": 1,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 0,
+      "NZ Product Safety": 1,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Archived 07 May 20177 May 2015Moldex P2 Particulate Filter Respirator",
     "total": 1,
     "by_source": {
       "CPSC": 0,
@@ -4272,19 +4311,6 @@
       "FDA": 0,
       "Health Canada": 0,
       "NZ Product Safety": 1,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Hobby And Craft Items - Jewellery",
-    "total": 1,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 1,
-      "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
     }
@@ -4459,7 +4485,20 @@
     }
   },
   {
-    "product_category": "General And Plastic Surgery - Obstetrics And Gynaecology",
+    "product_category": "Koru3 March 2014Tyco, Vigilant Mx4428 And F4000 Fire Indicator Panels",
+    "total": 1,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 0,
+      "NZ Product Safety": 1,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Household Items - Veterinary Drugs",
     "total": 1,
     "by_source": {
       "CPSC": 0,
@@ -4472,7 +4511,7 @@
     }
   },
   {
-    "product_category": "Household Items - Veterinary Drugs",
+    "product_category": "Hobby And Craft Items - Jewellery",
     "total": 1,
     "by_source": {
       "CPSC": 0,
@@ -4654,7 +4693,7 @@
     }
   },
   {
-    "product_category": "Archived 07 May 20177 May 2015Ryobi Tri Arc® Brush Cutter Blade",
+    "product_category": "Archived 05 May 20175 May 2015Ultimate 2-In-1 Plug In Pest Repellers",
     "total": 1,
     "by_source": {
       "CPSC": 0,
@@ -4667,7 +4706,7 @@
     }
   },
   {
-    "product_category": "Archived 07 May 20177 May 2015Moldex P2 Particulate Filter Respirator",
+    "product_category": "Archived 05 June 20175 June 2015Beats Pill Xl Portable Speaker",
     "total": 1,
     "by_source": {
       "CPSC": 0,
@@ -4714,19 +4753,6 @@
       "FDA": 0,
       "Health Canada": 0,
       "NZ Product Safety": 1,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Light Truck & Van - Suv - Minivan",
-    "total": 1,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 1,
-      "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
     }
@@ -4875,14 +4901,14 @@
     }
   },
   {
-    "product_category": "Koru3 March 2014Tyco, Vigilant Mx4428 And F4000 Fire Indicator Panels",
+    "product_category": "Light Truck & Van - Truck - Med. & H.D. - Suv",
     "total": 1,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 0,
-      "NZ Product Safety": 1,
+      "Health Canada": 1,
+      "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
     }
@@ -4915,6 +4941,19 @@
   },
   {
     "product_category": "Light Truck & Van - Suv - Minivan - Car",
+    "total": 1,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 1,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Light Truck & Van - Suv - Minivan",
     "total": 1,
     "by_source": {
       "CPSC": 0,
@@ -5070,7 +5109,7 @@
     }
   },
   {
-    "product_category": "Archived 05 May 20175 May 2015Ultimate 2-In-1 Plug In Pest Repellers",
+    "product_category": "Archived 04 February 20164 February 2014Werner Multi-Ladders",
     "total": 1,
     "by_source": {
       "CPSC": 0,
@@ -5083,7 +5122,7 @@
     }
   },
   {
-    "product_category": "Archived 05 June 20175 June 2015Beats Pill Xl Portable Speaker",
+    "product_category": "Archived 04 February 20164 February 2014Gorilla Multi Ladder (Silver And Black)",
     "total": 1,
     "by_source": {
       "CPSC": 0,
@@ -5265,19 +5304,6 @@
     }
   },
   {
-    "product_category": "Minivan - Light Truck & Van",
-    "total": 1,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 1,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
     "product_category": "Microbiology - Ophthalmology",
     "total": 1,
     "by_source": {
@@ -5291,7 +5317,7 @@
     }
   },
   {
-    "product_category": "Light Truck & Van - Truck - Med. & H.D. - Suv",
+    "product_category": "Ophthalmology - General Hospital And Personal Use",
     "total": 1,
     "by_source": {
       "CPSC": 0,
@@ -5473,6 +5499,19 @@
     }
   },
   {
+    "product_category": "Minivan - Light Truck & Van",
+    "total": 1,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 1,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
     "product_category": "Archived 04 March 20164 March 2014Play School Egg Maracas",
     "total": 1,
     "by_source": {
@@ -5481,188 +5520,6 @@
       "FDA": 0,
       "Health Canada": 0,
       "NZ Product Safety": 1,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Archived 04 February 20164 February 2014Werner Multi-Ladders",
-    "total": 1,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 0,
-      "NZ Product Safety": 1,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Archived 04 February 20164 February 2014Gorilla Multi Ladder (Silver And Black)",
-    "total": 1,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 0,
-      "NZ Product Safety": 1,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Anaesthesiology - Ear, Nose And Throat",
-    "total": 1,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 1,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Other - Protective Formwork That Can Be Retrofitted To The Mains Socket.",
-    "total": 1,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 1,
-      "FDA": 0,
-      "Health Canada": 0,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Other - Pet Led Collar",
-    "total": 1,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 1,
-      "FDA": 0,
-      "Health Canada": 0,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Other - Personal Accessories",
-    "total": 1,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 1,
-      "FDA": 0,
-      "Health Canada": 0,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Other - Package",
-    "total": 1,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 1,
-      "FDA": 0,
-      "Health Canada": 0,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Other - Natural Health Products",
-    "total": 1,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 1,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Other - Luggage Strap",
-    "total": 1,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 1,
-      "FDA": 0,
-      "Health Canada": 0,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Other - Health Products",
-    "total": 1,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 1,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Other - Hammam Column",
-    "total": 1,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 1,
-      "FDA": 0,
-      "Health Canada": 0,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Other - Esoteric Product",
-    "total": 1,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 1,
-      "FDA": 0,
-      "Health Canada": 0,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Other - Cockpit Spray",
-    "total": 1,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 1,
-      "FDA": 0,
-      "Health Canada": 0,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Other - Car Floor Mat",
-    "total": 1,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 1,
-      "FDA": 0,
-      "Health Canada": 0,
-      "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
     }
@@ -5695,71 +5552,6 @@
   },
   {
     "product_category": "Other -  Herbal Product For Smoking",
-    "total": 1,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 1,
-      "FDA": 0,
-      "Health Canada": 0,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Ophthalmology - General Hospital And Personal Use",
-    "total": 1,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 1,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Pasta",
-    "total": 1,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 1,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Other - Trolley Bag",
-    "total": 1,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 1,
-      "FDA": 0,
-      "Health Canada": 0,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Other - Stepladder",
-    "total": 1,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 1,
-      "FDA": 0,
-      "Health Canada": 0,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Other - Step Ladder",
     "total": 1,
     "by_source": {
       "CPSC": 0,
@@ -5916,6 +5708,240 @@
   },
   {
     "product_category": "Anaesthesiology - Ear, Nose And Throat - Gastroenterology And Urology - General And Plastic Surgery",
+    "total": 1,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 1,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Anaesthesiology - Ear, Nose And Throat",
+    "total": 1,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 1,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Pet Products",
+    "total": 1,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 0,
+      "NZ Product Safety": 1,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Pasta",
+    "total": 1,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 1,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Other - Trolley Bag",
+    "total": 1,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 1,
+      "FDA": 0,
+      "Health Canada": 0,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Other - Stepladder",
+    "total": 1,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 1,
+      "FDA": 0,
+      "Health Canada": 0,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Other - Step Ladder",
+    "total": 1,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 1,
+      "FDA": 0,
+      "Health Canada": 0,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Other - Protective Formwork That Can Be Retrofitted To The Mains Socket.",
+    "total": 1,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 1,
+      "FDA": 0,
+      "Health Canada": 0,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Other - Pet Led Collar",
+    "total": 1,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 1,
+      "FDA": 0,
+      "Health Canada": 0,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Other - Personal Accessories",
+    "total": 1,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 1,
+      "FDA": 0,
+      "Health Canada": 0,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Other - Package",
+    "total": 1,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 1,
+      "FDA": 0,
+      "Health Canada": 0,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Other - Natural Health Products",
+    "total": 1,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 1,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Other - Luggage Strap",
+    "total": 1,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 1,
+      "FDA": 0,
+      "Health Canada": 0,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Other - Health Products",
+    "total": 1,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 1,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Other - Hammam Column",
+    "total": 1,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 1,
+      "FDA": 0,
+      "Health Canada": 0,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Other - Esoteric Product",
+    "total": 1,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 1,
+      "FDA": 0,
+      "Health Canada": 0,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Other - Cockpit Spray",
+    "total": 1,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 1,
+      "FDA": 0,
+      "Health Canada": 0,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Other - Car Floor Mat",
+    "total": 1,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 1,
+      "FDA": 0,
+      "Health Canada": 0,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Radiology - General Hospital And Personal Use",
     "total": 1,
     "by_source": {
       "CPSC": 0,
@@ -6123,20 +6149,7 @@
     }
   },
   {
-    "product_category": "Pet Products",
-    "total": 1,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 0,
-      "NZ Product Safety": 1,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "24 January 2018Ravin Crossbow Nocks (Recall Complete)",
+    "product_category": "25 November 2015Haier Top Load Washing Machines",
     "total": 1,
     "by_source": {
       "CPSC": 0,
@@ -6201,6 +6214,19 @@
     }
   },
   {
+    "product_category": "Truck - Med. & H.D. - Rv Chassis",
+    "total": 1,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 1,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
     "product_category": "Suv - Light Truck & Van - Minivan - Truck - Med. & H.D.",
     "total": 1,
     "by_source": {
@@ -6228,6 +6254,19 @@
   },
   {
     "product_category": "Suv - Car - Minivan - Light Truck & Van",
+    "total": 1,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 1,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Specialized Products - Drugs - Biologic Or Vaccine",
     "total": 1,
     "by_source": {
       "CPSC": 0,
@@ -6318,7 +6357,7 @@
     }
   },
   {
-    "product_category": "31 May 2021Farmers - Teeny Weeny Sleepsuits",
+    "product_category": "Archived 31 January 201931 January 2017Trade Tested - Scaffolding",
     "total": 1,
     "by_source": {
       "CPSC": 0,
@@ -6331,7 +6370,7 @@
     }
   },
   {
-    "product_category": "31 August 2016Dbi-Sala Lad-Saf™ Sleeve",
+    "product_category": "Archived 30 October 201630 October 2014Universal Plug Adaptors",
     "total": 1,
     "by_source": {
       "CPSC": 0,
@@ -6378,19 +6417,6 @@
       "FDA": 0,
       "Health Canada": 0,
       "NZ Product Safety": 1,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Truck - Med. & H.D. - Rv Chassis",
-    "total": 1,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 1,
-      "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
     }
@@ -6527,19 +6553,6 @@
   },
   {
     "product_category": "26 March 2018Avengers Dyno Torch Gift Pack With Chocolate Eggs",
-    "total": 1,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 0,
-      "NZ Product Safety": 1,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "25 November 2015Haier Top Load Washing Machines",
     "total": 1,
     "by_source": {
       "CPSC": 0,
