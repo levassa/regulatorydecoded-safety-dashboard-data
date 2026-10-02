@@ -3720,11 +3720,11 @@
   {
     "month": "2026-09",
     "Allergen": 12,
-    "Chemical / Toxic Substance": 16,
+    "Chemical / Toxic Substance": 14,
     "Electrical Fault": 29,
-    "Flammability / Overheating": 39,
+    "Flammability / Overheating": 32,
     "Microbiological Contamination": 7,
-    "Other": 87,
+    "Other": 86,
     "Radiation": 10,
     "Small Parts / Choking Hazard": 22
   },
