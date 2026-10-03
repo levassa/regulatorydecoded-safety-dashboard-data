@@ -79,12 +79,12 @@
   },
   {
     "product_category": "Electrical & Electronics",
-    "total": 1580,
+    "total": 1581,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 899,
       "FDA": 0,
-      "Health Canada": 435,
+      "Health Canada": 436,
       "NZ Product Safety": 246,
       "OPSS": 0,
       "RappelConso": 0
@@ -105,12 +105,12 @@
   },
   {
     "product_category": "Suv",
-    "total": 1464,
+    "total": 1465,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 1464,
+      "Health Canada": 1465,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -118,12 +118,12 @@
   },
   {
     "product_category": "Household Items",
-    "total": 1277,
+    "total": 1278,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 1277,
+      "Health Canada": 1278,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -222,12 +222,12 @@
   },
   {
     "product_category": "Clothing & Textiles",
-    "total": 747,
+    "total": 748,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 158,
       "FDA": 0,
-      "Health Canada": 565,
+      "Health Canada": 566,
       "NZ Product Safety": 24,
       "OPSS": 0,
       "RappelConso": 0
@@ -261,12 +261,12 @@
   },
   {
     "product_category": "Bus",
-    "total": 545,
+    "total": 547,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 545,
+      "Health Canada": 547,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -287,12 +287,12 @@
   },
   {
     "product_category": "General Hospital And Personal Use",
-    "total": 406,
+    "total": 409,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 406,
+      "Health Canada": 409,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -313,12 +313,12 @@
   },
   {
     "product_category": "School Bus",
-    "total": 345,
+    "total": 346,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 345,
+      "Health Canada": 346,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -352,12 +352,12 @@
   },
   {
     "product_category": "Radiology",
-    "total": 245,
+    "total": 246,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 245,
+      "Health Canada": 246,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -378,12 +378,12 @@
   },
   {
     "product_category": "General And Plastic Surgery",
-    "total": 193,
+    "total": 194,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 193,
+      "Health Canada": 194,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -728,20 +728,20 @@
     }
   },
   {
-    "product_category": "Non-Alcoholic",
-    "total": 49,
+    "product_category": "Suv - Light Truck & Van",
+    "total": 50,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 49,
+      "Health Canada": 50,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
     }
   },
   {
-    "product_category": "Suv - Light Truck & Van",
+    "product_category": "Non-Alcoholic",
     "total": 49,
     "by_source": {
       "CPSC": 0,
@@ -1235,7 +1235,7 @@
     }
   },
   {
-    "product_category": "Suv - Minivan",
+    "product_category": "Immunology",
     "total": 8,
     "by_source": {
       "CPSC": 0,
@@ -1261,7 +1261,7 @@
     }
   },
   {
-    "product_category": "Immunology",
+    "product_category": "Drugs - Biologic Or Vaccine",
     "total": 8,
     "by_source": {
       "CPSC": 0,
@@ -1274,7 +1274,7 @@
     }
   },
   {
-    "product_category": "Drugs - Biologic Or Vaccine",
+    "product_category": "General Hospital And Personal Use - General And Plastic Surgery",
     "total": 8,
     "by_source": {
       "CPSC": 0,
@@ -1300,6 +1300,19 @@
     }
   },
   {
+    "product_category": "Suv - Minivan",
+    "total": 8,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 8,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
     "product_category": "Specialized Products - Natural Health Products",
     "total": 8,
     "by_source": {
@@ -1314,19 +1327,6 @@
   },
   {
     "product_category": "Gastroenterology And Urology - General And Plastic Surgery",
-    "total": 7,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 7,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Car - Minivan - Suv",
     "total": 7,
     "by_source": {
       "CPSC": 0,
@@ -1417,7 +1417,7 @@
     }
   },
   {
-    "product_category": "General Hospital And Personal Use - General And Plastic Surgery",
+    "product_category": "Gastroenterology And Urology - General Hospital And Personal Use",
     "total": 7,
     "by_source": {
       "CPSC": 0,
@@ -1430,7 +1430,7 @@
     }
   },
   {
-    "product_category": "Gastroenterology And Urology - General Hospital And Personal Use",
+    "product_category": "Car - Minivan - Suv",
     "total": 7,
     "by_source": {
       "CPSC": 0,
@@ -1522,12 +1522,12 @@
   },
   {
     "product_category": "General Hospital And Personal Use - Cardiovascular",
-    "total": 5,
+    "total": 6,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 5,
+      "Health Canada": 6,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -1547,7 +1547,7 @@
     }
   },
   {
-    "product_category": "General Hospital And Personal Use - Gastroenterology And Urology",
+    "product_category": "Hobby And Craft Items - Other",
     "total": 5,
     "by_source": {
       "CPSC": 0,
@@ -1560,7 +1560,7 @@
     }
   },
   {
-    "product_category": "Hobby And Craft Items - Other",
+    "product_category": "General Hospital And Personal Use - Gastroenterology And Urology",
     "total": 5,
     "by_source": {
       "CPSC": 0,

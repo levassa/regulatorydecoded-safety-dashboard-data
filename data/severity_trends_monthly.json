@@ -2602,7 +2602,7 @@
   {
     "month": "2025-08",
     "Fatal": 12,
-    "Minor": 69,
+    "Minor": 68,
     "Moderate": 71,
     "Not Reported": 472,
     "Serious": 9
@@ -2708,15 +2708,15 @@
     "Fatal": 28,
     "Minor": 52,
     "Moderate": 48,
-    "Not Reported": 83,
+    "Not Reported": 88,
     "Serious": 13
   },
   {
     "month": "2026-10",
     "Fatal": 0,
-    "Minor": 6,
-    "Moderate": 0,
-    "Not Reported": 4,
+    "Minor": 7,
+    "Moderate": 7,
+    "Not Reported": 7,
     "Serious": 0
   }
 ]

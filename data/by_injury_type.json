@@ -1,38 +1,38 @@
 [
   {
     "injury_type": "Not Specified",
-    "total": 45616,
+    "total": 45627,
     "by_source": {
       "CPSC": 343,
       "EU Safety Gate": 5000,
       "FDA": 3273,
-      "Health Canada": 31846,
+      "Health Canada": 31858,
       "NZ Product Safety": 1552,
-      "OPSS": 602,
+      "OPSS": 601,
       "RappelConso": 3000
     }
   },
   {
     "injury_type": "Choking / Suffocation",
-    "total": 957,
+    "total": 958,
     "by_source": {
       "CPSC": 237,
       "EU Safety Gate": 0,
       "FDA": 6,
       "Health Canada": 519,
       "NZ Product Safety": 0,
-      "OPSS": 195,
+      "OPSS": 196,
       "RappelConso": 0
     }
   },
   {
     "injury_type": "Burns",
-    "total": 690,
+    "total": 692,
     "by_source": {
       "CPSC": 394,
       "EU Safety Gate": 0,
       "FDA": 22,
-      "Health Canada": 241,
+      "Health Canada": 243,
       "NZ Product Safety": 12,
       "OPSS": 21,
       "RappelConso": 0
@@ -131,12 +131,12 @@
   },
   {
     "injury_type": "Entrapment",
-    "total": 274,
+    "total": 275,
     "by_source": {
       "CPSC": 185,
       "EU Safety Gate": 0,
       "FDA": 3,
-      "Health Canada": 72,
+      "Health Canada": 73,
       "NZ Product Safety": 0,
       "OPSS": 14,
       "RappelConso": 0

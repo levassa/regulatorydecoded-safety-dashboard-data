@@ -1,12 +1,12 @@
 [
   {
     "hazard_type": "Other",
-    "total": 35478,
+    "total": 35488,
     "by_source": {
       "CPSC": 390,
       "EU Safety Gate": 5000,
       "FDA": 1893,
-      "Health Canada": 23469,
+      "Health Canada": 23479,
       "NZ Product Safety": 1480,
       "OPSS": 246,
       "RappelConso": 3000
@@ -45,20 +45,20 @@
       "CPSC": 524,
       "EU Safety Gate": 0,
       "FDA": 40,
-      "Health Canada": 882,
+      "Health Canada": 883,
       "NZ Product Safety": 22,
-      "OPSS": 281,
+      "OPSS": 280,
       "RappelConso": 0
     }
   },
   {
     "hazard_type": "Radiation",
-    "total": 1724,
+    "total": 1725,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 47,
-      "Health Canada": 1660,
+      "Health Canada": 1661,
       "NZ Product Safety": 17,
       "OPSS": 0,
       "RappelConso": 0
@@ -66,12 +66,12 @@
   },
   {
     "hazard_type": "Electrical Fault",
-    "total": 1709,
+    "total": 1711,
     "by_source": {
       "CPSC": 108,
       "EU Safety Gate": 0,
       "FDA": 68,
-      "Health Canada": 1395,
+      "Health Canada": 1397,
       "NZ Product Safety": 7,
       "OPSS": 131,
       "RappelConso": 0
@@ -92,14 +92,14 @@
   },
   {
     "hazard_type": "Small Parts / Choking Hazard",
-    "total": 936,
+    "total": 937,
     "by_source": {
       "CPSC": 227,
       "EU Safety Gate": 0,
       "FDA": 7,
       "Health Canada": 514,
       "NZ Product Safety": 1,
-      "OPSS": 187,
+      "OPSS": 188,
       "RappelConso": 0
     }
   },
@@ -144,12 +144,12 @@
   },
   {
     "hazard_type": "Entrapment",
-    "total": 336,
+    "total": 337,
     "by_source": {
       "CPSC": 213,
       "EU Safety Gate": 0,
       "FDA": 8,
-      "Health Canada": 97,
+      "Health Canada": 98,
       "NZ Product Safety": 4,
       "OPSS": 14,
       "RappelConso": 0
