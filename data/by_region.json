@@ -1,7 +1,7 @@
 [
   {
     "region": "Canada",
-    "total": 34156,
+    "total": 34168,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -228,7 +228,7 @@
       "Car - Suv - Light Truck & Van": 6,
       "Car - Suv - Light Truck & Van - Minivan": 1,
       "Car - Suv - Minivan": 2,
-      "Cardiovascular": 258,
+      "Cardiovascular": 259,
       "Cardiovascular - Anaesthesiology": 1,
       "Cardiovascular - Chemistry": 1,
       "Cardiovascular - Gastroenterology And Urology": 2,
@@ -249,7 +249,7 @@
       "Chassis Cab - Truck - Med. & H.D.": 19,
       "Chassis Cab - Truck - Med. & H.D. - Light Truck & Van": 2,
       "Chemicals": 372,
-      "Chemistry": 139,
+      "Chemistry": 143,
       "Chemistry - Gastroenterology And Urology": 2,
       "Chemistry - General Hospital And Personal Use": 3,
       "Chemistry - Haematology": 2,
@@ -298,7 +298,7 @@
       "Fruits And Vegetables": 27,
       "Furniture & Home": 948,
       "Gadgets": 0,
-      "Gastroenterology And Urology": 110,
+      "Gastroenterology And Urology": 111,
       "Gastroenterology And Urology - Anaesthesiology - Ear, Nose And Throat": 1,
       "Gastroenterology And Urology - Cardiovascular": 1,
       "Gastroenterology And Urology - Chemistry": 1,
@@ -308,7 +308,7 @@
       "Gastroenterology And Urology - General Hospital And Personal Use": 7,
       "Gastroenterology And Urology - Haematology": 2,
       "Gastroenterology And Urology - Orthopaedics": 1,
-      "General And Plastic Surgery": 194,
+      "General And Plastic Surgery": 197,
       "General And Plastic Surgery - Anaesthesiology - Gastroenterology And Urology": 1,
       "General And Plastic Surgery - Gastroenterology And Urology": 2,
       "General And Plastic Surgery - Gastroenterology And Urology - General Hospital And Personal Use": 1,
@@ -316,13 +316,13 @@
       "General And Plastic Surgery - General Hospital And Personal Use": 12,
       "General And Plastic Surgery - Obstetrics And Gynaecology": 1,
       "General And Plastic Surgery - Orthopaedics": 1,
-      "General Hospital And Personal Use": 409,
+      "General Hospital And Personal Use": 410,
       "General Hospital And Personal Use - Cardiovascular": 6,
       "General Hospital And Personal Use - Cardiovascular - General And Plastic Surgery": 1,
       "General Hospital And Personal Use - Chemistry - Microbiology - Ophthalmology - Haematology": 1,
       "General Hospital And Personal Use - Ear, Nose And Throat": 1,
       "General Hospital And Personal Use - Ear, Nose And Throat - Cardiovascular - General And Plastic Surgery": 1,
-      "General Hospital And Personal Use - Gastroenterology And Urology": 5,
+      "General Hospital And Personal Use - Gastroenterology And Urology": 6,
       "General Hospital And Personal Use - General And Plastic Surgery": 8,
       "General Hospital And Personal Use - General And Plastic Surgery - Cardiovascular - Anaesthesiology": 1,
       "General Hospital And Personal Use - General And Plastic Surgery - Orthopaedics": 1,
@@ -404,7 +404,7 @@
       "Motorcycle": 521,
       "Motorcycle - Motor Tricycle": 1,
       "Natural Health Products": 1046,
-      "Neurology": 66,
+      "Neurology": 67,
       "Neurology - Anaesthesiology": 1,
       "Neurology - Cardiovascular - General And Plastic Surgery": 1,
       "Neurology - General Hospital And Personal Use": 1,
@@ -512,9 +512,9 @@
     "by_severity": {
       "Fatal": 0,
       "Minor": 4338,
-      "Moderate": 8697,
+      "Moderate": 8708,
       "Not Reported": 18216,
-      "Serious": 2905
+      "Serious": 2906
     }
   },
   {
@@ -2073,7 +2073,7 @@
   },
   {
     "region": "USA",
-    "total": 6265,
+    "total": 4000,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -2493,7 +2493,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 2265,
+      "Other": 0,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -2582,11 +2582,11 @@
       "Veterinary Drugs": 0
     },
     "by_severity": {
-      "Fatal": 678,
-      "Minor": 892,
-      "Moderate": 636,
-      "Not Reported": 1,
-      "Serious": 4058
+      "Fatal": 23,
+      "Minor": 0,
+      "Moderate": 0,
+      "Not Reported": 0,
+      "Serious": 3977
     }
   },
   {
