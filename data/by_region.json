@@ -1,7 +1,7 @@
 [
   {
     "region": "Canada",
-    "total": 34168,
+    "total": 34171,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -197,7 +197,7 @@
       "Building Materials And Supplies": 3,
       "Building Products": 0,
       "Building Productselectric Or Gas Products": 0,
-      "Bus": 547,
+      "Bus": 548,
       "Bus - Chassis Cab - Light Truck & Van": 1,
       "Bus - Chassis Cab - Truck - Med. & H.D.": 1,
       "Bus - Light Truck & Van - Chassis Cab": 1,
@@ -207,7 +207,7 @@
       "Bus - School Bus - Truck - Med. & H.D.": 5,
       "Bus - Truck - Med. & H.D.": 14,
       "Bus - Truck - Med. & H.D. - School Bus": 1,
-      "Candy, Confectionary, Snacks And Sweeteners": 183,
+      "Candy, Confectionary, Snacks And Sweeteners": 184,
       "Candy, Confectionary, Snacks And Sweeteners - Nuts, Grains, And Seeds": 5,
       "Cannabis": 98,
       "Canned": 5,
@@ -258,7 +258,7 @@
       "Clinical Toxicology": 2,
       "Clothing & Textiles": 566,
       "Communications": 1,
-      "Condiments": 43,
+      "Condiments": 44,
       "Construction Products": 0,
       "Consumer Products": 30,
       "Consumer Products - Drugs": 7,
@@ -513,8 +513,8 @@
       "Fatal": 0,
       "Minor": 4338,
       "Moderate": 8708,
-      "Not Reported": 18216,
-      "Serious": 2906
+      "Not Reported": 18217,
+      "Serious": 2908
     }
   },
   {
@@ -2073,7 +2073,7 @@
   },
   {
     "region": "USA",
-    "total": 4000,
+    "total": 6277,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -2493,7 +2493,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 0,
+      "Other": 2277,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -2582,11 +2582,11 @@
       "Veterinary Drugs": 0
     },
     "by_severity": {
-      "Fatal": 23,
-      "Minor": 0,
-      "Moderate": 0,
-      "Not Reported": 0,
-      "Serious": 3977
+      "Fatal": 686,
+      "Minor": 894,
+      "Moderate": 637,
+      "Not Reported": 2,
+      "Serious": 4058
     }
   },
   {
