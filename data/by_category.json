@@ -14,9 +14,9 @@
   },
   {
     "product_category": "Other",
-    "total": 6842,
+    "total": 6850,
     "by_source": {
-      "CPSC": 2288,
+      "CPSC": 2296,
       "EU Safety Gate": 0,
       "FDA": 0,
       "Health Canada": 554,
@@ -27,12 +27,12 @@
   },
   {
     "product_category": "Food & Food Contact",
-    "total": 6397,
+    "total": 6398,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 2000,
-      "Health Canada": 4395,
+      "Health Canada": 4396,
       "NZ Product Safety": 2,
       "OPSS": 0,
       "RappelConso": 0
@@ -53,13 +53,13 @@
   },
   {
     "product_category": "Toys & Childcare",
-    "total": 2294,
+    "total": 2296,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 1069,
       "FDA": 0,
-      "Health Canada": 747,
-      "NZ Product Safety": 478,
+      "Health Canada": 748,
+      "NZ Product Safety": 479,
       "OPSS": 0,
       "RappelConso": 0
     }
@@ -378,12 +378,12 @@
   },
   {
     "product_category": "General And Plastic Surgery",
-    "total": 197,
+    "total": 198,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 197,
+      "Health Canada": 198,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -975,6 +975,19 @@
     }
   },
   {
+    "product_category": "Alcoholic",
+    "total": 23,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 23,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
     "product_category": "Pathology",
     "total": 23,
     "by_source": {
@@ -995,19 +1008,6 @@
       "EU Safety Gate": 0,
       "FDA": 0,
       "Health Canada": 23,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Alcoholic",
-    "total": 22,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 22,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0

@@ -1,35 +1,35 @@
 [
   {
     "injury_type": "Not Specified",
-    "total": 45656,
+    "total": 45664,
     "by_source": {
       "CPSC": 347,
       "EU Safety Gate": 5000,
       "FDA": 3273,
-      "Health Canada": 31885,
-      "NZ Product Safety": 1552,
-      "OPSS": 599,
+      "Health Canada": 31888,
+      "NZ Product Safety": 1553,
+      "OPSS": 603,
       "RappelConso": 3000
     }
   },
   {
     "injury_type": "Choking / Suffocation",
-    "total": 962,
+    "total": 961,
     "by_source": {
       "CPSC": 239,
       "EU Safety Gate": 0,
       "FDA": 6,
-      "Health Canada": 519,
+      "Health Canada": 520,
       "NZ Product Safety": 0,
-      "OPSS": 198,
+      "OPSS": 196,
       "RappelConso": 0
     }
   },
   {
     "injury_type": "Burns",
-    "total": 699,
+    "total": 701,
     "by_source": {
-      "CPSC": 401,
+      "CPSC": 403,
       "EU Safety Gate": 0,
       "FDA": 21,
       "Health Canada": 243,
@@ -66,9 +66,9 @@
   },
   {
     "injury_type": "Poisoning / Ingestion",
-    "total": 494,
+    "total": 496,
     "by_source": {
-      "CPSC": 322,
+      "CPSC": 324,
       "EU Safety Gate": 0,
       "FDA": 12,
       "Health Canada": 149,
@@ -79,9 +79,9 @@
   },
   {
     "injury_type": "Fracture / Blunt Trauma",
-    "total": 363,
+    "total": 364,
     "by_source": {
-      "CPSC": 141,
+      "CPSC": 142,
       "EU Safety Gate": 0,
       "FDA": 136,
       "Health Canada": 83,
@@ -118,22 +118,22 @@
   },
   {
     "injury_type": "Electric Shock",
-    "total": 290,
+    "total": 288,
     "by_source": {
       "CPSC": 73,
       "EU Safety Gate": 0,
       "FDA": 14,
       "Health Canada": 70,
       "NZ Product Safety": 4,
-      "OPSS": 129,
+      "OPSS": 127,
       "RappelConso": 0
     }
   },
   {
     "injury_type": "Entrapment",
-    "total": 277,
+    "total": 278,
     "by_source": {
-      "CPSC": 186,
+      "CPSC": 187,
       "EU Safety Gate": 0,
       "FDA": 3,
       "Health Canada": 73,
@@ -144,9 +144,9 @@
   },
   {
     "injury_type": "Skin Irritation",
-    "total": 177,
+    "total": 178,
     "by_source": {
-      "CPSC": 146,
+      "CPSC": 147,
       "EU Safety Gate": 0,
       "FDA": 15,
       "Health Canada": 16,
@@ -183,9 +183,9 @@
   },
   {
     "injury_type": "Drowning",
-    "total": 67,
+    "total": 68,
     "by_source": {
-      "CPSC": 30,
+      "CPSC": 31,
       "EU Safety Gate": 0,
       "FDA": 0,
       "Health Canada": 11,
