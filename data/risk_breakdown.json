@@ -16,7 +16,7 @@
   },
   {
     "risk_type": "Fire",
-    "count": 1733,
+    "count": 1734,
     "percentage": 3.4
   },
   {
@@ -36,7 +36,7 @@
   },
   {
     "risk_type": "Structure",
-    "count": 904,
+    "count": 907,
     "percentage": 1.8
   },
   {
@@ -71,26 +71,26 @@
   },
   {
     "risk_type": "Seats And Restraints",
-    "count": 671,
+    "count": 672,
     "percentage": 1.3
   },
   {
     "risk_type": "Lights And Instruments",
-    "count": 640,
+    "count": 641,
     "percentage": 1.3
   },
   {
     "risk_type": "Airbag",
-    "count": 638,
+    "count": 640,
+    "percentage": 1.3
+  },
+  {
+    "risk_type": "Powertrain",
+    "count": 603,
     "percentage": 1.2
   },
   {
     "risk_type": "Salmonella",
-    "count": 602,
-    "percentage": 1.2
-  },
-  {
-    "risk_type": "Powertrain",
     "count": 602,
     "percentage": 1.2
   },
@@ -121,7 +121,7 @@
   },
   {
     "risk_type": "Extraneous Material",
-    "count": 473,
+    "count": 474,
     "percentage": 0.9
   },
   {
@@ -146,7 +146,7 @@
   },
   {
     "risk_type": "Visual System",
-    "count": 359,
+    "count": 360,
     "percentage": 0.7
   },
   {
@@ -210,17 +210,17 @@
     "percentage": 0.3
   },
   {
+    "risk_type": "Mustard",
+    "count": 161,
+    "percentage": 0.3
+  },
+  {
     "risk_type": "Sterility",
     "count": 161,
     "percentage": 0.3
   },
   {
     "risk_type": "Peanut",
-    "count": 159,
-    "percentage": 0.3
-  },
-  {
-    "risk_type": "Mustard",
     "count": 159,
     "percentage": 0.3
   },

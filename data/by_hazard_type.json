@@ -1,12 +1,12 @@
 [
   {
     "hazard_type": "Other",
-    "total": 35533,
+    "total": 35543,
     "by_source": {
       "CPSC": 393,
       "EU Safety Gate": 5000,
       "FDA": 1891,
-      "Health Canada": 23510,
+      "Health Canada": 23520,
       "NZ Product Safety": 1481,
       "OPSS": 258,
       "RappelConso": 3000
@@ -14,12 +14,12 @@
   },
   {
     "hazard_type": "Allergen",
-    "total": 3242,
+    "total": 3244,
     "by_source": {
       "CPSC": 2,
       "EU Safety Gate": 0,
       "FDA": 501,
-      "Health Canada": 2739,
+      "Health Canada": 2741,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -40,12 +40,12 @@
   },
   {
     "hazard_type": "Flammability / Overheating",
-    "total": 1757,
+    "total": 1758,
     "by_source": {
       "CPSC": 536,
       "EU Safety Gate": 0,
       "FDA": 39,
-      "Health Canada": 884,
+      "Health Canada": 885,
       "NZ Product Safety": 22,
       "OPSS": 276,
       "RappelConso": 0
