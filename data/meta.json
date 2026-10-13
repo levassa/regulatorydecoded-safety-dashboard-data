@@ -1,8 +1,7 @@
 {
-  "last_updated": "2026-10-12T16:17:55Z",
-  "total_records": 48815,
+  "last_updated": "2026-10-13T14:44:02Z",
+  "total_records": 48814,
   "by_source": {
-    "CPSC": 1,
     "EU Safety Gate": 5000,
     "FDA": 4000,
     "Health Canada": 34212,
@@ -13,10 +12,10 @@
   "injury_reports": 0,
   "total_injuries": 0,
   "by_severity": {
-    "Fatal": 31,
-    "Minor": 5132,
+    "Fatal": 30,
+    "Minor": 5134,
     "Moderate": 8727,
-    "Not Reported": 28033,
+    "Not Reported": 28031,
     "Serious": 6892
   }
 }

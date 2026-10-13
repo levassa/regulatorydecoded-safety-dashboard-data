@@ -1,7 +1,7 @@
 [
   {
     "severity": "Fatal",
-    "total": 31,
+    "total": 30,
     "total_injuries": 0,
     "by_region": {
       "Canada": 0,
@@ -9,7 +9,7 @@
       "France": 0,
       "New Zealand": 1,
       "USA": 24,
-      "United Kingdom": 6
+      "United Kingdom": 5
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
@@ -430,7 +430,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 6,
+      "Other": 5,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -522,7 +522,7 @@
       "Allergen": 0,
       "Chemical / Toxic Substance": 6,
       "Drowning Risk": 0,
-      "Electrical Fault": 4,
+      "Electrical Fault": 3,
       "Entrapment": 0,
       "Explosion": 5,
       "Flammability / Overheating": 1,
@@ -1056,16 +1056,16 @@
     },
     "by_hazard_type": {
       "Allergen": 1458,
-      "Chemical / Toxic Substance": 202,
-      "Drowning Risk": 77,
+      "Chemical / Toxic Substance": 203,
+      "Drowning Risk": 78,
       "Electrical Fault": 66,
-      "Entrapment": 9,
-      "Explosion": 73,
+      "Entrapment": 8,
+      "Explosion": 72,
       "Flammability / Overheating": 41,
-      "Instability / Fall Risk": 23,
-      "Mechanical Failure": 215,
-      "Microbiological Contamination": 1766,
-      "Other": 2863,
+      "Instability / Fall Risk": 24,
+      "Mechanical Failure": 214,
+      "Microbiological Contamination": 1767,
+      "Other": 2862,
       "Radiation": 49,
       "Sharp Edges / Points": 41,
       "Small Parts / Choking Hazard": 9
@@ -1609,7 +1609,7 @@
   },
   {
     "severity": "Minor",
-    "total": 5132,
+    "total": 5134,
     "total_injuries": 0,
     "by_region": {
       "Canada": 4339,
@@ -1617,7 +1617,7 @@
       "France": 0,
       "New Zealand": 8,
       "USA": 0,
-      "United Kingdom": 785
+      "United Kingdom": 787
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
@@ -2038,7 +2038,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 883,
+      "Other": 885,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -2130,14 +2130,14 @@
       "Allergen": 623,
       "Chemical / Toxic Substance": 47,
       "Drowning Risk": 51,
-      "Electrical Fault": 127,
+      "Electrical Fault": 130,
       "Entrapment": 16,
       "Explosion": 38,
-      "Flammability / Overheating": 284,
+      "Flammability / Overheating": 285,
       "Instability / Fall Risk": 0,
       "Mechanical Failure": 21,
       "Microbiological Contamination": 148,
-      "Other": 3583,
+      "Other": 3581,
       "Radiation": 10,
       "Sharp Edges / Points": 10,
       "Small Parts / Choking Hazard": 174
@@ -2145,15 +2145,15 @@
   },
   {
     "severity": "Not Reported",
-    "total": 28033,
+    "total": 28031,
     "total_injuries": 0,
     "by_region": {
       "Canada": 18236,
       "EU / EEA": 5000,
       "France": 3000,
       "New Zealand": 1589,
-      "USA": 1,
-      "United Kingdom": 207
+      "USA": 0,
+      "United Kingdom": 206
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
@@ -2574,7 +2574,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 3531,
+      "Other": 3529,
       "Other -  Herbal Product For Smoking": 1,
       "Other - Back Patch, Recovery Tape": 1,
       "Other - Books": 1,
@@ -2664,7 +2664,7 @@
     },
     "by_hazard_type": {
       "Allergen": 446,
-      "Chemical / Toxic Substance": 583,
+      "Chemical / Toxic Substance": 582,
       "Drowning Risk": 123,
       "Electrical Fault": 1391,
       "Entrapment": 92,
@@ -2673,7 +2673,7 @@
       "Instability / Fall Risk": 320,
       "Mechanical Failure": 39,
       "Microbiological Contamination": 89,
-      "Other": 21687,
+      "Other": 21686,
       "Radiation": 1637,
       "Sharp Edges / Points": 179,
       "Small Parts / Choking Hazard": 527
