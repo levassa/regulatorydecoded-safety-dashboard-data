@@ -2073,7 +2073,7 @@
   },
   {
     "region": "USA",
-    "total": 4000,
+    "total": 6296,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -2493,7 +2493,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 0,
+      "Other": 2296,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -2582,11 +2582,11 @@
       "Veterinary Drugs": 0
     },
     "by_severity": {
-      "Fatal": 24,
-      "Minor": 0,
-      "Moderate": 0,
-      "Not Reported": 0,
-      "Serious": 3976
+      "Fatal": 699,
+      "Minor": 895,
+      "Moderate": 638,
+      "Not Reported": 2,
+      "Serious": 4062
     }
   },
   {
