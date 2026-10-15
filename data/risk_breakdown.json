@@ -26,7 +26,7 @@
   },
   {
     "risk_type": "Electric Shock",
-    "count": 1321,
+    "count": 1323,
     "percentage": 2.6
   },
   {
@@ -36,12 +36,12 @@
   },
   {
     "risk_type": "Structure",
-    "count": 907,
+    "count": 909,
     "percentage": 1.8
   },
   {
     "risk_type": "Brakes",
-    "count": 901,
+    "count": 903,
     "percentage": 1.8
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "risk_type": "Powertrain",
-    "count": 603,
+    "count": 604,
     "percentage": 1.2
   },
   {
@@ -116,7 +116,7 @@
   },
   {
     "risk_type": "Steering",
-    "count": 507,
+    "count": 508,
     "percentage": 1.0
   },
   {
@@ -206,7 +206,7 @@
   },
   {
     "risk_type": "High Voltage",
-    "count": 164,
+    "count": 165,
     "percentage": 0.3
   },
   {

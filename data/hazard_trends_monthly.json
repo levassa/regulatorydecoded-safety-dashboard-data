@@ -3732,11 +3732,11 @@
     "month": "2026-10",
     "Allergen": 7,
     "Chemical / Toxic Substance": 4,
-    "Electrical Fault": 6,
+    "Electrical Fault": 9,
     "Flammability / Overheating": 14,
     "Microbiological Contamination": 0,
-    "Other": 299,
-    "Radiation": 6,
+    "Other": 304,
+    "Radiation": 7,
     "Small Parts / Choking Hazard": 14
   }
 ]

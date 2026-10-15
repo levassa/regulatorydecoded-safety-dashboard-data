@@ -92,12 +92,12 @@
   },
   {
     "product_category": "Suv",
-    "total": 1469,
+    "total": 1472,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 1469,
+      "Health Canada": 1472,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -170,12 +170,12 @@
   },
   {
     "product_category": "Truck - Med. & H.D.",
-    "total": 981,
+    "total": 983,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 981,
+      "Health Canada": 983,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -183,12 +183,12 @@
   },
   {
     "product_category": "Rv Trailer",
-    "total": 957,
+    "total": 958,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 957,
+      "Health Canada": 958,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -248,12 +248,12 @@
   },
   {
     "product_category": "Light Truck & Van",
-    "total": 612,
+    "total": 613,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 612,
+      "Health Canada": 613,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -261,12 +261,12 @@
   },
   {
     "product_category": "Bus",
-    "total": 549,
+    "total": 550,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 549,
+      "Health Canada": 550,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -274,12 +274,12 @@
   },
   {
     "product_category": "Motorcycle",
-    "total": 521,
+    "total": 522,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 521,
+      "Health Canada": 522,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
