@@ -1,7 +1,7 @@
 [
   {
     "region": "Canada",
-    "total": 34221,
+    "total": 34226,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -50,7 +50,7 @@
       "A.T.V. - Motorcycle": 1,
       "A.T.V. - Truck - Med. & H.D.": 1,
       "Alcoholic": 23,
-      "Anaesthesiology": 157,
+      "Anaesthesiology": 158,
       "Anaesthesiology - Cardiovascular": 5,
       "Anaesthesiology - Cardiovascular - General And Plastic Surgery - General Hospital And Personal Use - Obstetrics And Gynaecology - Orthopaedics": 1,
       "Anaesthesiology - Cardiovascular - General Hospital And Personal Use": 1,
@@ -235,7 +235,7 @@
       "Cardiovascular - Gastroenterology And Urology - General And Plastic Surgery - General Hospital And Personal Use": 1,
       "Cardiovascular - General And Plastic Surgery": 3,
       "Cardiovascular - General And Plastic Surgery - General Hospital And Personal Use - Orthopaedics": 1,
-      "Cardiovascular - General Hospital And Personal Use": 17,
+      "Cardiovascular - General Hospital And Personal Use": 18,
       "Cardiovascular - General Hospital And Personal Use - Radiology": 1,
       "Cardiovascular - Neurology": 3,
       "Cardiovascular - Radiology": 1,
@@ -264,7 +264,7 @@
       "Consumer Products - Drugs": 7,
       "Consumer Products - Natural Health Products": 1,
       "Cosmetics & Personal Care": 201,
-      "Dairy": 89,
+      "Dairy": 90,
       "Dairy - Other": 1,
       "Decorative Articles": 0,
       "Dental": 36,
@@ -344,7 +344,7 @@
       "Hobby And Craft Items - Household Items - Other": 1,
       "Hobby And Craft Items - Jewellery": 1,
       "Hobby And Craft Items - Other": 5,
-      "Household Items": 1278,
+      "Household Items": 1279,
       "Household Items - Other": 122,
       "Household Items - Specialized Products": 15,
       "Household Items - Veterinary Drugs": 1,
@@ -454,7 +454,7 @@
       "Processed - Fruits And Vegetables": 1,
       "Processed - Fruits And Vegetables - Egg Products": 1,
       "Pyrotechnic Articles": 0,
-      "Radiology": 247,
+      "Radiology": 248,
       "Radiology - Anaesthesiology": 2,
       "Radiology - Cardiovascular": 1,
       "Radiology - General Hospital And Personal Use": 1,
@@ -512,9 +512,9 @@
     "by_severity": {
       "Fatal": 0,
       "Minor": 4339,
-      "Moderate": 8726,
-      "Not Reported": 18245,
-      "Serious": 2911
+      "Moderate": 8729,
+      "Not Reported": 18246,
+      "Serious": 2912
     }
   },
   {
@@ -1555,7 +1555,7 @@
   },
   {
     "region": "New Zealand",
-    "total": 1602,
+    "total": 1603,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 1,
@@ -1954,7 +1954,7 @@
       "Motor Tricycle": 0,
       "Motor Tricycle - Motorcycle": 0,
       "Motor Tricycle - Motorcycle - A.T.V.": 0,
-      "Motor Vehicles": 245,
+      "Motor Vehicles": 246,
       "Motorcycle": 0,
       "Motorcycle - Motor Tricycle": 0,
       "Natural Health Products": 0,
@@ -2067,13 +2067,13 @@
       "Fatal": 1,
       "Minor": 8,
       "Moderate": 1,
-      "Not Reported": 1589,
+      "Not Reported": 1590,
       "Serious": 3
     }
   },
   {
     "region": "USA",
-    "total": 6296,
+    "total": 6302,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -2493,7 +2493,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 2296,
+      "Other": 2302,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -2582,11 +2582,11 @@
       "Veterinary Drugs": 0
     },
     "by_severity": {
-      "Fatal": 699,
-      "Minor": 895,
+      "Fatal": 702,
+      "Minor": 896,
       "Moderate": 638,
       "Not Reported": 2,
-      "Serious": 4062
+      "Serious": 4064
     }
   },
   {

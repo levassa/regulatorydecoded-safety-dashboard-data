@@ -1,22 +1,22 @@
 [
   {
     "injury_type": "Not Specified",
-    "total": 45694,
+    "total": 45700,
     "by_source": {
-      "CPSC": 347,
+      "CPSC": 349,
       "EU Safety Gate": 5000,
       "FDA": 3274,
-      "Health Canada": 31919,
-      "NZ Product Safety": 1554,
+      "Health Canada": 31922,
+      "NZ Product Safety": 1555,
       "OPSS": 600,
       "RappelConso": 3000
     }
   },
   {
     "injury_type": "Choking / Suffocation",
-    "total": 963,
+    "total": 965,
     "by_source": {
-      "CPSC": 239,
+      "CPSC": 241,
       "EU Safety Gate": 0,
       "FDA": 6,
       "Health Canada": 520,
@@ -40,12 +40,12 @@
   },
   {
     "injury_type": "Laceration / Cut",
-    "total": 673,
+    "total": 675,
     "by_source": {
-      "CPSC": 181,
+      "CPSC": 182,
       "EU Safety Gate": 0,
       "FDA": 115,
-      "Health Canada": 363,
+      "Health Canada": 364,
       "NZ Product Safety": 10,
       "OPSS": 4,
       "RappelConso": 0
@@ -53,12 +53,12 @@
   },
   {
     "injury_type": "Fall Injury",
-    "total": 523,
+    "total": 524,
     "by_source": {
       "CPSC": 169,
       "EU Safety Gate": 0,
       "FDA": 30,
-      "Health Canada": 324,
+      "Health Canada": 325,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -66,9 +66,9 @@
   },
   {
     "injury_type": "Poisoning / Ingestion",
-    "total": 497,
+    "total": 498,
     "by_source": {
-      "CPSC": 324,
+      "CPSC": 325,
       "EU Safety Gate": 0,
       "FDA": 12,
       "Health Canada": 150,
