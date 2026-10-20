@@ -1,7 +1,7 @@
 [
   {
     "region": "Canada",
-    "total": 34263,
+    "total": 34266,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -272,7 +272,7 @@
       "Dental - General And Plastic Surgery - General Hospital And Personal Use": 1,
       "Dental - General Hospital And Personal Use": 2,
       "Dental - Orthopaedics - General And Plastic Surgery": 1,
-      "Drugs": 2802,
+      "Drugs": 2803,
       "Drugs - Biologic Or Vaccine": 8,
       "Drugs - Cannabis": 1,
       "Drugs - Natural Health Products": 73,
@@ -329,7 +329,7 @@
       "General Hospital And Personal Use - Ophthalmology": 1,
       "General Hospital And Personal Use - Orthopaedics": 3,
       "General Hospital And Personal Use - Radiology": 6,
-      "Grain Products": 30,
+      "Grain Products": 31,
       "Grain Products - Cereal": 1,
       "Haematology": 66,
       "Haematology - Pathology": 2,
@@ -506,15 +506,15 @@
       "Truck - Med. & H.D. - Suv - Light Truck & Van": 2,
       "Truck - Med. & H.D. - Suv - Light Truck & Van - Car": 1,
       "Truck - Med. & H.D. - Suv - Light Truck & Van - Chassis Cab": 2,
-      "Vaping And Tobacco Products": 11,
+      "Vaping And Tobacco Products": 12,
       "Veterinary Drugs": 55
     },
     "by_severity": {
       "Fatal": 0,
-      "Minor": 4342,
+      "Minor": 4343,
       "Moderate": 8736,
-      "Not Reported": 18271,
-      "Serious": 2914
+      "Not Reported": 18272,
+      "Serious": 2915
     }
   },
   {
@@ -781,7 +781,7 @@
       "Consumer Products": 0,
       "Consumer Products - Drugs": 0,
       "Consumer Products - Natural Health Products": 0,
-      "Cosmetics & Personal Care": 1148,
+      "Cosmetics & Personal Care": 1147,
       "Dairy": 0,
       "Dairy - Other": 0,
       "Decorative Articles": 47,
@@ -918,7 +918,7 @@
       "Motor Tricycle": 0,
       "Motor Tricycle - Motorcycle": 0,
       "Motor Tricycle - Motorcycle - A.T.V.": 0,
-      "Motor Vehicles": 527,
+      "Motor Vehicles": 528,
       "Motorcycle": 0,
       "Motorcycle - Motor Tricycle": 0,
       "Natural Health Products": 0,
@@ -1555,7 +1555,7 @@
   },
   {
     "region": "New Zealand",
-    "total": 1603,
+    "total": 1604,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 1,
@@ -1954,7 +1954,7 @@
       "Motor Tricycle": 0,
       "Motor Tricycle - Motorcycle": 0,
       "Motor Tricycle - Motorcycle - A.T.V.": 0,
-      "Motor Vehicles": 246,
+      "Motor Vehicles": 247,
       "Motorcycle": 0,
       "Motorcycle - Motor Tricycle": 0,
       "Natural Health Products": 0,
@@ -2067,7 +2067,7 @@
       "Fatal": 1,
       "Minor": 8,
       "Moderate": 1,
-      "Not Reported": 1590,
+      "Not Reported": 1591,
       "Serious": 3
     }
   },
@@ -3101,9 +3101,9 @@
     },
     "by_severity": {
       "Fatal": 5,
-      "Minor": 787,
+      "Minor": 788,
       "Moderate": 0,
-      "Not Reported": 206,
+      "Not Reported": 205,
       "Serious": 2
     }
   }

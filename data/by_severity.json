@@ -537,10 +537,10 @@
   },
   {
     "severity": "Serious",
-    "total": 6983,
+    "total": 6984,
     "total_injuries": 0,
     "by_region": {
-      "Canada": 2914,
+      "Canada": 2915,
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 3,
@@ -817,7 +817,7 @@
       "Dental - General And Plastic Surgery - General Hospital And Personal Use": 0,
       "Dental - General Hospital And Personal Use": 0,
       "Dental - Orthopaedics - General And Plastic Surgery": 0,
-      "Drugs": 380,
+      "Drugs": 381,
       "Drugs - Biologic Or Vaccine": 1,
       "Drugs - Cannabis": 0,
       "Drugs - Natural Health Products": 0,
@@ -1065,7 +1065,7 @@
       "Instability / Fall Risk": 26,
       "Mechanical Failure": 230,
       "Microbiological Contamination": 1768,
-      "Other": 2877,
+      "Other": 2878,
       "Radiation": 49,
       "Sharp Edges / Points": 62,
       "Small Parts / Choking Hazard": 12
@@ -1609,15 +1609,15 @@
   },
   {
     "severity": "Minor",
-    "total": 6033,
+    "total": 6035,
     "total_injuries": 0,
     "by_region": {
-      "Canada": 4342,
+      "Canada": 4343,
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 8,
       "USA": 896,
-      "United Kingdom": 787
+      "United Kingdom": 788
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
@@ -1946,7 +1946,7 @@
       "General Hospital And Personal Use - Ophthalmology": 0,
       "General Hospital And Personal Use - Orthopaedics": 0,
       "General Hospital And Personal Use - Radiology": 0,
-      "Grain Products": 12,
+      "Grain Products": 13,
       "Grain Products - Cereal": 0,
       "Haematology": 0,
       "Haematology - Pathology": 0,
@@ -2038,7 +2038,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 1781,
+      "Other": 1782,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -2128,32 +2128,32 @@
     },
     "by_hazard_type": {
       "Allergen": 626,
-      "Chemical / Toxic Substance": 76,
+      "Chemical / Toxic Substance": 77,
       "Drowning Risk": 66,
-      "Electrical Fault": 165,
+      "Electrical Fault": 166,
       "Entrapment": 24,
       "Explosion": 50,
-      "Flammability / Overheating": 619,
+      "Flammability / Overheating": 620,
       "Instability / Fall Risk": 77,
       "Mechanical Failure": 90,
       "Microbiological Contamination": 150,
       "Other": 3771,
       "Radiation": 10,
       "Sharp Edges / Points": 71,
-      "Small Parts / Choking Hazard": 238
+      "Small Parts / Choking Hazard": 237
     }
   },
   {
     "severity": "Not Reported",
-    "total": 28069,
+    "total": 28070,
     "total_injuries": 0,
     "by_region": {
-      "Canada": 18271,
+      "Canada": 18272,
       "EU / EEA": 5000,
       "France": 3000,
-      "New Zealand": 1590,
+      "New Zealand": 1591,
       "USA": 2,
-      "United Kingdom": 206
+      "United Kingdom": 205
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
@@ -2416,7 +2416,7 @@
       "Consumer Products": 30,
       "Consumer Products - Drugs": 7,
       "Consumer Products - Natural Health Products": 1,
-      "Cosmetics & Personal Care": 1398,
+      "Cosmetics & Personal Care": 1397,
       "Dairy": 0,
       "Dairy - Other": 0,
       "Decorative Articles": 47,
@@ -2553,7 +2553,7 @@
       "Motor Tricycle": 23,
       "Motor Tricycle - Motorcycle": 2,
       "Motor Tricycle - Motorcycle - A.T.V.": 1,
-      "Motor Vehicles": 1014,
+      "Motor Vehicles": 1016,
       "Motorcycle": 522,
       "Motorcycle - Motor Tricycle": 1,
       "Natural Health Products": 575,
@@ -2574,7 +2574,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 3531,
+      "Other": 3530,
       "Other -  Herbal Product For Smoking": 1,
       "Other - Back Patch, Recovery Tape": 1,
       "Other - Books": 1,
@@ -2659,12 +2659,12 @@
       "Truck - Med. & H.D. - Suv - Light Truck & Van": 2,
       "Truck - Med. & H.D. - Suv - Light Truck & Van - Car": 1,
       "Truck - Med. & H.D. - Suv - Light Truck & Van - Chassis Cab": 2,
-      "Vaping And Tobacco Products": 11,
+      "Vaping And Tobacco Products": 12,
       "Veterinary Drugs": 2
     },
     "by_hazard_type": {
       "Allergen": 446,
-      "Chemical / Toxic Substance": 582,
+      "Chemical / Toxic Substance": 581,
       "Drowning Risk": 123,
       "Electrical Fault": 1399,
       "Entrapment": 92,
@@ -2673,7 +2673,7 @@
       "Instability / Fall Risk": 322,
       "Mechanical Failure": 39,
       "Microbiological Contamination": 89,
-      "Other": 21706,
+      "Other": 21708,
       "Radiation": 1643,
       "Sharp Edges / Points": 179,
       "Small Parts / Choking Hazard": 527
