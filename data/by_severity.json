@@ -1055,17 +1055,17 @@
       "Veterinary Drugs": 5
     },
     "by_hazard_type": {
-      "Allergen": 1460,
+      "Allergen": 1462,
       "Chemical / Toxic Substance": 205,
       "Drowning Risk": 82,
       "Electrical Fault": 70,
       "Entrapment": 13,
       "Explosion": 74,
       "Flammability / Overheating": 55,
-      "Instability / Fall Risk": 26,
+      "Instability / Fall Risk": 27,
       "Mechanical Failure": 230,
       "Microbiological Contamination": 1768,
-      "Other": 2878,
+      "Other": 2875,
       "Radiation": 49,
       "Sharp Edges / Points": 62,
       "Small Parts / Choking Hazard": 12
@@ -1609,7 +1609,7 @@
   },
   {
     "severity": "Minor",
-    "total": 6035,
+    "total": 6034,
     "total_injuries": 0,
     "by_region": {
       "Canada": 4343,
@@ -1617,7 +1617,7 @@
       "France": 0,
       "New Zealand": 8,
       "USA": 896,
-      "United Kingdom": 788
+      "United Kingdom": 787
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
@@ -2038,7 +2038,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 1782,
+      "Other": 1781,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -2130,7 +2130,7 @@
       "Allergen": 626,
       "Chemical / Toxic Substance": 77,
       "Drowning Risk": 66,
-      "Electrical Fault": 166,
+      "Electrical Fault": 165,
       "Entrapment": 24,
       "Explosion": 50,
       "Flammability / Overheating": 620,
@@ -2145,15 +2145,15 @@
   },
   {
     "severity": "Not Reported",
-    "total": 28070,
+    "total": 28072,
     "total_injuries": 0,
     "by_region": {
       "Canada": 18272,
       "EU / EEA": 5000,
       "France": 3000,
-      "New Zealand": 1591,
+      "New Zealand": 1592,
       "USA": 2,
-      "United Kingdom": 205
+      "United Kingdom": 206
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
@@ -2442,7 +2442,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 8,
       "Electric Or Gas Productsbuilding Products": 1,
-      "Electrical & Electronics": 1698,
+      "Electrical & Electronics": 1699,
       "Food & Food Contact": 201,
       "Fresh": 1,
       "Frozen": 1,
@@ -2574,7 +2574,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 3530,
+      "Other": 3531,
       "Other -  Herbal Product For Smoking": 1,
       "Other - Back Patch, Recovery Tape": 1,
       "Other - Books": 1,
@@ -2673,7 +2673,7 @@
       "Instability / Fall Risk": 322,
       "Mechanical Failure": 39,
       "Microbiological Contamination": 89,
-      "Other": 21708,
+      "Other": 21710,
       "Radiation": 1643,
       "Sharp Edges / Points": 179,
       "Small Parts / Choking Hazard": 527
