@@ -1609,10 +1609,10 @@
   },
   {
     "severity": "Minor",
-    "total": 6034,
+    "total": 6035,
     "total_injuries": 0,
     "by_region": {
-      "Canada": 4343,
+      "Canada": 4344,
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 8,
@@ -1907,7 +1907,7 @@
       "Electric Or Gas Products": 0,
       "Electric Or Gas Productsbuilding Products": 0,
       "Electrical & Electronics": 0,
-      "Food & Food Contact": 1218,
+      "Food & Food Contact": 1219,
       "Fresh": 5,
       "Frozen": 15,
       "Frozen - Herbs And Spices": 0,
@@ -2127,7 +2127,7 @@
       "Veterinary Drugs": 26
     },
     "by_hazard_type": {
-      "Allergen": 626,
+      "Allergen": 627,
       "Chemical / Toxic Substance": 77,
       "Drowning Risk": 66,
       "Electrical Fault": 165,

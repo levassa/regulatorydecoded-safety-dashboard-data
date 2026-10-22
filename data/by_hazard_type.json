@@ -14,12 +14,12 @@
   },
   {
     "hazard_type": "Allergen",
-    "total": 3249,
+    "total": 3250,
     "by_source": {
       "CPSC": 2,
       "EU Safety Gate": 0,
       "FDA": 503,
-      "Health Canada": 2744,
+      "Health Canada": 2745,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0

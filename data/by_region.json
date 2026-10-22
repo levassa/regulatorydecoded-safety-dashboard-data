@@ -1,7 +1,7 @@
 [
   {
     "region": "Canada",
-    "total": 34266,
+    "total": 34267,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -290,7 +290,7 @@
       "Electric Or Gas Products": 0,
       "Electric Or Gas Productsbuilding Products": 0,
       "Electrical & Electronics": 439,
-      "Food & Food Contact": 4397,
+      "Food & Food Contact": 4398,
       "Fresh": 93,
       "Frozen": 78,
       "Frozen - Herbs And Spices": 1,
@@ -511,7 +511,7 @@
     },
     "by_severity": {
       "Fatal": 0,
-      "Minor": 4343,
+      "Minor": 4344,
       "Moderate": 8736,
       "Not Reported": 18272,
       "Serious": 2915
