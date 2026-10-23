@@ -14,9 +14,9 @@
   },
   {
     "product_category": "Other",
-    "total": 6856,
+    "total": 6861,
     "by_source": {
-      "CPSC": 2302,
+      "CPSC": 2307,
       "EU Safety Gate": 0,
       "FDA": 0,
       "Health Canada": 554,
@@ -40,12 +40,12 @@
   },
   {
     "product_category": "Drugs",
-    "total": 2803,
+    "total": 2804,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 2803,
+      "Health Canada": 2804,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -53,13 +53,13 @@
   },
   {
     "product_category": "Toys & Childcare",
-    "total": 2329,
+    "total": 2330,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 1102,
       "FDA": 0,
       "Health Canada": 748,
-      "NZ Product Safety": 479,
+      "NZ Product Safety": 480,
       "OPSS": 0,
       "RappelConso": 0
     }
@@ -79,12 +79,12 @@
   },
   {
     "product_category": "Car",
-    "total": 1560,
+    "total": 1561,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 1560,
+      "Health Canada": 1561,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -92,12 +92,12 @@
   },
   {
     "product_category": "Suv",
-    "total": 1474,
+    "total": 1476,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 1474,
+      "Health Canada": 1476,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -105,10 +105,10 @@
   },
   {
     "product_category": "Cosmetics & Personal Care",
-    "total": 1397,
+    "total": 1398,
     "by_source": {
       "CPSC": 0,
-      "EU Safety Gate": 1147,
+      "EU Safety Gate": 1148,
       "FDA": 0,
       "Health Canada": 201,
       "NZ Product Safety": 49,
@@ -118,12 +118,12 @@
   },
   {
     "product_category": "Household Items",
-    "total": 1279,
+    "total": 1281,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 1279,
+      "Health Canada": 1281,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -160,9 +160,9 @@
     "total": 1017,
     "by_source": {
       "CPSC": 0,
-      "EU Safety Gate": 528,
+      "EU Safety Gate": 527,
       "FDA": 0,
-      "Health Canada": 242,
+      "Health Canada": 243,
       "NZ Product Safety": 247,
       "OPSS": 0,
       "RappelConso": 0
@@ -170,12 +170,12 @@
   },
   {
     "product_category": "Truck - Med. & H.D.",
-    "total": 986,
+    "total": 988,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 986,
+      "Health Canada": 988,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -183,12 +183,12 @@
   },
   {
     "product_category": "Rv Trailer",
-    "total": 962,
+    "total": 965,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 962,
+      "Health Canada": 965,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -196,12 +196,12 @@
   },
   {
     "product_category": "Tools & Machinery",
-    "total": 896,
+    "total": 897,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 314,
       "FDA": 0,
-      "Health Canada": 504,
+      "Health Canada": 505,
       "NZ Product Safety": 78,
       "OPSS": 0,
       "RappelConso": 0
@@ -274,12 +274,12 @@
   },
   {
     "product_category": "Motorcycle",
-    "total": 522,
+    "total": 523,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 522,
+      "Health Canada": 523,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -352,12 +352,12 @@
   },
   {
     "product_category": "Radiology",
-    "total": 249,
+    "total": 250,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 249,
+      "Health Canada": 250,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -417,12 +417,12 @@
   },
   {
     "product_category": "Chemistry",
-    "total": 147,
+    "total": 148,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 147,
+      "Health Canada": 148,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -534,12 +534,12 @@
   },
   {
     "product_category": "Cannabis",
-    "total": 98,
+    "total": 99,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 98,
+      "Health Canada": 99,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -833,12 +833,12 @@
   },
   {
     "product_category": "Dental",
-    "total": 37,
+    "total": 38,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 37,
+      "Health Canada": 38,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
