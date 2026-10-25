@@ -1,53 +1,53 @@
 [
   {
     "injury_type": "Not Specified",
-    "total": 45185,
+    "total": 44642,
     "by_source": {
       "CPSC": 350,
-      "EU Safety Gate": 4910,
+      "EU Safety Gate": 5000,
       "FDA": 3272,
-      "Health Canada": 31977,
-      "NZ Product Safety": 1558,
-      "OPSS": 118,
+      "Health Canada": 31979,
+      "NZ Product Safety": 443,
+      "OPSS": 598,
       "RappelConso": 3000
     }
   },
   {
     "injury_type": "Choking / Suffocation",
-    "total": 804,
+    "total": 966,
     "by_source": {
       "CPSC": 241,
       "EU Safety Gate": 0,
       "FDA": 6,
       "Health Canada": 520,
       "NZ Product Safety": 0,
-      "OPSS": 37,
+      "OPSS": 199,
       "RappelConso": 0
     }
   },
   {
     "injury_type": "Burns",
-    "total": 687,
+    "total": 695,
     "by_source": {
       "CPSC": 404,
       "EU Safety Gate": 0,
       "FDA": 22,
       "Health Canada": 245,
-      "NZ Product Safety": 12,
-      "OPSS": 4,
+      "NZ Product Safety": 0,
+      "OPSS": 24,
       "RappelConso": 0
     }
   },
   {
     "injury_type": "Laceration / Cut",
-    "total": 672,
+    "total": 666,
     "by_source": {
       "CPSC": 182,
       "EU Safety Gate": 0,
       "FDA": 115,
       "Health Canada": 364,
-      "NZ Product Safety": 10,
-      "OPSS": 1,
+      "NZ Product Safety": 1,
+      "OPSS": 4,
       "RappelConso": 0
     }
   },
@@ -66,13 +66,13 @@
   },
   {
     "injury_type": "Poisoning / Ingestion",
-    "total": 499,
+    "total": 491,
     "by_source": {
       "CPSC": 326,
       "EU Safety Gate": 0,
       "FDA": 12,
       "Health Canada": 150,
-      "NZ Product Safety": 11,
+      "NZ Product Safety": 3,
       "OPSS": 0,
       "RappelConso": 0
     }
@@ -92,53 +92,53 @@
   },
   {
     "injury_type": "Allergic Reaction",
-    "total": 327,
+    "total": 326,
     "by_source": {
       "CPSC": 1,
       "EU Safety Gate": 0,
       "FDA": 189,
       "Health Canada": 136,
-      "NZ Product Safety": 1,
+      "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
     }
   },
   {
     "injury_type": "Eye Injury",
-    "total": 286,
+    "total": 289,
     "by_source": {
       "CPSC": 10,
       "EU Safety Gate": 0,
       "FDA": 85,
       "Health Canada": 188,
-      "NZ Product Safety": 3,
-      "OPSS": 0,
+      "NZ Product Safety": 1,
+      "OPSS": 5,
+      "RappelConso": 0
+    }
+  },
+  {
+    "injury_type": "Electric Shock",
+    "total": 287,
+    "by_source": {
+      "CPSC": 73,
+      "EU Safety Gate": 0,
+      "FDA": 14,
+      "Health Canada": 71,
+      "NZ Product Safety": 1,
+      "OPSS": 128,
       "RappelConso": 0
     }
   },
   {
     "injury_type": "Entrapment",
-    "total": 265,
+    "total": 278,
     "by_source": {
       "CPSC": 188,
       "EU Safety Gate": 0,
       "FDA": 3,
       "Health Canada": 73,
       "NZ Product Safety": 0,
-      "OPSS": 1,
-      "RappelConso": 0
-    }
-  },
-  {
-    "injury_type": "Electric Shock",
-    "total": 199,
-    "by_source": {
-      "CPSC": 73,
-      "EU Safety Gate": 0,
-      "FDA": 14,
-      "Health Canada": 71,
-      "NZ Product Safety": 4,
-      "OPSS": 37,
+      "OPSS": 14,
       "RappelConso": 0
     }
   },
@@ -157,40 +157,40 @@
   },
   {
     "injury_type": "Respiratory",
-    "total": 145,
+    "total": 144,
     "by_source": {
       "CPSC": 42,
       "EU Safety Gate": 0,
       "FDA": 37,
       "Health Canada": 63,
-      "NZ Product Safety": 3,
-      "OPSS": 0,
+      "NZ Product Safety": 0,
+      "OPSS": 2,
       "RappelConso": 0
     }
   },
   {
     "injury_type": "Radiation Exposure",
-    "total": 125,
+    "total": 124,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 63,
       "Health Canada": 61,
-      "NZ Product Safety": 1,
+      "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
     }
   },
   {
     "injury_type": "Drowning",
-    "total": 44,
+    "total": 68,
     "by_source": {
       "CPSC": 31,
       "EU Safety Gate": 0,
       "FDA": 0,
       "Health Canada": 11,
       "NZ Product Safety": 0,
-      "OPSS": 2,
+      "OPSS": 26,
       "RappelConso": 0
     }
   }
