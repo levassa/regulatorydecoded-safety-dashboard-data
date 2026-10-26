@@ -1,13 +1,13 @@
 [
   {
     "risk_type": "Other",
-    "count": 13912,
-    "percentage": 27.8
+    "count": 15066,
+    "percentage": 29.4
   },
   {
     "risk_type": "Medical Devices",
     "count": 4796,
-    "percentage": 9.6
+    "percentage": 9.4
   },
   {
     "risk_type": "Product Safety",
@@ -17,7 +17,7 @@
   {
     "risk_type": "Fire",
     "count": 1737,
-    "percentage": 3.5
+    "percentage": 3.4
   },
   {
     "risk_type": "Performance",
@@ -27,7 +27,7 @@
   {
     "risk_type": "Electric Shock",
     "count": 1327,
-    "percentage": 2.7
+    "percentage": 2.6
   },
   {
     "risk_type": "Injury",
@@ -57,7 +57,7 @@
   {
     "risk_type": "Contamination",
     "count": 741,
-    "percentage": 1.5
+    "percentage": 1.4
   },
   {
     "risk_type": "Accessories",
@@ -67,7 +67,7 @@
   {
     "risk_type": "Milk",
     "count": 688,
-    "percentage": 1.4
+    "percentage": 1.3
   },
   {
     "risk_type": "Seats And Restraints",
@@ -82,7 +82,7 @@
   {
     "risk_type": "Airbag",
     "count": 640,
-    "percentage": 1.3
+    "percentage": 1.2
   },
   {
     "risk_type": "Powertrain",
@@ -102,7 +102,7 @@
   {
     "risk_type": "Labelling And Packaging",
     "count": 530,
-    "percentage": 1.1
+    "percentage": 1.0
   },
   {
     "risk_type": "Engine",
@@ -127,7 +127,7 @@
   {
     "risk_type": "Falls",
     "count": 428,
-    "percentage": 0.9
+    "percentage": 0.8
   },
   {
     "risk_type": "Suspension",
@@ -142,7 +142,7 @@
   {
     "risk_type": "Physical Hazard",
     "count": 379,
-    "percentage": 0.8
+    "percentage": 0.7
   },
   {
     "risk_type": "Visual System",
@@ -157,7 +157,7 @@
   {
     "risk_type": "Product Quality",
     "count": 330,
-    "percentage": 0.7
+    "percentage": 0.6
   },
   {
     "risk_type": "Egg",
@@ -182,7 +182,7 @@
   {
     "risk_type": "E. Coli O157:H7",
     "count": 227,
-    "percentage": 0.5
+    "percentage": 0.4
   },
   {
     "risk_type": "Tires",
@@ -295,13 +295,13 @@
     "percentage": 0.1
   },
   {
-    "risk_type": "Sesame Seeds",
+    "risk_type": "Heater And Defroster",
     "count": 72,
     "percentage": 0.1
   },
   {
-    "risk_type": "Heater And Defroster",
-    "count": 71,
+    "risk_type": "Sesame Seeds",
+    "count": 72,
     "percentage": 0.1
   },
   {
