@@ -1,7 +1,7 @@
 [
   {
     "region": "Canada",
-    "total": 34288,
+    "total": 34290,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -388,7 +388,7 @@
       "Medical Devices": 6803,
       "Microbiology": 29,
       "Microbiology - Ophthalmology": 1,
-      "Minivan": 108,
+      "Minivan": 109,
       "Minivan - Car": 2,
       "Minivan - Light Truck & Van": 1,
       "Minivan - Light Truck & Van - Car": 1,
@@ -492,7 +492,7 @@
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 1,
       "Tools & Machinery": 505,
       "Toys & Childcare": 748,
-      "Truck - Med. & H.D.": 989,
+      "Truck - Med. & H.D.": 990,
       "Truck - Med. & H.D. - A.T.V.": 1,
       "Truck - Med. & H.D. - Bus": 5,
       "Truck - Med. & H.D. - Chassis Cab": 1,
@@ -514,7 +514,7 @@
       "Fatal": 0,
       "Minor": 4344,
       "Moderate": 8740,
-      "Not Reported": 18288,
+      "Not Reported": 18290,
       "Serious": 2916
     }
   },
@@ -3107,9 +3107,9 @@
     },
     "by_severity": {
       "Fatal": 5,
-      "Minor": 786,
+      "Minor": 788,
       "Moderate": 0,
-      "Not Reported": 207,
+      "Not Reported": 205,
       "Serious": 2
     }
   }
