@@ -1,7 +1,7 @@
 [
   {
     "region": "Canada",
-    "total": 34303,
+    "total": 34309,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -211,7 +211,7 @@
       "Candy, Confectionary, Snacks And Sweeteners - Nuts, Grains, And Seeds": 5,
       "Cannabis": 99,
       "Canned": 5,
-      "Car": 1561,
+      "Car": 1562,
       "Car - A.T.V. - Suv": 1,
       "Car - Chassis Cab - Light Truck & Van - Suv - Minivan - Truck - Med. & H.D.": 1,
       "Car - Chassis Cab - Light Truck & Van - Truck - Med. & H.D.": 1,
@@ -249,7 +249,7 @@
       "Chassis Cab - Truck - Med. & H.D.": 19,
       "Chassis Cab - Truck - Med. & H.D. - Light Truck & Van": 2,
       "Chemicals": 372,
-      "Chemistry": 150,
+      "Chemistry": 151,
       "Chemistry - Gastroenterology And Urology": 2,
       "Chemistry - General Hospital And Personal Use": 3,
       "Chemistry - Haematology": 2,
@@ -386,7 +386,7 @@
       "Measuring Instruments": 0,
       "Meat And Poultry": 26,
       "Medical Devices": 6803,
-      "Microbiology": 29,
+      "Microbiology": 30,
       "Microbiology - Ophthalmology": 1,
       "Minivan": 109,
       "Minivan - Car": 2,
@@ -455,7 +455,7 @@
       "Processed - Fruits And Vegetables": 1,
       "Processed - Fruits And Vegetables - Egg Products": 1,
       "Pyrotechnic Articles": 0,
-      "Radiology": 252,
+      "Radiology": 254,
       "Radiology - Anaesthesiology": 2,
       "Radiology - Cardiovascular": 1,
       "Radiology - General Hospital And Personal Use": 1,
@@ -476,7 +476,7 @@
       "Specialized Products - Other": 2,
       "Sports & Leisure": 651,
       "Stationery": 0,
-      "Suv": 1476,
+      "Suv": 1477,
       "Suv - Car": 138,
       "Suv - Car - Light Truck & Van": 6,
       "Suv - Car - Minivan - Light Truck & Van": 1,
@@ -513,8 +513,8 @@
     "by_severity": {
       "Fatal": 0,
       "Minor": 4345,
-      "Moderate": 8748,
-      "Not Reported": 18294,
+      "Moderate": 8752,
+      "Not Reported": 18296,
       "Serious": 2916
     }
   },
@@ -2077,7 +2077,7 @@
   },
   {
     "region": "USA",
-    "total": 6307,
+    "total": 4000,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -2497,7 +2497,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 2307,
+      "Other": 0,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -2587,11 +2587,11 @@
       "Veterinary Drugs": 0
     },
     "by_severity": {
-      "Fatal": 705,
-      "Minor": 896,
-      "Moderate": 639,
-      "Not Reported": 2,
-      "Serious": 4065
+      "Fatal": 24,
+      "Minor": 0,
+      "Moderate": 0,
+      "Not Reported": 0,
+      "Serious": 3976
     }
   },
   {
@@ -3107,9 +3107,9 @@
     },
     "by_severity": {
       "Fatal": 5,
-      "Minor": 788,
+      "Minor": 787,
       "Moderate": 0,
-      "Not Reported": 205,
+      "Not Reported": 206,
       "Serious": 2
     }
   }
