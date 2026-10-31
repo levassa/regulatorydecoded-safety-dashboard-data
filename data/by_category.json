@@ -53,10 +53,10 @@
   },
   {
     "product_category": "Toys & Childcare",
-    "total": 2344,
+    "total": 2353,
     "by_source": {
       "CPSC": 0,
-      "EU Safety Gate": 1114,
+      "EU Safety Gate": 1123,
       "FDA": 0,
       "Health Canada": 750,
       "NZ Product Safety": 480,
@@ -66,10 +66,10 @@
   },
   {
     "product_category": "Electrical & Electronics",
-    "total": 1709,
+    "total": 1716,
     "by_source": {
       "CPSC": 0,
-      "EU Safety Gate": 1022,
+      "EU Safety Gate": 1029,
       "FDA": 0,
       "Health Canada": 440,
       "NZ Product Safety": 247,
@@ -105,10 +105,10 @@
   },
   {
     "product_category": "Cosmetics & Personal Care",
-    "total": 1357,
+    "total": 1326,
     "by_source": {
       "CPSC": 0,
-      "EU Safety Gate": 1107,
+      "EU Safety Gate": 1076,
       "FDA": 0,
       "Health Canada": 201,
       "NZ Product Safety": 49,
@@ -157,10 +157,10 @@
   },
   {
     "product_category": "Motor Vehicles",
-    "total": 1024,
+    "total": 1022,
     "by_source": {
       "CPSC": 0,
-      "EU Safety Gate": 534,
+      "EU Safety Gate": 532,
       "FDA": 0,
       "Health Canada": 243,
       "NZ Product Safety": 247,
@@ -196,10 +196,10 @@
   },
   {
     "product_category": "Tools & Machinery",
-    "total": 902,
+    "total": 906,
     "by_source": {
       "CPSC": 0,
-      "EU Safety Gate": 318,
+      "EU Safety Gate": 322,
       "FDA": 0,
       "Health Canada": 506,
       "NZ Product Safety": 78,
@@ -209,10 +209,10 @@
   },
   {
     "product_category": "Sports & Leisure",
-    "total": 875,
+    "total": 879,
     "by_source": {
       "CPSC": 0,
-      "EU Safety Gate": 126,
+      "EU Safety Gate": 130,
       "FDA": 0,
       "Health Canada": 651,
       "NZ Product Safety": 98,
@@ -222,10 +222,10 @@
   },
   {
     "product_category": "Clothing & Textiles",
-    "total": 746,
+    "total": 749,
     "by_source": {
       "CPSC": 0,
-      "EU Safety Gate": 156,
+      "EU Safety Gate": 159,
       "FDA": 0,
       "Health Canada": 566,
       "NZ Product Safety": 24,
@@ -365,10 +365,10 @@
   },
   {
     "product_category": "Jewellery",
-    "total": 216,
+    "total": 217,
     "by_source": {
       "CPSC": 0,
-      "EU Safety Gate": 122,
+      "EU Safety Gate": 123,
       "FDA": 0,
       "Health Canada": 94,
       "NZ Product Safety": 0,
@@ -703,10 +703,10 @@
   },
   {
     "product_category": "Pyrotechnic Articles",
-    "total": 59,
+    "total": 60,
     "by_source": {
       "CPSC": 0,
-      "EU Safety Gate": 59,
+      "EU Safety Gate": 60,
       "FDA": 0,
       "Health Canada": 0,
       "NZ Product Safety": 0,
@@ -716,10 +716,10 @@
   },
   {
     "product_category": "Kitchen/Cooking Accessories",
-    "total": 55,
+    "total": 56,
     "by_source": {
       "CPSC": 0,
-      "EU Safety Gate": 55,
+      "EU Safety Gate": 56,
       "FDA": 0,
       "Health Canada": 0,
       "NZ Product Safety": 0,
@@ -767,6 +767,19 @@
     }
   },
   {
+    "product_category": "Decorative Articles",
+    "total": 48,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 48,
+      "FDA": 0,
+      "Health Canada": 0,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
     "product_category": "Specialized Products",
     "total": 47,
     "by_source": {
@@ -774,19 +787,6 @@
       "EU Safety Gate": 0,
       "FDA": 0,
       "Health Canada": 47,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Decorative Articles",
-    "total": 47,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 47,
-      "FDA": 0,
-      "Health Canada": 0,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -1053,13 +1053,13 @@
     }
   },
   {
-    "product_category": "Minivan - Suv",
+    "product_category": "Lighters",
     "total": 15,
     "by_source": {
       "CPSC": 0,
-      "EU Safety Gate": 0,
+      "EU Safety Gate": 15,
       "FDA": 0,
-      "Health Canada": 15,
+      "Health Canada": 0,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -1092,6 +1092,19 @@
     }
   },
   {
+    "product_category": "Minivan - Suv",
+    "total": 15,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 15,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
     "product_category": "Bus - Truck - Med. & H.D.",
     "total": 14,
     "by_source": {
@@ -1099,19 +1112,6 @@
       "EU Safety Gate": 0,
       "FDA": 0,
       "Health Canada": 14,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Lighters",
-    "total": 14,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 14,
-      "FDA": 0,
-      "Health Canada": 0,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -1820,7 +1820,7 @@
     }
   },
   {
-    "product_category": "Measuring Instruments",
+    "product_category": "Other - Car Floor Mats",
     "total": 3,
     "by_source": {
       "CPSC": 0,
@@ -1833,7 +1833,7 @@
     }
   },
   {
-    "product_category": "Other - Car Floor Mats",
+    "product_category": "Other - Guardrail",
     "total": 3,
     "by_source": {
       "CPSC": 0,
@@ -1924,7 +1924,20 @@
     }
   },
   {
-    "product_category": "Light Truck & Van - Truck - Med. & H.D. - Chassis Cab",
+    "product_category": "Measuring Instruments",
+    "total": 3,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 3,
+      "FDA": 0,
+      "Health Canada": 0,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Minivan - Suv - Car",
     "total": 3,
     "by_source": {
       "CPSC": 0,
@@ -1937,7 +1950,7 @@
     }
   },
   {
-    "product_category": "Minivan - Suv - Car",
+    "product_category": "Light Truck & Van - Truck - Med. & H.D. - Chassis Cab",
     "total": 3,
     "by_source": {
       "CPSC": 0,
@@ -1963,6 +1976,19 @@
     }
   },
   {
+    "product_category": "Truck - Med. & H.D. - Suv - Light Truck & Van",
+    "total": 2,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 2,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
     "product_category": "Specialized Products - Other",
     "total": 2,
     "by_source": {
@@ -1977,32 +2003,6 @@
   },
   {
     "product_category": "Other - Pet Accessories",
-    "total": 2,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 2,
-      "FDA": 0,
-      "Health Canada": 0,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Truck - Med. & H.D. - Suv - Light Truck & Van",
-    "total": 2,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 2,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Other - Guardrail",
     "total": 2,
     "by_source": {
       "CPSC": 0,
