@@ -1,7 +1,7 @@
 [
   {
     "region": "Canada",
-    "total": 34319,
+    "total": 34326,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -211,7 +211,7 @@
       "Candy, Confectionary, Snacks And Sweeteners - Nuts, Grains, And Seeds": 5,
       "Cannabis": 99,
       "Canned": 5,
-      "Car": 1562,
+      "Car": 1563,
       "Car - A.T.V. - Suv": 1,
       "Car - Chassis Cab - Light Truck & Van - Suv - Minivan - Truck - Med. & H.D.": 1,
       "Car - Chassis Cab - Light Truck & Van - Truck - Med. & H.D.": 1,
@@ -378,7 +378,7 @@
       "Light Truck & Van - Suv - Minivan - Car": 1,
       "Light Truck & Van - Suv - Truck - Med. & H.D.": 1,
       "Light Truck & Van - Suv - Truck - Med. & H.D. - Car": 1,
-      "Light Truck & Van - Truck - Med. & H.D.": 29,
+      "Light Truck & Van - Truck - Med. & H.D.": 30,
       "Light Truck & Van - Truck - Med. & H.D. - Chassis Cab": 3,
       "Light Truck & Van - Truck - Med. & H.D. - Suv": 1,
       "Lighters": 0,
@@ -403,7 +403,7 @@
       "Motor Vehicles": 243,
       "Motorcycle": 523,
       "Motorcycle - Motor Tricycle": 1,
-      "Natural Health Products": 1047,
+      "Natural Health Products": 1048,
       "Neurology": 66,
       "Neurology - Anaesthesiology": 1,
       "Neurology - Cardiovascular - General And Plastic Surgery": 1,
@@ -449,7 +449,7 @@
       "Pathology": 23,
       "Pet Products": 0,
       "Physical Medicine": 46,
-      "Processed": 74,
+      "Processed": 75,
       "Processed - Canned": 2,
       "Processed - Frozen": 2,
       "Processed - Fruits And Vegetables": 1,
@@ -476,7 +476,7 @@
       "Specialized Products - Other": 2,
       "Sports & Leisure": 651,
       "Stationery": 0,
-      "Suv": 1477,
+      "Suv": 1480,
       "Suv - Car": 138,
       "Suv - Car - Light Truck & Van": 6,
       "Suv - Car - Minivan - Light Truck & Van": 1,
@@ -513,9 +513,9 @@
     "by_severity": {
       "Fatal": 0,
       "Minor": 4345,
-      "Moderate": 8757,
-      "Not Reported": 18300,
-      "Serious": 2917
+      "Moderate": 8758,
+      "Not Reported": 18305,
+      "Serious": 2918
     }
   },
   {

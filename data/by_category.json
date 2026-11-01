@@ -79,12 +79,12 @@
   },
   {
     "product_category": "Car",
-    "total": 1562,
+    "total": 1563,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 1562,
+      "Health Canada": 1563,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -92,12 +92,12 @@
   },
   {
     "product_category": "Suv",
-    "total": 1477,
+    "total": 1480,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 1477,
+      "Health Canada": 1480,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -144,12 +144,12 @@
   },
   {
     "product_category": "Natural Health Products",
-    "total": 1047,
+    "total": 1048,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 1047,
+      "Health Canada": 1048,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -625,12 +625,12 @@
   },
   {
     "product_category": "Processed",
-    "total": 74,
+    "total": 75,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 74,
+      "Health Canada": 75,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -884,19 +884,6 @@
     }
   },
   {
-    "product_category": "Consumer Products",
-    "total": 30,
-    "by_source": {
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 30,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
     "product_category": "Microbiology",
     "total": 30,
     "by_source": {
@@ -911,12 +898,25 @@
   },
   {
     "product_category": "Light Truck & Van - Truck - Med. & H.D.",
-    "total": 29,
+    "total": 30,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 29,
+      "Health Canada": 30,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Consumer Products",
+    "total": 30,
+    "by_source": {
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 30,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
