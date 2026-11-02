@@ -53,13 +53,13 @@
   },
   {
     "product_category": "Toys & Childcare",
-    "total": 2353,
+    "total": 2355,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 1123,
       "FDA": 0,
       "Health Canada": 750,
-      "NZ Product Safety": 480,
+      "NZ Product Safety": 482,
       "OPSS": 0,
       "RappelConso": 0
     }
