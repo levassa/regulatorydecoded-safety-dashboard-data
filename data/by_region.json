@@ -1,7 +1,7 @@
 [
   {
     "region": "Canada",
-    "total": 34326,
+    "total": 34329,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -401,7 +401,7 @@
       "Motor Tricycle - Motorcycle": 2,
       "Motor Tricycle - Motorcycle - A.T.V.": 1,
       "Motor Vehicles": 243,
-      "Motorcycle": 523,
+      "Motorcycle": 524,
       "Motorcycle - Motor Tricycle": 1,
       "Natural Health Products": 1048,
       "Neurology": 66,
@@ -476,7 +476,7 @@
       "Specialized Products - Other": 2,
       "Sports & Leisure": 651,
       "Stationery": 0,
-      "Suv": 1480,
+      "Suv": 1481,
       "Suv - Car": 138,
       "Suv - Car - Light Truck & Van": 6,
       "Suv - Car - Minivan - Light Truck & Van": 1,
@@ -492,7 +492,7 @@
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 1,
       "Tools & Machinery": 506,
       "Toys & Childcare": 750,
-      "Truck - Med. & H.D.": 990,
+      "Truck - Med. & H.D.": 991,
       "Truck - Med. & H.D. - A.T.V.": 1,
       "Truck - Med. & H.D. - Bus": 5,
       "Truck - Med. & H.D. - Chassis Cab": 1,
@@ -514,7 +514,7 @@
       "Fatal": 0,
       "Minor": 4345,
       "Moderate": 8758,
-      "Not Reported": 18305,
+      "Not Reported": 18308,
       "Serious": 2918
     }
   },

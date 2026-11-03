@@ -1057,7 +1057,7 @@
       "Veterinary Drugs": 5
     },
     "by_hazard_type": {
-      "Allergen": 1465,
+      "Allergen": 1477,
       "Chemical / Toxic Substance": 208,
       "Drowning Risk": 82,
       "Electrical Fault": 70,
@@ -1065,9 +1065,9 @@
       "Explosion": 74,
       "Flammability / Overheating": 55,
       "Instability / Fall Risk": 29,
-      "Mechanical Failure": 229,
-      "Microbiological Contamination": 1768,
-      "Other": 2873,
+      "Mechanical Failure": 232,
+      "Microbiological Contamination": 1760,
+      "Other": 2866,
       "Radiation": 49,
       "Sharp Edges / Points": 62,
       "Small Parts / Choking Hazard": 12
@@ -2149,10 +2149,10 @@
   },
   {
     "severity": "Not Reported",
-    "total": 28107,
+    "total": 28110,
     "total_injuries": 0,
     "by_region": {
-      "Canada": 18305,
+      "Canada": 18308,
       "EU / EEA": 5000,
       "France": 3000,
       "New Zealand": 1595,
@@ -2558,7 +2558,7 @@
       "Motor Tricycle - Motorcycle": 2,
       "Motor Tricycle - Motorcycle - A.T.V.": 1,
       "Motor Vehicles": 1021,
-      "Motorcycle": 523,
+      "Motorcycle": 524,
       "Motorcycle - Motor Tricycle": 1,
       "Natural Health Products": 575,
       "Neurology": 0,
@@ -2633,7 +2633,7 @@
       "Specialized Products - Other": 2,
       "Sports & Leisure": 878,
       "Stationery": 8,
-      "Suv": 1480,
+      "Suv": 1481,
       "Suv - Car": 138,
       "Suv - Car - Light Truck & Van": 6,
       "Suv - Car - Minivan - Light Truck & Van": 1,
@@ -2649,7 +2649,7 @@
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 1,
       "Tools & Machinery": 904,
       "Toys & Childcare": 2344,
-      "Truck - Med. & H.D.": 990,
+      "Truck - Med. & H.D.": 991,
       "Truck - Med. & H.D. - A.T.V.": 1,
       "Truck - Med. & H.D. - Bus": 5,
       "Truck - Med. & H.D. - Chassis Cab": 1,
@@ -2678,8 +2678,8 @@
       "Instability / Fall Risk": 324,
       "Mechanical Failure": 39,
       "Microbiological Contamination": 89,
-      "Other": 21726,
-      "Radiation": 1648,
+      "Other": 21728,
+      "Radiation": 1649,
       "Sharp Edges / Points": 179,
       "Small Parts / Choking Hazard": 528
     }

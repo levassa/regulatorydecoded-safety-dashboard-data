@@ -92,12 +92,12 @@
   },
   {
     "product_category": "Suv",
-    "total": 1480,
+    "total": 1481,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 1480,
+      "Health Canada": 1481,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -170,12 +170,12 @@
   },
   {
     "product_category": "Truck - Med. & H.D.",
-    "total": 990,
+    "total": 991,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 990,
+      "Health Canada": 991,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -274,12 +274,12 @@
   },
   {
     "product_category": "Motorcycle",
-    "total": 523,
+    "total": 524,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 523,
+      "Health Canada": 524,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
