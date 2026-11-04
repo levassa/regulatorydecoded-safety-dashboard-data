@@ -1612,7 +1612,7 @@
   },
   {
     "severity": "Minor",
-    "total": 6039,
+    "total": 6038,
     "total_injuries": 0,
     "by_region": {
       "Canada": 4345,
@@ -1620,7 +1620,7 @@
       "France": 0,
       "New Zealand": 8,
       "USA": 898,
-      "United Kingdom": 788
+      "United Kingdom": 787
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
@@ -2041,7 +2041,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 1784,
+      "Other": 1783,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -2137,19 +2137,19 @@
       "Electrical Fault": 164,
       "Entrapment": 23,
       "Explosion": 50,
-      "Flammability / Overheating": 615,
+      "Flammability / Overheating": 617,
       "Instability / Fall Risk": 77,
       "Mechanical Failure": 91,
       "Microbiological Contamination": 150,
-      "Other": 3771,
+      "Other": 3767,
       "Radiation": 10,
       "Sharp Edges / Points": 71,
-      "Small Parts / Choking Hazard": 248
+      "Small Parts / Choking Hazard": 249
     }
   },
   {
     "severity": "Not Reported",
-    "total": 28110,
+    "total": 28111,
     "total_injuries": 0,
     "by_region": {
       "Canada": 18308,
@@ -2157,7 +2157,7 @@
       "France": 3000,
       "New Zealand": 1595,
       "USA": 2,
-      "United Kingdom": 205
+      "United Kingdom": 206
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
@@ -2578,7 +2578,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 3531,
+      "Other": 3532,
       "Other -  Herbal Product For Smoking": 1,
       "Other - Back Patch, Recovery Tape": 1,
       "Other - Books": 1,
@@ -2669,7 +2669,7 @@
     },
     "by_hazard_type": {
       "Allergen": 446,
-      "Chemical / Toxic Substance": 581,
+      "Chemical / Toxic Substance": 582,
       "Drowning Risk": 123,
       "Electrical Fault": 1406,
       "Entrapment": 92,
