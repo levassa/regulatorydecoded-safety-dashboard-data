@@ -13,19 +13,6 @@
     }
   },
   {
-    "product_category": "Other",
-    "total": 6874,
-    "by_source": {
-      "CPSC": 2319,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 555,
-      "NZ Product Safety": 0,
-      "OPSS": 1000,
-      "RappelConso": 3000
-    }
-  },
-  {
     "product_category": "Food & Food Contact",
     "total": 6400,
     "by_source": {
@@ -39,13 +26,26 @@
     }
   },
   {
+    "product_category": "Other",
+    "total": 4556,
+    "by_source": {
+      "CPSC": 1,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 555,
+      "NZ Product Safety": 0,
+      "OPSS": 1000,
+      "RappelConso": 3000
+    }
+  },
+  {
     "product_category": "Drugs",
-    "total": 2804,
+    "total": 2805,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 2804,
+      "Health Canada": 2805,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -53,12 +53,12 @@
   },
   {
     "product_category": "Toys & Childcare",
-    "total": 2355,
+    "total": 2356,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 1123,
       "FDA": 0,
-      "Health Canada": 750,
+      "Health Canada": 751,
       "NZ Product Safety": 482,
       "OPSS": 0,
       "RappelConso": 0
@@ -157,13 +157,13 @@
   },
   {
     "product_category": "Motor Vehicles",
-    "total": 1022,
+    "total": 1023,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 532,
       "FDA": 0,
       "Health Canada": 243,
-      "NZ Product Safety": 247,
+      "NZ Product Safety": 248,
       "OPSS": 0,
       "RappelConso": 0
     }
@@ -482,12 +482,12 @@
   },
   {
     "product_category": "Gastroenterology And Urology",
-    "total": 111,
+    "total": 112,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 111,
+      "Health Canada": 112,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
