@@ -1,15 +1,15 @@
 [
   {
     "hazard_type": "Other",
-    "total": 35616,
+    "total": 35622,
     "by_source": {
       "ACCC": 0,
       "CPSC": 401,
       "EU Safety Gate": 5000,
       "FDA": 1878,
-      "Health Canada": 23596,
+      "Health Canada": 23601,
       "NZ Product Safety": 1489,
-      "OPSS": 252,
+      "OPSS": 253,
       "RappelConso": 3000
     }
   },
@@ -43,15 +43,15 @@
   },
   {
     "hazard_type": "Flammability / Overheating",
-    "total": 1771,
+    "total": 1773,
     "by_source": {
       "ACCC": 2,
       "CPSC": 544,
       "EU Safety Gate": 0,
       "FDA": 39,
-      "Health Canada": 890,
+      "Health Canada": 893,
       "NZ Product Safety": 22,
-      "OPSS": 274,
+      "OPSS": 273,
       "RappelConso": 0
     }
   },
@@ -71,7 +71,7 @@
   },
   {
     "hazard_type": "Electrical Fault",
-    "total": 1726,
+    "total": 1727,
     "by_source": {
       "ACCC": 1,
       "CPSC": 110,
@@ -79,13 +79,13 @@
       "FDA": 67,
       "Health Canada": 1413,
       "NZ Product Safety": 7,
-      "OPSS": 128,
+      "OPSS": 129,
       "RappelConso": 0
     }
   },
   {
     "hazard_type": "Chemical / Toxic Substance",
-    "total": 1068,
+    "total": 1067,
     "by_source": {
       "ACCC": 0,
       "CPSC": 186,
@@ -93,7 +93,7 @@
       "FDA": 199,
       "Health Canada": 585,
       "NZ Product Safety": 17,
-      "OPSS": 81,
+      "OPSS": 80,
       "RappelConso": 0
     }
   },
