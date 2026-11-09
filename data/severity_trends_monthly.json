@@ -2716,15 +2716,15 @@
     "Fatal": 25,
     "Minor": 75,
     "Moderate": 76,
-    "Not Reported": 586,
+    "Not Reported": 585,
     "Serious": 23
   },
   {
     "month": "2026-11",
     "Fatal": 7,
     "Minor": 19,
-    "Moderate": 9,
-    "Not Reported": 74,
-    "Serious": 2
+    "Moderate": 13,
+    "Not Reported": 84,
+    "Serious": 3
   }
 ]
