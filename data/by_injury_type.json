@@ -1,14 +1,14 @@
 [
   {
     "injury_type": "Not Specified",
-    "total": 45800,
+    "total": 45804,
     "by_source": {
       "ACCC": 1,
       "CPSC": 353,
       "EU Safety Gate": 5000,
-      "FDA": 3253,
+      "FDA": 3254,
       "Health Canada": 32043,
-      "NZ Product Safety": 1561,
+      "NZ Product Safety": 1564,
       "OPSS": 589,
       "RappelConso": 3000
     }
@@ -43,12 +43,12 @@
   },
   {
     "injury_type": "Laceration / Cut",
-    "total": 675,
+    "total": 674,
     "by_source": {
       "ACCC": 0,
       "CPSC": 183,
       "EU Safety Gate": 0,
-      "FDA": 114,
+      "FDA": 113,
       "Health Canada": 364,
       "NZ Product Safety": 10,
       "OPSS": 4,
@@ -85,12 +85,12 @@
   },
   {
     "injury_type": "Fracture / Blunt Trauma",
-    "total": 367,
+    "total": 368,
     "by_source": {
       "ACCC": 2,
       "CPSC": 144,
       "EU Safety Gate": 0,
-      "FDA": 135,
+      "FDA": 136,
       "Health Canada": 83,
       "NZ Product Safety": 3,
       "OPSS": 0,
@@ -127,12 +127,12 @@
   },
   {
     "injury_type": "Eye Injury",
-    "total": 292,
+    "total": 291,
     "by_source": {
       "ACCC": 1,
       "CPSC": 10,
       "EU Safety Gate": 0,
-      "FDA": 85,
+      "FDA": 84,
       "Health Canada": 188,
       "NZ Product Safety": 3,
       "OPSS": 5,

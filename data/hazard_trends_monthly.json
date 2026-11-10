@@ -3631,12 +3631,12 @@
   },
   {
     "month": "2026-01",
-    "Allergen": 5,
-    "Chemical / Toxic Substance": 16,
+    "Allergen": 6,
+    "Chemical / Toxic Substance": 17,
     "Electrical Fault": 27,
     "Flammability / Overheating": 30,
     "Microbiological Contamination": 9,
-    "Other": 357,
+    "Other": 360,
     "Radiation": 12,
     "Small Parts / Choking Hazard": 24
   },
