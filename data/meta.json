@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T15:21:44Z",
+  "last_updated": "2026-11-11T14:50:55Z",
   "total_records": 51329,
   "by_source": {
     "ACCC": 25,
@@ -14,10 +14,10 @@
   "injury_reports": 2328,
   "total_injuries": 0,
   "by_severity": {
-    "Fatal": 749,
+    "Fatal": 750,
     "Minor": 6043,
     "Moderate": 9413,
     "Not Reported": 28130,
-    "Serious": 6994
+    "Serious": 6993
   }
 }

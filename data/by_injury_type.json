@@ -1,9 +1,9 @@
 [
   {
     "injury_type": "Not Specified",
-    "total": 45804,
+    "total": 45805,
     "by_source": {
-      "ACCC": 1,
+      "ACCC": 2,
       "CPSC": 353,
       "EU Safety Gate": 5000,
       "FDA": 3254,
@@ -71,9 +71,9 @@
   },
   {
     "injury_type": "Poisoning / Ingestion",
-    "total": 506,
+    "total": 505,
     "by_source": {
-      "ACCC": 2,
+      "ACCC": 1,
       "CPSC": 329,
       "EU Safety Gate": 0,
       "FDA": 12,
@@ -127,9 +127,9 @@
   },
   {
     "injury_type": "Eye Injury",
-    "total": 291,
+    "total": 290,
     "by_source": {
-      "ACCC": 1,
+      "ACCC": 0,
       "CPSC": 10,
       "EU Safety Gate": 0,
       "FDA": 84,
@@ -169,9 +169,9 @@
   },
   {
     "injury_type": "Respiratory",
-    "total": 155,
+    "total": 156,
     "by_source": {
-      "ACCC": 8,
+      "ACCC": 9,
       "CPSC": 42,
       "EU Safety Gate": 0,
       "FDA": 36,

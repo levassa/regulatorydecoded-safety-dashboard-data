@@ -482,7 +482,7 @@
       "Specialized Products - Drugs - Biologic Or Vaccine": 0,
       "Specialized Products - Natural Health Products": 0,
       "Specialized Products - Other": 0,
-      "Sports & Leisure": 0,
+      "Sports & Leisure": 1,
       "Stationery": 0,
       "Suv": 0,
       "Suv - Car": 0,
@@ -499,7 +499,7 @@
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
       "Tools & Machinery": 1,
-      "Toys & Childcare": 4,
+      "Toys & Childcare": 3,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
       "Truck - Med. & H.D. - Bus": 0,
@@ -519,11 +519,11 @@
       "Veterinary Drugs": 0
     },
     "by_severity": {
-      "Fatal": 24,
+      "Fatal": 25,
       "Minor": 0,
       "Moderate": 0,
       "Not Reported": 0,
-      "Serious": 1
+      "Serious": 0
     }
   },
   {

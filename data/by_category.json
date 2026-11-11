@@ -57,9 +57,9 @@
   },
   {
     "product_category": "Toys & Childcare",
-    "total": 2369,
+    "total": 2368,
     "by_source": {
-      "ACCC": 4,
+      "ACCC": 3,
       "CPSC": 0,
       "EU Safety Gate": 1130,
       "FDA": 0,
@@ -225,9 +225,9 @@
   },
   {
     "product_category": "Sports & Leisure",
-    "total": 879,
+    "total": 880,
     "by_source": {
-      "ACCC": 0,
+      "ACCC": 1,
       "CPSC": 0,
       "EU Safety Gate": 130,
       "FDA": 0,
