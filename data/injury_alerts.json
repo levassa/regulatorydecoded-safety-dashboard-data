@@ -1,5 +1,24 @@
 [
   {
+    "id": "64a8f6b9ad5d3b698fc060d384f27d7feb9927ff",
+    "source": "CPSC",
+    "date": "2026-11-12",
+    "region": "USA",
+    "notifying_country": "United States",
+    "country_of_origin": "",
+    "product_category": "Other",
+    "product_desc": "Kakgold 4WD Stunt Vehicle Toys",
+    "risk_type": "Chemical",
+    "hazard_type": "Chemical / Toxic Substance",
+    "injury_type": "Poisoning / Ingestion",
+    "injury_description": "None reported.",
+    "severity": "Fatal",
+    "injury_flag": true,
+    "injury_count": 0,
+    "corrective_action": "Consumers should stop using the remote-controlled car toys immediately and contact Kakgold for information on how to receive a full refund. Consumers will be asked to write “RECALLED” on the product and email a photograph showing the product being properly disposed of in the trash to kakrecall@outlook.com.\n\nNote: Button cell batteries are hazardous. Batteries should be disposed of or recycled by following local hazardous waste procedures.",
+    "reference": "27085"
+  },
+  {
     "id": "9cfa08c1b1ca9647e70d7e3b973b2fd654edcb8c",
     "source": "CPSC",
     "date": "2026-11-05",
@@ -13203,6 +13222,25 @@
     "injury_count": 0,
     "corrective_action": "Consumers should immediately stop using the inclined sleeper and contact Summer Infant for a cash refund or voucher.",
     "reference": "20059"
+  },
+  {
+    "id": "39cc016f37873c86f9f629e249bd45fb595bd029",
+    "source": "CPSC",
+    "date": "2026-11-12",
+    "region": "USA",
+    "notifying_country": "United States",
+    "country_of_origin": "",
+    "product_category": "Other",
+    "product_desc": "Buzz Bicycles Cerana T2 E-Trike",
+    "risk_type": "Injury",
+    "hazard_type": "Instability / Fall Risk",
+    "injury_type": "Laceration / Cut",
+    "injury_description": "The firm has received 12 reports of the rear wheel becoming loose or separating, resulting in three injuries of shoulder and wrists sprains, leg bruising and abrasions.",
+    "severity": "Serious",
+    "injury_flag": true,
+    "injury_count": 0,
+    "corrective_action": "Consumers should stop using the recalled tricycles immediately and contact Huffy for free replacement rear axle assemblies. The rear wheel axle assemblies will be sent directly to consumers or to a third-party who will repair the tricycle. Huffy Corporation will reimburse consumers up to $100 for charges incurred by the third-party repair.",
+    "reference": "27086"
   },
   {
     "id": "8cec8a1b3fb0f1f9a178e62ec0076414dd360142",

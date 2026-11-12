@@ -3590,11 +3590,11 @@
     "Allergen": 5,
     "Chemical / Toxic Substance": 3,
     "Electrical Fault": 14,
-    "Flammability / Overheating": 19,
+    "Flammability / Overheating": 15,
     "Microbiological Contamination": 20,
     "Other": 357,
     "Radiation": 10,
-    "Small Parts / Choking Hazard": 10
+    "Small Parts / Choking Hazard": 8
   },
   {
     "month": "2025-10",
@@ -3704,7 +3704,7 @@
     "Microbiological Contamination": 4,
     "Other": 363,
     "Radiation": 27,
-    "Small Parts / Choking Hazard": 17
+    "Small Parts / Choking Hazard": 15
   },
   {
     "month": "2026-08",
@@ -3742,12 +3742,12 @@
   {
     "month": "2026-11",
     "Allergen": 1,
-    "Chemical / Toxic Substance": 4,
-    "Electrical Fault": 4,
-    "Flammability / Overheating": 11,
+    "Chemical / Toxic Substance": 6,
+    "Electrical Fault": 5,
+    "Flammability / Overheating": 13,
     "Microbiological Contamination": 0,
-    "Other": 93,
-    "Radiation": 0,
-    "Small Parts / Choking Hazard": 7
+    "Other": 101,
+    "Radiation": 1,
+    "Small Parts / Choking Hazard": 10
   }
 ]

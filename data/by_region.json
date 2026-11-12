@@ -415,6 +415,7 @@
       "Neurology - Cardiovascular - General And Plastic Surgery": 0,
       "Neurology - General Hospital And Personal Use": 0,
       "Non-Alcoholic": 0,
+      "Non-Alcoholic - Alcoholic": 0,
       "Nuts, Grains, And Seeds": 0,
       "Nuts, Grains, And Seeds - Candy, Confectionary, Snacks And Sweeteners": 0,
       "Nuts, Grains, And Seeds - Candy, Confectionary, Snacks And Sweeteners - Dairy": 0,
@@ -528,7 +529,7 @@
   },
   {
     "region": "Canada",
-    "total": 34361,
+    "total": 34368,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -577,8 +578,8 @@
       "A.T.V. - Motor Tricycle": 1,
       "A.T.V. - Motorcycle": 1,
       "A.T.V. - Truck - Med. & H.D.": 1,
-      "Alcoholic": 24,
-      "Anaesthesiology": 159,
+      "Alcoholic": 25,
+      "Anaesthesiology": 160,
       "Anaesthesiology - Cardiovascular": 5,
       "Anaesthesiology - Cardiovascular - General And Plastic Surgery - General Hospital And Personal Use - Obstetrics And Gynaecology - Orthopaedics": 1,
       "Anaesthesiology - Cardiovascular - General Hospital And Personal Use": 1,
@@ -756,7 +757,7 @@
       "Car - Suv - Light Truck & Van": 6,
       "Car - Suv - Light Truck & Van - Minivan": 1,
       "Car - Suv - Minivan": 2,
-      "Cardiovascular": 261,
+      "Cardiovascular": 262,
       "Cardiovascular - Anaesthesiology": 1,
       "Cardiovascular - Chemistry": 1,
       "Cardiovascular - Gastroenterology And Urology": 2,
@@ -776,7 +777,7 @@
       "Chassis Cab - Suv - Light Truck & Van - Truck - Med. & H.D.": 1,
       "Chassis Cab - Truck - Med. & H.D.": 19,
       "Chassis Cab - Truck - Med. & H.D. - Light Truck & Van": 2,
-      "Chemicals": 373,
+      "Chemicals": 374,
       "Chemistry": 153,
       "Chemistry - Gastroenterology And Urology": 2,
       "Chemistry - General Hospital And Personal Use": 3,
@@ -797,14 +798,14 @@
       "Dairy - Other": 1,
       "Decorations, Candles And Novelties": 0,
       "Decorative Articles": 0,
-      "Dental": 38,
+      "Dental": 39,
       "Dental - Gastroenterology And Urology - General And Plastic Surgery - General Hospital And Personal Use - Obstetrics And Gynaecology": 1,
       "Dental - General And Plastic Surgery": 2,
       "Dental - General And Plastic Surgery - General Hospital And Personal Use": 1,
       "Dental - General Hospital And Personal Use": 2,
       "Dental - Orthopaedics - General And Plastic Surgery": 1,
       "Dirt Bikes And Miniature Motorbikes": 0,
-      "Drugs": 2807,
+      "Drugs": 2808,
       "Drugs - Biologic Or Vaccine": 8,
       "Drugs - Cannabis": 1,
       "Drugs - Natural Health Products": 73,
@@ -942,6 +943,7 @@
       "Neurology - Cardiovascular - General And Plastic Surgery": 1,
       "Neurology - General Hospital And Personal Use": 1,
       "Non-Alcoholic": 49,
+      "Non-Alcoholic - Alcoholic": 1,
       "Nuts, Grains, And Seeds": 102,
       "Nuts, Grains, And Seeds - Candy, Confectionary, Snacks And Sweeteners": 4,
       "Nuts, Grains, And Seeds - Candy, Confectionary, Snacks And Sweeteners - Dairy": 1,
@@ -1047,10 +1049,10 @@
     },
     "by_severity": {
       "Fatal": 0,
-      "Minor": 4347,
-      "Moderate": 8769,
-      "Not Reported": 18324,
-      "Serious": 2921
+      "Minor": 4349,
+      "Moderate": 8772,
+      "Not Reported": 18325,
+      "Serious": 2922
     }
   },
   {
@@ -1469,6 +1471,7 @@
       "Neurology - Cardiovascular - General And Plastic Surgery": 0,
       "Neurology - General Hospital And Personal Use": 0,
       "Non-Alcoholic": 0,
+      "Non-Alcoholic - Alcoholic": 0,
       "Nuts, Grains, And Seeds": 0,
       "Nuts, Grains, And Seeds - Candy, Confectionary, Snacks And Sweeteners": 0,
       "Nuts, Grains, And Seeds - Candy, Confectionary, Snacks And Sweeteners - Dairy": 0,
@@ -1996,6 +1999,7 @@
       "Neurology - Cardiovascular - General And Plastic Surgery": 0,
       "Neurology - General Hospital And Personal Use": 0,
       "Non-Alcoholic": 0,
+      "Non-Alcoholic - Alcoholic": 0,
       "Nuts, Grains, And Seeds": 0,
       "Nuts, Grains, And Seeds - Candy, Confectionary, Snacks And Sweeteners": 0,
       "Nuts, Grains, And Seeds - Candy, Confectionary, Snacks And Sweeteners - Dairy": 0,
@@ -2109,7 +2113,7 @@
   },
   {
     "region": "New Zealand",
-    "total": 1612,
+    "total": 1613,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 1,
@@ -2523,6 +2527,7 @@
       "Neurology - Cardiovascular - General And Plastic Surgery": 0,
       "Neurology - General Hospital And Personal Use": 0,
       "Non-Alcoholic": 0,
+      "Non-Alcoholic - Alcoholic": 0,
       "Nuts, Grains, And Seeds": 0,
       "Nuts, Grains, And Seeds - Candy, Confectionary, Snacks And Sweeteners": 0,
       "Nuts, Grains, And Seeds - Candy, Confectionary, Snacks And Sweeteners - Dairy": 0,
@@ -2607,7 +2612,7 @@
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
       "Tools & Machinery": 78,
-      "Toys & Childcare": 482,
+      "Toys & Childcare": 483,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
       "Truck - Med. & H.D. - Bus": 0,
@@ -2630,13 +2635,13 @@
       "Fatal": 1,
       "Minor": 8,
       "Moderate": 1,
-      "Not Reported": 1599,
+      "Not Reported": 1600,
       "Serious": 3
     }
   },
   {
     "region": "USA",
-    "total": 6331,
+    "total": 6334,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -3050,6 +3055,7 @@
       "Neurology - Cardiovascular - General And Plastic Surgery": 0,
       "Neurology - General Hospital And Personal Use": 0,
       "Non-Alcoholic": 0,
+      "Non-Alcoholic - Alcoholic": 0,
       "Nuts, Grains, And Seeds": 0,
       "Nuts, Grains, And Seeds - Candy, Confectionary, Snacks And Sweeteners": 0,
       "Nuts, Grains, And Seeds - Candy, Confectionary, Snacks And Sweeteners - Dairy": 0,
@@ -3062,7 +3068,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 2331,
+      "Other": 2334,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -3154,11 +3160,11 @@
       "Veterinary Drugs": 0
     },
     "by_severity": {
-      "Fatal": 719,
+      "Fatal": 720,
       "Minor": 900,
       "Moderate": 643,
       "Not Reported": 2,
-      "Serious": 4067
+      "Serious": 4069
     }
   },
   {
@@ -3577,6 +3583,7 @@
       "Neurology - Cardiovascular - General And Plastic Surgery": 0,
       "Neurology - General Hospital And Personal Use": 0,
       "Non-Alcoholic": 0,
+      "Non-Alcoholic - Alcoholic": 0,
       "Nuts, Grains, And Seeds": 0,
       "Nuts, Grains, And Seeds - Candy, Confectionary, Snacks And Sweeteners": 0,
       "Nuts, Grains, And Seeds - Candy, Confectionary, Snacks And Sweeteners - Dairy": 0,
@@ -3682,9 +3689,9 @@
     },
     "by_severity": {
       "Fatal": 5,
-      "Minor": 788,
+      "Minor": 787,
       "Moderate": 0,
-      "Not Reported": 205,
+      "Not Reported": 206,
       "Serious": 2
     }
   }
