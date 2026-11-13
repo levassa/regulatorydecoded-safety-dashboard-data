@@ -1,13 +1,13 @@
 [
   {
     "injury_type": "Not Specified",
-    "total": 45812,
+    "total": 45814,
     "by_source": {
       "ACCC": 2,
-      "CPSC": 353,
+      "CPSC": 354,
       "EU Safety Gate": 5000,
       "FDA": 3254,
-      "Health Canada": 32050,
+      "Health Canada": 32051,
       "NZ Product Safety": 1565,
       "OPSS": 588,
       "RappelConso": 3000
@@ -17,8 +17,8 @@
     "injury_type": "Choking / Suffocation",
     "total": 983,
     "by_source": {
-      "ACCC": 4,
-      "CPSC": 244,
+      "ACCC": 3,
+      "CPSC": 245,
       "EU Safety Gate": 0,
       "FDA": 6,
       "Health Canada": 521,
@@ -29,10 +29,10 @@
   },
   {
     "injury_type": "Burns",
-    "total": 721,
+    "total": 723,
     "by_source": {
-      "ACCC": 3,
-      "CPSC": 411,
+      "ACCC": 4,
+      "CPSC": 412,
       "EU Safety Gate": 0,
       "FDA": 22,
       "Health Canada": 248,
@@ -43,9 +43,9 @@
   },
   {
     "injury_type": "Laceration / Cut",
-    "total": 675,
+    "total": 676,
     "by_source": {
-      "ACCC": 0,
+      "ACCC": 1,
       "CPSC": 184,
       "EU Safety Gate": 0,
       "FDA": 113,
@@ -57,9 +57,9 @@
   },
   {
     "injury_type": "Fall Injury",
-    "total": 532,
+    "total": 531,
     "by_source": {
-      "ACCC": 3,
+      "ACCC": 2,
       "CPSC": 170,
       "EU Safety Gate": 0,
       "FDA": 31,
@@ -71,9 +71,9 @@
   },
   {
     "injury_type": "Poisoning / Ingestion",
-    "total": 506,
+    "total": 505,
     "by_source": {
-      "ACCC": 1,
+      "ACCC": 0,
       "CPSC": 330,
       "EU Safety Gate": 0,
       "FDA": 12,
@@ -113,10 +113,10 @@
   },
   {
     "injury_type": "Electric Shock",
-    "total": 294,
+    "total": 295,
     "by_source": {
       "ACCC": 1,
-      "CPSC": 73,
+      "CPSC": 74,
       "EU Safety Gate": 0,
       "FDA": 14,
       "Health Canada": 72,
@@ -169,9 +169,9 @@
   },
   {
     "injury_type": "Respiratory",
-    "total": 156,
+    "total": 157,
     "by_source": {
-      "ACCC": 9,
+      "ACCC": 10,
       "CPSC": 42,
       "EU Safety Gate": 0,
       "FDA": 36,

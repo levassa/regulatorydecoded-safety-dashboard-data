@@ -2721,10 +2721,10 @@
   },
   {
     "month": "2026-11",
-    "Fatal": 8,
+    "Fatal": 11,
     "Minor": 29,
     "Moderate": 16,
-    "Not Reported": 86,
-    "Serious": 6
+    "Not Reported": 87,
+    "Serious": 7
   }
 ]

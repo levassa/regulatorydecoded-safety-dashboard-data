@@ -257,7 +257,7 @@
       "Chemistry - Immunology": 0,
       "Child Car Seat": 0,
       "Clinical Toxicology": 0,
-      "Clothing & Textiles": 0,
+      "Clothing & Textiles": 1,
       "Communications": 0,
       "Condiments": 0,
       "Construction Products": 0,
@@ -294,14 +294,14 @@
       "Eggs": 0,
       "Electric Or Gas Products": 0,
       "Electric Or Gas Productsbuilding Products": 0,
-      "Electrical & Electronics": 10,
+      "Electrical & Electronics": 12,
       "Food & Food Contact": 0,
       "Fresh": 0,
       "Frozen": 0,
       "Frozen - Herbs And Spices": 0,
       "Frozen - Other": 0,
       "Fruits And Vegetables": 0,
-      "Furniture & Home": 2,
+      "Furniture & Home": 1,
       "Gadgets": 0,
       "Gastroenterology And Urology": 0,
       "Gastroenterology And Urology - Anaesthesiology - Ear, Nose And Throat": 0,
@@ -406,7 +406,7 @@
       "Motor Tricycle": 0,
       "Motor Tricycle - Motorcycle": 0,
       "Motor Tricycle - Motorcycle - A.T.V.": 0,
-      "Motor Vehicles": 2,
+      "Motor Vehicles": 1,
       "Motorcycle": 0,
       "Motorcycle - Motor Tricycle": 0,
       "Natural Health Products": 0,
@@ -456,7 +456,6 @@
       "Pasta": 0,
       "Pathology": 0,
       "Pet Products": 0,
-      "Phones, Cameras And Accessories": 1,
       "Physical Medicine": 0,
       "Processed": 0,
       "Processed - Canned": 0,
@@ -520,8 +519,8 @@
       "Veterinary Drugs": 0
     },
     "by_severity": {
-      "Fatal": 25,
-      "Minor": 0,
+      "Fatal": 23,
+      "Minor": 2,
       "Moderate": 0,
       "Not Reported": 0,
       "Serious": 0
@@ -529,7 +528,7 @@
   },
   {
     "region": "Canada",
-    "total": 34368,
+    "total": 34369,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -984,7 +983,6 @@
       "Pasta": 1,
       "Pathology": 23,
       "Pet Products": 0,
-      "Phones, Cameras And Accessories": 0,
       "Physical Medicine": 46,
       "Processed": 75,
       "Processed - Canned": 2,
@@ -1014,7 +1012,7 @@
       "Sports & Leisure": 651,
       "Stationery": 0,
       "Suv": 1481,
-      "Suv - Car": 138,
+      "Suv - Car": 139,
       "Suv - Car - Light Truck & Van": 6,
       "Suv - Car - Minivan - Light Truck & Van": 1,
       "Suv - Light Truck & Van": 50,
@@ -1051,7 +1049,7 @@
       "Fatal": 0,
       "Minor": 4349,
       "Moderate": 8772,
-      "Not Reported": 18325,
+      "Not Reported": 18326,
       "Serious": 2922
     }
   },
@@ -1512,7 +1510,6 @@
       "Pasta": 0,
       "Pathology": 0,
       "Pet Products": 0,
-      "Phones, Cameras And Accessories": 0,
       "Physical Medicine": 0,
       "Processed": 0,
       "Processed - Canned": 0,
@@ -2040,7 +2037,6 @@
       "Pasta": 0,
       "Pathology": 0,
       "Pet Products": 0,
-      "Phones, Cameras And Accessories": 0,
       "Physical Medicine": 0,
       "Processed": 0,
       "Processed - Canned": 0,
@@ -2568,7 +2564,6 @@
       "Pasta": 0,
       "Pathology": 0,
       "Pet Products": 1,
-      "Phones, Cameras And Accessories": 0,
       "Physical Medicine": 0,
       "Processed": 0,
       "Processed - Canned": 0,
@@ -2641,7 +2636,7 @@
   },
   {
     "region": "USA",
-    "total": 6334,
+    "total": 6338,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -3068,7 +3063,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 2334,
+      "Other": 2338,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -3096,7 +3091,6 @@
       "Pasta": 0,
       "Pathology": 0,
       "Pet Products": 0,
-      "Phones, Cameras And Accessories": 0,
       "Physical Medicine": 0,
       "Processed": 0,
       "Processed - Canned": 0,
@@ -3160,11 +3154,11 @@
       "Veterinary Drugs": 0
     },
     "by_severity": {
-      "Fatal": 720,
+      "Fatal": 723,
       "Minor": 900,
       "Moderate": 643,
       "Not Reported": 2,
-      "Serious": 4069
+      "Serious": 4070
     }
   },
   {
@@ -3624,7 +3618,6 @@
       "Pasta": 0,
       "Pathology": 0,
       "Pet Products": 0,
-      "Phones, Cameras And Accessories": 0,
       "Physical Medicine": 0,
       "Processed": 0,
       "Processed - Canned": 0,
