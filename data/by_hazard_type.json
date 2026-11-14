@@ -1,13 +1,13 @@
 [
   {
     "hazard_type": "Other",
-    "total": 35645,
+    "total": 35650,
     "by_source": {
       "ACCC": 0,
       "CPSC": 401,
       "EU Safety Gate": 5000,
       "FDA": 1877,
-      "Health Canada": 23619,
+      "Health Canada": 23624,
       "NZ Product Safety": 1493,
       "OPSS": 255,
       "RappelConso": 3000
@@ -85,13 +85,13 @@
   },
   {
     "hazard_type": "Chemical / Toxic Substance",
-    "total": 1070,
+    "total": 1071,
     "by_source": {
       "ACCC": 0,
       "CPSC": 187,
       "EU Safety Gate": 0,
       "FDA": 200,
-      "Health Canada": 585,
+      "Health Canada": 586,
       "NZ Product Safety": 17,
       "OPSS": 81,
       "RappelConso": 0
@@ -141,13 +141,13 @@
   },
   {
     "hazard_type": "Sharp Edges / Points",
-    "total": 443,
+    "total": 444,
     "by_source": {
       "ACCC": 1,
       "CPSC": 187,
       "EU Safety Gate": 0,
       "FDA": 40,
-      "Health Canada": 207,
+      "Health Canada": 208,
       "NZ Product Safety": 8,
       "OPSS": 0,
       "RappelConso": 0
