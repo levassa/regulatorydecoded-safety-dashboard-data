@@ -3741,12 +3741,12 @@
   },
   {
     "month": "2026-11",
-    "Allergen": 1,
+    "Allergen": 3,
     "Chemical / Toxic Substance": 7,
     "Electrical Fault": 6,
     "Flammability / Overheating": 15,
     "Microbiological Contamination": 0,
-    "Other": 181,
+    "Other": 187,
     "Radiation": 1,
     "Small Parts / Choking Hazard": 11
   }

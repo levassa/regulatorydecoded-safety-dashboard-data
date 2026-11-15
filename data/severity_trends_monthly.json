@@ -2722,9 +2722,9 @@
   {
     "month": "2026-11",
     "Fatal": 11,
-    "Minor": 30,
-    "Moderate": 20,
-    "Not Reported": 162,
-    "Serious": 8
+    "Minor": 31,
+    "Moderate": 24,
+    "Not Reported": 163,
+    "Serious": 10
   }
 ]
