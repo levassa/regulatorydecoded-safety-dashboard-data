@@ -71,7 +71,7 @@
   },
   {
     "hazard_type": "Electrical Fault",
-    "total": 1731,
+    "total": 1732,
     "by_source": {
       "ACCC": 1,
       "CPSC": 111,
@@ -79,7 +79,7 @@
       "FDA": 67,
       "Health Canada": 1415,
       "NZ Product Safety": 7,
-      "OPSS": 130,
+      "OPSS": 131,
       "RappelConso": 0
     }
   },
@@ -99,7 +99,7 @@
   },
   {
     "hazard_type": "Small Parts / Choking Hazard",
-    "total": 971,
+    "total": 970,
     "by_source": {
       "ACCC": 13,
       "CPSC": 234,
@@ -107,7 +107,7 @@
       "FDA": 7,
       "Health Canada": 516,
       "NZ Product Safety": 1,
-      "OPSS": 200,
+      "OPSS": 199,
       "RappelConso": 0
     }
   },

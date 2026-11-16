@@ -2170,7 +2170,7 @@
       "Allergen": 627,
       "Chemical / Toxic Substance": 78,
       "Drowning Risk": 64,
-      "Electrical Fault": 166,
+      "Electrical Fault": 167,
       "Entrapment": 23,
       "Explosion": 50,
       "Flammability / Overheating": 615,
@@ -2180,7 +2180,7 @@
       "Other": 3775,
       "Radiation": 11,
       "Sharp Edges / Points": 72,
-      "Small Parts / Choking Hazard": 247
+      "Small Parts / Choking Hazard": 246
     }
   },
   {

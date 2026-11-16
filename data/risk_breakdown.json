@@ -26,7 +26,7 @@
   },
   {
     "risk_type": "Electric Shock",
-    "count": 1334,
+    "count": 1335,
     "percentage": 2.6
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "risk_type": "Choking",
-    "count": 760,
+    "count": 759,
     "percentage": 1.5
   },
   {
@@ -11075,11 +11075,6 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For John Lewis & Partners Doorstops & Draught Excluders Presenting A Risk To Health.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
     "risk_type": "Product Recall For Joie Serina Elephant Duo Swivel Baby Swing Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
@@ -11115,12 +11110,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Listeria Monocytogenes. During Routine Testing The Firm Received Positive Test Results For Listeria Monocytogenes.",
+    "risk_type": "Product Recall For Ktl 2Pc Balloon Dog Toy Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Ktl 3Pcs Test Tube Science Kit Presenting A Risk To Health.",
+    "risk_type": "Listeria Monocytogenes. During Routine Testing The Firm Received Positive Test Results For Listeria Monocytogenes.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11160,12 +11155,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Ktl 2Pc Balloon Dog Toy Presenting A Risk To Health.",
+    "risk_type": "Product Recall For Ktl Stretchy Monster Toys Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Head Sport Gmbh Head Yellow Ski Boots Presenting A Risk Of Injuries.",
+    "risk_type": "Product Recall For Ktl 3Pcs Test Tube Science Kit Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11205,12 +11200,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Jacisk 50,000Pcs And 100Pcs Water Beads Presenting A Serious Risk Of Asphyxiation.",
+    "risk_type": "Product Recall For Hobbycraft Sand And Pom Pom Art Kit Presenting A Health Risk.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Honeywell Miller H500-Series Harnesses With Leg Buckles Presenting A Serious Risk Of Injuries.",
+    "risk_type": "Product Recall For John Lewis & Partners Doorstops & Draught Excluders Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11255,7 +11250,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Hobbycraft Sand And Pom Pom Art Kit Presenting A Health Risk.",
+    "risk_type": "Product Recall For Jacisk 50,000Pcs And 100Pcs Water Beads Presenting A Serious Risk Of Asphyxiation.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
+    "risk_type": "Product Recall For Honeywell Miller H500-Series Harnesses With Leg Buckles Presenting A Serious Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11300,7 +11300,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Ktl Stretchy Monster Toys Presenting A Risk To Health.",
+    "risk_type": "Product Recall For Ktl Stretchy Poop Toy Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11355,11 +11355,6 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Ktl Stretchy Poop Toy Presenting A Risk To Health.",
-    "count": 1,
-    "percentage": 0.0
-  },
-  {
     "risk_type": "Product Recall For Kukoo Automatic Bubble Tea Shaker Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
@@ -11395,12 +11390,12 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Orb Funkee Sand Toys Presenting A Risk To Health.",
+    "risk_type": "Product Recall For Maxi-Cosi Family Fix Slide Pro Base Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Mercury Marine Gen 2 Dts And Avator Controls. \r\n\r\nProducts Fitted To Boats With The Specified Hin Numbers Present A Risk Of Non-Compliance Due To An Operating Fault.",
+    "risk_type": "Product Recall For Orb Funkee Sand Toys Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11425,6 +11420,11 @@
     "percentage": 0.0
   },
   {
+    "risk_type": "Product Recall For Mydova Unicorns Sand Play Set Presenting A Risk To Health.",
+    "count": 1,
+    "percentage": 0.0
+  },
+  {
     "risk_type": "Product Recall For Next Core 5Lt Flush Ceiling Light Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
@@ -11445,7 +11445,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Maxi-Cosi Family Fix Slide Pro Base Presenting A Risk Of Injuries.",
+    "risk_type": "Product Recall For Mercury Marine Gen 2 Dts And Avator Controls. \r\n\r\nProducts Fitted To Boats With The Specified Hin Numbers Present A Risk Of Non-Compliance Due To An Operating Fault.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11490,7 +11490,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Haunted House Jumbos And Filled Critters Toys Presenting A Risk To Health.",
+    "risk_type": "Product Recall For Head Sport Gmbh Head Yellow Ski Boots Presenting A Risk Of Injuries.",
     "count": 1,
     "percentage": 0.0
   },
@@ -11725,7 +11725,7 @@
     "percentage": 0.0
   },
   {
-    "risk_type": "Product Recall For Habitat Seed Pod Bowl Filler Presenting A Health Risk.",
+    "risk_type": "Product Recall For Haunted House Jumbos And Filled Critters Toys Presenting A Risk To Health.",
     "count": 1,
     "percentage": 0.0
   },
