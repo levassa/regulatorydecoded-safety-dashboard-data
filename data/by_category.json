@@ -71,14 +71,14 @@
   },
   {
     "product_category": "Electrical & Electronics",
-    "total": 1717,
+    "total": 1719,
     "by_source": {
-      "ACCC": 12,
+      "ACCC": 13,
       "CPSC": 0,
       "EU Safety Gate": 1017,
       "FDA": 0,
       "Health Canada": 441,
-      "NZ Product Safety": 247,
+      "NZ Product Safety": 248,
       "OPSS": 0,
       "RappelConso": 0
     }
@@ -267,13 +267,13 @@
   },
   {
     "product_category": "Light Truck & Van",
-    "total": 615,
+    "total": 616,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 615,
+      "Health Canada": 616,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -463,13 +463,13 @@
   },
   {
     "product_category": "Suv - Car",
-    "total": 139,
+    "total": 140,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 139,
+      "Health Canada": 140,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -491,13 +491,13 @@
   },
   {
     "product_category": "Heavy Trailer",
-    "total": 138,
+    "total": 139,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 138,
+      "Health Canada": 139,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -1498,7 +1498,7 @@
     }
   },
   {
-    "product_category": "Car - Minivan - Suv",
+    "product_category": "Car - Minivan",
     "total": 7,
     "by_source": {
       "ACCC": 0,
@@ -1540,7 +1540,7 @@
     }
   },
   {
-    "product_category": "Car - Minivan",
+    "product_category": "Car - Minivan - Suv",
     "total": 7,
     "by_source": {
       "ACCC": 0,
@@ -1932,7 +1932,7 @@
     }
   },
   {
-    "product_category": "Cardiovascular - Neurology",
+    "product_category": "Chemistry - Immunology",
     "total": 3,
     "by_source": {
       "ACCC": 0,
@@ -2044,7 +2044,7 @@
     }
   },
   {
-    "product_category": "Chemistry - Immunology",
+    "product_category": "Ear, Nose And Throat - Gastroenterology And Urology",
     "total": 3,
     "by_source": {
       "ACCC": 0,
@@ -2058,7 +2058,7 @@
     }
   },
   {
-    "product_category": "Chemistry - General Hospital And Personal Use",
+    "product_category": "Cardiovascular - Neurology",
     "total": 3,
     "by_source": {
       "ACCC": 0,
@@ -2086,7 +2086,7 @@
     }
   },
   {
-    "product_category": "Ear, Nose And Throat - Gastroenterology And Urology",
+    "product_category": "Chemistry - General Hospital And Personal Use",
     "total": 3,
     "by_source": {
       "ACCC": 0,
@@ -2296,7 +2296,7 @@
     }
   },
   {
-    "product_category": "Clinical Toxicology",
+    "product_category": "Dental - General Hospital And Personal Use",
     "total": 2,
     "by_source": {
       "ACCC": 0,
@@ -2324,14 +2324,14 @@
     }
   },
   {
-    "product_category": "Dental - General Hospital And Personal Use",
+    "product_category": "Decorations, Candles And Novelties",
     "total": 2,
     "by_source": {
-      "ACCC": 0,
+      "ACCC": 2,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 2,
+      "Health Canada": 0,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -2408,14 +2408,14 @@
     }
   },
   {
-    "product_category": "Decorations, Candles And Novelties",
+    "product_category": "Chemistry - Gastroenterology And Urology",
     "total": 2,
     "by_source": {
-      "ACCC": 2,
+      "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 0,
+      "Health Canada": 2,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -2464,7 +2464,7 @@
     }
   },
   {
-    "product_category": "Chemistry - Gastroenterology And Urology",
+    "product_category": "Clinical Toxicology",
     "total": 2,
     "by_source": {
       "ACCC": 0,
@@ -3164,6 +3164,20 @@
     }
   },
   {
+    "product_category": "Car - Chassis Cab - Light Truck & Van - Suv - Minivan - Truck - Med. & H.D.",
+    "total": 1,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 1,
+      "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
     "product_category": "Car - Chassis Cab - Light Truck & Van - Truck - Med. & H.D.",
     "total": 1,
     "by_source": {
@@ -3249,20 +3263,6 @@
   },
   {
     "product_category": "Cardiovascular - Chemistry",
-    "total": 1,
-    "by_source": {
-      "ACCC": 0,
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 1,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Cardiovascular - Gastroenterology And Urology - General And Plastic Surgery - General Hospital And Personal Use",
     "total": 1,
     "by_source": {
       "ACCC": 0,
@@ -3374,7 +3374,7 @@
     }
   },
   {
-    "product_category": "Car - Chassis Cab - Light Truck & Van - Suv - Minivan - Truck - Med. & H.D.",
+    "product_category": "Car - Bus",
     "total": 1,
     "by_source": {
       "ACCC": 0,
@@ -3612,6 +3612,20 @@
     }
   },
   {
+    "product_category": "Archived 20 July 201720 July 2015“Inside Out” Movie Novelty Souvenir Beverage Cup",
+    "total": 1,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 0,
+      "NZ Product Safety": 1,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
     "product_category": "Archived 20 June 201427 January 2014Parmco Freestanding Gas Stoves",
     "total": 1,
     "by_source": {
@@ -3710,7 +3724,7 @@
     }
   },
   {
-    "product_category": "Archived 22 January 201822 January 2016Britax, B-Safe 35 Car Seat/Capsule - Carrier Handle",
+    "product_category": "Archived 18 August 201618 August 2014Bebops Osfm Pocket Nappy Shells",
     "total": 1,
     "by_source": {
       "ACCC": 0,
@@ -3822,15 +3836,15 @@
     }
   },
   {
-    "product_category": "Archived 20 July 201720 July 2015“Inside Out” Movie Novelty Souvenir Beverage Cup",
+    "product_category": "Communications",
     "total": 1,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 0,
-      "NZ Product Safety": 1,
+      "Health Canada": 1,
+      "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
     }
@@ -3934,15 +3948,15 @@
     }
   },
   {
-    "product_category": "Archived 18 August 201618 August 2014Bebops Osfm Pocket Nappy Shells",
+    "product_category": "Cardiovascular - Gastroenterology And Urology - General And Plastic Surgery - General Hospital And Personal Use",
     "total": 1,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 0,
-      "NZ Product Safety": 1,
+      "Health Canada": 1,
+      "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
     }
@@ -4033,20 +4047,6 @@
   },
   {
     "product_category": "Chassis Cab - Suv - Light Truck & Van - Truck - Med. & H.D.",
-    "total": 1,
-    "by_source": {
-      "ACCC": 0,
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 1,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Communications",
     "total": 1,
     "by_source": {
       "ACCC": 0,
@@ -4284,6 +4284,20 @@
     }
   },
   {
+    "product_category": "Archived 23 March 201723 March 2015Ozito Portable Electric Blower Model No. Ozbl1800Wa",
+    "total": 1,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 0,
+      "NZ Product Safety": 1,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
     "product_category": "Consumer Products - Natural Health Products",
     "total": 1,
     "by_source": {
@@ -4368,20 +4382,6 @@
     }
   },
   {
-    "product_category": "Dirt Bikes And Miniature Motorbikes",
-    "total": 1,
-    "by_source": {
-      "ACCC": 1,
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 0,
-      "NZ Product Safety": 0,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
     "product_category": "Drugs - Cannabis",
     "total": 1,
     "by_source": {
@@ -4391,6 +4391,20 @@
       "FDA": 0,
       "Health Canada": 1,
       "NZ Product Safety": 0,
+      "OPSS": 0,
+      "RappelConso": 0
+    }
+  },
+  {
+    "product_category": "Archived 22 January 201822 January 2016Britax, B-Safe 35 Car Seat/Capsule - Carrier Handle",
+    "total": 1,
+    "by_source": {
+      "ACCC": 0,
+      "CPSC": 0,
+      "EU Safety Gate": 0,
+      "FDA": 0,
+      "Health Canada": 0,
+      "NZ Product Safety": 1,
       "OPSS": 0,
       "RappelConso": 0
     }
@@ -4481,20 +4495,6 @@
   },
   {
     "product_category": "Archived 23 June 20175 December 2016Shoes For Crews: Various Models",
-    "total": 1,
-    "by_source": {
-      "ACCC": 0,
-      "CPSC": 0,
-      "EU Safety Gate": 0,
-      "FDA": 0,
-      "Health Canada": 0,
-      "NZ Product Safety": 1,
-      "OPSS": 0,
-      "RappelConso": 0
-    }
-  },
-  {
-    "product_category": "Archived 23 March 201723 March 2015Ozito Portable Electric Blower Model No. Ozbl1800Wa",
     "total": 1,
     "by_source": {
       "ACCC": 0,
