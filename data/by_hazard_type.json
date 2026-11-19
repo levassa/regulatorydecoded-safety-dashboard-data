@@ -1,27 +1,27 @@
 [
   {
     "hazard_type": "Other",
-    "total": 35662,
+    "total": 35672,
     "by_source": {
       "ACCC": 0,
-      "CPSC": 401,
+      "CPSC": 404,
       "EU Safety Gate": 5000,
       "FDA": 1873,
-      "Health Canada": 23637,
-      "NZ Product Safety": 1496,
-      "OPSS": 255,
+      "Health Canada": 23640,
+      "NZ Product Safety": 1498,
+      "OPSS": 257,
       "RappelConso": 3000
     }
   },
   {
     "hazard_type": "Allergen",
-    "total": 3270,
+    "total": 3271,
     "by_source": {
       "ACCC": 0,
       "CPSC": 2,
       "EU Safety Gate": 0,
       "FDA": 515,
-      "Health Canada": 2753,
+      "Health Canada": 2754,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -43,7 +43,7 @@
   },
   {
     "hazard_type": "Flammability / Overheating",
-    "total": 1770,
+    "total": 1767,
     "by_source": {
       "ACCC": 0,
       "CPSC": 546,
@@ -51,7 +51,7 @@
       "FDA": 39,
       "Health Canada": 894,
       "NZ Product Safety": 22,
-      "OPSS": 269,
+      "OPSS": 266,
       "RappelConso": 0
     }
   },
@@ -71,7 +71,7 @@
   },
   {
     "hazard_type": "Electrical Fault",
-    "total": 1730,
+    "total": 1729,
     "by_source": {
       "ACCC": 1,
       "CPSC": 111,
@@ -79,27 +79,27 @@
       "FDA": 66,
       "Health Canada": 1415,
       "NZ Product Safety": 7,
-      "OPSS": 130,
+      "OPSS": 129,
       "RappelConso": 0
     }
   },
   {
     "hazard_type": "Chemical / Toxic Substance",
-    "total": 1073,
+    "total": 1075,
     "by_source": {
       "ACCC": 0,
-      "CPSC": 187,
+      "CPSC": 188,
       "EU Safety Gate": 0,
       "FDA": 200,
       "Health Canada": 586,
       "NZ Product Safety": 17,
-      "OPSS": 83,
+      "OPSS": 84,
       "RappelConso": 0
     }
   },
   {
     "hazard_type": "Small Parts / Choking Hazard",
-    "total": 974,
+    "total": 975,
     "by_source": {
       "ACCC": 16,
       "CPSC": 234,
@@ -107,16 +107,16 @@
       "FDA": 7,
       "Health Canada": 516,
       "NZ Product Safety": 1,
-      "OPSS": 200,
+      "OPSS": 201,
       "RappelConso": 0
     }
   },
   {
     "hazard_type": "Mechanical Failure",
-    "total": 568,
+    "total": 569,
     "by_source": {
       "ACCC": 7,
-      "CPSC": 183,
+      "CPSC": 184,
       "EU Safety Gate": 0,
       "FDA": 209,
       "Health Canada": 167,
@@ -183,13 +183,13 @@
   },
   {
     "hazard_type": "Explosion",
-    "total": 229,
+    "total": 230,
     "by_source": {
       "ACCC": 0,
       "CPSC": 33,
       "EU Safety Gate": 0,
       "FDA": 70,
-      "Health Canada": 115,
+      "Health Canada": 116,
       "NZ Product Safety": 3,
       "OPSS": 8,
       "RappelConso": 0

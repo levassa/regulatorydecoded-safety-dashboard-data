@@ -528,7 +528,7 @@
   },
   {
     "region": "Canada",
-    "total": 34393,
+    "total": 34398,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -764,7 +764,7 @@
       "Cardiovascular - Gastroenterology And Urology - General And Plastic Surgery - General Hospital And Personal Use": 1,
       "Cardiovascular - General And Plastic Surgery": 3,
       "Cardiovascular - General And Plastic Surgery - General Hospital And Personal Use - Orthopaedics": 1,
-      "Cardiovascular - General Hospital And Personal Use": 18,
+      "Cardiovascular - General Hospital And Personal Use": 19,
       "Cardiovascular - General Hospital And Personal Use - Radiology": 1,
       "Cardiovascular - Neurology": 3,
       "Cardiovascular - Radiology": 1,
@@ -778,7 +778,7 @@
       "Chassis Cab - Truck - Med. & H.D.": 19,
       "Chassis Cab - Truck - Med. & H.D. - Light Truck & Van": 2,
       "Chemicals": 375,
-      "Chemistry": 153,
+      "Chemistry": 154,
       "Chemistry - Gastroenterology And Urology": 2,
       "Chemistry - General Hospital And Personal Use": 3,
       "Chemistry - Haematology": 2,
@@ -849,7 +849,7 @@
       "General And Plastic Surgery - General Hospital And Personal Use": 12,
       "General And Plastic Surgery - Obstetrics And Gynaecology": 1,
       "General And Plastic Surgery - Orthopaedics": 1,
-      "General Hospital And Personal Use": 414,
+      "General Hospital And Personal Use": 416,
       "General Hospital And Personal Use - Cardiovascular": 6,
       "General Hospital And Personal Use - Cardiovascular - General And Plastic Surgery": 1,
       "General Hospital And Personal Use - Chemistry - Microbiology - Ophthalmology - Haematology": 1,
@@ -862,7 +862,7 @@
       "General Hospital And Personal Use - Ophthalmology": 1,
       "General Hospital And Personal Use - Orthopaedics": 3,
       "General Hospital And Personal Use - Radiology": 6,
-      "Grain Products": 31,
+      "Grain Products": 32,
       "Grain Products - Cereal": 1,
       "Haematology": 70,
       "Haematology - Pathology": 2,
@@ -1048,9 +1048,9 @@
     "by_severity": {
       "Fatal": 0,
       "Minor": 4352,
-      "Moderate": 8782,
+      "Moderate": 8786,
       "Not Reported": 18334,
-      "Serious": 2925
+      "Serious": 2926
     }
   },
   {
@@ -2109,7 +2109,7 @@
   },
   {
     "region": "New Zealand",
-    "total": 1616,
+    "total": 1618,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 1,
@@ -2607,7 +2607,7 @@
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
       "Tools & Machinery": 78,
-      "Toys & Childcare": 483,
+      "Toys & Childcare": 485,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
       "Truck - Med. & H.D. - Bus": 0,
@@ -2630,13 +2630,13 @@
       "Fatal": 1,
       "Minor": 8,
       "Moderate": 1,
-      "Not Reported": 1603,
+      "Not Reported": 1605,
       "Serious": 3
     }
   },
   {
     "region": "USA",
-    "total": 6338,
+    "total": 6343,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -3063,7 +3063,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 2338,
+      "Other": 2343,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -3154,9 +3154,9 @@
       "Veterinary Drugs": 0
     },
     "by_severity": {
-      "Fatal": 723,
-      "Minor": 900,
-      "Moderate": 643,
+      "Fatal": 726,
+      "Minor": 901,
+      "Moderate": 644,
       "Not Reported": 2,
       "Serious": 4070
     }
@@ -3682,9 +3682,9 @@
     },
     "by_severity": {
       "Fatal": 5,
-      "Minor": 784,
+      "Minor": 783,
       "Moderate": 0,
-      "Not Reported": 209,
+      "Not Reported": 210,
       "Serious": 2
     }
   }

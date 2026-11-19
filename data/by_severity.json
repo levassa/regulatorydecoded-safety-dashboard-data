@@ -1,7 +1,7 @@
 [
   {
     "severity": "Fatal",
-    "total": 752,
+    "total": 755,
     "total_injuries": 0,
     "by_region": {
       "Australia": 23,
@@ -9,7 +9,7 @@
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 1,
-      "USA": 723,
+      "USA": 726,
       "United Kingdom": 5
     },
     "by_category": {
@@ -438,7 +438,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 704,
+      "Other": 707,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -530,7 +530,7 @@
     },
     "by_hazard_type": {
       "Allergen": 0,
-      "Chemical / Toxic Substance": 92,
+      "Chemical / Toxic Substance": 93,
       "Drowning Risk": 4,
       "Electrical Fault": 36,
       "Entrapment": 175,
@@ -539,7 +539,7 @@
       "Instability / Fall Risk": 31,
       "Mechanical Failure": 43,
       "Microbiological Contamination": 3,
-      "Other": 135,
+      "Other": 137,
       "Radiation": 0,
       "Sharp Edges / Points": 24,
       "Small Parts / Choking Hazard": 122
@@ -547,11 +547,11 @@
   },
   {
     "severity": "Serious",
-    "total": 7000,
+    "total": 7001,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
-      "Canada": 2925,
+      "Canada": 2926,
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 3,
@@ -891,7 +891,7 @@
       "General Hospital And Personal Use - Ophthalmology": 0,
       "General Hospital And Personal Use - Orthopaedics": 0,
       "General Hospital And Personal Use - Radiology": 0,
-      "Grain Products": 6,
+      "Grain Products": 7,
       "Grain Products - Cereal": 0,
       "Haematology": 0,
       "Haematology - Pathology": 0,
@@ -1075,7 +1075,7 @@
       "Veterinary Drugs": 5
     },
     "by_hazard_type": {
-      "Allergen": 1480,
+      "Allergen": 1481,
       "Chemical / Toxic Substance": 209,
       "Drowning Risk": 82,
       "Electrical Fault": 69,
@@ -1093,15 +1093,15 @@
   },
   {
     "severity": "Moderate",
-    "total": 9426,
+    "total": 9431,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
-      "Canada": 8782,
+      "Canada": 8786,
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 1,
-      "USA": 643,
+      "USA": 644,
       "United Kingdom": 0
     },
     "by_category": {
@@ -1339,7 +1339,7 @@
       "Cardiovascular - Gastroenterology And Urology - General And Plastic Surgery - General Hospital And Personal Use": 1,
       "Cardiovascular - General And Plastic Surgery": 2,
       "Cardiovascular - General And Plastic Surgery - General Hospital And Personal Use - Orthopaedics": 0,
-      "Cardiovascular - General Hospital And Personal Use": 15,
+      "Cardiovascular - General Hospital And Personal Use": 16,
       "Cardiovascular - General Hospital And Personal Use - Radiology": 1,
       "Cardiovascular - Neurology": 3,
       "Cardiovascular - Radiology": 1,
@@ -1353,7 +1353,7 @@
       "Chassis Cab - Truck - Med. & H.D.": 0,
       "Chassis Cab - Truck - Med. & H.D. - Light Truck & Van": 0,
       "Chemicals": 0,
-      "Chemistry": 152,
+      "Chemistry": 153,
       "Chemistry - Gastroenterology And Urology": 2,
       "Chemistry - General Hospital And Personal Use": 3,
       "Chemistry - Haematology": 2,
@@ -1424,7 +1424,7 @@
       "General And Plastic Surgery - General Hospital And Personal Use": 11,
       "General And Plastic Surgery - Obstetrics And Gynaecology": 1,
       "General And Plastic Surgery - Orthopaedics": 1,
-      "General Hospital And Personal Use": 362,
+      "General Hospital And Personal Use": 364,
       "General Hospital And Personal Use - Cardiovascular": 3,
       "General Hospital And Personal Use - Cardiovascular - General And Plastic Surgery": 1,
       "General Hospital And Personal Use - Chemistry - Microbiology - Ophthalmology - Haematology": 1,
@@ -1530,7 +1530,7 @@
       "Ophthalmology": 30,
       "Ophthalmology - General Hospital And Personal Use": 1,
       "Orthopaedics": 98,
-      "Other": 721,
+      "Other": 722,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -1626,12 +1626,12 @@
       "Drowning Risk": 36,
       "Electrical Fault": 51,
       "Entrapment": 41,
-      "Explosion": 55,
+      "Explosion": 56,
       "Flammability / Overheating": 133,
       "Instability / Fall Risk": 65,
-      "Mechanical Failure": 162,
+      "Mechanical Failure": 163,
       "Microbiological Contamination": 726,
-      "Other": 7130,
+      "Other": 7133,
       "Radiation": 30,
       "Sharp Edges / Points": 107,
       "Small Parts / Choking Hazard": 64
@@ -1647,8 +1647,8 @@
       "EU / EEA": 0,
       "France": 0,
       "New Zealand": 8,
-      "USA": 900,
-      "United Kingdom": 784
+      "USA": 901,
+      "United Kingdom": 783
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
@@ -2170,31 +2170,31 @@
       "Allergen": 627,
       "Chemical / Toxic Substance": 78,
       "Drowning Risk": 64,
-      "Electrical Fault": 166,
+      "Electrical Fault": 165,
       "Entrapment": 23,
       "Explosion": 50,
-      "Flammability / Overheating": 613,
+      "Flammability / Overheating": 610,
       "Instability / Fall Risk": 77,
       "Mechanical Failure": 93,
       "Microbiological Contamination": 150,
-      "Other": 3776,
+      "Other": 3779,
       "Radiation": 11,
       "Sharp Edges / Points": 72,
-      "Small Parts / Choking Hazard": 246
+      "Small Parts / Choking Hazard": 247
     }
   },
   {
     "severity": "Not Reported",
-    "total": 28148,
+    "total": 28151,
     "total_injuries": 0,
     "by_region": {
       "Australia": 0,
       "Canada": 18334,
       "EU / EEA": 5000,
       "France": 3000,
-      "New Zealand": 1603,
+      "New Zealand": 1605,
       "USA": 2,
-      "United Kingdom": 209
+      "United Kingdom": 210
     },
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
@@ -2622,7 +2622,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 3536,
+      "Other": 3537,
       "Other -  Herbal Product For Smoking": 1,
       "Other - Back Patch, Recovery Tape": 1,
       "Other - Books": 1,
@@ -2693,7 +2693,7 @@
       "Suv - Truck - Med. & H.D.": 1,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 1,
       "Tools & Machinery": 911,
-      "Toys & Childcare": 2353,
+      "Toys & Childcare": 2355,
       "Truck - Med. & H.D.": 991,
       "Truck - Med. & H.D. - A.T.V.": 1,
       "Truck - Med. & H.D. - Bus": 5,
@@ -2714,7 +2714,7 @@
     },
     "by_hazard_type": {
       "Allergen": 446,
-      "Chemical / Toxic Substance": 585,
+      "Chemical / Toxic Substance": 586,
       "Drowning Risk": 123,
       "Electrical Fault": 1408,
       "Entrapment": 93,
@@ -2723,7 +2723,7 @@
       "Instability / Fall Risk": 324,
       "Mechanical Failure": 39,
       "Microbiological Contamination": 89,
-      "Other": 21755,
+      "Other": 21757,
       "Radiation": 1647,
       "Sharp Edges / Points": 179,
       "Small Parts / Choking Hazard": 530
