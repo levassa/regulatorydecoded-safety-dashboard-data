@@ -406,7 +406,7 @@
       "Motor Tricycle": 0,
       "Motor Tricycle - Motorcycle": 0,
       "Motor Tricycle - Motorcycle - A.T.V.": 0,
-      "Motor Vehicles": 1,
+      "Motor Vehicles": 2,
       "Motorcycle": 0,
       "Motorcycle - Motor Tricycle": 0,
       "Natural Health Products": 0,
@@ -499,7 +499,7 @@
       "Suv - Truck - Med. & H.D.": 0,
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 0,
       "Tools & Machinery": 1,
-      "Toys & Childcare": 3,
+      "Toys & Childcare": 2,
       "Truck - Med. & H.D.": 0,
       "Truck - Med. & H.D. - A.T.V.": 0,
       "Truck - Med. & H.D. - Bus": 0,
@@ -528,7 +528,7 @@
   },
   {
     "region": "Canada",
-    "total": 34398,
+    "total": 34408,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -589,7 +589,7 @@
       "Anaesthesiology - Gastroenterology And Urology - General Hospital And Personal Use": 1,
       "Anaesthesiology - General And Plastic Surgery": 1,
       "Anaesthesiology - General And Plastic Surgery - Ophthalmology - Gastroenterology And Urology - Ear, Nose And Throat - Dental": 1,
-      "Anaesthesiology - General Hospital And Personal Use": 4,
+      "Anaesthesiology - General Hospital And Personal Use": 5,
       "Anaesthesiology - Neurology": 2,
       "Anaesthesiology - Ophthalmology": 1,
       "Archived 01 April 20171 April 2015Light Up Flashing Animal Ring": 0,
@@ -757,7 +757,7 @@
       "Car - Suv - Light Truck & Van": 6,
       "Car - Suv - Light Truck & Van - Minivan": 1,
       "Car - Suv - Minivan": 2,
-      "Cardiovascular": 263,
+      "Cardiovascular": 266,
       "Cardiovascular - Anaesthesiology": 1,
       "Cardiovascular - Chemistry": 1,
       "Cardiovascular - Gastroenterology And Urology": 2,
@@ -804,7 +804,7 @@
       "Dental - General And Plastic Surgery - General Hospital And Personal Use": 1,
       "Dental - General Hospital And Personal Use": 2,
       "Dental - Orthopaedics - General And Plastic Surgery": 1,
-      "Drugs": 2812,
+      "Drugs": 2813,
       "Drugs - Biologic Or Vaccine": 8,
       "Drugs - Cannabis": 1,
       "Drugs - Natural Health Products": 73,
@@ -821,7 +821,7 @@
       "Eggs": 2,
       "Electric Or Gas Products": 0,
       "Electric Or Gas Productsbuilding Products": 0,
-      "Electrical & Electronics": 441,
+      "Electrical & Electronics": 442,
       "Food & Food Contact": 4400,
       "Fresh": 94,
       "Frozen": 78,
@@ -830,7 +830,7 @@
       "Fruits And Vegetables": 27,
       "Furniture & Home": 953,
       "Gadgets": 0,
-      "Gastroenterology And Urology": 112,
+      "Gastroenterology And Urology": 114,
       "Gastroenterology And Urology - Anaesthesiology - Ear, Nose And Throat": 1,
       "Gastroenterology And Urology - Cardiovascular": 1,
       "Gastroenterology And Urology - Chemistry": 1,
@@ -954,7 +954,7 @@
       "Office Supplies And Stationeryrecalled Sand Products": 0,
       "Ophthalmology": 31,
       "Ophthalmology - General Hospital And Personal Use": 1,
-      "Orthopaedics": 101,
+      "Orthopaedics": 102,
       "Other": 556,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
@@ -1004,7 +1004,7 @@
       "School Bus - Bus": 1,
       "School Bus - Truck - Med. & H.D.": 1,
       "Snowmobile": 69,
-      "Specialized Products": 48,
+      "Specialized Products": 49,
       "Specialized Products - Drugs": 1,
       "Specialized Products - Drugs - Biologic Or Vaccine": 1,
       "Specialized Products - Natural Health Products": 8,
@@ -1048,9 +1048,9 @@
     "by_severity": {
       "Fatal": 0,
       "Minor": 4352,
-      "Moderate": 8786,
-      "Not Reported": 18334,
-      "Serious": 2926
+      "Moderate": 8790,
+      "Not Reported": 18337,
+      "Serious": 2929
     }
   },
   {
@@ -2636,7 +2636,7 @@
   },
   {
     "region": "USA",
-    "total": 6343,
+    "total": 6347,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -3063,7 +3063,7 @@
       "Ophthalmology": 0,
       "Ophthalmology - General Hospital And Personal Use": 0,
       "Orthopaedics": 0,
-      "Other": 2343,
+      "Other": 2347,
       "Other -  Herbal Product For Smoking": 0,
       "Other - Back Patch, Recovery Tape": 0,
       "Other - Books": 0,
@@ -3154,11 +3154,11 @@
       "Veterinary Drugs": 0
     },
     "by_severity": {
-      "Fatal": 726,
+      "Fatal": 729,
       "Minor": 901,
       "Moderate": 644,
       "Not Reported": 2,
-      "Serious": 4070
+      "Serious": 4071
     }
   },
   {
