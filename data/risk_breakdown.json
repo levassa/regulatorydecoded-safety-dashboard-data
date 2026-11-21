@@ -101,7 +101,7 @@
   },
   {
     "risk_type": "Labelling And Packaging",
-    "count": 537,
+    "count": 536,
     "percentage": 1.0
   },
   {
@@ -126,7 +126,7 @@
   },
   {
     "risk_type": "Falls",
-    "count": 432,
+    "count": 433,
     "percentage": 0.8
   },
   {
@@ -211,17 +211,17 @@
   },
   {
     "risk_type": "Sterility",
-    "count": 164,
+    "count": 165,
+    "percentage": 0.3
+  },
+  {
+    "risk_type": "Peanut",
+    "count": 161,
     "percentage": 0.3
   },
   {
     "risk_type": "Mustard",
     "count": 161,
-    "percentage": 0.3
-  },
-  {
-    "risk_type": "Peanut",
-    "count": 160,
     "percentage": 0.3
   },
   {
@@ -241,7 +241,7 @@
   },
   {
     "risk_type": "Tree Nut",
-    "count": 106,
+    "count": 107,
     "percentage": 0.2
   },
   {
