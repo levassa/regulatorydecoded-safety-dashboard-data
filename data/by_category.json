@@ -71,14 +71,14 @@
   },
   {
     "product_category": "Electrical & Electronics",
-    "total": 1733,
+    "total": 1734,
     "by_source": {
       "ACCC": 14,
       "CPSC": 0,
       "EU Safety Gate": 1029,
       "FDA": 0,
       "Health Canada": 442,
-      "NZ Product Safety": 248,
+      "NZ Product Safety": 249,
       "OPSS": 0,
       "RappelConso": 0
     }
@@ -183,13 +183,13 @@
   },
   {
     "product_category": "Truck - Med. & H.D.",
-    "total": 991,
+    "total": 993,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 991,
+      "Health Canada": 993,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -253,13 +253,13 @@
   },
   {
     "product_category": "Light Truck & Van",
-    "total": 616,
+    "total": 617,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 616,
+      "Health Canada": 617,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -463,13 +463,13 @@
   },
   {
     "product_category": "Suv - Car",
-    "total": 140,
+    "total": 142,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 140,
+      "Health Canada": 142,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -1974,7 +1974,7 @@
     }
   },
   {
-    "product_category": "Light Truck & Van - Truck - Med. & H.D. - Chassis Cab",
+    "product_category": "Motor Tricycle - Motorcycle",
     "total": 3,
     "by_source": {
       "ACCC": 0,
@@ -2114,14 +2114,14 @@
     }
   },
   {
-    "product_category": "Anaesthesiology - Neurology",
-    "total": 2,
+    "product_category": "Light Truck & Van - Truck - Med. & H.D. - Chassis Cab",
+    "total": 3,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 2,
+      "Health Canada": 3,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -2156,7 +2156,7 @@
     }
   },
   {
-    "product_category": "Minivan - Light Truck & Van - Car - Suv",
+    "product_category": "Anaesthesiology - Neurology",
     "total": 2,
     "by_source": {
       "ACCC": 0,
@@ -2184,7 +2184,7 @@
     }
   },
   {
-    "product_category": "Motor Tricycle - Motorcycle",
+    "product_category": "Anaesthesiology - Chemistry",
     "total": 2,
     "by_source": {
       "ACCC": 0,
@@ -2198,14 +2198,14 @@
     }
   },
   {
-    "product_category": "Other - Special Cleaning Agent For Domestic Use",
+    "product_category": "Minivan - Light Truck & Van - Car - Suv",
     "total": 2,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
-      "EU Safety Gate": 2,
+      "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 0,
+      "Health Canada": 2,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -2282,14 +2282,14 @@
     }
   },
   {
-    "product_category": "Anaesthesiology - Chemistry",
+    "product_category": "Other - Special Cleaning Agent For Domestic Use",
     "total": 2,
     "by_source": {
       "ACCC": 0,
       "CPSC": 0,
-      "EU Safety Gate": 0,
+      "EU Safety Gate": 2,
       "FDA": 0,
-      "Health Canada": 2,
+      "Health Canada": 0,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0

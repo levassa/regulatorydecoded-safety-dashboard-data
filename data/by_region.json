@@ -528,7 +528,7 @@
   },
   {
     "region": "Canada",
-    "total": 34411,
+    "total": 34417,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -897,7 +897,7 @@
       "Light Trailer": 62,
       "Light Trailer - Heavy Trailer": 1,
       "Light Trailer - Rv Trailer": 6,
-      "Light Truck & Van": 616,
+      "Light Truck & Van": 617,
       "Light Truck & Van - Car": 4,
       "Light Truck & Van - Car - Suv": 3,
       "Light Truck & Van - Car - Suv - Minivan": 1,
@@ -931,7 +931,7 @@
       "Minivan - Suv": 15,
       "Minivan - Suv - Car": 3,
       "Motor Tricycle": 23,
-      "Motor Tricycle - Motorcycle": 2,
+      "Motor Tricycle - Motorcycle": 3,
       "Motor Tricycle - Motorcycle - A.T.V.": 1,
       "Motor Vehicles": 243,
       "Motorcycle": 524,
@@ -1012,7 +1012,7 @@
       "Sports & Leisure": 652,
       "Stationery": 0,
       "Suv": 1481,
-      "Suv - Car": 140,
+      "Suv - Car": 142,
       "Suv - Car - Light Truck & Van": 6,
       "Suv - Car - Minivan - Light Truck & Van": 1,
       "Suv - Light Truck & Van": 50,
@@ -1027,7 +1027,7 @@
       "Suv - Truck - Med. & H.D. - Car - Chassis Cab - Light Truck & Van - Minivan": 1,
       "Tools & Machinery": 507,
       "Toys & Childcare": 753,
-      "Truck - Med. & H.D.": 991,
+      "Truck - Med. & H.D.": 993,
       "Truck - Med. & H.D. - A.T.V.": 1,
       "Truck - Med. & H.D. - Bus": 5,
       "Truck - Med. & H.D. - Chassis Cab": 1,
@@ -1049,7 +1049,7 @@
       "Fatal": 0,
       "Minor": 4352,
       "Moderate": 8789,
-      "Not Reported": 18337,
+      "Not Reported": 18343,
       "Serious": 2933
     }
   },
@@ -2109,7 +2109,7 @@
   },
   {
     "region": "New Zealand",
-    "total": 1618,
+    "total": 1619,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 1,
@@ -2402,7 +2402,7 @@
       "Eggs": 0,
       "Electric Or Gas Products": 8,
       "Electric Or Gas Productsbuilding Products": 1,
-      "Electrical & Electronics": 248,
+      "Electrical & Electronics": 249,
       "Food & Food Contact": 2,
       "Fresh": 0,
       "Frozen": 0,
@@ -2630,7 +2630,7 @@
       "Fatal": 1,
       "Minor": 8,
       "Moderate": 1,
-      "Not Reported": 1605,
+      "Not Reported": 1606,
       "Serious": 3
     }
   },
