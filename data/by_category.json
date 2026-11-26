@@ -40,12 +40,12 @@
   },
   {
     "product_category": "Drugs",
-    "total": 2814,
+    "total": 2815,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 2814,
+      "Health Canada": 2815,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -287,12 +287,12 @@
   },
   {
     "product_category": "General Hospital And Personal Use",
-    "total": 416,
+    "total": 417,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 416,
+      "Health Canada": 417,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -404,12 +404,12 @@
   },
   {
     "product_category": "Anaesthesiology",
-    "total": 160,
+    "total": 161,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 160,
+      "Health Canada": 161,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -793,20 +793,20 @@
     }
   },
   {
-    "product_category": "Physical Medicine",
-    "total": 46,
+    "product_category": "Condiments",
+    "total": 47,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 46,
+      "Health Canada": 47,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
     }
   },
   {
-    "product_category": "Condiments",
+    "product_category": "Physical Medicine",
     "total": 46,
     "by_source": {
       "CPSC": 0,
@@ -1209,13 +1209,13 @@
     }
   },
   {
-    "product_category": "Construction Products",
+    "product_category": "General Hospital And Personal Use - General And Plastic Surgery",
     "total": 9,
     "by_source": {
       "CPSC": 0,
-      "EU Safety Gate": 9,
+      "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 0,
+      "Health Canada": 9,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -1235,13 +1235,13 @@
     }
   },
   {
-    "product_category": "Suv - Minivan",
-    "total": 8,
+    "product_category": "Construction Products",
+    "total": 9,
     "by_source": {
       "CPSC": 0,
-      "EU Safety Gate": 0,
+      "EU Safety Gate": 9,
       "FDA": 0,
-      "Health Canada": 8,
+      "Health Canada": 0,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -1287,7 +1287,7 @@
     }
   },
   {
-    "product_category": "General Hospital And Personal Use - General And Plastic Surgery",
+    "product_category": "Suv - Minivan",
     "total": 8,
     "by_source": {
       "CPSC": 0,

@@ -3737,7 +3737,7 @@
     "Microbiological Contamination": 1,
     "Other": 625,
     "Radiation": 15,
-    "Small Parts / Choking Hazard": 27
+    "Small Parts / Choking Hazard": 26
   },
   {
     "month": "2026-11",
@@ -3746,8 +3746,8 @@
     "Electrical Fault": 10,
     "Flammability / Overheating": 19,
     "Microbiological Contamination": 1,
-    "Other": 321,
+    "Other": 326,
     "Radiation": 1,
-    "Small Parts / Choking Hazard": 17
+    "Small Parts / Choking Hazard": 18
   }
 ]

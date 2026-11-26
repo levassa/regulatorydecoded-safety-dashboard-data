@@ -1,7 +1,7 @@
 [
   {
     "region": "Canada",
-    "total": 34418,
+    "total": 34423,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -51,7 +51,7 @@
       "A.T.V. - Motorcycle": 1,
       "A.T.V. - Truck - Med. & H.D.": 1,
       "Alcoholic": 26,
-      "Anaesthesiology": 160,
+      "Anaesthesiology": 161,
       "Anaesthesiology - Cardiovascular": 5,
       "Anaesthesiology - Cardiovascular - General And Plastic Surgery - General Hospital And Personal Use - Obstetrics And Gynaecology - Orthopaedics": 1,
       "Anaesthesiology - Cardiovascular - General Hospital And Personal Use": 1,
@@ -260,7 +260,7 @@
       "Clinical Toxicology": 2,
       "Clothing & Textiles": 566,
       "Communications": 1,
-      "Condiments": 46,
+      "Condiments": 47,
       "Construction Products": 0,
       "Consumer Products": 31,
       "Consumer Products - Drugs": 7,
@@ -275,7 +275,7 @@
       "Dental - General And Plastic Surgery - General Hospital And Personal Use": 1,
       "Dental - General Hospital And Personal Use": 2,
       "Dental - Orthopaedics - General And Plastic Surgery": 1,
-      "Drugs": 2814,
+      "Drugs": 2815,
       "Drugs - Biologic Or Vaccine": 8,
       "Drugs - Cannabis": 1,
       "Drugs - Natural Health Products": 73,
@@ -320,14 +320,14 @@
       "General And Plastic Surgery - General Hospital And Personal Use": 12,
       "General And Plastic Surgery - Obstetrics And Gynaecology": 1,
       "General And Plastic Surgery - Orthopaedics": 1,
-      "General Hospital And Personal Use": 416,
+      "General Hospital And Personal Use": 417,
       "General Hospital And Personal Use - Cardiovascular": 6,
       "General Hospital And Personal Use - Cardiovascular - General And Plastic Surgery": 1,
       "General Hospital And Personal Use - Chemistry - Microbiology - Ophthalmology - Haematology": 1,
       "General Hospital And Personal Use - Ear, Nose And Throat": 1,
       "General Hospital And Personal Use - Ear, Nose And Throat - Cardiovascular - General And Plastic Surgery": 1,
       "General Hospital And Personal Use - Gastroenterology And Urology": 6,
-      "General Hospital And Personal Use - General And Plastic Surgery": 8,
+      "General Hospital And Personal Use - General And Plastic Surgery": 9,
       "General Hospital And Personal Use - General And Plastic Surgery - Cardiovascular - Anaesthesiology": 1,
       "General Hospital And Personal Use - General And Plastic Surgery - Orthopaedics": 1,
       "General Hospital And Personal Use - Ophthalmology": 1,
@@ -519,8 +519,8 @@
     "by_severity": {
       "Fatal": 0,
       "Minor": 4352,
-      "Moderate": 8789,
-      "Not Reported": 18344,
+      "Moderate": 8793,
+      "Not Reported": 18345,
       "Serious": 2933
     }
   },
