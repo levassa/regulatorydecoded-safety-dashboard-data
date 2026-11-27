@@ -40,12 +40,12 @@
   },
   {
     "product_category": "Drugs",
-    "total": 2815,
+    "total": 2816,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 2815,
+      "Health Canada": 2816,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -92,12 +92,12 @@
   },
   {
     "product_category": "Suv",
-    "total": 1481,
+    "total": 1484,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 1481,
+      "Health Canada": 1484,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -131,12 +131,12 @@
   },
   {
     "product_category": "Furniture & Home",
-    "total": 1150,
+    "total": 1151,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 32,
       "FDA": 0,
-      "Health Canada": 953,
+      "Health Canada": 954,
       "NZ Product Safety": 165,
       "OPSS": 0,
       "RappelConso": 0
@@ -144,12 +144,12 @@
   },
   {
     "product_category": "Natural Health Products",
-    "total": 1048,
+    "total": 1049,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 1048,
+      "Health Canada": 1049,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -209,13 +209,13 @@
   },
   {
     "product_category": "Sports & Leisure",
-    "total": 884,
+    "total": 885,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 134,
       "FDA": 0,
       "Health Canada": 652,
-      "NZ Product Safety": 98,
+      "NZ Product Safety": 99,
       "OPSS": 0,
       "RappelConso": 0
     }
@@ -235,12 +235,12 @@
   },
   {
     "product_category": "Light Truck & Van",
-    "total": 617,
+    "total": 618,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 617,
+      "Health Canada": 618,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -287,12 +287,12 @@
   },
   {
     "product_category": "General Hospital And Personal Use",
-    "total": 417,
+    "total": 419,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 417,
+      "Health Canada": 419,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -326,12 +326,12 @@
   },
   {
     "product_category": "Cardiovascular",
-    "total": 267,
+    "total": 268,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 267,
+      "Health Canada": 268,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
@@ -572,20 +572,20 @@
     }
   },
   {
-    "product_category": "Light Truck & Van - Suv",
-    "total": 90,
+    "product_category": "Dairy",
+    "total": 91,
     "by_source": {
       "CPSC": 0,
       "EU Safety Gate": 0,
       "FDA": 0,
-      "Health Canada": 90,
+      "Health Canada": 91,
       "NZ Product Safety": 0,
       "OPSS": 0,
       "RappelConso": 0
     }
   },
   {
-    "product_category": "Dairy",
+    "product_category": "Light Truck & Van - Suv",
     "total": 90,
     "by_source": {
       "CPSC": 0,

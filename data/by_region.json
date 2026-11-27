@@ -1,7 +1,7 @@
 [
   {
     "region": "Canada",
-    "total": 34423,
+    "total": 34434,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 0,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 0,
@@ -230,7 +230,7 @@
       "Car - Suv - Light Truck & Van": 6,
       "Car - Suv - Light Truck & Van - Minivan": 1,
       "Car - Suv - Minivan": 2,
-      "Cardiovascular": 267,
+      "Cardiovascular": 268,
       "Cardiovascular - Anaesthesiology": 1,
       "Cardiovascular - Chemistry": 1,
       "Cardiovascular - Gastroenterology And Urology": 2,
@@ -266,7 +266,7 @@
       "Consumer Products - Drugs": 7,
       "Consumer Products - Natural Health Products": 1,
       "Cosmetics & Personal Care": 201,
-      "Dairy": 90,
+      "Dairy": 91,
       "Dairy - Other": 1,
       "Decorative Articles": 0,
       "Dental": 39,
@@ -275,7 +275,7 @@
       "Dental - General And Plastic Surgery - General Hospital And Personal Use": 1,
       "Dental - General Hospital And Personal Use": 2,
       "Dental - Orthopaedics - General And Plastic Surgery": 1,
-      "Drugs": 2815,
+      "Drugs": 2816,
       "Drugs - Biologic Or Vaccine": 8,
       "Drugs - Cannabis": 1,
       "Drugs - Natural Health Products": 73,
@@ -299,7 +299,7 @@
       "Frozen - Herbs And Spices": 1,
       "Frozen - Other": 1,
       "Fruits And Vegetables": 27,
-      "Furniture & Home": 953,
+      "Furniture & Home": 954,
       "Gadgets": 0,
       "Gastroenterology And Urology": 114,
       "Gastroenterology And Urology - Anaesthesiology - Ear, Nose And Throat": 1,
@@ -320,7 +320,7 @@
       "General And Plastic Surgery - General Hospital And Personal Use": 12,
       "General And Plastic Surgery - Obstetrics And Gynaecology": 1,
       "General And Plastic Surgery - Orthopaedics": 1,
-      "General Hospital And Personal Use": 417,
+      "General Hospital And Personal Use": 419,
       "General Hospital And Personal Use - Cardiovascular": 6,
       "General Hospital And Personal Use - Cardiovascular - General And Plastic Surgery": 1,
       "General Hospital And Personal Use - Chemistry - Microbiology - Ophthalmology - Haematology": 1,
@@ -368,7 +368,7 @@
       "Light Trailer": 62,
       "Light Trailer - Heavy Trailer": 1,
       "Light Trailer - Rv Trailer": 6,
-      "Light Truck & Van": 617,
+      "Light Truck & Van": 618,
       "Light Truck & Van - Car": 4,
       "Light Truck & Van - Car - Suv": 3,
       "Light Truck & Van - Car - Suv - Minivan": 1,
@@ -407,7 +407,7 @@
       "Motor Vehicles": 243,
       "Motorcycle": 524,
       "Motorcycle - Motor Tricycle": 1,
-      "Natural Health Products": 1048,
+      "Natural Health Products": 1049,
       "Neurology": 66,
       "Neurology - Anaesthesiology": 1,
       "Neurology - Cardiovascular - General And Plastic Surgery": 1,
@@ -482,7 +482,7 @@
       "Specialized Products - Other": 2,
       "Sports & Leisure": 652,
       "Stationery": 0,
-      "Suv": 1481,
+      "Suv": 1484,
       "Suv - Car": 142,
       "Suv - Car - Light Truck & Van": 6,
       "Suv - Car - Minivan - Light Truck & Van": 1,
@@ -519,9 +519,9 @@
     "by_severity": {
       "Fatal": 0,
       "Minor": 4352,
-      "Moderate": 8793,
-      "Not Reported": 18345,
-      "Serious": 2933
+      "Moderate": 8797,
+      "Not Reported": 18351,
+      "Serious": 2934
     }
   },
   {
@@ -1576,7 +1576,7 @@
   },
   {
     "region": "New Zealand",
-    "total": 1621,
+    "total": 1622,
     "by_category": {
       "1 November 2019Greenstar Holding - 6 Pack Coloured Ducks": 1,
       "1 November 2019Greenstar Holding - Large Yellow Duck": 1,
@@ -2055,7 +2055,7 @@
       "Specialized Products - Drugs - Biologic Or Vaccine": 0,
       "Specialized Products - Natural Health Products": 0,
       "Specialized Products - Other": 0,
-      "Sports & Leisure": 98,
+      "Sports & Leisure": 99,
       "Stationery": 0,
       "Suv": 0,
       "Suv - Car": 0,
@@ -2095,7 +2095,7 @@
       "Fatal": 1,
       "Minor": 8,
       "Moderate": 1,
-      "Not Reported": 1608,
+      "Not Reported": 1609,
       "Serious": 3
     }
   },
@@ -3143,9 +3143,9 @@
     },
     "by_severity": {
       "Fatal": 5,
-      "Minor": 783,
+      "Minor": 781,
       "Moderate": 0,
-      "Not Reported": 210,
+      "Not Reported": 212,
       "Serious": 2
     }
   }
