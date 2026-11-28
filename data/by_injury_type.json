@@ -1,12 +1,12 @@
 [
   {
     "injury_type": "Not Specified",
-    "total": 45880,
+    "total": 45892,
     "by_source": {
       "CPSC": 354,
       "EU Safety Gate": 5000,
       "FDA": 3257,
-      "Health Canada": 32113,
+      "Health Canada": 32125,
       "NZ Product Safety": 1574,
       "OPSS": 582,
       "RappelConso": 3000
